@@ -12,41 +12,57 @@ export default async function handler(req, res) {
   const CACHE_SECONDS = 6 * 60 * 60; // 6 hours
 
   // ── UPSTASH HELPERS ────────────────────────────────────────────────────────
+  // Upstash REST API: SET key value EX seconds
+  async function cacheSet(key, value, exSeconds) {
+    try {
+      // Use the pipeline format: /set/key/value?EX=seconds
+      // Value must be a plain string — so stringify once
+      const stringValue = JSON.stringify(value);
+      await fetch(`${UPSTASH_REDIS_REST_URL}/set/${encodeURIComponent(key)}/${encodeURIComponent(stringValue)}?EX=${exSeconds}`, {
+        method: 'GET', // Upstash REST supports GET for simple commands
+        headers: { Authorization: `Bearer ${UPSTASH_REDIS_REST_TOKEN}` },
+      });
+    } catch (e) {
+      console.error('Cache set error:', e);
+    }
+  }
+
+  // Upstash REST API: GET key
   async function cacheGet(key) {
     try {
-      const r = await fetch(`${UPSTASH_REDIS_REST_URL}/get/${key}`, {
+      const r = await fetch(`${UPSTASH_REDIS_REST_URL}/get/${encodeURIComponent(key)}`, {
+        method: 'GET',
         headers: { Authorization: `Bearer ${UPSTASH_REDIS_REST_TOKEN}` },
       });
       const data = await r.json();
-      return data.result ? JSON.parse(data.result) : null;
-    } catch { return null; }
-  }
-
-  async function cacheSet(key, value, exSeconds) {
-    try {
-      await fetch(`${UPSTASH_REDIS_REST_URL}/set/${key}?EX=${exSeconds}`, {
-        method: 'POST',
-        headers: {
-          Authorization: `Bearer ${UPSTASH_REDIS_REST_TOKEN}`,
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(JSON.stringify(value)),
-      });
-    } catch {}
+      if (!data.result) return null;
+      // data.result is a string — parse it back to object
+      return JSON.parse(data.result);
+    } catch (e) {
+      console.error('Cache get error:', e);
+      return null;
+    }
   }
 
   // ── STEP 1: CHECK CACHE FIRST ──────────────────────────────────────────────
-  const cached = await cacheGet(cacheKey);
-  if (cached && Array.isArray(cached.cards) && cached.cards.length > 0) {
-    return res.status(200).json({
-      cards: cached.cards,
-      fromCache: true,
-      cachedAt: cached.cachedAt,
-      nextFetchAt: cached.nextFetchAt,
-    });
+  try {
+    const cached = await cacheGet(cacheKey);
+    if (cached && Array.isArray(cached.cards) && cached.cards.length > 0) {
+      console.log('Cache hit:', cacheKey);
+      return res.status(200).json({
+        cards: cached.cards,
+        fromCache: true,
+        cachedAt: cached.cachedAt,
+        nextFetchAt: cached.nextFetchAt,
+      });
+    }
+  } catch (e) {
+    console.error('Cache check failed, proceeding to fetch:', e);
   }
 
-  // ── STEP 2: FETCH FROM NEWSAPI — ONE REQUEST PER TOPIC IN PARALLEL ─────────
+  console.log('Cache miss — fetching fresh news');
+
+  // ── STEP 2: FETCH FROM NEWSAPI IN PARALLEL ─────────────────────────────────
   const twoWeeksAgo = new Date(Date.now() - 14 * 24 * 60 * 60 * 1000)
     .toISOString().split('T')[0];
 
@@ -59,7 +75,6 @@ export default async function handler(req, res) {
     World:     'world news international',
   };
 
-  // Fetch all topics in parallel — faster and still one Claude call after
   const fetchPromises = topics.map(async topic => {
     const query = topicQueries[topic] || topic;
     try {
@@ -70,7 +85,7 @@ export default async function handler(req, res) {
       if (!newsData.articles) return [];
       return newsData.articles
         .filter(a => a.title && a.title !== '[Removed]' && a.description && a.description !== '[Removed]')
-        .slice(0, 15) // max 15 per topic to keep Claude prompt small
+        .slice(0, 10)
         .map(a => ({
           topic,
           headline: a.title,
@@ -81,7 +96,6 @@ export default async function handler(req, res) {
     } catch { return []; }
   });
 
-  // Wait for ALL NewsAPI fetches to complete
   const results = await Promise.all(fetchPromises);
   const allHeadlines = results.flat();
 
@@ -92,7 +106,6 @@ export default async function handler(req, res) {
   // ── STEP 3: ONE SINGLE CLAUDE CALL FOR ALL TOPICS ─────────────────────────
   const targetCards = Math.max(12, topics.length * 3);
 
-  // Format all headlines together in one list, labelled by topic
   const headlineList = allHeadlines
     .map((h, i) => `${i + 1}. [${h.topic}] "${h.headline}" — ${h.description} (${h.source}, ${h.publishedAt})`)
     .join('\n');
@@ -108,14 +121,13 @@ export default async function handler(req, res) {
 
   const rulesText = topics.map(t => `- ${t}: ${topicRules[t] || t}`).join('\n');
 
-  const prompt = `You are BrushFeed's editorial AI. Below are ${allHeadlines.length} news headlines across ${topics.length} topic(s).
+  const prompt = `You are BrushFeed's editorial AI. Below are ${allHeadlines.length} news headlines.
 
 Your job:
-1. Read ALL headlines
-2. Keep only headlines genuinely relevant to their topic label
-3. Reject anything off-topic
-4. Write a BrushFeed card for each kept headline
-5. If a topic has fewer than 3 real cards, generate extras from your knowledge of real 2024-2025 events
+1. Keep only headlines genuinely relevant to their topic label
+2. Reject anything off-topic
+3. Write a BrushFeed card for each kept headline
+4. If fewer than 3 real cards per topic, generate extras from real 2024-2025 events
 
 Topic rules:
 ${rulesText}
@@ -123,13 +135,12 @@ ${rulesText}
 Headlines:
 ${headlineList}
 
-Target: ${targetCards} cards total, spread evenly across: ${topics.join(', ')}
+Target: ${targetCards} cards spread evenly across: ${topics.join(', ')}
 
-Return a JSON array ONLY. Start with [ and end with ]. No other text at all.
+Return JSON array ONLY. Start with [ end with ]. No other text.
 
-Format: [{"topic":"AI","title":"Under 9 words","body":"3 sentences with specific facts.","source":"Publication name","publishedAt":"2025-05-10","isReal":true}]`;
+Format: [{"topic":"AI","title":"Under 9 words","body":"3 sentences with specific facts.","source":"Publication","publishedAt":"2025-05-10","isReal":true}]`;
 
-  // ← This is called EXACTLY ONCE regardless of how many topics are selected
   const claudeRes = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
     headers: {
@@ -138,7 +149,7 @@ Format: [{"topic":"AI","title":"Under 9 words","body":"3 sentences with specific
       'anthropic-version': '2023-06-01',
     },
     body: JSON.stringify({
-      model: 'claude-sonnet-4-5',
+      model: 'claude-haiku-4-5-20251001',
       max_tokens: 4000,
       system: 'You are a strict editorial AI and JSON generator. Respond with only a valid JSON array. No markdown, no backticks, no preamble. Start with [ and end with ].',
       messages: [{ role: 'user', content: prompt }],
@@ -152,7 +163,6 @@ Format: [{"topic":"AI","title":"Under 9 words","body":"3 sentences with specific
 
   const text = claudeData.content?.map(b => b.text || '').join('') || '';
 
-  // Parse JSON robustly
   let cards = null;
   try { cards = JSON.parse(text.trim()); } catch {}
   if (!cards) {
@@ -170,16 +180,18 @@ Format: [{"topic":"AI","title":"Under 9 words","body":"3 sentences with specific
 
   const filtered = cards.filter(c => topics.includes(c.topic));
 
-  // ── STEP 4: SAVE TO CACHE FOR 6 HOURS ─────────────────────────────────────
+  // ── STEP 4: SAVE TO CACHE ──────────────────────────────────────────────────
   const now = new Date();
   const nextFetch = new Date(now.getTime() + CACHE_SECONDS * 1000);
 
-  await cacheSet(cacheKey, {
+  const cachePayload = {
     cards: filtered,
     topics,
     cachedAt: now.toISOString(),
     nextFetchAt: nextFetch.toISOString(),
-  }, CACHE_SECONDS);
+  };
+
+  await cacheSet(cacheKey, cachePayload, CACHE_SECONDS);
 
   // ── STEP 5: RETURN ─────────────────────────────────────────────────────────
   return res.status(200).json({
