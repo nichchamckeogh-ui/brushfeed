@@ -2,15 +2,54 @@ export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET');
 
-  const topics = (req.query.topics || 'AI,Health').split(',');
+  const topics = (req.query.topics || 'AI,Health').split(',').sort();
   const NEWS_API_KEY = process.env.NEWS_API_KEY;
   const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
+  const UPSTASH_REDIS_REST_URL = process.env.UPSTASH_REDIS_REST_URL;
+  const UPSTASH_REDIS_REST_TOKEN = process.env.UPSTASH_REDIS_REST_TOKEN;
 
-  // 2 weeks ago
+  const cacheKey = `brushfeed_${topics.join('_')}`;
+  const CACHE_SECONDS = 6 * 60 * 60; // 6 hours
+
+  // ── UPSTASH HELPERS ────────────────────────────────────────────────────────
+  async function cacheGet(key) {
+    try {
+      const r = await fetch(`${UPSTASH_REDIS_REST_URL}/get/${key}`, {
+        headers: { Authorization: `Bearer ${UPSTASH_REDIS_REST_TOKEN}` },
+      });
+      const data = await r.json();
+      return data.result ? JSON.parse(data.result) : null;
+    } catch { return null; }
+  }
+
+  async function cacheSet(key, value, exSeconds) {
+    try {
+      await fetch(`${UPSTASH_REDIS_REST_URL}/set/${key}?EX=${exSeconds}`, {
+        method: 'POST',
+        headers: {
+          Authorization: `Bearer ${UPSTASH_REDIS_REST_TOKEN}`,
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(JSON.stringify(value)),
+      });
+    } catch {}
+  }
+
+  // ── STEP 1: CHECK CACHE ────────────────────────────────────────────────────
+  const cached = await cacheGet(cacheKey);
+  if (cached && Array.isArray(cached.cards) && cached.cards.length > 0) {
+    return res.status(200).json({
+      cards: cached.cards,
+      fromCache: true,
+      cachedAt: cached.cachedAt,
+      nextFetchAt: cached.nextFetchAt,
+    });
+  }
+
+  // ── STEP 2: FETCH FROM NEWSAPI ─────────────────────────────────────────────
   const twoWeeksAgo = new Date(Date.now() - 14 * 24 * 60 * 60 * 1000)
     .toISOString().split('T')[0];
 
-  // Simple broad query per topic — let Claude do the smart filtering
   const topicQueries = {
     AI:        'artificial intelligence',
     Parenting: 'parenting children',
@@ -20,7 +59,6 @@ export default async function handler(req, res) {
     World:     'world news international',
   };
 
-  // What each topic actually means — Claude uses this to filter
   const topicDefinitions = {
     AI:        'artificial intelligence, machine learning, AI models, ChatGPT, OpenAI, Google AI, robotics, AI regulation, AI safety, large language models',
     Parenting: 'parenting advice, child development, babies, toddlers, kids education, screen time, child psychology, family health, teenage wellbeing',
@@ -30,127 +68,128 @@ export default async function handler(req, res) {
     World:     'international news, geopolitics, global economy, foreign policy, world leaders, diplomacy, international relations, global conflicts',
   };
 
-  try {
-    // Step 1: Fetch up to 100 articles per topic from NewsAPI — minimal filtering
-    const allHeadlines = [];
+  const allHeadlines = [];
 
-    for (const topic of topics) {
-      const query = topicQueries[topic] || topic;
-
+  for (const topic of topics) {
+    const query = topicQueries[topic] || topic;
+    try {
       const newsRes = await fetch(
         `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&sortBy=publishedAt&pageSize=100&language=en&from=${twoWeeksAgo}&apiKey=${NEWS_API_KEY}`
       );
       const newsData = await newsRes.json();
-
       if (newsData.articles) {
         newsData.articles
-          // Only remove completely empty or deleted articles
-          .filter(a =>
-            a.title &&
-            a.title !== '[Removed]' &&
-            a.description &&
-            a.description !== '[Removed]'
-          )
+          .filter(a => a.title && a.title !== '[Removed]' && a.description && a.description !== '[Removed]')
           .forEach(a => {
             allHeadlines.push({
               topic,
               headline: a.title,
               description: a.description,
               source: a.source?.name || 'Unknown',
+              publishedAt: a.publishedAt || '',
             });
           });
       }
-    }
+    } catch {}
+  }
 
-    if (allHeadlines.length === 0) {
-      return res.status(500).json({ error: 'No headlines found from NewsAPI' });
-    }
+  if (allHeadlines.length === 0) {
+    return res.status(500).json({ error: 'No headlines found from NewsAPI' });
+  }
 
-    // Step 2: Send everything to Claude — it decides what's relevant and writes the cards
-    const targetCards = Math.max(12, topics.length * 4);
+  // ── STEP 3: CLAUDE FILTERS AND WRITES CARDS ────────────────────────────────
+  const targetCards = Math.max(12, topics.length * 4);
 
-    // Group headlines by topic for Claude
-    const groupedList = topics.map(topic => {
-      const topicArticles = allHeadlines
-        .filter(h => h.topic === topic)
-        .slice(0, 30) // send up to 30 per topic to Claude
-        .map((h, i) => `  ${i + 1}. "${h.headline}" — ${h.description} (${h.source})`)
-        .join('\n');
-      return `[${topic}] — Definition: ${topicDefinitions[topic]}\n${topicArticles || '  No articles found'}`;
-    }).join('\n\n');
+  const groupedList = topics.map(topic => {
+    const articles = allHeadlines
+      .filter(h => h.topic === topic)
+      .slice(0, 30)
+      .map((h, i) => `  ${i+1}. "${h.headline}" — ${h.description} (${h.source}, ${h.publishedAt ? h.publishedAt.split('T')[0] : 'recent'})`)
+      .join('\n');
+    return `[${topic}] Definition: ${topicDefinitions[topic]}\n${articles || '  No articles found'}`;
+  }).join('\n\n');
 
-    const prompt = `You are BrushFeed's editorial AI. Your job is to:
+  const prompt = `You are BrushFeed's editorial AI.
 
 1. READ each group of headlines below
-2. JUDGE each headline: is it genuinely about the topic it's filed under?
-3. KEEP only headlines that truly match their topic definition
-4. REJECT anything that is off-topic, even if it seems loosely related
-5. Write BrushFeed cards for the ones you keep
-6. If a topic doesn't have enough real headlines to fill its share of ${targetCards} cards, GENERATE additional cards using your knowledge of real events from the past 2 weeks
+2. KEEP only headlines genuinely about their topic, REJECT anything off-topic
+3. Write BrushFeed cards for kept headlines
+4. If not enough real headlines, GENERATE extras from your knowledge of real 2024-2025 events to reach the target
 
-Headlines to evaluate:
+Headlines:
 ${groupedList}
 
-Target: ${targetCards} cards total, spread as evenly as possible across: ${topics.join(', ')}
+Target: ${targetCards} cards spread evenly across: ${topics.join(', ')}
 
-Strict relevance rules:
-- AI topic: ONLY include articles about AI technology, AI companies, AI models, machine learning. Reject: politics, sports, celebrity, general tech that isn't AI-specific
-- Parenting topic: ONLY include articles about raising children, child development, family. Reject: general education policy, unrelated family law
-- Health topic: ONLY include medical research, health studies, treatments. Reject: general news that mentions health tangentially
-- Money topic: ONLY include personal finance, economic conditions affecting individuals. Reject: corporate earnings, general business news
-- Science topic: ONLY include scientific research and discoveries. Reject: general news, policy about science
-- World topic: ONLY include international news and geopolitics. Reject: purely domestic news
+Strict topic rules:
+- AI: ONLY AI technology, machine learning, AI companies. Reject general tech, politics, sports
+- Parenting: ONLY raising children, child development. Reject general education policy
+- Health: ONLY medical research, treatments, health studies. Reject tangential mentions
+- Money: ONLY personal finance, cost of living for individuals. Reject corporate news
+- Science: ONLY scientific research and discoveries. Reject science policy
+- World: ONLY international news, geopolitics. Reject purely domestic stories
 
-Return a JSON array only. Start with [ and end with ]. Absolutely no other text.
+Return JSON array only. Start with [ end with ]. No other text whatsoever.
 
-Format: [{"topic":"AI","title":"Punchy title under 9 words","body":"3 sentences with specific facts, numbers, or named organisations.","source":"Publication name","isReal":true}]
+Format: [{"topic":"AI","title":"Under 9 words","body":"3 sentences with specific facts and numbers.","source":"Publication name","publishedAt":"2025-05-10","isReal":true}]
 
-isReal: true = from the headlines above, false = generated from your knowledge`;
+isReal:true = from headlines above, false = generated from your knowledge`;
 
-    const claudeRes = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'x-api-key': ANTHROPIC_API_KEY,
-        'anthropic-version': '2023-06-01',
-      },
-      body: JSON.stringify({
-        model: 'claude-sonnet-4-5',
-        max_tokens: 4000,
-        system: 'You are a strict editorial AI and JSON generator. Be very strict about topic relevance — reject anything that does not clearly belong to its topic. Respond with only a valid JSON array. No markdown, no backticks, no preamble. Start with [ and end with ].',
-        messages: [{ role: 'user', content: prompt }],
-      }),
-    });
+  const claudeRes = await fetch('https://api.anthropic.com/v1/messages', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'x-api-key': ANTHROPIC_API_KEY,
+      'anthropic-version': '2023-06-01',
+    },
+    body: JSON.stringify({
+      model: 'claude-sonnet-4-5',
+      max_tokens: 4000,
+      system: 'You are a strict editorial AI and JSON generator. Be very strict about topic relevance. Respond with only a valid JSON array. No markdown, no backticks, no preamble. Start with [ and end with ].',
+      messages: [{ role: 'user', content: prompt }],
+    }),
+  });
 
-    const claudeData = await claudeRes.json();
-    if (!claudeRes.ok) {
-      return res.status(500).json({ error: claudeData?.error?.message || 'Claude API error' });
-    }
-
-    const text = claudeData.content?.map(b => b.text || '').join('') || '';
-
-    // Parse JSON robustly
-    let cards = null;
-    try { cards = JSON.parse(text.trim()); } catch {}
-    if (!cards) {
-      const match = text.match(/\[[\s\S]*\]/);
-      if (match) try { cards = JSON.parse(match[0]); } catch {}
-    }
-    if (!cards) {
-      const start = text.indexOf('[');
-      const end = text.lastIndexOf(']');
-      if (start !== -1 && end !== -1) try { cards = JSON.parse(text.slice(start, end + 1)); } catch {}
-    }
-    if (!cards || !Array.isArray(cards)) {
-      return res.status(500).json({ error: 'Could not parse Claude response', raw: text.slice(0, 300) });
-    }
-
-    // Final safety — only return cards for requested topics
-    const filtered = cards.filter(c => topics.includes(c.topic));
-
-    res.status(200).json(filtered);
-
-  } catch (err) {
-    res.status(500).json({ error: err.message });
+  const claudeData = await claudeRes.json();
+  if (!claudeRes.ok) {
+    return res.status(500).json({ error: claudeData?.error?.message || 'Claude API error' });
   }
+
+  const text = claudeData.content?.map(b => b.text || '').join('') || '';
+
+  let cards = null;
+  try { cards = JSON.parse(text.trim()); } catch {}
+  if (!cards) {
+    const match = text.match(/\[[\s\S]*\]/);
+    if (match) try { cards = JSON.parse(match[0]); } catch {}
+  }
+  if (!cards) {
+    const start = text.indexOf('[');
+    const end = text.lastIndexOf(']');
+    if (start !== -1 && end !== -1) try { cards = JSON.parse(text.slice(start, end + 1)); } catch {}
+  }
+  if (!cards || !Array.isArray(cards)) {
+    return res.status(500).json({ error: 'Could not parse Claude response', raw: text.slice(0, 300) });
+  }
+
+  const filtered = cards.filter(c => topics.includes(c.topic));
+
+  // ── STEP 4: SAVE TO CACHE FOR 6 HOURS ─────────────────────────────────────
+  const now = new Date();
+  const nextFetch = new Date(now.getTime() + CACHE_SECONDS * 1000);
+
+  await cacheSet(cacheKey, {
+    cards: filtered,
+    topics,
+    cachedAt: now.toISOString(),
+    nextFetchAt: nextFetch.toISOString(),
+  }, CACHE_SECONDS);
+
+  // ── STEP 5: RETURN ─────────────────────────────────────────────────────────
+  return res.status(200).json({
+    cards: filtered,
+    fromCache: false,
+    cachedAt: now.toISOString(),
+    nextFetchAt: nextFetch.toISOString(),
+  });
 }
