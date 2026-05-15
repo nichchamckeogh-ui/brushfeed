@@ -56,8 +56,9 @@ export default function BrushFeed() {
     try {
       const res = await fetch(`/api/news?topics=${topics.join(',')}`);
       if (!res.ok) throw new Error('Failed to fetch news');
-      const cards = await res.json();
-      if (cards.error) throw new Error(cards.error);
+      const data = await res.json();
+      if (data.error) throw new Error(data.error);
+      const cards = data.cards || data; // handles both formats
       setFeed([...cards, ...cards, ...cards]);
       setCurrentIndex(0);
       setCardProgress(0);
