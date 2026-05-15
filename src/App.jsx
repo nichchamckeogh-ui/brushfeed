@@ -15,7 +15,7 @@ async function handleStart() {
     startRef.current = null;
     setScreen("feed");
   } catch(e) {
-    setLoadError(e.message || "Couldn't load news. Please try again.");
+    setLoadError(e.message || "Couldn't load. Try again.");
   } finally {
     setLoadingFirst(false);
   }
