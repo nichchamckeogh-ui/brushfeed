@@ -7,28 +7,37 @@ export default async function handler(req, res) {
   const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 
   try {
+    // Very specific queries for each topic to get relevant results
     const topicQueries = {
-      AI: 'artificial intelligence OR machine learning',
-      Parenting: 'parenting OR children',
-      Health: 'health OR medicine OR wellness',
-      Money: 'personal finance OR economy',
-      Science: 'science OR research OR discovery',
-      World: 'world news OR global politics',
+      AI: '"artificial intelligence" OR "machine learning" OR "ChatGPT" OR "OpenAI" OR "Google AI" OR "large language model"',
+      Parenting: '"parenting" OR "child development" OR "toddler" OR "baby sleep" OR "screen time children"',
+      Health: '"health study" OR "medical research" OR "nutrition" OR "mental health" OR "exercise science"',
+      Money: '"personal finance" OR "saving money" OR "interest rates" OR "cost of living" OR "investment tips"',
+      Science: '"scientific discovery" OR "new research" OR "space exploration" OR "climate science" OR "biology"',
+      World: '"world news" OR "international" OR "global economy" OR "geopolitics"',
     };
 
     const headlines = [];
+
     for (const topic of topics) {
       const query = topicQueries[topic] || topic;
       const newsRes = await fetch(
-        `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&sortBy=publishedAt&pageSize=4&language=en&apiKey=${NEWS_API_KEY}`
+        `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&sortBy=publishedAt&pageSize=6&language=en&apiKey=${NEWS_API_KEY}`
       );
       const newsData = await newsRes.json();
+
       if (newsData.articles) {
-        newsData.articles.forEach(a => {
-          if (a.title && a.title !== '[Removed]') {
-            headlines.push({ topic, headline: a.title, description: a.description || '', source: a.source?.name || '' });
-          }
-        });
+        newsData.articles
+          .filter(a => a.title && a.title !== '[Removed]' && a.description && a.description !== '[Removed]')
+          .slice(0, 4)
+          .forEach(a => {
+            headlines.push({
+              topic,
+              headline: a.title,
+              description: a.description || '',
+              source: a.source?.name || '',
+            });
+          });
       }
     }
 
@@ -36,16 +45,25 @@ export default async function handler(req, res) {
       return res.status(500).json({ error: 'No headlines found' });
     }
 
-    const prompt = `You are BrushFeed's content engine. Turn these news headlines into feed cards.
+    // Group by topic so Claude knows exactly which topic each card should be
+    const grouped = topics.map(t => ({
+      topic: t,
+      articles: headlines.filter(h => h.topic === t),
+    }));
 
-Headlines:
-${headlines.slice(0, 15).map((h, i) => `${i+1}. [${h.topic}] "${h.headline}" - ${h.description} (${h.source})`).join('\n')}
+    const articleList = grouped
+      .flatMap(g => g.articles.map((a, i) => `[${a.topic}] ${a.headline} — ${a.description} (${a.source})`))
+      .join('\n');
 
-Return a JSON array only. Start your response with [ and end with ]. No other text before or after.
+    const prompt = `Turn these news headlines into BrushFeed cards. Each card must use the topic label shown in brackets.
 
-Format: [{"topic":"AI","title":"Short title under 9 words","body":"3 sentences expanding on this story with context.","source":"Publication name"}]
+${articleList}
 
-Return up to ${Math.min(headlines.length, 12)} cards, one per headline.`;
+Return a JSON array only. Start with [ and end with ]. No other text.
+
+Format: [{"topic":"AI","title":"Short title under 9 words","body":"3 sentences expanding on this story.","source":"Publication name"}]
+
+Important: the topic field must exactly match the label in brackets. Return one card per headline.`;
 
     const claudeRes = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
@@ -63,26 +81,19 @@ Return up to ${Math.min(headlines.length, 12)} cards, one per headline.`;
     });
 
     const claudeData = await claudeRes.json();
-    
+
     if (!claudeRes.ok) {
       return res.status(500).json({ error: claudeData?.error?.message || 'Claude API error' });
     }
 
     const text = claudeData.content?.map(b => b.text || '').join('') || '';
-    
-    // Try multiple ways to extract JSON
+
     let cards = null;
-    
-    // Method 1: direct parse
     try { cards = JSON.parse(text.trim()); } catch {}
-    
-    // Method 2: extract array
     if (!cards) {
       const match = text.match(/\[[\s\S]*\]/);
       if (match) try { cards = JSON.parse(match[0]); } catch {}
     }
-    
-    // Method 3: find first [ to last ]
     if (!cards) {
       const start = text.indexOf('[');
       const end = text.lastIndexOf(']');
@@ -95,7 +106,11 @@ Return up to ${Math.min(headlines.length, 12)} cards, one per headline.`;
       return res.status(500).json({ error: 'Could not parse response', raw: text.slice(0, 200) });
     }
 
-    res.status(200).json(cards);
+    // Final safety filter — only return cards matching requested topics
+    const filtered = cards.filter(c => topics.includes(c.topic));
+
+    res.status(200).json(filtered);
+
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
