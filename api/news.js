@@ -35,7 +35,7 @@ export default async function handler(req, res) {
     } catch {}
   }
 
-  // ── STEP 1: CHECK CACHE ────────────────────────────────────────────────────
+  // ── STEP 1: CHECK CACHE FIRST ──────────────────────────────────────────────
   const cached = await cacheGet(cacheKey);
   if (cached && Array.isArray(cached.cards) && cached.cards.length > 0) {
     return res.status(200).json({
@@ -46,7 +46,7 @@ export default async function handler(req, res) {
     });
   }
 
-  // ── STEP 2: FETCH FROM NEWSAPI ─────────────────────────────────────────────
+  // ── STEP 2: FETCH FROM NEWSAPI — ONE REQUEST PER TOPIC IN PARALLEL ─────────
   const twoWeeksAgo = new Date(Date.now() - 14 * 24 * 60 * 60 * 1000)
     .toISOString().split('T')[0];
 
@@ -59,82 +59,77 @@ export default async function handler(req, res) {
     World:     'world news international',
   };
 
-  const topicDefinitions = {
-    AI:        'artificial intelligence, machine learning, AI models, ChatGPT, OpenAI, Google AI, robotics, AI regulation, AI safety, large language models',
-    Parenting: 'parenting advice, child development, babies, toddlers, kids education, screen time, child psychology, family health, teenage wellbeing',
-    Health:    'medical research, health studies, nutrition, mental health, exercise science, new treatments, clinical trials, wellness, disease prevention',
-    Money:     'personal finance, saving money, investing, budgeting, interest rates, mortgages, cost of living, inflation, pensions, salary',
-    Science:   'scientific discoveries, space exploration, climate science, biology, physics, chemistry, genetics, NASA, research breakthroughs',
-    World:     'international news, geopolitics, global economy, foreign policy, world leaders, diplomacy, international relations, global conflicts',
-  };
-
-  const allHeadlines = [];
-
-  for (const topic of topics) {
+  // Fetch all topics in parallel — faster and still one Claude call after
+  const fetchPromises = topics.map(async topic => {
     const query = topicQueries[topic] || topic;
     try {
       const newsRes = await fetch(
-        `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&sortBy=publishedAt&pageSize=100&language=en&from=${twoWeeksAgo}&apiKey=${NEWS_API_KEY}`
+        `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&sortBy=publishedAt&pageSize=20&language=en&from=${twoWeeksAgo}&apiKey=${NEWS_API_KEY}`
       );
       const newsData = await newsRes.json();
-      if (newsData.articles) {
-        newsData.articles
-          .filter(a => a.title && a.title !== '[Removed]' && a.description && a.description !== '[Removed]')
-          .forEach(a => {
-            allHeadlines.push({
-              topic,
-              headline: a.title,
-              description: a.description,
-              source: a.source?.name || 'Unknown',
-              publishedAt: a.publishedAt || '',
-            });
-          });
-      }
-    } catch {}
-  }
+      if (!newsData.articles) return [];
+      return newsData.articles
+        .filter(a => a.title && a.title !== '[Removed]' && a.description && a.description !== '[Removed]')
+        .slice(0, 15) // max 15 per topic to keep Claude prompt small
+        .map(a => ({
+          topic,
+          headline: a.title,
+          description: a.description,
+          source: a.source?.name || 'Unknown',
+          publishedAt: a.publishedAt ? a.publishedAt.split('T')[0] : '',
+        }));
+    } catch { return []; }
+  });
+
+  // Wait for ALL NewsAPI fetches to complete
+  const results = await Promise.all(fetchPromises);
+  const allHeadlines = results.flat();
 
   if (allHeadlines.length === 0) {
     return res.status(500).json({ error: 'No headlines found from NewsAPI' });
   }
 
-  // ── STEP 3: CLAUDE FILTERS AND WRITES CARDS ────────────────────────────────
-  const targetCards = Math.max(12, topics.length * 4);
+  // ── STEP 3: ONE SINGLE CLAUDE CALL FOR ALL TOPICS ─────────────────────────
+  const targetCards = Math.max(12, topics.length * 3);
 
-  const groupedList = topics.map(topic => {
-    const articles = allHeadlines
-      .filter(h => h.topic === topic)
-      .slice(0, 30)
-      .map((h, i) => `  ${i+1}. "${h.headline}" — ${h.description} (${h.source}, ${h.publishedAt ? h.publishedAt.split('T')[0] : 'recent'})`)
-      .join('\n');
-    return `[${topic}] Definition: ${topicDefinitions[topic]}\n${articles || '  No articles found'}`;
-  }).join('\n\n');
+  // Format all headlines together in one list, labelled by topic
+  const headlineList = allHeadlines
+    .map((h, i) => `${i + 1}. [${h.topic}] "${h.headline}" — ${h.description} (${h.source}, ${h.publishedAt})`)
+    .join('\n');
 
-  const prompt = `You are BrushFeed's editorial AI.
+  const topicRules = {
+    AI:        'ONLY AI technology, machine learning, AI models, ChatGPT, OpenAI. Reject general tech, politics, sports.',
+    Parenting: 'ONLY raising children, child development, babies, toddlers, family. Reject general education policy.',
+    Health:    'ONLY medical research, health studies, treatments, wellness. Reject tangential health mentions.',
+    Money:     'ONLY personal finance, cost of living, savings, investing. Reject corporate earnings news.',
+    Science:   'ONLY scientific research and discoveries, space, climate science. Reject science policy.',
+    World:     'ONLY international news, geopolitics, foreign policy. Reject purely domestic stories.',
+  };
 
-1. READ each group of headlines below
-2. KEEP only headlines genuinely about their topic, REJECT anything off-topic
-3. Write BrushFeed cards for kept headlines
-4. If not enough real headlines, GENERATE extras from your knowledge of real 2024-2025 events to reach the target
+  const rulesText = topics.map(t => `- ${t}: ${topicRules[t] || t}`).join('\n');
+
+  const prompt = `You are BrushFeed's editorial AI. Below are ${allHeadlines.length} news headlines across ${topics.length} topic(s).
+
+Your job:
+1. Read ALL headlines
+2. Keep only headlines genuinely relevant to their topic label
+3. Reject anything off-topic
+4. Write a BrushFeed card for each kept headline
+5. If a topic has fewer than 3 real cards, generate extras from your knowledge of real 2024-2025 events
+
+Topic rules:
+${rulesText}
 
 Headlines:
-${groupedList}
+${headlineList}
 
-Target: ${targetCards} cards spread evenly across: ${topics.join(', ')}
+Target: ${targetCards} cards total, spread evenly across: ${topics.join(', ')}
 
-Strict topic rules:
-- AI: ONLY AI technology, machine learning, AI companies. Reject general tech, politics, sports
-- Parenting: ONLY raising children, child development. Reject general education policy
-- Health: ONLY medical research, treatments, health studies. Reject tangential mentions
-- Money: ONLY personal finance, cost of living for individuals. Reject corporate news
-- Science: ONLY scientific research and discoveries. Reject science policy
-- World: ONLY international news, geopolitics. Reject purely domestic stories
+Return a JSON array ONLY. Start with [ and end with ]. No other text at all.
 
-Return JSON array only. Start with [ end with ]. No other text whatsoever.
+Format: [{"topic":"AI","title":"Under 9 words","body":"3 sentences with specific facts.","source":"Publication name","publishedAt":"2025-05-10","isReal":true}]`;
 
-Format: [{"topic":"AI","title":"Under 9 words","body":"3 sentences with specific facts and numbers.","source":"Publication name","publishedAt":"2025-05-10","isReal":true}]
-
-isReal:true = from headlines above, false = generated from your knowledge`;
-
+  // ← This is called EXACTLY ONCE regardless of how many topics are selected
   const claudeRes = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
     headers: {
@@ -145,7 +140,7 @@ isReal:true = from headlines above, false = generated from your knowledge`;
     body: JSON.stringify({
       model: 'claude-sonnet-4-5',
       max_tokens: 4000,
-      system: 'You are a strict editorial AI and JSON generator. Be very strict about topic relevance. Respond with only a valid JSON array. No markdown, no backticks, no preamble. Start with [ and end with ].',
+      system: 'You are a strict editorial AI and JSON generator. Respond with only a valid JSON array. No markdown, no backticks, no preamble. Start with [ and end with ].',
       messages: [{ role: 'user', content: prompt }],
     }),
   });
@@ -157,6 +152,7 @@ isReal:true = from headlines above, false = generated from your knowledge`;
 
   const text = claudeData.content?.map(b => b.text || '').join('') || '';
 
+  // Parse JSON robustly
   let cards = null;
   try { cards = JSON.parse(text.trim()); } catch {}
   if (!cards) {
