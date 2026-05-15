@@ -6,71 +6,106 @@ export default async function handler(req, res) {
   const NEWS_API_KEY = process.env.NEWS_API_KEY;
   const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 
+  // 2 weeks ago
+  const twoWeeksAgo = new Date(Date.now() - 14 * 24 * 60 * 60 * 1000)
+    .toISOString().split('T')[0];
+
+  // Simple broad query per topic — let Claude do the smart filtering
   const topicQueries = {
-    AI: '"artificial intelligence" OR "machine learning" OR "ChatGPT" OR "OpenAI" OR "large language model" OR "generative AI"',
-    Parenting: '"parenting" OR "child development" OR "toddler" OR "baby sleep" OR "screen time children" OR "kids health"',
-    Health: '"health study" OR "medical research" OR "nutrition science" OR "mental health" OR "exercise science" OR "new treatment"',
-    Money: '"personal finance" OR "interest rates" OR "cost of living" OR "saving money" OR "household budget" OR "mortgage rates"',
-    Science: '"scientific discovery" OR "space exploration" OR "climate research" OR "new study finds" OR "researchers discover"',
-    World: '"world news" OR "international relations" OR "global economy" OR "foreign policy" OR "United Nations"',
+    AI:        'artificial intelligence',
+    Parenting: 'parenting children',
+    Health:    'health medical',
+    Money:     'personal finance',
+    Science:   'science research',
+    World:     'world news international',
   };
 
-  const topicKeywords = {
-    AI: ['ai', 'artificial intelligence', 'machine learning', 'chatgpt', 'openai', 'llm', 'robot', 'automation', 'deep learning', 'neural', 'claude', 'gemini', 'gpt', 'language model'],
-    Parenting: ['parent', 'child', 'baby', 'toddler', 'kid', 'mother', 'father', 'family', 'screen time', 'teen', 'infant', 'pregnancy', 'mum', 'dad'],
-    Health: ['health', 'medical', 'doctor', 'diet', 'exercise', 'mental health', 'wellness', 'cancer', 'heart', 'brain', 'sleep', 'nutrition', 'hospital', 'treatment', 'disease'],
-    Money: ['finance', 'money', 'invest', 'saving', 'budget', 'bank', 'interest rate', 'cost', 'salary', 'debt', 'mortgage', 'inflation', 'stock', 'pension', 'tax'],
-    Science: ['science', 'research', 'discover', 'space', 'climate', 'physics', 'biology', 'chemistry', 'planet', 'nasa', 'experiment', 'gene', 'ocean', 'atmosphere'],
-    World: ['world', 'global', 'international', 'country', 'nation', 'government', 'politics', 'war', 'peace', 'trade', 'europe', 'asia', 'africa', 'election', 'treaty'],
+  // What each topic actually means — Claude uses this to filter
+  const topicDefinitions = {
+    AI:        'artificial intelligence, machine learning, AI models, ChatGPT, OpenAI, Google AI, robotics, AI regulation, AI safety, large language models',
+    Parenting: 'parenting advice, child development, babies, toddlers, kids education, screen time, child psychology, family health, teenage wellbeing',
+    Health:    'medical research, health studies, nutrition, mental health, exercise science, new treatments, clinical trials, wellness, disease prevention',
+    Money:     'personal finance, saving money, investing, budgeting, interest rates, mortgages, cost of living, inflation, pensions, salary',
+    Science:   'scientific discoveries, space exploration, climate science, biology, physics, chemistry, genetics, NASA, research breakthroughs',
+    World:     'international news, geopolitics, global economy, foreign policy, world leaders, diplomacy, international relations, global conflicts',
   };
 
   try {
-    const headlines = [];
+    // Step 1: Fetch up to 100 articles per topic from NewsAPI — minimal filtering
+    const allHeadlines = [];
 
     for (const topic of topics) {
       const query = topicQueries[topic] || topic;
+
       const newsRes = await fetch(
-        `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&sortBy=publishedAt&pageSize=8&language=en&apiKey=${NEWS_API_KEY}`
+        `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&sortBy=publishedAt&pageSize=100&language=en&from=${twoWeeksAgo}&apiKey=${NEWS_API_KEY}`
       );
       const newsData = await newsRes.json();
 
       if (newsData.articles) {
-        const keywords = topicKeywords[topic] || [];
         newsData.articles
-          .filter(a => {
-            if (!a.title || a.title === '[Removed]' || !a.description || a.description === '[Removed]') return false;
-            const text = `${a.title} ${a.description}`.toLowerCase();
-            return keywords.some(k => text.includes(k));
-          })
-          .slice(0, 4)
+          // Only remove completely empty or deleted articles
+          .filter(a =>
+            a.title &&
+            a.title !== '[Removed]' &&
+            a.description &&
+            a.description !== '[Removed]'
+          )
           .forEach(a => {
-            headlines.push({
+            allHeadlines.push({
               topic,
               headline: a.title,
-              description: a.description || '',
-              source: a.source?.name || '',
+              description: a.description,
+              source: a.source?.name || 'Unknown',
             });
           });
       }
     }
 
-    if (headlines.length === 0) {
-      return res.status(500).json({ error: 'No relevant headlines found' });
+    if (allHeadlines.length === 0) {
+      return res.status(500).json({ error: 'No headlines found from NewsAPI' });
     }
 
-    const articleList = headlines
-      .map(h => `[${h.topic}] ${h.headline} — ${h.description} (${h.source})`)
-      .join('\n');
+    // Step 2: Send everything to Claude — it decides what's relevant and writes the cards
+    const targetCards = Math.max(12, topics.length * 4);
 
-    const prompt = `Turn these news headlines into BrushFeed cards. Keep the topic label exactly as shown in brackets.
+    // Group headlines by topic for Claude
+    const groupedList = topics.map(topic => {
+      const topicArticles = allHeadlines
+        .filter(h => h.topic === topic)
+        .slice(0, 30) // send up to 30 per topic to Claude
+        .map((h, i) => `  ${i + 1}. "${h.headline}" — ${h.description} (${h.source})`)
+        .join('\n');
+      return `[${topic}] — Definition: ${topicDefinitions[topic]}\n${topicArticles || '  No articles found'}`;
+    }).join('\n\n');
 
-${articleList}
+    const prompt = `You are BrushFeed's editorial AI. Your job is to:
 
-Return a JSON array only. Start with [ and end with ]. No other text before or after.
+1. READ each group of headlines below
+2. JUDGE each headline: is it genuinely about the topic it's filed under?
+3. KEEP only headlines that truly match their topic definition
+4. REJECT anything that is off-topic, even if it seems loosely related
+5. Write BrushFeed cards for the ones you keep
+6. If a topic doesn't have enough real headlines to fill its share of ${targetCards} cards, GENERATE additional cards using your knowledge of real events from the past 2 weeks
 
-Format: [{"topic":"AI","title":"Short title under 9 words","body":"3 sentences expanding on this story with useful context.","source":"Publication name"}]
+Headlines to evaluate:
+${groupedList}
 
-One card per headline. Topic field must match the label in brackets exactly.`;
+Target: ${targetCards} cards total, spread as evenly as possible across: ${topics.join(', ')}
+
+Strict relevance rules:
+- AI topic: ONLY include articles about AI technology, AI companies, AI models, machine learning. Reject: politics, sports, celebrity, general tech that isn't AI-specific
+- Parenting topic: ONLY include articles about raising children, child development, family. Reject: general education policy, unrelated family law
+- Health topic: ONLY include medical research, health studies, treatments. Reject: general news that mentions health tangentially
+- Money topic: ONLY include personal finance, economic conditions affecting individuals. Reject: corporate earnings, general business news
+- Science topic: ONLY include scientific research and discoveries. Reject: general news, policy about science
+- World topic: ONLY include international news and geopolitics. Reject: purely domestic news
+
+Return a JSON array only. Start with [ and end with ]. Absolutely no other text.
+
+Format: [{"topic":"AI","title":"Punchy title under 9 words","body":"3 sentences with specific facts, numbers, or named organisations.","source":"Publication name","isReal":true}]
+
+isReal: true = from the headlines above, false = generated from your knowledge`;
 
     const claudeRes = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
@@ -81,8 +116,8 @@ One card per headline. Topic field must match the label in brackets exactly.`;
       },
       body: JSON.stringify({
         model: 'claude-sonnet-4-5',
-        max_tokens: 3000,
-        system: 'You are a JSON generator. Always respond with only a valid JSON array, nothing else. No markdown, no backticks, no explanation. Start with [ and end with ].',
+        max_tokens: 4000,
+        system: 'You are a strict editorial AI and JSON generator. Be very strict about topic relevance — reject anything that does not clearly belong to its topic. Respond with only a valid JSON array. No markdown, no backticks, no preamble. Start with [ and end with ].',
         messages: [{ role: 'user', content: prompt }],
       }),
     });
@@ -94,6 +129,7 @@ One card per headline. Topic field must match the label in brackets exactly.`;
 
     const text = claudeData.content?.map(b => b.text || '').join('') || '';
 
+    // Parse JSON robustly
     let cards = null;
     try { cards = JSON.parse(text.trim()); } catch {}
     if (!cards) {
@@ -106,10 +142,13 @@ One card per headline. Topic field must match the label in brackets exactly.`;
       if (start !== -1 && end !== -1) try { cards = JSON.parse(text.slice(start, end + 1)); } catch {}
     }
     if (!cards || !Array.isArray(cards)) {
-      return res.status(500).json({ error: 'Could not parse response', raw: text.slice(0, 200) });
+      return res.status(500).json({ error: 'Could not parse Claude response', raw: text.slice(0, 300) });
     }
 
-    res.status(200).json(cards);
+    // Final safety — only return cards for requested topics
+    const filtered = cards.filter(c => topics.includes(c.topic));
+
+    res.status(200).json(filtered);
 
   } catch (err) {
     res.status(500).json({ error: err.message });
