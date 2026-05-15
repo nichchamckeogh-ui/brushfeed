@@ -55,7 +55,7 @@ Return up to ${Math.min(headlines.length, 12)} cards, one per headline.`;
         'anthropic-version': '2023-06-01',
       },
       body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
+        model: 'claude-sonnet-4-5',
         max_tokens: 3000,
         system: 'You are a JSON generator. Always respond with only a valid JSON array, nothing else. No markdown, no backticks, no explanation. Start with [ and end with ].',
         messages: [{ role: 'user', content: prompt }],
