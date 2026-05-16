@@ -21,12 +21,116 @@ const TOPIC_META = {
 };
 const DURATION = 120;
 
+// 4 quadrants × 30 seconds each = 2 minutes (dentist recommended)
+const QUADRANTS = [
+  { id: 0, label: "Upper Left",  position: "top-left" },
+  { id: 1, label: "Upper Right", position: "top-right" },
+  { id: 2, label: "Lower Left",  position: "bottom-left" },
+  { id: 3, label: "Lower Right", position: "bottom-right" },
+];
+const QUADRANT_DURATION = DURATION / QUADRANTS.length; // 30 seconds each
+
 function loadPrefs() {
   try { const r = sessionStorage.getItem("bf_prefs"); return r ? {...DEFAULT_SETTINGS,...JSON.parse(r)} : DEFAULT_SETTINGS; }
   catch { return DEFAULT_SETTINGS; }
 }
 function savePrefs(p) { try { sessionStorage.setItem("bf_prefs", JSON.stringify(p)); } catch {} }
 
+function formatDate(dateStr) {
+  if (!dateStr) return null;
+  try {
+    const d = new Date(dateStr);
+    return d.toLocaleDateString("en-GB", { day:"numeric", month:"short", year:"numeric" });
+  } catch { return null; }
+}
+
+// ── TEETH QUADRANT INDICATOR ─────────────────────────────────────────────────
+function TeethIndicator({ elapsed, accent, theme }) {
+  const currentQuadrant = Math.min(Math.floor(elapsed / QUADRANT_DURATION), QUADRANTS.length - 1);
+  const quadrantProgress = (elapsed % QUADRANT_DURATION) / QUADRANT_DURATION;
+
+  // SVG tooth shape for each quadrant
+  function Tooth({ quadrantId, isActive, isDone }) {
+    const color = isDone ? accent : isActive ? accent : theme.border;
+    const opacity = isDone ? 0.6 : isActive ? 1 : 0.25;
+    return (
+      <svg width="28" height="32" viewBox="0 0 28 32" fill="none" xmlns="http://www.w3.org/2000/svg"
+        style={{ opacity, transition: "all 0.5s ease" }}>
+        {/* Tooth shape */}
+        <path d="M4 8 C4 4 8 2 14 2 C20 2 24 4 24 8 C24 12 22 16 20 20 C18 24 17 30 14 30 C11 30 10 24 8 20 C6 16 4 12 4 8Z"
+          fill={isActive || isDone ? color : "transparent"}
+          stroke={color}
+          strokeWidth="1.5"
+        />
+        {/* Active pulse ring */}
+        {isActive && (
+          <path d="M4 8 C4 4 8 2 14 2 C20 2 24 4 24 8 C24 12 22 16 20 20 C18 24 17 30 14 30 C11 30 10 24 8 20 C6 16 4 12 4 8Z"
+            fill="transparent"
+            stroke={color}
+            strokeWidth="2"
+            style={{ animation: "teethPulse 1s ease-in-out infinite" }}
+          />
+        )}
+      </svg>
+    );
+  }
+
+  return (
+    <div style={{ display:"flex", flexDirection:"column", alignItems:"center", gap:8 }}>
+      {/* Label */}
+      <div style={{ fontSize:11, color:theme.hint, fontFamily:"'DM Sans',sans-serif", letterSpacing:"0.06em", textTransform:"uppercase" }}>
+        Now brushing: <span style={{ color:accent, fontWeight:600 }}>{QUADRANTS[currentQuadrant].label}</span>
+      </div>
+
+      {/* Teeth grid — 2×2 mimicking mouth quadrants */}
+      <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:6, position:"relative" }}>
+        {/* Upper row */}
+        <div style={{ display:"flex", justifyContent:"flex-end", paddingRight:4 }}>
+          <Tooth quadrantId={0} isActive={currentQuadrant===0} isDone={elapsed > QUADRANT_DURATION * 1} />
+        </div>
+        <div style={{ display:"flex", justifyContent:"flex-start", paddingLeft:4 }}>
+          <Tooth quadrantId={1} isActive={currentQuadrant===1} isDone={elapsed > QUADRANT_DURATION * 2} />
+        </div>
+        {/* Divider line — centre of mouth */}
+        <div style={{
+          position:"absolute", top:"50%", left:"50%",
+          transform:"translate(-50%,-50%)",
+          width:1, height:"80%",
+          background:`${accent}30`,
+        }}/>
+        <div style={{
+          position:"absolute", top:"50%", left:"50%",
+          transform:"translate(-50%,-50%)",
+          width:"80%", height:1,
+          background:`${accent}30`,
+        }}/>
+        {/* Lower row */}
+        <div style={{ display:"flex", justifyContent:"flex-end", paddingRight:4 }}>
+          <Tooth quadrantId={2} isActive={currentQuadrant===2} isDone={elapsed > QUADRANT_DURATION * 3} />
+        </div>
+        <div style={{ display:"flex", justifyContent:"flex-start", paddingLeft:4 }}>
+          <Tooth quadrantId={3} isActive={currentQuadrant===3} isDone={elapsed >= DURATION} />
+        </div>
+      </div>
+
+      {/* Quadrant progress bar */}
+      <div style={{ width:80, height:2, background:theme.track, borderRadius:999, overflow:"hidden" }}>
+        <div style={{
+          height:"100%",
+          width:`${quadrantProgress * 100}%`,
+          background:accent,
+          borderRadius:999,
+          transition:"width 0.25s linear",
+        }}/>
+      </div>
+      <div style={{ fontSize:11, color:theme.hint, fontFamily:"'DM Sans',sans-serif" }}>
+        {Math.ceil(QUADRANT_DURATION - (elapsed % QUADRANT_DURATION))}s left on this section
+      </div>
+    </div>
+  );
+}
+
+// ── MAIN APP ─────────────────────────────────────────────────────────────────
 export default function BrushFeed() {
   const [screen, setScreen] = useState("home");
   const [topics, setTopics] = useState(["AI","Parenting"]);
@@ -38,6 +142,7 @@ export default function BrushFeed() {
   const [cardProgress, setCardProgress] = useState(0);
   const [timeLeft, setTimeLeft] = useState(DURATION);
   const [totalProgress, setTotalProgress] = useState(0);
+  const [elapsed, setElapsed] = useState(0);
   const startRef = useRef(null);
   const rafRef = useRef(null);
 
@@ -58,12 +163,13 @@ export default function BrushFeed() {
       if (!res.ok) throw new Error('Failed to fetch news');
       const data = await res.json();
       if (data.error) throw new Error(data.error);
-      const cards = data.cards || data; // handles both formats
+      const cards = data.cards || data;
       setFeed([...cards, ...cards, ...cards]);
       setCurrentIndex(0);
       setCardProgress(0);
       setTimeLeft(DURATION);
       setTotalProgress(0);
+      setElapsed(0);
       startRef.current = null;
       setScreen("feed");
     } catch(e) {
@@ -77,12 +183,13 @@ export default function BrushFeed() {
     if (screen !== "feed") return;
     function tick(ts) {
       if (!startRef.current) startRef.current = ts;
-      const elapsed = (ts - startRef.current) / 1000;
-      setTotalProgress(Math.min(elapsed/DURATION, 1));
-      setTimeLeft(Math.max(0, Math.ceil(DURATION-elapsed)));
-      setCurrentIndex(Math.floor(elapsed/settings.cardSpeed));
-      setCardProgress((elapsed%settings.cardSpeed)/settings.cardSpeed);
-      if (elapsed < DURATION) rafRef.current = requestAnimationFrame(tick);
+      const el = (ts - startRef.current) / 1000;
+      setElapsed(el);
+      setTotalProgress(Math.min(el/DURATION, 1));
+      setTimeLeft(Math.max(0, Math.ceil(DURATION-el)));
+      setCurrentIndex(Math.floor(el/settings.cardSpeed));
+      setCardProgress((el%settings.cardSpeed)/settings.cardSpeed);
+      if (el < DURATION) rafRef.current = requestAnimationFrame(tick);
       else setScreen("done");
     }
     rafRef.current = requestAnimationFrame(tick);
@@ -109,6 +216,7 @@ export default function BrushFeed() {
         @keyframes cardIn{from{opacity:0;transform:translateY(22px) scale(0.97)}to{opacity:1;transform:translateY(0) scale(1)}}
         @keyframes fadeIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
         @keyframes spin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+        @keyframes teethPulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:0.4;transform:scale(1.08)}}
         .card-anim{animation:cardIn 0.42s cubic-bezier(0.22,1,0.36,1) both;}
         .fade-in{animation:fadeIn 0.4s ease both;}
         .topic-btn{cursor:pointer;border-radius:999px;padding:11px 22px;font-family:'DM Sans',sans-serif;font-size:16px;font-weight:500;transition:all 0.2s;}
@@ -194,7 +302,9 @@ export default function BrushFeed() {
 
       {/* FEED */}
       {screen === "feed" && current && (
-        <div style={{display:"flex",flexDirection:"column",gap:16,padding:"28px 22px 36px",maxWidth:460,width:"100%",minHeight:"100vh",justifyContent:"center"}}>
+        <div style={{display:"flex",flexDirection:"column",gap:14,padding:"24px 22px 32px",maxWidth:460,width:"100%",minHeight:"100vh",justifyContent:"center"}}>
+
+          {/* HUD */}
           <div style={{display:"flex",alignItems:"center",gap:12}}>
             <div style={{display:"flex",alignItems:"center",gap:7,background:th.pill,borderRadius:999,padding:"6px 16px",flexShrink:0}}>
               <span style={{animation:"blink 1.4s infinite",color:ac,fontSize:9}}>●</span>
@@ -206,38 +316,63 @@ export default function BrushFeed() {
             <span style={{fontSize:12,color:th.hint,flexShrink:0}}>{Math.min(currentIndex+1,totalCards)}/{totalCards}</span>
           </div>
 
+          {/* topic chip */}
           <div style={{alignSelf:"flex-start",border:`1.5px solid ${tMeta?.color||ac}`,borderRadius:999,padding:"4px 14px",fontSize:13,fontWeight:600,color:tMeta?.color||ac,letterSpacing:"0.04em",transition:"all 0.3s"}}>
             {tMeta?.emoji} {current.topic}
           </div>
 
+          {/* main card */}
           <div key={currentIndex} className="card-anim"
-            style={{background:th.card,borderRadius:20,padding:"30px 26px 22px",borderLeft:`4px solid ${tMeta?.color||ac}`,display:"flex",flexDirection:"column",gap:14}}>
+            style={{background:th.card,borderRadius:20,padding:"28px 24px 20px",borderLeft:`4px solid ${tMeta?.color||ac}`,display:"flex",flexDirection:"column",gap:12}}>
             <h2 style={{fontFamily:ff,fontWeight:700,fontSize:fs.title,lineHeight:1.25,color:th.text}}>{current.title}</h2>
             <p style={{fontFamily:"'DM Sans',sans-serif",fontWeight:300,fontSize:fs.body,lineHeight:1.8,color:th.sub}}>{current.body}</p>
-            {current.source && (
-              <div style={{display:"flex",alignItems:"center",gap:6}}>
-                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke={th.hint} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{flexShrink:0}}>
-                  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
-                  <polyline points="14 2 14 8 20 8"/>
-                  <line x1="16" y1="13" x2="8" y2="13"/>
-                  <line x1="16" y1="17" x2="8" y2="17"/>
-                </svg>
-                <span style={{fontSize:12,color:th.hint,fontStyle:"italic"}}>{current.source}</span>
-              </div>
-            )}
+
+            {/* source + published date */}
+            <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",gap:6}}>
+              {current.source && (
+                <div style={{display:"flex",alignItems:"center",gap:5}}>
+                  <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke={th.hint} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{flexShrink:0}}>
+                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                    <polyline points="14 2 14 8 20 8"/>
+                    <line x1="16" y1="13" x2="8" y2="13"/>
+                    <line x1="16" y1="17" x2="8" y2="17"/>
+                  </svg>
+                  <span style={{fontSize:12,color:th.hint,fontStyle:"italic"}}>{current.source}</span>
+                </div>
+              )}
+              {current.publishedAt && formatDate(current.publishedAt) && (
+                <div style={{display:"flex",alignItems:"center",gap:5}}>
+                  <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke={th.hint} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+                    <line x1="16" y1="2" x2="16" y2="6"/>
+                    <line x1="8" y1="2" x2="8" y2="6"/>
+                    <line x1="3" y1="10" x2="21" y2="10"/>
+                  </svg>
+                  <span style={{fontSize:12,color:th.hint}}>{formatDate(current.publishedAt)}</span>
+                </div>
+              )}
+            </div>
+
+            {/* card progress bar */}
             <div style={{height:3,background:th.track,borderRadius:999,overflow:"hidden"}}>
               <div style={{height:"100%",width:`${cardProgress*100}%`,background:tMeta?.color||ac,borderRadius:999,transition:"width 0.25s linear"}}/>
             </div>
           </div>
 
+          {/* next preview */}
           {settings.showNextPreview && next && (
-            <div style={{background:th.pill,borderRadius:14,padding:"14px 18px",display:"flex",flexDirection:"column",gap:5,border:`1px solid ${th.border}`}}>
+            <div style={{background:th.pill,borderRadius:14,padding:"12px 16px",display:"flex",flexDirection:"column",gap:4,border:`1px solid ${th.border}`}}>
               <span style={{color:nMeta?.color||ac,fontSize:11,fontWeight:600,letterSpacing:"0.07em",textTransform:"uppercase"}}>{nMeta?.emoji} Next up</span>
               <span style={{fontWeight:500,fontSize:15,color:th.hint}}>{next.title}</span>
             </div>
           )}
 
-          <p style={{textAlign:"center",fontSize:13,color:th.hint}}>auto-advances every {settings.cardSpeed}s · no touching needed</p>
+          {/* TEETH QUADRANT INDICATOR */}
+          <div style={{background:th.pill,borderRadius:16,padding:"16px",border:`1px solid ${th.border}`}}>
+            <TeethIndicator elapsed={elapsed} accent={ac} theme={th} />
+          </div>
+
+          <p style={{textAlign:"center",fontSize:12,color:th.hint}}>auto-advances every {settings.cardSpeed}s · no touching needed</p>
         </div>
       )}
 
