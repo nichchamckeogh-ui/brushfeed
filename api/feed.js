@@ -1,7 +1,4 @@
-// feed.js — reads pre-built JSON from Vercel Blob, serves to app
-// Zero NewsAPI calls. Zero Claude calls. Just reads a file.
-
-const BLOB_BASE_URL = process.env.BLOB_BASE_URL; // set in Vercel env vars
+import { list, getDownloadUrl } from '@vercel/blob';
 
 export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
@@ -13,15 +10,15 @@ export default async function handler(req, res) {
     const allCards = [];
     const meta = {};
 
-    // Read each topic's JSON file from Vercel Blob in parallel
     const readPromises = topics.map(async topic => {
       try {
-        const url = `${BLOB_BASE_URL}/cards_${topic}.json`;
-        const blobRes = await fetch(url);
-        if (!blobRes.ok) {
-          console.error(`Could not read cards_${topic}.json`);
-          return;
-        }
+        const { blobs } = await list({ prefix: `cards_${topic}.json` });
+        if (!blobs || blobs.length === 0) return;
+        
+        const downloadUrl = await getDownloadUrl(blobs[0].url);
+        const blobRes = await fetch(downloadUrl);
+        if (!blobRes.ok) return;
+        
         const data = await blobRes.json();
         if (data.cards && Array.isArray(data.cards)) {
           allCards.push(...data.cards);
@@ -39,11 +36,11 @@ export default async function handler(req, res) {
 
     if (allCards.length === 0) {
       return res.status(503).json({
-        error: 'Feed not ready yet. The cron job may not have run yet. Please try again in a few minutes.',
+        error: 'Feed not ready yet. Please try again in a few minutes.',
       });
     }
 
-    // Shuffle cards so topics are interleaved
+    // Shuffle
     for (let i = allCards.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [allCards[i], allCards[j]] = [allCards[j], allCards[i]];
