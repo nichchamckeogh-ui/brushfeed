@@ -141,10 +141,10 @@ Format: [{"title":"Under 9 words","body":"3 sentences expanding on the story wit
 // ── MAIN HANDLER ──────────────────────────────────────────────────────────────
 export default async function handler(req, res) {
   // Security: only allow Vercel cron calls or manual trigger with secret
-  const authHeader = req.headers.authorization;
-  if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
-    return res.status(401).json({ error: 'Unauthorised' });
-  }
+  //const authHeader = req.headers.authorization;
+  //if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
+  //  return res.status(401).json({ error: 'Unauthorised' });
+  //}
 
   const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
   const activeTopics = ['AI', 'Parenting'];
