@@ -1,22 +1,22 @@
-import { put } from '@vercel/blob';
+// cron.js — runs twice daily, fetches RSS, calls Claude, saves to GitHub
 
 // ── RSS SOURCES ───────────────────────────────────────────────────────────────
 const SOURCES = {
   AI: [
     { name: 'TechCrunch', url: 'https://techcrunch.com/category/artificial-intelligence/feed/' },
     { name: 'MIT Technology Review', url: 'https://www.technologyreview.com/feed/' },
-    { name: 'The Verge AI', url: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml' },
-    { name: 'VentureBeat AI', url: 'https://venturebeat.com/category/ai/feed/' },
+    { name: 'The Verge', url: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml' },
+    { name: 'VentureBeat', url: 'https://venturebeat.com/category/ai/feed/' },
   ],
   Parenting: [
-    { name: 'The Guardian Parents', url: 'https://www.theguardian.com/lifeandstyle/family/rss' },
+    { name: 'The Guardian', url: 'https://www.theguardian.com/lifeandstyle/family/rss' },
     { name: 'Psychology Today', url: 'https://www.psychologytoday.com/us/front/feed' },
-    { name: 'BBC Family', url: 'https://feeds.bbci.co.uk/news/rss.xml' },
+    { name: 'BBC News', url: 'https://feeds.bbci.co.uk/news/rss.xml' },
   ],
 };
 
 // ── XML PARSER ────────────────────────────────────────────────────────────────
-function parseRSS(xml) {
+function parseRSS(xml, sourceName) {
   const items = [];
   const itemMatches = xml.matchAll(/<item>([\s\S]*?)<\/item>/g);
   for (const match of itemMatches) {
@@ -24,11 +24,12 @@ function parseRSS(xml) {
     const title = extractTag(item, 'title');
     const description = extractTag(item, 'description');
     const pubDate = extractTag(item, 'pubDate');
-    if (title && title !== '' && description && description !== '') {
+    if (title && description) {
       items.push({
         title: cleanText(title),
-        description: cleanText(description).slice(0, 200),
+        description: cleanText(description).slice(0, 300),
         publishedAt: pubDate ? formatDate(pubDate) : '',
+        source: sourceName,
       });
     }
   }
@@ -36,14 +37,16 @@ function parseRSS(xml) {
 }
 
 function extractTag(xml, tag) {
-  const match = xml.match(new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]></${tag}>|<${tag}[^>]*>([\\s\\S]*?)</${tag}>`));
+  const match = xml.match(
+    new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\/${tag}>|<${tag}[^>]*>([\\s\\S]*?)<\/${tag}>`)
+  );
   if (!match) return '';
   return (match[1] || match[2] || '').trim();
 }
 
 function cleanText(text) {
   return text
-    .replace(/<[^>]+>/g, '') // remove HTML tags
+    .replace(/<[^>]+>/g, '')
     .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
@@ -55,32 +58,30 @@ function cleanText(text) {
 }
 
 function formatDate(dateStr) {
-  try {
-    return new Date(dateStr).toISOString().split('T')[0];
-  } catch { return ''; }
+  try { return new Date(dateStr).toISOString().split('T')[0]; }
+  catch { return ''; }
 }
 
-// ── FETCH RSS FEED ────────────────────────────────────────────────────────────
+// ── FETCH RSS ─────────────────────────────────────────────────────────────────
 async function fetchRSS(source) {
   try {
     const res = await fetch(source.url, {
-      headers: { 'User-Agent': 'BrushFeed/1.0 (RSS Reader)' },
+      headers: { 'User-Agent': 'BrushFeed/1.0 RSS Reader' },
     });
     if (!res.ok) return [];
     const xml = await res.text();
-    const items = parseRSS(xml);
-    return items.slice(0, 25).map(item => ({ ...item, source: source.name }));
+    return parseRSS(xml, source.name).slice(0, 25);
   } catch (e) {
-    console.error(`Failed to fetch ${source.name}:`, e.message);
+    console.error(`RSS fetch failed for ${source.name}:`, e.message);
     return [];
   }
 }
 
-// ── CLAUDE FILTER + SUMMARISE ─────────────────────────────────────────────────
+// ── CLAUDE: FILTER + SUMMARISE ────────────────────────────────────────────────
 async function processWithClaude(topic, articles, apiKey) {
   const topicRules = {
-    AI: 'artificial intelligence, machine learning, AI models, ChatGPT, OpenAI, Google AI, robotics, AI regulation, AI safety, large language models. Reject: general tech news not specifically about AI, politics, sports, celebrity.',
-    Parenting: 'parenting advice, child development, babies, toddlers, kids education, screen time, child psychology, family health, teenage wellbeing. Reject: general education policy, unrelated family law, celebrity families.',
+    AI: 'artificial intelligence, machine learning, AI models, ChatGPT, OpenAI, Google AI, robotics, AI regulation, AI safety, large language models. Reject: general tech not specifically about AI, politics, sports, celebrity.',
+    Parenting: 'parenting advice, child development, babies, toddlers, kids education, screen time, child psychology, family health, teenage wellbeing. Reject: general education policy, celebrity families, unrelated news.',
   };
 
   const articleList = articles
@@ -89,22 +90,21 @@ async function processWithClaude(topic, articles, apiKey) {
 
   const prompt = `You are BrushFeed's editorial AI for the topic: ${topic}
 
-Topic definition: ${topicRules[topic]}
+Topic: ${topicRules[topic]}
 
-Below are ${articles.length} RSS articles. Your job:
-1. Read each article
-2. KEEP only articles genuinely about ${topic} — be strict
-3. REJECT anything off-topic
-4. Write a clean BrushFeed card for each kept article
-5. Do NOT generate any cards — only use real articles above
-6. If fewer than 3 articles pass, just return what you have
-
-Articles:
+${articles.length} articles to evaluate:
 ${articleList}
+
+Instructions:
+- Keep ONLY articles genuinely about ${topic}
+- Reject anything off-topic
+- Write a clean 3-sentence card for each kept article
+- Do NOT generate any cards — only use real articles above
+- Return fewer cards if not enough relevant articles — do not pad with irrelevant content
 
 Return JSON array ONLY. Start with [ end with ]. No other text.
 
-Format: [{"title":"Under 9 words","body":"3 sentences expanding on the story with specific facts.","source":"Publication name","publishedAt":"2026-05-16"}]`;
+Format: [{"title":"Under 9 words","body":"3 sentences with specific facts.","source":"Publication","publishedAt":"2026-05-19"}]`;
 
   const res = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
@@ -134,44 +134,82 @@ Format: [{"title":"Under 9 words","body":"3 sentences expanding on the story wit
   }
   if (!cards || !Array.isArray(cards)) return [];
 
-  // Add topic to each card
   return cards.map(c => ({ ...c, topic }));
+}
+
+// ── SAVE TO GITHUB ────────────────────────────────────────────────────────────
+async function saveToGitHub(filename, content, token, repo) {
+  const apiUrl = `https://api.github.com/repos/${repo}/contents/public/${filename}`;
+
+  // Check if file already exists to get its SHA (needed for updates)
+  let sha = null;
+  try {
+    const check = await fetch(apiUrl, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+        Accept: 'application/vnd.github.v3+json',
+      },
+    });
+    if (check.ok) {
+      const existing = await check.json();
+      sha = existing.sha;
+    }
+  } catch {}
+
+  // Create or update the file
+  const body = {
+    message: `Update ${filename} — ${new Date().toISOString()}`,
+    content: Buffer.from(JSON.stringify(content, null, 2)).toString('base64'),
+    ...(sha ? { sha } : {}),
+  };
+
+  const res = await fetch(apiUrl, {
+    method: 'PUT',
+    headers: {
+      Authorization: `Bearer ${token}`,
+      Accept: 'application/vnd.github.v3+json',
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(body),
+  });
+
+  if (!res.ok) {
+    const err = await res.json();
+    throw new Error(`GitHub save failed: ${err.message}`);
+  }
+
+  return `https://raw.githubusercontent.com/${repo}/main/public/${filename}`;
 }
 
 // ── MAIN HANDLER ──────────────────────────────────────────────────────────────
 export default async function handler(req, res) {
-  // Security: only allow Vercel cron calls or manual trigger with secret
-  //const authHeader = req.headers.authorization;
-  //if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
-  //  return res.status(401).json({ error: 'Unauthorised' });
-  //}
-
   const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
+  const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+  const GITHUB_REPO = process.env.GITHUB_REPO;
+
   const activeTopics = ['AI', 'Parenting'];
   const results = {};
 
   try {
     for (const topic of activeTopics) {
-      console.log(`Processing topic: ${topic}`);
-      const sources = SOURCES[topic] || [];
+      console.log(`\nProcessing: ${topic}`);
 
-      // Fetch all RSS sources for this topic in parallel
-      const fetchPromises = sources.map(s => fetchRSS(s));
+      // Fetch all RSS sources in parallel
+      const fetchPromises = SOURCES[topic].map(s => fetchRSS(s));
       const fetchResults = await Promise.all(fetchPromises);
       const allArticles = fetchResults.flat();
-
-      console.log(`${topic}: fetched ${allArticles.length} articles from RSS`);
+      console.log(`${topic}: ${allArticles.length} articles fetched`);
 
       if (allArticles.length === 0) {
-        results[topic] = { error: 'No articles fetched' };
+        results[topic] = { error: 'No articles from RSS' };
         continue;
       }
 
-      // Call Claude ONCE per topic
+      // One Claude call per topic
       const cards = await processWithClaude(topic, allArticles, ANTHROPIC_API_KEY);
-      console.log(`${topic}: Claude returned ${cards.length} cards`);
+      console.log(`${topic}: ${cards.length} cards generated`);
 
-      // Save to Vercel Blob
+      // Save to GitHub
       const payload = {
         topic,
         generatedAt: new Date().toISOString(),
@@ -179,19 +217,10 @@ export default async function handler(req, res) {
         cards,
       };
 
-      const blob = await put(`cards_${topic}.json`, JSON.stringify(payload), {
-        access: 'private',
-        contentType: 'application/json',
-        addRandomSuffix: false, // always overwrite same file
-      });
+      const url = await saveToGitHub(`cards_${topic}.json`, payload, GITHUB_TOKEN, GITHUB_REPO);
+      console.log(`${topic}: saved to ${url}`);
 
-      results[topic] = {
-        success: true,
-        cardCount: cards.length,
-        blobUrl: blob.url,
-      };
-
-      console.log(`${topic}: saved to blob at ${blob.url}`);
+      results[topic] = { success: true, cardCount: cards.length, url };
     }
 
     return res.status(200).json({
