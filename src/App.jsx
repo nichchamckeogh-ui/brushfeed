@@ -11,24 +11,25 @@ const THEMES = {
   sepia: { bg:"#f2e8d9", card:"rgba(0,0,0,0.04)", text:"#2c1a0e", sub:"rgba(44,26,14,0.65)", hint:"rgba(44,26,14,0.3)", border:"rgba(44,26,14,0.08)", track:"rgba(44,26,14,0.1)", pill:"rgba(44,26,14,0.07)" },
 };
 const FONT_SIZES = { small:{title:20,body:16}, medium:{title:24,body:19}, large:{title:30,body:23} };
-const TOPIC_META = {
-  AI:        { emoji:"🤖", color:"#00f5d4" },
-  Parenting: { emoji:"👶", color:"#ff6b9d" },
-  Health:    { emoji:"💪", color:"#f9c74f" },
-  Money:     { emoji:"💸", color:"#a8dadc" },
-  Science:   { emoji:"🔬", color:"#c77dff" },
-  World:     { emoji:"🌍", color:"#f4a261" },
-};
-const DURATION = 120;
 
-// 4 quadrants × 30 seconds each = 2 minutes (dentist recommended)
+// Active = available to select. Disabled = coming soon, greyed out
+const TOPIC_META = {
+  AI:        { emoji:"🤖", color:"#00f5d4", active: true },
+  Parenting: { emoji:"👶", color:"#ff6b9d", active: true },
+  Health:    { emoji:"💪", color:"#f9c74f", active: false },
+  Money:     { emoji:"💸", color:"#a8dadc", active: false },
+  Science:   { emoji:"🔬", color:"#c77dff", active: false },
+  World:     { emoji:"🌍", color:"#f4a261", active: false },
+};
+
+const DURATION = 120;
+const QUADRANT_DURATION = 30;
 const QUADRANTS = [
-  { id: 0, label: "Upper Left",  position: "top-left" },
-  { id: 1, label: "Upper Right", position: "top-right" },
-  { id: 2, label: "Lower Left",  position: "bottom-left" },
-  { id: 3, label: "Lower Right", position: "bottom-right" },
+  { id:0, label:"Upper Left",  short:"UL" },
+  { id:1, label:"Upper Right", short:"UR" },
+  { id:2, label:"Lower Left",  short:"LL" },
+  { id:3, label:"Lower Right", short:"LR" },
 ];
-const QUADRANT_DURATION = DURATION / QUADRANTS.length; // 30 seconds each
 
 function loadPrefs() {
   try { const r = sessionStorage.getItem("bf_prefs"); return r ? {...DEFAULT_SETTINGS,...JSON.parse(r)} : DEFAULT_SETTINGS; }
@@ -44,93 +45,38 @@ function formatDate(dateStr) {
   } catch { return null; }
 }
 
-// ── TEETH QUADRANT INDICATOR ─────────────────────────────────────────────────
-function TeethIndicator({ elapsed, accent, theme }) {
-  const currentQuadrant = Math.min(Math.floor(elapsed / QUADRANT_DURATION), QUADRANTS.length - 1);
-  const quadrantProgress = (elapsed % QUADRANT_DURATION) / QUADRANT_DURATION;
-
-  // SVG tooth shape for each quadrant
-  function Tooth({ quadrantId, isActive, isDone }) {
-    const color = isDone ? accent : isActive ? accent : theme.border;
-    const opacity = isDone ? 0.6 : isActive ? 1 : 0.25;
-    return (
-      <svg width="28" height="32" viewBox="0 0 28 32" fill="none" xmlns="http://www.w3.org/2000/svg"
-        style={{ opacity, transition: "all 0.5s ease" }}>
-        {/* Tooth shape */}
-        <path d="M4 8 C4 4 8 2 14 2 C20 2 24 4 24 8 C24 12 22 16 20 20 C18 24 17 30 14 30 C11 30 10 24 8 20 C6 16 4 12 4 8Z"
-          fill={isActive || isDone ? color : "transparent"}
-          stroke={color}
-          strokeWidth="1.5"
-        />
-        {/* Active pulse ring */}
-        {isActive && (
-          <path d="M4 8 C4 4 8 2 14 2 C20 2 24 4 24 8 C24 12 22 16 20 20 C18 24 17 30 14 30 C11 30 10 24 8 20 C6 16 4 12 4 8Z"
-            fill="transparent"
-            stroke={color}
-            strokeWidth="2"
-            style={{ animation: "teethPulse 1s ease-in-out infinite" }}
-          />
-        )}
-      </svg>
-    );
-  }
-
+// ── COMPACT TEETH INDICATOR ───────────────────────────────────────────────────
+function TeethInline({ elapsed, accent, theme }) {
+  const currentQ = Math.min(Math.floor(elapsed / QUADRANT_DURATION), 3);
+  const secsLeft = Math.ceil(QUADRANT_DURATION - (elapsed % QUADRANT_DURATION));
   return (
-    <div style={{ display:"flex", flexDirection:"column", alignItems:"center", gap:8 }}>
-      {/* Label */}
-      <div style={{ fontSize:11, color:theme.hint, fontFamily:"'DM Sans',sans-serif", letterSpacing:"0.06em", textTransform:"uppercase" }}>
-        Now brushing: <span style={{ color:accent, fontWeight:600 }}>{QUADRANTS[currentQuadrant].label}</span>
+    <div style={{ display:"flex", alignItems:"center", gap:8 }}>
+      <div style={{ display:"flex", gap:3 }}>
+        {QUADRANTS.map(q => {
+          const isDone = elapsed >= QUADRANT_DURATION * (q.id + 1);
+          const isActive = currentQ === q.id;
+          return (
+            <div key={q.id} title={q.label} style={{
+              width: isActive ? 10 : 8,
+              height: isActive ? 10 : 8,
+              borderRadius:"50%",
+              background: isDone || isActive ? accent : theme.border,
+              opacity: isDone ? 0.5 : isActive ? 1 : 0.3,
+              transition:"all 0.4s ease",
+              boxShadow: isActive ? `0 0 6px ${accent}` : "none",
+            }}/>
+          );
+        })}
       </div>
-
-      {/* Teeth grid — 2×2 mimicking mouth quadrants */}
-      <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:6, position:"relative" }}>
-        {/* Upper row */}
-        <div style={{ display:"flex", justifyContent:"flex-end", paddingRight:4 }}>
-          <Tooth quadrantId={0} isActive={currentQuadrant===0} isDone={elapsed > QUADRANT_DURATION * 1} />
-        </div>
-        <div style={{ display:"flex", justifyContent:"flex-start", paddingLeft:4 }}>
-          <Tooth quadrantId={1} isActive={currentQuadrant===1} isDone={elapsed > QUADRANT_DURATION * 2} />
-        </div>
-        {/* Divider line — centre of mouth */}
-        <div style={{
-          position:"absolute", top:"50%", left:"50%",
-          transform:"translate(-50%,-50%)",
-          width:1, height:"80%",
-          background:`${accent}30`,
-        }}/>
-        <div style={{
-          position:"absolute", top:"50%", left:"50%",
-          transform:"translate(-50%,-50%)",
-          width:"80%", height:1,
-          background:`${accent}30`,
-        }}/>
-        {/* Lower row */}
-        <div style={{ display:"flex", justifyContent:"flex-end", paddingRight:4 }}>
-          <Tooth quadrantId={2} isActive={currentQuadrant===2} isDone={elapsed > QUADRANT_DURATION * 3} />
-        </div>
-        <div style={{ display:"flex", justifyContent:"flex-start", paddingLeft:4 }}>
-          <Tooth quadrantId={3} isActive={currentQuadrant===3} isDone={elapsed >= DURATION} />
-        </div>
-      </div>
-
-      {/* Quadrant progress bar */}
-      <div style={{ width:80, height:2, background:theme.track, borderRadius:999, overflow:"hidden" }}>
-        <div style={{
-          height:"100%",
-          width:`${quadrantProgress * 100}%`,
-          background:accent,
-          borderRadius:999,
-          transition:"width 0.25s linear",
-        }}/>
-      </div>
-      <div style={{ fontSize:11, color:theme.hint, fontFamily:"'DM Sans',sans-serif" }}>
-        {Math.ceil(QUADRANT_DURATION - (elapsed % QUADRANT_DURATION))}s left on this section
-      </div>
+      <span style={{ fontSize:11, color:theme.hint, fontFamily:"'DM Sans',sans-serif" }}>
+        <span style={{ color:accent, fontWeight:600 }}>{QUADRANTS[currentQ].label}</span>
+        {" · "}{secsLeft}s
+      </span>
     </div>
   );
 }
 
-// ── MAIN APP ─────────────────────────────────────────────────────────────────
+// ── MAIN APP ──────────────────────────────────────────────────────────────────
 export default function BrushFeed() {
   const [screen, setScreen] = useState("home");
   const [topics, setTopics] = useState(["AI","Parenting"]);
@@ -159,11 +105,13 @@ export default function BrushFeed() {
     setLoadingFirst(true);
     setFeed([]);
     try {
-      const res = await fetch(`/api/news?topics=${topics.join(',')}`);
-      if (!res.ok) throw new Error('Failed to fetch news');
+      // Reads from pre-built JSON — no API calls!
+      const res = await fetch(`/api/feed?topics=${topics.join(',')}`);
+      if (!res.ok) throw new Error('Failed to load feed');
       const data = await res.json();
       if (data.error) throw new Error(data.error);
-      const cards = data.cards || data;
+      const cards = data.cards || [];
+      if (cards.length === 0) throw new Error('No cards available yet. Please try again soon.');
       setFeed([...cards, ...cards, ...cards]);
       setCurrentIndex(0);
       setCardProgress(0);
@@ -173,7 +121,7 @@ export default function BrushFeed() {
       startRef.current = null;
       setScreen("feed");
     } catch(e) {
-      setLoadError(e.message || "Couldn't load news. Please try again.");
+      setLoadError(e.message || "Couldn't load feed. Please try again.");
     } finally {
       setLoadingFirst(false);
     }
@@ -197,6 +145,7 @@ export default function BrushFeed() {
   }, [screen, feed, settings.cardSpeed]);
 
   function toggleTopic(t) {
+    if (!TOPIC_META[t].active) return; // can't select disabled topics
     setTopics(prev => prev.includes(t) ? prev.filter(x=>x!==t) : [...prev,t]);
   }
 
@@ -216,10 +165,10 @@ export default function BrushFeed() {
         @keyframes cardIn{from{opacity:0;transform:translateY(22px) scale(0.97)}to{opacity:1;transform:translateY(0) scale(1)}}
         @keyframes fadeIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
         @keyframes spin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
-        @keyframes teethPulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:0.4;transform:scale(1.08)}}
         .card-anim{animation:cardIn 0.42s cubic-bezier(0.22,1,0.36,1) both;}
         .fade-in{animation:fadeIn 0.4s ease both;}
         .topic-btn{cursor:pointer;border-radius:999px;padding:11px 22px;font-family:'DM Sans',sans-serif;font-size:16px;font-weight:500;transition:all 0.2s;}
+        .topic-btn.disabled{cursor:not-allowed;opacity:0.35;}
         .cta{cursor:pointer;border:none;border-radius:999px;padding:17px 52px;font-family:'DM Sans',sans-serif;font-weight:700;font-size:17px;transition:transform 0.15s,opacity 0.15s;}
         .cta:hover:not(:disabled){transform:scale(1.03);}
         .cta:disabled{opacity:0.3;cursor:not-allowed;}
@@ -254,13 +203,37 @@ export default function BrushFeed() {
           <div style={{display:"flex",flexDirection:"column",gap:12,width:"100%"}}>
             <p style={{color:th.hint,fontSize:12,textTransform:"uppercase",letterSpacing:"0.1em"}}>Pick your topics</p>
             <div style={{display:"flex",flexWrap:"wrap",gap:10,justifyContent:"center"}}>
-              {Object.entries(TOPIC_META).map(([key,val]) => (
-                <button key={key} className="topic-btn"
-                  style={{border:`2px solid ${topics.includes(key)?val.color:th.border}`,background:topics.includes(key)?`${val.color}18`:th.pill,color:topics.includes(key)?val.color:th.sub}}
-                  onClick={()=>toggleTopic(key)}>
-                  {val.emoji} {key}
-                </button>
-              ))}
+              {Object.entries(TOPIC_META).map(([key,val]) => {
+                const isSelected = topics.includes(key);
+                const isDisabled = !val.active;
+                return (
+                  <div key={key} style={{position:"relative"}}>
+                    <button
+                      className={`topic-btn${isDisabled?" disabled":""}`}
+                      style={{
+                        border:`2px solid ${isDisabled ? th.border : isSelected ? val.color : th.border}`,
+                        background: isDisabled ? th.pill : isSelected ? `${val.color}18` : th.pill,
+                        color: isDisabled ? th.hint : isSelected ? val.color : th.sub,
+                      }}
+                      onClick={()=>toggleTopic(key)}
+                    >
+                      {val.emoji} {key}
+                    </button>
+                    {isDisabled && (
+                      <div style={{
+                        position:"absolute", top:-6, right:-6,
+                        background:th.pill, border:`1px solid ${th.border}`,
+                        borderRadius:999, padding:"1px 6px",
+                        fontSize:9, color:th.hint,
+                        fontFamily:"'DM Sans',sans-serif",
+                        letterSpacing:"0.04em",
+                      }}>
+                        soon
+                      </div>
+                    )}
+                  </div>
+                );
+              })}
             </div>
           </div>
 
@@ -273,17 +246,18 @@ export default function BrushFeed() {
           {loadingFirst ? (
             <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:14}}>
               <div style={{width:38,height:38,borderRadius:"50%",border:`3px solid ${th.track}`,borderTopColor:ac,animation:"spin 0.8s linear infinite"}}/>
-              <p style={{color:th.sub,fontSize:15}}>Fetching today's news…</p>
-              <p style={{color:th.hint,fontSize:13}}>Takes about 10 seconds</p>
+              <p style={{color:th.sub,fontSize:15}}>Loading your feed…</p>
+              <p style={{color:th.hint,fontSize:13}}>Just a moment</p>
             </div>
           ) : (
             <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:10}}>
-              <button className="cta" disabled={topics.length===0}
+              <button className="cta"
+                disabled={topics.length===0}
                 style={{background:ac,color:settings.theme==="dark"?"#0a0a10":"#1a1a1a"}}
                 onClick={handleStart}>
                 Start brushing →
               </button>
-              <span style={{color:th.hint,fontSize:13}}>Real news · fresh every session</span>
+              <span style={{color:th.hint,fontSize:13}}>Fresh news · updated twice daily</span>
             </div>
           )}
 
@@ -303,8 +277,6 @@ export default function BrushFeed() {
       {/* FEED */}
       {screen === "feed" && current && (
         <div style={{display:"flex",flexDirection:"column",gap:14,padding:"24px 22px 32px",maxWidth:460,width:"100%",minHeight:"100vh",justifyContent:"center"}}>
-
-          {/* HUD */}
           <div style={{display:"flex",alignItems:"center",gap:12}}>
             <div style={{display:"flex",alignItems:"center",gap:7,background:th.pill,borderRadius:999,padding:"6px 16px",flexShrink:0}}>
               <span style={{animation:"blink 1.4s infinite",color:ac,fontSize:9}}>●</span>
@@ -316,18 +288,19 @@ export default function BrushFeed() {
             <span style={{fontSize:12,color:th.hint,flexShrink:0}}>{Math.min(currentIndex+1,totalCards)}/{totalCards}</span>
           </div>
 
-          {/* topic chip */}
-          <div style={{alignSelf:"flex-start",border:`1.5px solid ${tMeta?.color||ac}`,borderRadius:999,padding:"4px 14px",fontSize:13,fontWeight:600,color:tMeta?.color||ac,letterSpacing:"0.04em",transition:"all 0.3s"}}>
-            {tMeta?.emoji} {current.topic}
+          {/* Topic chip + teeth indicator */}
+          <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",gap:8}}>
+            <div style={{border:`1.5px solid ${tMeta?.color||ac}`,borderRadius:999,padding:"4px 14px",fontSize:13,fontWeight:600,color:tMeta?.color||ac,letterSpacing:"0.04em",transition:"all 0.3s",flexShrink:0}}>
+              {tMeta?.emoji} {current.topic}
+            </div>
+            <TeethInline elapsed={elapsed} accent={ac} theme={th}/>
           </div>
 
-          {/* main card */}
+          {/* Main card */}
           <div key={currentIndex} className="card-anim"
             style={{background:th.card,borderRadius:20,padding:"28px 24px 20px",borderLeft:`4px solid ${tMeta?.color||ac}`,display:"flex",flexDirection:"column",gap:12}}>
             <h2 style={{fontFamily:ff,fontWeight:700,fontSize:fs.title,lineHeight:1.25,color:th.text}}>{current.title}</h2>
             <p style={{fontFamily:"'DM Sans',sans-serif",fontWeight:300,fontSize:fs.body,lineHeight:1.8,color:th.sub}}>{current.body}</p>
-
-            {/* source + published date */}
             <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",gap:6}}>
               {current.source && (
                 <div style={{display:"flex",alignItems:"center",gap:5}}>
@@ -352,25 +325,17 @@ export default function BrushFeed() {
                 </div>
               )}
             </div>
-
-            {/* card progress bar */}
             <div style={{height:3,background:th.track,borderRadius:999,overflow:"hidden"}}>
               <div style={{height:"100%",width:`${cardProgress*100}%`,background:tMeta?.color||ac,borderRadius:999,transition:"width 0.25s linear"}}/>
             </div>
           </div>
 
-          {/* next preview */}
           {settings.showNextPreview && next && (
             <div style={{background:th.pill,borderRadius:14,padding:"12px 16px",display:"flex",flexDirection:"column",gap:4,border:`1px solid ${th.border}`}}>
-              <span style={{color:nMeta?.color||ac,fontSize:11,fontWeight:600,letterSpacing:"0.07em",textTransform:"uppercase"}}>{nMeta?.emoji} Next up</span>
+              <span style={{color:TOPIC_META[next.topic]?.color||ac,fontSize:11,fontWeight:600,letterSpacing:"0.07em",textTransform:"uppercase"}}>{TOPIC_META[next.topic]?.emoji} Next up</span>
               <span style={{fontWeight:500,fontSize:15,color:th.hint}}>{next.title}</span>
             </div>
           )}
-
-          {/* TEETH QUADRANT INDICATOR */}
-          <div style={{background:th.pill,borderRadius:16,padding:"16px",border:`1px solid ${th.border}`}}>
-            <TeethIndicator elapsed={elapsed} accent={ac} theme={th} />
-          </div>
 
           <p style={{textAlign:"center",fontSize:12,color:th.hint}}>auto-advances every {settings.cardSpeed}s · no touching needed</p>
         </div>
@@ -385,7 +350,7 @@ export default function BrushFeed() {
             You read <span style={{color:ac,fontWeight:700}}>{Math.min(currentIndex+1,totalCards)} articles</span> in 2 minutes — hands free.
           </p>
           <div style={{display:"flex",flexDirection:"column",gap:12,alignItems:"center"}}>
-            <button className="cta" style={{background:ac,color:settings.theme==="dark"?"#0a0a10":"#1a1a1a"}} onClick={handleStart}>Fresh feed →</button>
+            <button className="cta" style={{background:ac,color:settings.theme==="dark"?"#0a0a10":"#1a1a1a"}} onClick={handleStart}>Go again →</button>
             <button className="ghost-btn" style={{color:th.sub,border:`1.5px solid ${th.border}`}} onClick={()=>setScreen("home")}>Change topics</button>
           </div>
         </div>
@@ -403,7 +368,6 @@ export default function BrushFeed() {
             <h2 style={{fontFamily:"'Fraunces',serif",fontWeight:700,fontSize:26,color:th.text}}>Feed Style</h2>
           </div>
           <div style={{padding:"0 24px 48px",display:"flex",flexDirection:"column",gap:24}}>
-
             <SS label="Theme" th={th}>
               <div style={{display:"flex",gap:8}}>
                 {["dark","light","sepia"].map(t=>(
@@ -415,7 +379,6 @@ export default function BrushFeed() {
                 ))}
               </div>
             </SS>
-
             <SS label="Accent colour" th={th}>
               <div style={{display:"flex",gap:12}}>
                 {Object.entries(ACCENT_COLORS).map(([name,hex])=>(
@@ -425,7 +388,6 @@ export default function BrushFeed() {
                 ))}
               </div>
             </SS>
-
             <SS label="Text size" th={th}>
               <div style={{display:"flex",gap:8,marginBottom:10}}>
                 {["small","medium","large"].map(s=>(
@@ -436,7 +398,6 @@ export default function BrushFeed() {
               </div>
               <p style={{fontSize:12,color:th.hint}}>Preview: <span style={{fontSize:fs.body}}>The quick brown fox</span></p>
             </SS>
-
             <SS label="Font style" th={th}>
               <div style={{display:"flex",gap:8}}>
                 {["sans","serif"].map(s=>(
@@ -448,7 +409,6 @@ export default function BrushFeed() {
                 ))}
               </div>
             </SS>
-
             <SS label={`Card speed — ${settings.cardSpeed}s per card`} th={th}>
               <input type="range" min={6} max={20} step={1} value={settings.cardSpeed}
                 style={{width:"100%",accentColor:ac,cursor:"pointer"}}
@@ -457,7 +417,6 @@ export default function BrushFeed() {
                 <span>6s — fast reader</span><span>20s — relaxed</span>
               </div>
             </SS>
-
             <SS label="Show next card preview" th={th}>
               <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",gap:16}}>
                 <span style={{fontSize:14,color:th.sub}}>Shows a peek at the next article</span>
@@ -467,7 +426,6 @@ export default function BrushFeed() {
                 </div>
               </div>
             </SS>
-
             <div style={{background:`${ac}15`,border:`1px solid ${ac}40`,borderRadius:12,padding:"12px 16px",fontSize:14,color:ac,textAlign:"center"}}>
               ✓ Settings save automatically
             </div>
