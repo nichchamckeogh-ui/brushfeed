@@ -180,7 +180,7 @@ export default async function handler(req, res) {
       };
 
       const blob = await put(`cards_${topic}.json`, JSON.stringify(payload), {
-        access: 'private',
+        access: 'public',
         contentType: 'application/json',
         addRandomSuffix: false, // always overwrite same file
       });
