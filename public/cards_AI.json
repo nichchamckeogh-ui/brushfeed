@@ -1,139 +1,167 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-05-19T14:00:56.749Z",
-  "cardCount": 19,
+  "generatedAt": "2026-05-19T18:04:00.394Z",
+  "cardCount": 23,
   "cards": [
     {
-      "title": "SandboxAQ Brings Drug Discovery Models to Claude",
-      "body": "SandboxAQ is leveraging Anthropic's Claude to democratize access to AI-powered drug discovery models, removing the barrier of requiring advanced computing expertise. The company argues that accessibility, not just model quality, is the key differentiator in the competitive drug discovery AI space. Competitors like Chai Discovery and Isomorphic Labs are also racing to build better models in this emerging sector.",
+      "title": "Google's Genie integrates Street View for world simulations",
+      "body": "Google DeepMind is combining Street View with Project Genie to create interactive world simulations for robotics, gaming, and travel applications. Users can explore real environments with dynamic weather changes and rare scenarios. The technology demonstrates advances in AI-powered world modeling and environmental simulation.",
       "source": "TechCrunch",
-      "publishedAt": "2026-05-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic Acquires Stainless, Dev Tools for AI APIs",
-      "body": "Anthropic acquired Stainless, a startup that automates the creation and maintenance of software development kits (SDKs) used by developers to interact with APIs. The New York-based company, founded in 2022, had gained prominence by serving major AI companies including OpenAI, Google, and Cloudflare. This acquisition strengthens Anthropic's infrastructure for supporting developers building on top of its AI models.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-18",
-      "topic": "AI"
-    },
-    {
-      "title": "ArXiv Bans Authors for AI Misuse in Scientific Papers",
-      "body": "ArXiv announced it will ban authors for a year if they allow AI to do all the work in scientific paper creation, cracking down on careless use of large language models. The repository is taking stronger measures to ensure research integrity as LLM adoption in academia accelerates. This policy aims to prevent papers generated entirely by AI without proper human oversight and validation.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-16",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI's Greg Brockman Takes Product Strategy Role",
-      "body": "OpenAI announced that co-founder Greg Brockman has taken charge of product strategy as the company undergoes internal reorganization. The move coincides with plans to combine ChatGPT and Codex, the company's programming product, into a more integrated offering. This leadership shift reflects OpenAI's efforts to streamline its product portfolio.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-16",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI Launches ChatGPT for Personal Finance Management",
-      "body": "OpenAI released a new ChatGPT feature focused on personal finance that allows users to connect their bank accounts directly within the platform. The feature provides a comprehensive dashboard showing portfolio performance, spending patterns, subscriptions, and upcoming payments. This expansion positions ChatGPT as a multi-functional AI assistant beyond conversational capabilities.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-15",
-      "topic": "AI"
-    },
-    {
-      "title": "Runway Pursues World Models Through AI Video Generation",
-      "body": "AI video-generation startup Runway is positioning itself to challenge Google in the AI space by betting that video generation is the path to developing world models. The company argues that being an outsider to traditional AI labs gives it advantages in pursuing this ambitious goal. Runway believes video generation represents a critical frontier in advancing AI capabilities.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-15",
-      "topic": "AI"
-    },
-    {
-      "title": "Osaurus Combines Local and Cloud AI on Mac",
-      "body": "Osaurus released a Mac app that integrates both local and cloud-based AI models, allowing users to keep their memory, files, and tools on their own hardware. The application enables hybrid AI processing by combining on-device and cloud-based LLM capabilities. This approach addresses privacy concerns while maintaining access to more powerful cloud-based models.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-15",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI Brings Codex Programming Tool to Mobile",
-      "body": "OpenAI announced that Codex, its AI programming product, will soon be available on mobile phones. The update provides users with enhanced flexibility for managing workflows across different devices. This mobile expansion makes AI-powered code generation accessible beyond desktop environments.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-14",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Positioned as Third Player in Foundation Model Race",
-      "body": "At Google I/O, the company will present itself as a clear third place in the foundation model competition, a year after its previous developer conference. Google is working to establish its position against dominant players OpenAI and Anthropic in the rapidly evolving LLM landscape. The conference will showcase Google's latest AI developments and strategy.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta and Anduril Develop AI Smart Glasses for Military",
-      "body": "Defense-tech company Anduril and Meta are prototyping augmented-reality smart glasses for military applications, featuring AI capabilities including eye-tracking and voice command controls. The glasses are designed to enable operations such as ordering drone strikes through advanced AI interfaces. This collaboration represents a significant development in applying AI to military technology.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Elon Musk Loses OpenAI Lawsuit Over Statute Limitations",
-      "body": "A California jury unanimously ruled that Elon Musk's lawsuit against OpenAI and Sam Altman was filed too late, with claims barred by the statute of limitations. The verdict addressed core questions about whether OpenAI breached its founding agreements regarding nonprofit status and safety commitments. Judge Yvonne Gonzalez Rogers accepted the advisory verdict, delivering a major defeat to Musk.",
-      "source": "MIT Technology Review",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Chinese Short Drama Industry Powered by AI Content",
-      "body": "China's short drama industry has become an AI content machine, producing bite-sized, melodramatic shows optimized for algorithmic distribution and audience engagement. These AI-generated dramas are fueling a massive entertainment sector built on rapid, scalable content production. The trend demonstrates how AI is transforming media creation and distribution in non-Western markets.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-15",
+      "title": "Google launches Gemini 3.5 Flash for autonomous AI agents",
+      "body": "Google unveiled Gemini 3.5 Flash, its most powerful coding and agentic AI model, at its developer conference. The model can autonomously execute complex tasks and build software from scratch without human intervention. This represents Google's strategic pivot from chatbots toward more capable AI agents.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Railway Raises $100M to Challenge AWS with AI Infrastructure",
-      "body": "Cloud platform Railway secured $100 million in Series B funding to develop AI-native cloud infrastructure as an alternative to AWS. The San Francisco-based company has quietly accumulated two million developers without traditional marketing spending, relying on developer satisfaction. Rising demand for AI applications is exposing limitations in legacy cloud infrastructure.",
+      "title": "Google launches AI-powered information agents for notifications",
+      "body": "Google is releasing AI-powered information agents that monitor topics in the background and proactively alert users to updates. These agents represent a shift from reactive search to anticipatory AI assistance. The technology aims to keep users informed about their interests automatically.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Search transforms into AI-powered conversational experience",
+      "body": "Google is fundamentally redesigning Search from link lists into an AI-powered platform featuring conversational answers, autonomous agents, and interactive interfaces. The shift could significantly reduce web traffic to publishers as users get answers directly from AI. This represents Google's major repositioning in the AI era.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Gmail adds conversational voice search powered by Gemini",
+      "body": "Google expanded Gmail's AI Inbox with conversational voice search capabilities using Gemini. Users can now ask Gemini to find specific email details through natural language queries. This enhancement makes email management more accessible through voice interaction.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Google AI Studio generates native Android apps in minutes",
+      "body": "Google unveiled web-based AI tools that can generate functional native Android apps within minutes. The platform is designed for accessibility across skill levels, from teachers to small business owners. This represents a major advance in AI-powered software development automation.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Google releases Android CLI for AI coding agents",
+      "body": "Google embraced AI coding agents by releasing Android CLI tools compatible with platforms like Claude Code and OpenAI's Codex. The tools enable developers and AI assistants to build Android apps faster from the command line. This reflects the industry's shift toward AI-assisted development workflows.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Google announces Gemini Spark, 24/7 agentic personal assistant",
+      "body": "Google introduced Gemini Spark, a new agentic personal assistant built from Gemini's base models and Google Antigravity's agentic harness. The assistant integrates with Gmail and provides 24/7 personalized AI assistance. It represents Google's push into continuous, autonomous AI agents.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Google adds voice prompting to Docs and Keep apps",
+      "body": "Google enabled voice-based prompting in Workspace products, allowing users to create drafts, take notes, and search emails through voice commands. The new capability makes document creation and note-taking more accessible and hands-free. This update expands AI assistance across Google's productivity suite.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Gemini Omni generates and edits video from multimodal input",
+      "body": "Google's Gemini Omni is a multimodal model that reasons across text, images, audio, and video to generate and edit videos through conversation. Starting with Omni Flash, users can create video content simply by describing their vision. This represents a major leap in multimodal AI capabilities.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI adds C2PA standard and SynthID for image detection",
+      "body": "OpenAI announced two measures to help detect AI-generated images: adopting the open C2PA standard and integrating Google's SynthID technology. These tools help identify imagery created by OpenAI's models through metadata and digital watermarking. The effort addresses growing concerns about AI-generated content authentication.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Google launches Antigravity 2.0 with new $100 AI Ultra plan",
+      "body": "Google debuted Antigravity 2.0 with an updated desktop app and CLI tool, introducing a new AI Ultra plan priced at $100. The Ultra plan provides 5x higher usage limits compared to the AI Pro plan. This pricing tier reflects growing demand for more powerful AI compute access.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Google upgrades Gemini app to compete with ChatGPT, Claude",
+      "body": "Google updated its Gemini app with new features to transform it from a standalone chatbot into a comprehensive AI hub. The upgrades position Gemini as a direct competitor to OpenAI's ChatGPT and Anthropic's Claude. This reflects Google's strategy to consolidate its AI offerings.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI co-founder Karpathy joins Anthropic's pre-training team",
+      "body": "Andrej Karpathy, OpenAI co-founder, joined Anthropic's pre-training team, which handles large-scale training runs for Claude's core capabilities. Pre-training is one of the most expensive and compute-intensive phases of building frontier AI models. This hire strengthens Anthropic's technical capacity in foundational model development.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "SandboxAQ brings drug discovery models to Claude platform",
+      "body": "SandboxAQ integrated its drug discovery AI models into Claude, making advanced computational chemistry accessible without specialized AI expertise. The partnership democratizes access to pharmaceutical research models previously requiring PhDs in computing. Other companies like Chai Discovery and Isomorphic Labs are pursuing similar integration strategies.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-18",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic acquires Stainless, AI SDK automation startup",
+      "body": "Anthropic acquired Stainless, a startup that automates SDK creation and maintenance for API interactions. Stainless gained prominence by serving OpenAI, Google, and Cloudflare with developer tools tailored for AI applications. The acquisition strengthens Anthropic's capabilities in supporting developer integration with Claude.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-18",
+      "topic": "AI"
+    },
+    {
+      "title": "Elon Musk loses lawsuit against Sam Altman and OpenAI",
+      "body": "A California jury unanimously ruled against Elon Musk in his lawsuit against Sam Altman and OpenAI, determining his claims were filed too late under statute of limitations. The verdict ended Musk's legal challenge over alleged mistreatment by OpenAI's co-founders. The decision represents a major setback in Musk's efforts to challenge the company's direction.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-18",
+      "topic": "AI"
+    },
+    {
+      "title": "Amazon Alexa+ generates custom AI podcast episodes on demand",
+      "body": "Amazon expanded Alexa+ capabilities to generate custom AI-powered podcast episodes on demand. The feature transforms Alexa from an assistant into a personalized AI content platform. This advancement demonstrates AI's expanding role in content generation and personalization.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-18",
+      "topic": "AI"
+    },
+    {
+      "title": "Google redesigns search box for AI-first experience",
+      "body": "Google formally retired its 25-year-old search box paradigm at I/O, redesigning it for an AI-first experience. The new interface supports conversational queries and AI-powered results rather than traditional blue link lists. This redesign symbolizes Google's fundamental shift toward AI-driven search.",
       "source": "VentureBeat",
-      "publishedAt": "2026-01-22",
+      "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Goose Offers Free Alternative to Claude Code AI Agent",
-      "body": "Goose is emerging as a free alternative to Anthropic's Claude Code, which costs $20 to $200 monthly for autonomous AI coding capabilities. Claude Code's high pricing has created market opportunity for competitive solutions despite its widespread adoption among developers. The pricing disparity highlights tension between cost and accessibility in AI coding tools.",
+      "title": "Claude Code costs up to $200; Goose offers free alternative",
+      "body": "Anthropic's Claude Code terminal-based AI agent can write, debug, and deploy code autonomously but costs between $20-$200 monthly. Goose provides similar autonomous coding capabilities entirely free, creating competition in the AI coding agent market. This pricing disparity highlights cost barriers in the emerging AI development tools sector.",
       "source": "VentureBeat",
       "publishedAt": "2026-01-19",
       "topic": "AI"
     },
     {
-      "title": "Listen Labs Raises $69M Using AI for Customer Interviews",
-      "body": "Listen Labs raised $69 million after a viral billboard campaign to scale its AI-powered customer interview platform, which automates qualitative research. The startup went viral with a creative hiring stunt displayed on San Francisco billboards, demonstrating unconventional marketing in the AI era. The funding supports expansion of AI capabilities in customer research and user insights.",
-      "source": "VentureBeat",
-      "publishedAt": "2026-01-16",
-      "topic": "AI"
-    },
-    {
-      "title": "Salesforce Transforms Slackbot Into Full AI Agent",
-      "body": "Salesforce rebuilt Slackbot from a notification tool into a fully powered AI agent capable of searching enterprise data, drafting documents, and taking automated actions. The update positions Slack as a competitive workplace AI platform against Microsoft and Google offerings. The new Slackbot leverages advanced LLM capabilities to integrate with enterprise systems.",
+      "title": "Salesforce launches rebuilt Slackbot as AI agent rival",
+      "body": "Salesforce released a completely rebuilt Slackbot transforming it from a notification tool into a fully powered AI agent. The agent can search enterprise data, draft documents, and execute actions on behalf of users. This positions Slackbot as a competitive workplace AI agent against Microsoft and Google offerings.",
       "source": "VentureBeat",
       "publishedAt": "2026-01-13",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Launches Cowork Agent for Non-Technical Users",
-      "body": "Anthropic released Cowork, an AI agent extending Claude Code capabilities to non-technical users without requiring programming knowledge. The feature was built in approximately one week using Claude Code itself, demonstrating recursive AI development. Cowork enables broader access to autonomous AI assistance for file and workflow management.",
+      "title": "Anthropic launches Cowork agent for non-technical users",
+      "body": "Anthropic released Cowork, a Claude Desktop agent extending Claude Code's capabilities to non-technical users for file management without coding. The team built the entire feature in approximately one and a half weeks, largely using Claude Code itself. Cowork demonstrates how AI can democratize access to agentic AI capabilities.",
       "source": "VentureBeat",
       "publishedAt": "2026-01-12",
       "topic": "AI"
     },
     {
-      "title": "Nous Research Releases Competitive Open-Source Coding Model",
-      "body": "Nous Research released NousCoder-14B, an open-source coding model that matches or exceeds larger proprietary systems, trained in four days using 48 Nvidia B200 GPUs. The model directly competes with proprietary solutions like Claude Code during a pivotal moment in AI coding tool development. The achievement demonstrates rapid progress in open-source AI model development.",
+      "title": "Nous Research releases open-source NousCoder-14B model",
+      "body": "Nous Research released NousCoder-14B, an open-source coding model matching or exceeding larger proprietary systems, trained in just four days using 48 Nvidia B200 GPUs. The model represents a competitive advancement in open-source AI development tools. This achievement demonstrates the rapid pace of improvements in accessible coding models.",
       "source": "VentureBeat",
       "publishedAt": "2026-01-07",
-      "topic": "AI"
-    },
-    {
-      "title": "Claude Code Creator Shares Development Workflow Details",
-      "body": "Boris Cherny, creator and head of Claude Code at Anthropic, revealed his development workflow in a social media thread that garnered significant engineering community attention. The disclosure prompted extensive technical analysis as developers studied the processes behind the world's most advanced coding AI agent. This transparency highlighted how top AI engineers approach autonomous code generation.",
-      "source": "VentureBeat",
-      "publishedAt": "2026-01-05",
       "topic": "AI"
     }
   ]
