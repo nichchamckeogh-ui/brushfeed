@@ -2,8 +2,26 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <title>BrushFeed</title>
+
+    <!-- PWA manifest -->
+    <link rel="manifest" href="/manifest.json" />
+
+    <!-- iOS specific -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="BrushFeed" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+
+    <!-- Theme colour (colours browser chrome on Android) -->
+    <meta name="theme-color" content="#0a0a10" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/icons/favicon.png" />
+
+    <!-- Description for sharing -->
+    <meta name="description" content="2 minutes of news while you brush your teeth. Hands-free." />
   </head>
   <body>
     <div id="root"></div>
