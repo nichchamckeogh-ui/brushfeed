@@ -1,165 +1,193 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-05-19T18:04:00.394Z",
-  "cardCount": 23,
+  "generatedAt": "2026-05-20T06:35:25.534Z",
+  "cardCount": 27,
   "cards": [
     {
-      "title": "Google's Genie integrates Street View for world simulations",
-      "body": "Google DeepMind is combining Street View with Project Genie to create interactive world simulations for robotics, gaming, and travel applications. Users can explore real environments with dynamic weather changes and rare scenarios. The technology demonstrates advances in AI-powered world modeling and environmental simulation.",
+      "title": "Google declares itself AI design contender at IO 2026",
+      "body": "Google announced new AI design capabilities aimed at accessibility for teachers and small business owners. The company is positioning itself as a major player in AI application development. This marks Google's effort to democratize AI tools across different user skill levels.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Google launches Gemini 3.5 Flash for autonomous AI agents",
-      "body": "Google unveiled Gemini 3.5 Flash, its most powerful coding and agentic AI model, at its developer conference. The model can autonomously execute complex tasks and build software from scratch without human intervention. This represents Google's strategic pivot from chatbots toward more capable AI agents.",
+      "title": "Gmail inbox now supports conversational voice search",
+      "body": "Google expanded Gmail's AI Inbox with conversational voice search capabilities powered by Gemini. Users can now ask Gemini to find buried email details using natural language. This enhancement integrates advanced language model capabilities into everyday productivity tools.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Google launches AI-powered information agents for notifications",
-      "body": "Google is releasing AI-powered information agents that monitor topics in the background and proactively alert users to updates. These agents represent a shift from reactive search to anticipatory AI assistance. The technology aims to keep users informed about their interests automatically.",
+      "title": "Google launches AI-powered information agents for monitoring",
+      "body": "Google is launching AI-powered \"information agents\" that monitor topics in the background and proactively alert users. These agents go beyond standard search by providing autonomous monitoring capabilities. This represents a shift toward more active, agent-based AI assistants.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Google Search transforms into AI-powered conversational experience",
-      "body": "Google is fundamentally redesigning Search from link lists into an AI-powered platform featuring conversational answers, autonomous agents, and interactive interfaces. The shift could significantly reduce web traffic to publishers as users get answers directly from AI. This represents Google's major repositioning in the AI era.",
+      "title": "Ocean raises $28M for AI-powered email security platform",
+      "body": "Ocean, an agentic email security platform, raised $28 million to fight AI-based phishing attacks. The platform uses AI to analyze email context and detect fraud and impersonation attempts. This addresses growing threats from sophisticated AI-powered cybercrime.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Gmail adds conversational voice search powered by Gemini",
-      "body": "Google expanded Gmail's AI Inbox with conversational voice search capabilities using Gemini. Users can now ask Gemini to find specific email details through natural language queries. This enhancement makes email management more accessible through voice interaction.",
+      "title": "Elon Musk loses lawsuit against OpenAI founders",
+      "body": "A jury unanimously rejected Elon Musk's lawsuit against OpenAI, Sam Altman, and Microsoft, finding his claims barred by statutes of limitations. The case centered on allegations that Altman and Brockman deceived Musk over the company's non-profit status. Judge Yvonne Gonzalez Rogers accepted the advisory verdict immediately.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Google AI Studio generates native Android apps in minutes",
-      "body": "Google unveiled web-based AI tools that can generate functional native Android apps within minutes. The platform is designed for accessibility across skill levels, from teachers to small business owners. This represents a major advance in AI-powered software development automation.",
+      "title": "Google's Genie world model simulates real streets",
+      "body": "Google DeepMind integrated Street View with Project Genie to create immersive, interactive world simulations. The technology simulates real streets with weather changes and rare scenarios for robotics, gaming, and travel. This represents advancement in AI-powered world modeling and environmental simulation.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Google releases Android CLI for AI coding agents",
-      "body": "Google embraced AI coding agents by releasing Android CLI tools compatible with platforms like Claude Code and OpenAI's Codex. The tools enable developers and AI assistants to build Android apps faster from the command line. This reflects the industry's shift toward AI-assisted development workflows.",
+      "title": "Gemini 3.5 Flash marks shift toward agentic AI",
+      "body": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model, at Google I/O 2026. The model can autonomously execute complex tasks and build software from scratch. This represents Google's strategic pivot from chatbots to autonomous agents.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Google announces Gemini Spark, 24/7 agentic personal assistant",
-      "body": "Google introduced Gemini Spark, a new agentic personal assistant built from Gemini's base models and Google Antigravity's agentic harness. The assistant integrates with Gmail and provides 24/7 personalized AI assistance. It represents Google's push into continuous, autonomous AI agents.",
+      "title": "Google Search transformed into AI-powered experience",
+      "body": "Google is transforming Search from a list of links into an AI-powered experience with conversational answers and autonomous agents. The shift includes interactive interfaces powered by large language models. This fundamental redesign could significantly reduce traditional web traffic to publishers.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Google adds voice prompting to Docs and Keep apps",
-      "body": "Google enabled voice-based prompting in Workspace products, allowing users to create drafts, take notes, and search emails through voice commands. The new capability makes document creation and note-taking more accessible and hands-free. This update expands AI assistance across Google's productivity suite.",
+      "title": "OpenAI adds measures to detect AI-generated imagery",
+      "body": "OpenAI announced two new tools to help detect images made by their models: joining the C2PA standard and adding Google's SynthID. These measures address concerns about AI-generated imagery authenticity and traceability. The initiatives represent industry collaboration on AI safety and detection.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Gemini Omni generates and edits video from multimodal input",
-      "body": "Google's Gemini Omni is a multimodal model that reasons across text, images, audio, and video to generate and edit videos through conversation. Starting with Omni Flash, users can create video content simply by describing their vision. This represents a major leap in multimodal AI capabilities.",
+      "title": "Google AI Studio generates Android apps in minutes",
+      "body": "Google unveiled web-based AI tools that can generate native Android apps in minutes using generative AI. The platform significantly accelerates software development workflows through AI assistance. This expands Google's push into AI-powered development tools.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "OpenAI adds C2PA standard and SynthID for image detection",
-      "body": "OpenAI announced two measures to help detect AI-generated images: adopting the open C2PA standard and integrating Google's SynthID technology. These tools help identify imagery created by OpenAI's models through metadata and digital watermarking. The effort addresses growing concerns about AI-generated content authentication.",
+      "title": "Google Android CLI embraces AI coding agents",
+      "body": "Google released Android CLI tools designed to work with AI coding agents like Claude Code and OpenAI's Codex. The command-line tools enable developers and their AI assistants to build Android apps faster. This reflects industry adoption of agentic AI for software development.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Google launches Antigravity 2.0 with new $100 AI Ultra plan",
-      "body": "Google debuted Antigravity 2.0 with an updated desktop app and CLI tool, introducing a new AI Ultra plan priced at $100. The Ultra plan provides 5x higher usage limits compared to the AI Pro plan. This pricing tier reflects growing demand for more powerful AI compute access.",
+      "title": "Google announces Gemini Spark agentic assistant",
+      "body": "Google introduced Gemini Spark, a new 24/7 agentic personal assistant built from Gemini's base models at I/O 2026. Gemini Spark integrates with Gmail and uses agentic capabilities for autonomous task execution. The assistant represents Google's evolution toward always-on AI agents.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Google upgrades Gemini app to compete with ChatGPT, Claude",
-      "body": "Google updated its Gemini app with new features to transform it from a standalone chatbot into a comprehensive AI hub. The upgrades position Gemini as a direct competitor to OpenAI's ChatGPT and Anthropic's Claude. This reflects Google's strategy to consolidate its AI offerings.",
+      "title": "Google adds voice prompting to Docs and Keep",
+      "body": "Google introduced voice-based prompting in Workspace applications, allowing users to create drafts and notes with voice commands. The update leverages AI to process natural language voice input. This expands voice AI capabilities across Google's productivity suite.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "OpenAI co-founder Karpathy joins Anthropic's pre-training team",
-      "body": "Andrej Karpathy, OpenAI co-founder, joined Anthropic's pre-training team, which handles large-scale training runs for Claude's core capabilities. Pre-training is one of the most expensive and compute-intensive phases of building frontier AI models. This hire strengthens Anthropic's technical capacity in foundational model development.",
+      "title": "Google launches Antigravity 2.0 with AI Ultra plan",
+      "body": "Google debuted Antigravity 2.0 with a new AI Ultra plan priced at $100, offering 5x usage limits versus AI Pro. The update includes a new desktop app and CLI tool for AI developers. This represents tiered AI service offerings for different user needs.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "SandboxAQ brings drug discovery models to Claude platform",
-      "body": "SandboxAQ integrated its drug discovery AI models into Claude, making advanced computational chemistry accessible without specialized AI expertise. The partnership democratizes access to pharmaceutical research models previously requiring PhDs in computing. Other companies like Chai Discovery and Isomorphic Labs are pursuing similar integration strategies.",
+      "title": "Gemini Omni generates and edits video through conversation",
+      "body": "Google's Gemini Omni is a new multimodal model reasoning across text, images, audio, and video to generate and edit videos. Users can create and modify videos through simple conversation with Omni Flash. This demonstrates advancement in multimodal AI capabilities.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Google updates Gemini app to challenge ChatGPT",
+      "body": "Google updated its Gemini app with features to compete with ChatGPT and Claude at I/O 2026. The updates transform Gemini from a stand-alone chatbot into an all-purpose AI hub. This reflects Google's competitive positioning in the large language model market.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Andrej Karpathy joins Anthropic's pre-training team",
+      "body": "OpenAI co-founder Andrej Karpathy joined Anthropic's pre-training team, which handles large-scale training runs for Claude. Pre-training is responsible for core knowledge and capabilities but is extremely expensive and compute-intensive. This hire signals Anthropic's investment in frontier model development.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "SandboxAQ brings drug discovery models to Claude",
+      "body": "SandboxAQ integrated its drug discovery models with Claude to democratize access for non-experts. The company believes access is a bigger obstacle than model quality in AI drug discovery. This partnership enables broader adoption of AI in pharmaceutical research.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-18",
       "topic": "AI"
     },
     {
-      "title": "Anthropic acquires Stainless, AI SDK automation startup",
-      "body": "Anthropic acquired Stainless, a startup that automates SDK creation and maintenance for API interactions. Stainless gained prominence by serving OpenAI, Google, and Cloudflare with developer tools tailored for AI applications. The acquisition strengthens Anthropic's capabilities in supporting developer integration with Claude.",
-      "source": "TechCrunch",
+      "title": "Understanding AI's role in modern cybercrime landscape",
+      "body": "Throughout 2025, HPE Threat Labs observed significant changes in how cybercriminals operate with greater industrialization. AI and automation enable cybercriminals to operate at greater scale, speed, and structure. This reflects emerging challenges in AI-powered cybersecurity threats.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Google I/O positions Google as third-place AI player",
+      "body": "At Google I/O, the company opened its doors as a clear third place in the foundation model race behind leaders. Google announced multiple AI advances across search, agents, and multimodal capabilities. This conference marks Google's strategic positioning in competitive AI landscape.",
+      "source": "MIT Technology Review",
       "publishedAt": "2026-05-18",
       "topic": "AI"
     },
     {
-      "title": "Elon Musk loses lawsuit against Sam Altman and OpenAI",
-      "body": "A California jury unanimously ruled against Elon Musk in his lawsuit against Sam Altman and OpenAI, determining his claims were filed too late under statute of limitations. The verdict ended Musk's legal challenge over alleged mistreatment by OpenAI's co-founders. The decision represents a major setback in Musk's efforts to challenge the company's direction.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Amazon Alexa+ generates custom AI podcast episodes on demand",
-      "body": "Amazon expanded Alexa+ capabilities to generate custom AI-powered podcast episodes on demand. The feature transforms Alexa from an assistant into a personalized AI content platform. This advancement demonstrates AI's expanding role in content generation and personalization.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Google redesigns search box for AI-first experience",
-      "body": "Google formally retired its 25-year-old search box paradigm at I/O, redesigning it for an AI-first experience. The new interface supports conversational queries and AI-powered results rather than traditional blue link lists. This redesign symbolizes Google's fundamental shift toward AI-driven search.",
+      "title": "Google redesigns search box after 25 years",
+      "body": "Google formally retired its iconic thin white rectangle search box after 25 years at I/O 2026. The new search paradigm features AI-powered conversational answers and autonomous agents. This fundamental interface redesign reflects the shift from link-based to AI-driven search.",
       "source": "VentureBeat",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Claude Code costs up to $200; Goose offers free alternative",
-      "body": "Anthropic's Claude Code terminal-based AI agent can write, debug, and deploy code autonomously but costs between $20-$200 monthly. Goose provides similar autonomous coding capabilities entirely free, creating competition in the AI coding agent market. This pricing disparity highlights cost barriers in the emerging AI development tools sector.",
+      "title": "Railway raises $100M for AI-native cloud infrastructure",
+      "body": "Railway secured $100 million Series B funding to challenge AWS with AI-native cloud infrastructure. The San Francisco platform has amassed two million developers without traditional marketing. Growing demand for AI applications is exposing limitations of legacy cloud infrastructure.",
+      "source": "VentureBeat",
+      "publishedAt": "2026-01-22",
+      "topic": "AI"
+    },
+    {
+      "title": "Goose offers free alternative to Claude Code",
+      "body": "Goose provides free AI coding capabilities comparable to Claude Code, which costs up to $200 monthly. Claude Code's pricing creates barriers for developers adopting autonomous AI agents. This represents emerging competition in affordable AI coding tools.",
       "source": "VentureBeat",
       "publishedAt": "2026-01-19",
       "topic": "AI"
     },
     {
-      "title": "Salesforce launches rebuilt Slackbot as AI agent rival",
-      "body": "Salesforce released a completely rebuilt Slackbot transforming it from a notification tool into a fully powered AI agent. The agent can search enterprise data, draft documents, and execute actions on behalf of users. This positions Slackbot as a competitive workplace AI agent against Microsoft and Google offerings.",
+      "title": "Listen Labs scales AI customer interview capabilities",
+      "body": "Listen Labs raised $69 million to scale AI-powered customer interview technology after viral marketing success. The startup uses AI to conduct and analyze customer interviews autonomously. This funding round reflects investor confidence in AI customer research applications.",
+      "source": "VentureBeat",
+      "publishedAt": "2026-01-16",
+      "topic": "AI"
+    },
+    {
+      "title": "Salesforce transforms Slackbot into AI agent",
+      "body": "Salesforce launched a rebuilt Slackbot as a fully-powered AI agent capable of searching enterprise data and drafting documents. The transformation shifts Slackbot from a notification tool to an autonomous workplace assistant. This positions Salesforce competitively against Microsoft and Google workplace AI.",
       "source": "VentureBeat",
       "publishedAt": "2026-01-13",
       "topic": "AI"
     },
     {
-      "title": "Anthropic launches Cowork agent for non-technical users",
-      "body": "Anthropic released Cowork, a Claude Desktop agent extending Claude Code's capabilities to non-technical users for file management without coding. The team built the entire feature in approximately one and a half weeks, largely using Claude Code itself. Cowork demonstrates how AI can democratize access to agentic AI capabilities.",
+      "title": "Anthropic releases Cowork for non-technical AI users",
+      "body": "Anthropic launched Cowork, extending Claude Code capabilities to non-technical users without requiring coding knowledge. The company built the entire feature in approximately a week and a half using Claude Code itself. This demonstrates AI's capability to accelerate AI development.",
       "source": "VentureBeat",
       "publishedAt": "2026-01-12",
       "topic": "AI"
     },
     {
-      "title": "Nous Research releases open-source NousCoder-14B model",
-      "body": "Nous Research released NousCoder-14B, an open-source coding model matching or exceeding larger proprietary systems, trained in just four days using 48 Nvidia B200 GPUs. The model represents a competitive advancement in open-source AI development tools. This achievement demonstrates the rapid pace of improvements in accessible coding models.",
+      "title": "NousCoder-14B matches larger proprietary coding models",
+      "body": "Nous Research released NousCoder-14B, an open-source coding model matching or exceeding larger proprietary systems. The model was trained in four days using 48 Nvidia B200 GPUs at competitive performance. This demonstrates efficiency advances in open-source AI model development.",
       "source": "VentureBeat",
       "publishedAt": "2026-01-07",
       "topic": "AI"
