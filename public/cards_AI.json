@@ -1,301 +1,287 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-05-21T12:16:52.444Z",
-  "cardCount": 42,
+  "generatedAt": "2026-05-21T18:18:42.418Z",
+  "cardCount": 40,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Nvidia CEO Eyes $200B AI Agent CPU Market",
-      "body": "Jensen Huang predicts CPUs for AI agents represent the next major opportunity for Nvidia. The CEO believes this market could be worth $200 billion.",
+      "title": "Trump Delays AI Security Executive Order",
+      "body": "President Trump postponed signing an executive order requiring pre-release government security reviews of AI models. He cited dissatisfaction with the order's language.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-21",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Targets First Profitable Quarter",
-      "body": "Anthropic told investors it will more than double revenue to around $10.9 billion in Q2. The milestone marks a path toward profitability for the AI company.",
+      "title": "Spotify Launches ElevenLabs Audiobook Tool",
+      "body": "Spotify is releasing new audiobook creation features powered by ElevenLabs. The tool will be available later this year.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-21",
       "topic": "AI Update"
     },
     {
-      "title": "Video Clipping Startup Clouted Raises $7M",
-      "body": "Clouted aims to remove guesswork from making viral short videos. The startup secured a seed round led by Slow Ventures.",
+      "title": "Spotify Adds AI Podcast Q&A Features",
+      "body": "Spotify users can now generate daily or weekly briefings based on custom prompts. The feature uses AI to summarize podcast content.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Spotify Releases NotebookLM Competitor App",
+      "body": "Spotify launched a new desktop research app available as a preview in 20+ markets. The app directly competes with Google's NotebookLM.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Hark Raises $700M for Universal AI",
+      "body": "Hark plans to release multimodal models this summer powering a personal AI platform. Hardware devices tailored for these systems will follow.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "The Path Launches Safer AI Therapy",
+      "body": "The Path, founded by Tony Robbins and Calm veterans, launched an AI mental health model scoring 95 on safety benchmarks. Consumer bots top out at 65 on the same scale.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Pitches AI Agent Ecosystem",
+      "body": "Google unveiled AI agents as a new consumer web interface at I/O 2026. The concept was promising but confusing to audiences.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Recycling Startups Use AI for Minerals",
+      "body": "AI-powered recycling startups are targeting critical mineral recovery as aluminum prices surge 20%. The sector aims to become a major metal source.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Jensen Huang Eyes $200B AI CPU Market",
+      "body": "Nvidia CEO Jensen Huang identified CPUs for AI agents as a $200 billion opportunity. This represents the next major revenue driver for Nvidia.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Projects Profitability This Quarter",
+      "body": "Anthropic told investors it will more than double revenue to $10.9 billion in Q2 2026. The company is on track for its first profitable quarter.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Clouted Raises $7M for Viral Videos",
+      "body": "Video clipping startup Clouted closed a $7 million seed round led by Slow Ventures. The platform aims to remove guesswork from short-form video virality.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-20",
       "topic": "AI Update"
     },
     {
-      "title": "xAI Lost $6.4B in 2025, Plans Major Expansion",
-      "body": "SpaceX's IPO filing reveals xAI's $6.4 billion loss last year while planning aggressive Grok expansion. The filing offers first public details of Elon Musk's AI financials and ambitions.",
+      "title": "xAI Lost $6.4B in 2025: Filing",
+      "body": "SpaceX's IPO filing revealed xAI burned $6.4 billion last year while planning massive expansion. The filing offers first public details on Elon Musk's AI finances.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-20",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia Posts Record Quarter, Holds $43B Startup Stakes",
-      "body": "Nvidia announced record revenue but forecasted slower growth in the following quarter. The company revealed $43 billion in holdings across startup investments.",
+      "title": "Nvidia Posts Record Quarter Results",
+      "body": "Nvidia announced record revenue and revealed $43 billion in startup holdings. However, the company forecasted slower growth in the next quarter.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-20",
       "topic": "AI Update"
     },
     {
-      "title": "xAI Plans $2.8B Purchase of Gas Turbines",
-      "body": "Elon Musk's xAI will buy $2.8 billion worth of natural gas turbines over three years. The investment supports massive data center infrastructure expansion.",
+      "title": "xAI Buying $2.8B in Gas Turbines",
+      "body": "xAI announced plans to purchase $2.8 billion worth of natural gas turbines over three years. The investment supports massive data center expansion.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-20",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Will Pay xAI $1.25B Monthly",
-      "body": "Anthropic struck a compute deal with Elon Musk's xAI valued at $1.25 billion per month. The arrangement represents a major partnership in the AI industry.",
+      "title": "Anthropic Pays xAI $1.25B Monthly",
+      "body": "Anthropic agreed to purchase compute from xAI at $1.25 billion per month. The deal represents a major partnership between the AI giants.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-20",
       "topic": "AI Update"
     },
     {
       "title": "OpenAI Solves 80-Year-Old Math Problem",
-      "body": "OpenAI's reasoning model disproved a geometry conjecture unsolved since 1946. Mathematicians who previously exposed OpenAI's claims are backing this breakthrough.",
+      "body": "OpenAI's reasoning model disproved a geometry conjecture unsolved since 1946. Leading mathematicians verified the breakthrough, backing the claim.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-20",
       "topic": "AI Update"
     },
     {
-      "title": "IrisGo Launches AI Desktop Assistant, Backed by Andrew Ng",
-      "body": "Iris watches desktop activity and automatically learns to complete user tasks. The AI butler startup is backed by prominent AI researcher Andrew Ng.",
+      "title": "IrisGo Launches AI Desktop Assistant",
+      "body": "Andrew Ng-backed IrisGo debuted an 'AI butler' that learns desktop tasks automatically. The startup positions itself as the AI productivity sidekick.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-20",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Eyes September IPO After Legal Victory",
-      "body": "A day after Elon Musk's lawsuit was rejected, OpenAI resumed IPO preparations. The company aims to go public as early as September.",
+      "title": "OpenAI Accelerates September IPO Plans",
+      "body": "OpenAI resumed IPO preparations following Elon Musk's lawsuit dismissal. The company targets September for its public market debut.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-20",
       "topic": "AI Update"
     },
     {
-      "title": "AI Search Startups Emerge as Hottest Sector",
-      "body": "AI search has quietly become one of the most attractive targets in consumer AI. Multiple startups are racing to challenge traditional search incumbents.",
+      "title": "AI Search Startups Attract Major Interest",
+      "body": "AI search has quietly become one of consumer AI's most attractive opportunities. Multiple startups are competing in this rapidly growing segment.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-20",
       "topic": "AI Update"
     },
     {
       "title": "Stability AI Releases Audio Model 3.0",
-      "body": "Stability Audio 3.0 can generate six-minute songs and run on-device. The small model produces two-minute tracks with improved quality.",
+      "body": "Stability Audio 3.0 can generate six-minute songs with a small on-device model. The tool produces two-minute tracks and runs locally.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-20",
       "topic": "AI Update"
     },
     {
-      "title": "Startup Battlefield 200 Applications Close May 27",
-      "body": "Applications for TechCrunch Disrupt's Startup Battlefield 200 close in one week. Winners gain investor access, $100K prize, and scaling perks.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "NanoClaw Rejects $20M Buyout, Raises $12M Seed",
-      "body": "NanoClaw creator turned down a $20 million acquisition offer instead. The AI agent startup raised $12 million seed funding and runs sandboxed in containers.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Figma Adds AI Assistant to Canvas",
-      "body": "Figma's new AI agent accepts natural language prompts to generate and edit designs. Users can automate iterations and design tasks directly.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Declares AI Design Dominance at IO 2026",
-      "body": "Google showcased new AI design capabilities targeting broad audiences. The company positioned itself as a contender in AI-powered design tools.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Gmail Gets Conversational Voice Search via Gemini",
-      "body": "Google expanded Gmail's AI Inbox with voice-powered searches. Users can now ask Gemini to find specific email details conversationally.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Launches AI Information Agents",
-      "body": "Google's new agentic information agents monitor topics and proactively alert users. The AI agents go beyond standard search to predict user needs.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Ocean Raises $28M to Fight AI Phishing",
-      "body": "Ocean's agentic email security platform uses AI to analyze context for fraud detection. The startup claims it can identify impersonation and phishing attempts.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Musk's OpenAI Lawsuit Rejected by Jury",
-      "body": "A jury swiftly rejected Elon Musk's lawsuit against OpenAI founders and Microsoft. The decision reflected weak legal grounds partly due to Musk's delayed filing.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Jensen Huang Eyes $200B AI Agent CPU Market",
-      "body": "Nvidia's CEO predicts the next major opportunity for the company will be CPUs designed for AI agents, worth approximately $200 billion. This represents Huang's vision for the next growth frontier beyond current GPU dominance.",
+      "title": "Spotify Launches AI Audiobook Creation Tool",
+      "body": "Spotify is partnering with ElevenLabs to enable AI-powered audiobook creation. The feature will be available through new audiobook plans launching later this year.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Approaching First Profitable Quarter",
-      "body": "Anthropic has informed investors it will more than double revenue to around $10.9 billion in Q2. The AI safety company is on track to achieve profitability milestone.",
+      "title": "Spotify Adds AI Q&A and Briefing Features",
+      "body": "Spotify is integrating AI capabilities to generate custom daily or weekly podcast briefings. Users can prompt the system to create personalized content summaries.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "xAI Lost $6.4B in 2025, Expanding Grok",
-      "body": "SpaceX's IPO filing reveals Elon Musk's xAI burned through $6.4 billion last year while planning massive expansion. The filing provides rare public insight into xAI's financial losses and ambitions.",
+      "title": "Spotify Challenges Google with NotebookLM Rival",
+      "body": "Spotify is launching a new desktop app as a research preview in 20+ markets. The app directly competes with Google's NotebookLM AI research tool.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21",
+      "topic": "AI"
+    },
+    {
+      "title": "Hark Raises $700M for Universal AI Interface",
+      "body": "Hark plans to release multimodal AI models this summer powering a personal AI platform. The company will follow with custom hardware devices optimized for these systems.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21",
+      "topic": "AI"
+    },
+    {
+      "title": "The Path Launches Safer AI Therapy Model",
+      "body": "Founded by Tony Robbins and Calm alumni, The Path scored 95 on mental health safety benchmark Vera-MH. This significantly outperforms consumer AI bots, which top out at 65.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Pitches Confusing AI Agent Ecosystem",
+      "body": "Google's I/O conference unveiled AI agents as a new way for consumers to interact with the web. The introduction was promising but confusing in execution.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Recycling Startups Target Critical Minerals",
+      "body": "Startups are using AI to improve recovery of critical minerals like aluminum from waste. Rising aluminum prices make AI-optimized recycling increasingly profitable.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21",
+      "topic": "AI"
+    },
+    {
+      "title": "Jensen Huang Predicts $200B AI Agent CPU Market",
+      "body": "Nvidia CEO Jensen Huang identified CPUs for AI agents as the next major revenue opportunity. He projects a $200 billion market for this new category.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic Targets First Profitable Quarter",
+      "body": "Anthropic told investors it will more than double revenue to $10.9 billion in Q2. The AI company is on track for profitability.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-10",
+      "topic": "AI"
+    },
+    {
+      "title": "xAI Burned $6.4B in 2025, Expanding Grok",
+      "body": "SpaceX's IPO filing reveals xAI lost $6.4 billion last year while planning massive expansion. Elon Musk's AI startup continues aggressive spending despite losses.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "Nvidia Records Another Record Quarter",
-      "body": "Nvidia announced record revenue figures but forecasted slower growth in the following quarter. The company also revealed $43 billion in startup holdings.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-20",
-      "topic": "AI"
-    },
-    {
-      "title": "xAI Buying $2.8B in Natural Gas Turbines",
-      "body": "Elon Musk's xAI will purchase $2.8 billion worth of natural gas turbines over three years, according to SpaceX's IPO filing. The massive infrastructure investment supports the company's data center expansion plans.",
+      "title": "xAI Purchases $2.8B in Natural Gas Turbines",
+      "body": "xAI committed to buying $2.8 billion of natural gas turbines over three years. The spending reflects massive infrastructure needs for AI model training.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
       "title": "Anthropic Pays xAI $1.25B Monthly for Compute",
-      "body": "Anthropic struck a deal with xAI to purchase compute resources at $1.25 billion per month. The partnership signals collaboration between major AI rivals.",
+      "body": "Anthropic signed a major deal to purchase computational resources from xAI. The monthly cost reaches $1.25 billion, revealing the scale of AI infrastructure investments.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Claims Solving 80-Year-Old Math Problem",
-      "body": "OpenAI's reasoning model allegedly disproved a geometry conjecture unsolved since 1946. Mathematicians who exposed OpenAI's previous false claims are backing this new one.",
+      "title": "OpenAI's Reasoning Model Solves 80-Year Math Problem",
+      "body": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946. Mathematicians who previously exposed OpenAI's errors are backing the new claim.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "Andrew Ng-Backed IrisGo AI Desktop Assistant",
-      "body": "IrisGo, backed by AI pioneer Andrew Ng, functions as an AI desktop buddy that watches user activity and learns to automate tasks. The startup aims to become an indispensable AI butler for computer users.",
+      "title": "Andrew Ng-Backed IrisGo Becomes AI Desktop Buddy",
+      "body": "IrisGo watches desktop activity and automatically learns to complete tasks for users. The AI 'butler' startup is developing into a practical desktop assistant.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "OpenAI IPO Could Happen in September",
-      "body": "Following Elon Musk's lawsuit defeat, OpenAI is reportedly resuming IPO preparations. The company may go public as early as September 2026.",
+      "title": "OpenAI IPO Expected in September",
+      "body": "OpenAI is reportedly preparing for an IPO following Elon Musk's failed lawsuit. The company could go public as soon as September.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "AI Search Startups Attracting Major Investment",
-      "body": "AI search has become one of the most attractive targets in consumer AI investment. The space is experiencing significant growth and startup activity.",
+      "title": "AI Search Startups Attract Major Investment",
+      "body": "AI search has become one of the most attractive targets in consumer AI development. Multiple startups are competing in this rapidly growing space.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "Stability AI Releases Audio Model for Songs",
-      "body": "Stability Audio 3.0 can generate six-minute long songs with its small model running on-device. The audio AI tool produces two-minute tracks with improved quality.",
+      "title": "Stability AI Releases New Audio Model",
+      "body": "Stability Audio 3.0 can generate 6-minute songs and runs on-device for 2-minute tracks. The model enables AI music creation without cloud processing.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "NanoClaw Creator Rejects $20M Buyout Offer",
-      "body": "NanoClaw creator turned down a $20 million acquisition and raised $12 million in seed funding instead. The secure AI alternative runs in sandboxed containers for agent-based marketing work.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-20",
+      "title": "Anthropic Showcases AI Coding Future at Event",
+      "body": "Code with Claude, Anthropic's developer conference in London, highlighted AI-assisted software development. The event demonstrated practical applications of Claude for developers.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "Figma Launches AI Assistant for Designers",
-      "body": "Figma added an AI agent that uses natural language prompts to generate designs and automate editing tasks. Users can now direct the assistant to create design iterations automatically.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Positions Itself as AI Design Leader",
-      "body": "Google announced new AI design capabilities at I/O 2026, targeting accessibility for teachers and business owners. The company is declaring itself a contender in AI-powered design tools.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19",
-      "topic": "AI"
-    },
-    {
-      "title": "Gmail Gets Conversational AI Voice Search",
-      "body": "Google expanded Gmail's AI Inbox with conversational voice search powered by Gemini. Users can now ask the AI to locate buried email details using natural conversation.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Launches Agentic Information Agents",
-      "body": "Google is launching AI-powered information agents that monitor topics in the background. These agents proactively alert users to updates and changes on tracked subjects.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19",
-      "topic": "AI"
-    },
-    {
-      "title": "Ocean Raises $28M for AI Email Security",
-      "body": "Ocean, an agentic email security platform, raised $28 million to fight AI-powered phishing. The startup uses AI to analyze email context and detect fraud attempts.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19",
-      "topic": "AI"
-    },
-    {
-      "title": "Elon Musk Loses Lawsuit Against OpenAI",
-      "body": "A jury rejected Elon Musk's lawsuit against OpenAI founders Sam Altman and Greg Brockman. The decision confirmed Musk's case was weak, partly due to filing delays.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Preparing to Remake Search with AI",
-      "body": "Google is set to transform search functionality using agentic AI technology in 2026. The overhaul represents a major shift in how users will interact with search.",
+      "title": "Google Prepares Search Remake with Agentic AI",
+      "body": "Google plans to fundamentally restructure search using agentic AI in 2026. The shift represents a major evolution in how users will interact with search.",
       "source": "Ars Technica",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "Musk v. Altman Trial Concludes at OpenAI",
-      "body": "Elon Musk lost his lawsuit against OpenAI, with the jury finding he sued too late under statutes of limitations. The case centered on alleged deception over OpenAI's nonprofit status.",
+      "title": "Musk Loses Lawsuit Against OpenAI Over Structure",
+      "body": "Elon Musk's legal challenge to OpenAI's structure and leadership was unsuccessful. The loss clears the path for OpenAI's IPO plans.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-19",
-      "topic": "AI"
-    },
-    {
-      "title": "Why Elon Musk Lost OpenAI Lawsuit",
-      "body": "The jury unanimously voted that Musk sued OpenAI too late, barring his claims. US District Judge Yvonne Gonzalez Rogers immediately accepted the advisory verdict.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-19",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Declares Third Place in AI Models",
-      "body": "At Google I/O, the company will position itself as the clear third contender in the foundation model race. Google aims to demonstrate competitive AI capabilities against OpenAI and Anthropic.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-18",
       "topic": "AI"
     }
   ]
