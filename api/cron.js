@@ -1,10 +1,10 @@
 // cron.js — runs twice daily via Vercel cron
 
+// Official company RSS feeds block server requests — using targeted press feeds instead
+// These are updated within hours of any AI company announcement
 const AI_COMPANY_SOURCES = [
-  { name: 'OpenAI',          url: 'https://openai.com/blog/rss/' },
-  { name: 'Anthropic',       url: 'https://www.anthropic.com/news/rss' },
-  { name: 'Google DeepMind', url: 'https://deepmind.google/blog/rss' },
-  { name: 'Meta AI',         url: 'https://ai.meta.com/blog/rss/' },
+  { name: 'TechCrunch AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/', searchTerms: ['openai','anthropic','google','gemini','claude','meta ai','mistral','grok','deepmind','chatgpt','gpt-','llm launch','model release','ai model'] },
+  { name: 'The Verge AI',  url: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml', searchTerms: ['openai','anthropic','google','gemini','claude','meta ai','mistral','grok','deepmind','chatgpt','gpt-','new model','ai release'] },
 ];
 
 const SOURCES = {
