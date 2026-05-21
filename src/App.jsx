@@ -43,6 +43,40 @@ function formatDate(dateStr) {
   catch { return null; }
 }
 
+
+// ── INTRO CARD — shown at start of session ────────────────────────────────────
+function IntroCard({ accent, theme }) {
+  return (
+    <div style={{
+      background: `linear-gradient(135deg, ${accent}18, ${accent}08)`,
+      border: `2px solid ${accent}`,
+      borderRadius: 20,
+      padding: "32px 24px",
+      display: "flex",
+      flexDirection: "column",
+      alignItems: "center",
+      justifyContent: "center",
+      gap: 16,
+      textAlign: "center",
+      minHeight: 200,
+    }}>
+      <div style={{ fontSize: 44 }}>🦷</div>
+      <div>
+        <p style={{ fontFamily:"'DM Sans',sans-serif", fontWeight:700, fontSize:22, color:accent, marginBottom:8 }}>
+          Start brushing!
+        </p>
+        <p style={{ fontFamily:"'DM Sans',sans-serif", fontWeight:300, fontSize:16, color:theme.sub, lineHeight:1.6 }}>
+          Begin with your<br/>
+          <span style={{ color:accent, fontWeight:700, fontSize:20 }}>Upper Left</span>
+        </p>
+      </div>
+      <p style={{ fontSize:12, color:theme.hint, fontFamily:"'DM Sans',sans-serif" }}>
+        News cards start in 4 seconds…
+      </p>
+    </div>
+  );
+}
+
 // ── SWAP SIDE CARD ─────────────────────────────────────────────────────────────
 function SwapCard({ quadrantIndex, accent, theme }) {
   const next = QUADRANTS[Math.min(quadrantIndex + 1, 3)];
@@ -98,11 +132,13 @@ export default function BrushFeed() {
   const [timeLeft, setTimeLeft] = useState(DURATION);
   const [totalProgress, setTotalProgress] = useState(0);
   const [showSwap, setShowSwap] = useState(false);
+  const [showIntro, setShowIntro] = useState(true);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [cardProgress, setCardProgress] = useState(0);
   const startRef = useRef(null);
   const rafRef = useRef(null);
   const lastQuadrantRef = useRef(-1);
+  const swapTimeRef = useRef(0); // total seconds spent on swap cards
 
   const th = THEMES[settings.theme];
   const ac = ACCENT_COLORS[settings.accentColor];
@@ -130,9 +166,13 @@ export default function BrushFeed() {
       setTotalProgress(0);
       setElapsed(0);
       setShowSwap(false);
+      setShowIntro(true);
       lastQuadrantRef.current = -1;
+      swapTimeRef.current = 0;
       startRef.current = null;
       setScreen("feed");
+      // Hide intro after 4 seconds
+      setTimeout(() => setShowIntro(false), 4000);
     } catch(e) {
       setLoadError(e.message || "Couldn't load feed. Please try again.");
     } finally {
@@ -153,14 +193,16 @@ export default function BrushFeed() {
       // Detect quadrant change
       const currentQ = Math.min(Math.floor(el / QUADRANT_DURATION), 3);
       if (currentQ !== lastQuadrantRef.current && lastQuadrantRef.current >= 0) {
-        // Show swap card for 1 second
         setShowSwap(true);
+        swapTimeRef.current += 5; // account for 5s swap card
         setTimeout(() => setShowSwap(false), 5000);
       }
       lastQuadrantRef.current = currentQ;
 
-      setCurrentIndex(Math.floor(el / settings.cardSpeed));
-      setCardProgress((el % settings.cardSpeed) / settings.cardSpeed);
+      // Card timing excludes time spent showing swap cards
+      const effectiveEl = Math.max(0, el - swapTimeRef.current);
+      setCurrentIndex(Math.floor(effectiveEl / settings.cardSpeed));
+      setCardProgress((effectiveEl % settings.cardSpeed) / settings.cardSpeed);
 
       if (el < DURATION) rafRef.current = requestAnimationFrame(tick);
       else setScreen("done");
@@ -302,7 +344,11 @@ export default function BrushFeed() {
           </div>
 
           {/* SWAP CARD */}
-          {showSwap ? (
+          {showIntro ? (
+            <div className="swap-anim">
+              <IntroCard accent={ac} theme={th}/>
+            </div>
+          ) : showSwap ? (
             <div className="swap-anim">
               <SwapCard quadrantIndex={currentQ} accent={ac} theme={th}/>
             </div>
