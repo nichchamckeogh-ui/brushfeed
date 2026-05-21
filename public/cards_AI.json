@@ -1,181 +1,147 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-05-21T06:40:10.806Z",
-  "cardCount": 25,
+  "generatedAt": "2026-05-21T10:46:56.497Z",
+  "cardCount": 20,
+  "aiUpdateCount": 0,
   "cards": [
     {
-      "title": "Jensen Huang predicts $200B market for Nvidia AI agents",
-      "body": "Nvidia CEO Jensen Huang says the next major revenue opportunity for the company will be CPUs designed specifically for AI agents, a market he estimates at $200 billion. This prediction comes as AI agents become increasingly important in enterprise and consumer applications. The forecast suggests Nvidia sees significant growth potential beyond its current GPU-dominated business.",
+      "title": "Jensen Huang Predicts $200B AI Agent CPU Market",
+      "body": "Nvidia CEO Jensen Huang forecasts a massive new market for AI agent CPUs worth $200 billion. This represents the next major growth opportunity for the chip giant beyond current AI infrastructure.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "Anthropic projects profitability with $10.9B Q2 revenue",
-      "body": "Anthropic has informed investors it will achieve its first profitable quarter while more than doubling revenue to approximately $10.9 billion in Q2. The milestone represents significant growth for the AI safety-focused company competing in the large language model market. This profitability projection comes as Anthropic scales its Claude models and enterprise adoption.",
+      "title": "Anthropic Eyes First Profitable Quarter",
+      "body": "Anthropic told investors it will more than double revenue to $10.9 billion in Q2 2026. The company is on track to reach profitability as AI demand accelerates.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "xAI lost $6.4B in 2025, plans major Grok expansion",
-      "body": "SpaceX's IPO filing reveals Elon Musk's xAI company lost $6.4 billion in 2025 while pursuing aggressive expansion plans for its Grok AI model. The filing provides the first public financial details of xAI's operations and capital expenditure strategy. The company's significant losses reflect the high cost of developing and scaling AI infrastructure and models.",
+      "title": "xAI Lost $6.4B in 2025, Plans Expansion",
+      "body": "SpaceX's IPO filing reveals Elon Musk's xAI burned through $6.4 billion last year while planning massive Grok expansion. The filing offers the first public glimpse at xAI's financial performance and AI ambitions.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "Nvidia reveals $43B startup holdings, posts record quarter",
-      "body": "Nvidia announced another record revenue quarter while revealing it holds $43 billion in startup investments, demonstrating its deep involvement in the AI ecosystem. The company forecasted that revenue growth would moderate in the following quarter despite continued strong performance. Nvidia's substantial startup portfolio highlights its strategic positioning across AI infrastructure and applications.",
+      "title": "Nvidia Posts Record Quarter, Holds $43B Startup Stakes",
+      "body": "Nvidia announced record revenues but forecasted slower growth for the next quarter. The company revealed $43 billion in holdings across AI startups.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "xAI to purchase $2.8B in natural gas turbines",
-      "body": "Elon Musk's xAI announced plans to buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing. The massive power infrastructure investment underscores the enormous energy requirements for training and running large AI models at scale. xAI is also facing lawsuits over its current data center generators while expanding capacity.",
+      "title": "xAI Buying $2.8B in Natural Gas Turbines",
+      "body": "xAI plans to purchase $2.8 billion worth of natural gas turbines over three years to power AI infrastructure. The massive energy investment highlights the computational demands of training advanced AI models.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "Anthropic to pay xAI $1.25B monthly for compute",
-      "body": "Anthropic agreed to purchase compute services from Elon Musk's xAI at $1.25 billion per month, marking a significant infrastructure partnership in the AI industry. The deal reveals the substantial costs companies incur to access GPU computing resources for training and running large language models. This compute arrangement demonstrates how AI companies are forming strategic partnerships to meet computational demands.",
+      "title": "Anthropic Pays xAI $1.25B Monthly for Compute",
+      "body": "Elon Musk's xAI struck a major deal to sell computing power to Anthropic. The arrangement is worth $1.25 billion per month.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "OpenAI's reasoning model solves 80-year-old geometry problem",
-      "body": "OpenAI claims its reasoning model disproved a geometry conjecture that has remained unsolved since 1946, with mathematicians who previously exposed OpenAI's errors now validating this breakthrough. The achievement demonstrates advanced reasoning capabilities in state-of-the-art AI models applied to pure mathematics. This represents a significant validation of OpenAI's progress in developing models capable of novel mathematical discovery.",
+      "title": "OpenAI Claims Breakthrough on 80-Year Math Problem",
+      "body": "OpenAI's reasoning model reportedly disproved a geometry conjecture unsolved since 1946. Mathematicians who previously caught OpenAI overstating claims are backing this achievement.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "IrisGo brings Andrew Ng-backed AI desktop automation",
-      "body": "IrisGo, a startup backed by AI pioneer Andrew Ng, is developing an AI system that monitors desktop activity and automatically learns to perform user tasks autonomously. The system, initially described as an \"AI butler,\" uses machine learning to understand and replicate user workflows without explicit programming. The technology represents advances in AI agents designed for personal productivity automation.",
+      "title": "Andrew Ng-Backed IrisGo Launches AI Desktop Assistant",
+      "body": "IrisGo, an AI startup backed by Andrew Ng, watches desktop activity and learns to automate user tasks. The 'AI butler' learns from observation without explicit programming.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "OpenAI accelerates toward September IPO after lawsuit loss",
-      "body": "OpenAI is reportedly advancing plans for an IPO potentially occurring in September, one day after Elon Musk's lawsuit against the company was dismissed. The legal victory removes a major threat to OpenAI's structure, leadership, and financial planning. OpenAI's IPO preparation reflects investor confidence and the company's trajectory toward public markets.",
+      "title": "OpenAI Prepares IPO Reportedly Slated for September",
+      "body": "Following Elon Musk's failed lawsuit, OpenAI is back on track for its IPO. The company could go public as soon as September 2026.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "AI search startups emerge as most attractive consumer AI target",
-      "body": "AI search has become one of the most attractive targets for consumer AI investment and development, with multiple startups entering the space to challenge traditional search engines. The sector is drawing significant venture capital and talent focused on leveraging large language models for search applications. This trend reflects growing demand for AI-powered search alternatives and new approaches to information retrieval.",
+      "title": "AI Search Startups Experiencing Rapid Growth",
+      "body": "AI search has become one of the most attractive targets for consumer AI investment. Multiple startups are competing in this emerging category.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "Stability AI releases Stability Audio 3.0 music generation model",
-      "body": "Stability AI released Stability Audio 3.0, a new generative AI model capable of creating 6-minute-long songs, with a smaller version running on-device to generate two-minute tracks. The model represents advances in AI-powered music generation and expands capabilities beyond previous versions. The on-device functionality addresses privacy and accessibility concerns in audio AI applications.",
+      "title": "Stability AI Releases Audio 3.0 with 6-Minute Songs",
+      "body": "Stability Audio 3.0 can run on-device and generate two-minute tracks. The model represents a significant improvement in AI-generated music capabilities.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "NanoClaw raises $12M seed after declining $20M acquisition",
-      "body": "NanoClaw, created as a secure alternative to OpenClaw for AI marketing agents, raised $12 million in seed funding after turning down a $20 million buyout offer. The platform runs AI agents in sandboxed containers for enhanced security compared to direct computer execution. The startup exemplifies growing demand for safer AI agent infrastructure in enterprise applications.",
+      "title": "NanoClaw Raises $12M Seed, Rejects $20M Acquisition",
+      "body": "NanoClaw, created as a secure alternative for AI agent marketing work, raised $12 million instead of accepting a $20 million buyout. The platform runs AI agents sandboxed in containers for security.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "Figma integrates AI agent for design automation and generation",
-      "body": "Figma launched an AI assistant agent that enables users to generate new designs, edit existing ones, and automate tasks using natural language text prompts. The agent represents integration of generative AI into collaborative design platforms, expanding accessibility for non-designers. The feature demonstrates AI's application in creative and productive workflows within enterprise software.",
+      "title": "Figma Launches AI Assistant for Design Automation",
+      "body": "Figma's new AI agent allows users to generate, edit, and iterate designs using natural language prompts. The tool automates common design tasks across the collaborative platform.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "Google declares itself contender in AI design at IO 2026",
-      "body": "Google announced new AI design capabilities at its IO 2026 developer conference, positioning itself as a major competitor in the AI application space. The company emphasized making AI design tools accessible to teachers, small business owners, and general users. Google's announcements reflect its strategy to democratize AI access across its product ecosystem.",
+      "title": "Google Expands Gmail with AI Voice Search",
+      "body": "Google's Gmail now features conversational voice search powered by Gemini AI. Users can ask the AI assistant to find buried email details using natural speech.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Gmail now supports conversational voice search with Gemini AI",
-      "body": "Google expanded Gmail's AI capabilities with conversational voice search powered by Gemini, allowing users to ask natural language questions to find specific email details. The feature uses AI to understand context and locate information buried in large email inboxes. This enhancement demonstrates practical applications of large language models in productivity tools.",
+      "title": "Google Launches Agentic Information Monitors",
+      "body": "Google is rolling out AI-powered 'information agents' that monitor topics and proactively alert users to updates. The agents go beyond traditional search to provide contextual information.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Google launches agentic AI tools for proactive information monitoring",
-      "body": "Google is launching AI-powered \"information agents\" that monitor topics in the background and proactively alert users to updates and changes relevant to their interests. The agents represent advancement in autonomous AI systems designed to assist with information management. These tools extend beyond traditional search to provide predictive and contextual assistance.",
+      "title": "Ocean Raises $28M for AI Email Security Platform",
+      "body": "Ocean, an agentic email security startup, claims its AI analyzes context to detect fraud and impersonation attempts. The platform raised $28 million from investors concerned about AI phishing.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Ocean raises $28M for AI-powered email security against phishing",
-      "body": "Ocean, an agentic AI security platform, raised $28 million and uses machine learning to analyze email context and detect fraud and impersonation attempts. The platform represents application of AI agents to cybersecurity challenges in enterprise email systems. Ocean's approach leverages AI's contextual understanding to improve security beyond traditional rule-based detection.",
+      "title": "Elon Musk Loses Lawsuit Against OpenAI",
+      "body": "A jury rejected Elon Musk's lawsuit claiming Sam Altman 'stole' OpenAI's non-profit structure. The verdict confirmed Musk's case was weak, partly due to delays in filing.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Musk's lawsuit against OpenAI dismissed for being untimely",
-      "body": "A jury unanimously rejected Elon Musk's lawsuit against OpenAI founders Sam Altman and Greg Brockman, ruling that the claims were barred by statutes of limitations for waiting too long to file. The verdict removed a major legal threat to OpenAI's structure and finances. The trial revealed Musk's case was weakened by his delayed action despite having similar strategic aims for the company.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19",
-      "topic": "AI"
-    },
-    {
-      "title": "Google positions itself as third major foundation model competitor",
-      "body": "Google is announcing significant AI capabilities at its annual I/O conference this week, positioning itself as a clear third player in the foundation model race alongside OpenAI and Anthropic. The company's strategy emphasizes integration of AI across its product ecosystem. Google's announcements reflect intensifying competition in large language models and AI applications.",
+      "title": "OpenAI's Reasoning Model Validates Geometry Proof",
+      "body": "OpenAI's o1 reasoning model successfully solved a 1946 geometry conjecture. Leading mathematicians have verified the AI's mathematical breakthrough.",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-05-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Google redesigns search box for first time in 25 years",
-      "body": "Google is formally retiring its iconic 25-year-old search interface at its I/O conference, replacing the thin white rectangle with a new paradigm designed for AI-powered search. The redesign reflects Google's shift toward conversational and agent-based search powered by large language models. This visual transformation symbolizes the fundamental change in how users will interact with AI-enhanced search.",
-      "source": "VentureBeat",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Claude Code alternatives emerge as free open-source options",
-      "body": "Goose offers free alternatives to Anthropic's Claude Code, which costs up to $200 monthly for terminal-based AI agents that autonomously write, debug, and deploy code. The emergence of free alternatives addresses pricing barriers in AI coding tools and democratizes access to code generation AI. These open-source options are reducing adoption costs for AI-powered software development.",
-      "source": "VentureBeat",
-      "publishedAt": "2026-01-19",
+      "title": "Google I/O Positions Search Toward Agentic AI",
+      "body": "Google announced plans to remake search with agentic AI capabilities in 2026. The shift represents a major transformation in how users will interact with search.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "Listen Labs raises $69M for AI-powered customer interview automation",
-      "body": "Listen Labs raised $69 million after a viral billboard hiring campaign, scaling its AI customer interview platform that automates the interview process using machine learning. The company uses AI to conduct and analyze customer interviews at scale, improving research efficiency. Listen Labs' growth reflects increasing adoption of AI agents for business research and customer insights.",
-      "source": "VentureBeat",
-      "publishedAt": "2026-01-16",
-      "topic": "AI"
-    },
-    {
-      "title": "Salesforce transforms Slackbot into full-powered AI agent",
-      "body": "Salesforce completely rebuilt Slackbot as an AI agent capable of searching enterprise data, drafting documents, and taking autonomous actions across workplace systems. The upgraded Slackbot represents Salesforce's competitive response to Microsoft and Google's workplace AI offerings. The transformation converts a simple notification tool into a sophisticated enterprise AI agent.",
-      "source": "VentureBeat",
-      "publishedAt": "2026-01-13",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic launches Cowork agent for no-code file automation",
-      "body": "Anthropic released Cowork, a Claude Desktop AI agent that extends autonomous capabilities to non-technical users for working with files without requiring code. The team built the entire feature in approximately one and a half weeks, largely using Claude Code itself, demonstrating AI's capacity for rapid self-improvement. Cowork democratizes access to AI agent capabilities beyond software developers.",
-      "source": "VentureBeat",
-      "publishedAt": "2026-01-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Nous Research releases competitive NousCoder-14B open-source model",
-      "body": "Nous Research released NousCoder-14B, an open-source coding model trained in just four days using 48 Nvidia B200 GPUs that matches or exceeds several larger proprietary systems. The model represents rapid advancement in open-source AI for software development tasks. Nous Research's achievement demonstrates the efficiency gains possible with cutting-edge GPU infrastructure.",
-      "source": "VentureBeat",
-      "publishedAt": "2026-01-07",
+      "title": "China Bans RTX 5090D V2 During Huang Visit",
+      "body": "China prohibited Nvidia's RTX 5090D V2 GPU while CEO Jensen Huang was visiting the country. The move reflects ongoing tensions over AI chip export restrictions.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-20",
       "topic": "AI"
     }
   ]
