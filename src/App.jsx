@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 
 const DEFAULT_SETTINGS = {
-  fontSize: "medium", cardSpeed: 10, theme: "dark",
+  fontSize: "medium", cardSpeed: 20, theme: "dark",
   accentColor: "teal", fontStyle: "sans", showNextPreview: true,
 };
 const ACCENT_COLORS = { teal:"#00f5d4", pink:"#ff6b9d", yellow:"#f9c74f", blue:"#7eb8f7" };
@@ -12,23 +12,23 @@ const THEMES = {
 };
 const FONT_SIZES = { small:{title:20,body:16}, medium:{title:24,body:19}, large:{title:30,body:23} };
 
-// Active = available to select. Disabled = coming soon, greyed out
 const TOPIC_META = {
-  AI:        { emoji:"🤖", color:"#00f5d4", active: true },
-  Parenting: { emoji:"👶", color:"#ff6b9d", active: true },
-  Health:    { emoji:"💪", color:"#f9c74f", active: false },
-  Money:     { emoji:"💸", color:"#a8dadc", active: false },
-  Science:   { emoji:"🔬", color:"#c77dff", active: false },
-  World:     { emoji:"🌍", color:"#f4a261", active: false },
+  "AI Update": { emoji:"⚡", color:"#f9c74f", active:true },
+  AI:          { emoji:"🤖", color:"#00f5d4", active:true },
+  Parenting:   { emoji:"👶", color:"#ff6b9d", active:true },
+  Health:      { emoji:"💪", color:"#f9c74f", active:false },
+  Money:       { emoji:"💸", color:"#a8dadc", active:false },
+  Science:     { emoji:"🔬", color:"#c77dff", active:false },
+  World:       { emoji:"🌍", color:"#f4a261", active:false },
 };
 
 const DURATION = 120;
 const QUADRANT_DURATION = 30;
 const QUADRANTS = [
-  { id:0, label:"Upper Left",  short:"UL" },
-  { id:1, label:"Upper Right", short:"UR" },
-  { id:2, label:"Lower Left",  short:"LL" },
-  { id:3, label:"Lower Right", short:"LR" },
+  { id:0, label:"Upper Left"  },
+  { id:1, label:"Upper Right" },
+  { id:2, label:"Lower Left"  },
+  { id:3, label:"Lower Right" },
 ];
 
 function loadPrefs() {
@@ -39,44 +39,54 @@ function savePrefs(p) { try { sessionStorage.setItem("bf_prefs", JSON.stringify(
 
 function formatDate(dateStr) {
   if (!dateStr) return null;
-  try {
-    const d = new Date(dateStr);
-    return d.toLocaleDateString("en-GB", { day:"numeric", month:"short", year:"numeric" });
-  } catch { return null; }
+  try { return new Date(dateStr).toLocaleDateString("en-GB", { day:"numeric", month:"short", year:"numeric" }); }
+  catch { return null; }
 }
 
-// ── COMPACT TEETH INDICATOR ───────────────────────────────────────────────────
-function TeethInline({ elapsed, accent, theme }) {
-  const currentQ = Math.min(Math.floor(elapsed / QUADRANT_DURATION), 3);
-  const secsLeft = Math.ceil(QUADRANT_DURATION - (elapsed % QUADRANT_DURATION));
+// ── SWAP SIDE CARD ─────────────────────────────────────────────────────────────
+function SwapCard({ quadrantIndex, accent, theme }) {
+  const next = QUADRANTS[Math.min(quadrantIndex + 1, 3)];
+  const current = QUADRANTS[quadrantIndex];
   return (
-    <div style={{ display:"flex", alignItems:"center", gap:8 }}>
-      <div style={{ display:"flex", gap:3 }}>
-        {QUADRANTS.map(q => {
-          const isDone = elapsed >= QUADRANT_DURATION * (q.id + 1);
-          const isActive = currentQ === q.id;
-          return (
-            <div key={q.id} title={q.label} style={{
-              width: isActive ? 10 : 8,
-              height: isActive ? 10 : 8,
-              borderRadius:"50%",
-              background: isDone || isActive ? accent : theme.border,
-              opacity: isDone ? 0.5 : isActive ? 1 : 0.3,
-              transition:"all 0.4s ease",
-              boxShadow: isActive ? `0 0 6px ${accent}` : "none",
-            }}/>
-          );
-        })}
+    <div style={{
+      background: `linear-gradient(135deg, ${accent}18, ${accent}08)`,
+      border: `2px solid ${accent}`,
+      borderRadius: 20,
+      padding: "32px 24px",
+      display: "flex",
+      flexDirection: "column",
+      alignItems: "center",
+      justifyContent: "center",
+      gap: 16,
+      textAlign: "center",
+      minHeight: 180,
+    }}>
+      <div style={{ fontSize: 40 }}>🦷</div>
+      <div>
+        <p style={{ fontFamily:"'DM Sans',sans-serif", fontWeight:700, fontSize:20, color:accent, marginBottom:6 }}>
+          Time to swap!
+        </p>
+        <p style={{ fontFamily:"'DM Sans',sans-serif", fontWeight:300, fontSize:16, color:theme.sub, lineHeight:1.5 }}>
+          Move to your<br/>
+          <span style={{ color:accent, fontWeight:700, fontSize:20 }}>{next.label}</span>
+        </p>
       </div>
-      <span style={{ fontSize:11, color:theme.hint, fontFamily:"'DM Sans',sans-serif" }}>
-        <span style={{ color:accent, fontWeight:600 }}>{QUADRANTS[currentQ].label}</span>
-        {" · "}{secsLeft}s
-      </span>
+      <div style={{ display:"flex", gap:6 }}>
+        {QUADRANTS.map(q => (
+          <div key={q.id} style={{
+            width: quadrantIndex >= q.id ? 10 : 8,
+            height: quadrantIndex >= q.id ? 10 : 8,
+            borderRadius:"50%",
+            background: quadrantIndex >= q.id ? accent : theme.border,
+            opacity: quadrantIndex >= q.id ? 1 : 0.3,
+            transition:"all 0.3s",
+          }}/>
+        ))}
+      </div>
     </div>
   );
 }
 
-// ── MAIN APP ──────────────────────────────────────────────────────────────────
 export default function BrushFeed() {
   const [screen, setScreen] = useState("home");
   const [topics, setTopics] = useState(["AI","Parenting"]);
@@ -84,13 +94,15 @@ export default function BrushFeed() {
   const [feed, setFeed] = useState([]);
   const [loadingFirst, setLoadingFirst] = useState(false);
   const [loadError, setLoadError] = useState(null);
-  const [currentIndex, setCurrentIndex] = useState(0);
-  const [cardProgress, setCardProgress] = useState(0);
+  const [elapsed, setElapsed] = useState(0);
   const [timeLeft, setTimeLeft] = useState(DURATION);
   const [totalProgress, setTotalProgress] = useState(0);
-  const [elapsed, setElapsed] = useState(0);
+  const [showSwap, setShowSwap] = useState(false);
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [cardProgress, setCardProgress] = useState(0);
   const startRef = useRef(null);
   const rafRef = useRef(null);
+  const lastQuadrantRef = useRef(-1);
 
   const th = THEMES[settings.theme];
   const ac = ACCENT_COLORS[settings.accentColor];
@@ -105,7 +117,6 @@ export default function BrushFeed() {
     setLoadingFirst(true);
     setFeed([]);
     try {
-      // Reads from pre-built JSON — no API calls!
       const res = await fetch(`/api/feed?topics=${topics.join(',')}`);
       if (!res.ok) throw new Error('Failed to load feed');
       const data = await res.json();
@@ -118,6 +129,8 @@ export default function BrushFeed() {
       setTimeLeft(DURATION);
       setTotalProgress(0);
       setElapsed(0);
+      setShowSwap(false);
+      lastQuadrantRef.current = -1;
       startRef.current = null;
       setScreen("feed");
     } catch(e) {
@@ -129,14 +142,26 @@ export default function BrushFeed() {
 
   useEffect(() => {
     if (screen !== "feed") return;
+
     function tick(ts) {
       if (!startRef.current) startRef.current = ts;
       const el = (ts - startRef.current) / 1000;
       setElapsed(el);
       setTotalProgress(Math.min(el/DURATION, 1));
-      setTimeLeft(Math.max(0, Math.ceil(DURATION-el)));
-      setCurrentIndex(Math.floor(el/settings.cardSpeed));
-      setCardProgress((el%settings.cardSpeed)/settings.cardSpeed);
+      setTimeLeft(Math.max(0, Math.ceil(DURATION - el)));
+
+      // Detect quadrant change
+      const currentQ = Math.min(Math.floor(el / QUADRANT_DURATION), 3);
+      if (currentQ !== lastQuadrantRef.current && lastQuadrantRef.current >= 0) {
+        // Show swap card for 1 second
+        setShowSwap(true);
+        setTimeout(() => setShowSwap(false), 1000);
+      }
+      lastQuadrantRef.current = currentQ;
+
+      setCurrentIndex(Math.floor(el / settings.cardSpeed));
+      setCardProgress((el % settings.cardSpeed) / settings.cardSpeed);
+
       if (el < DURATION) rafRef.current = requestAnimationFrame(tick);
       else setScreen("done");
     }
@@ -145,7 +170,7 @@ export default function BrushFeed() {
   }, [screen, feed, settings.cardSpeed]);
 
   function toggleTopic(t) {
-    if (!TOPIC_META[t].active) return; // can't select disabled topics
+    if (!TOPIC_META[t]?.active) return;
     setTopics(prev => prev.includes(t) ? prev.filter(x=>x!==t) : [...prev,t]);
   }
 
@@ -155,6 +180,7 @@ export default function BrushFeed() {
   const next = feed[currentIndex+1];
   const tMeta = current ? TOPIC_META[current.topic] : null;
   const nMeta = next ? TOPIC_META[next.topic] : null;
+  const currentQ = Math.min(Math.floor(elapsed / QUADRANT_DURATION), 3);
 
   return (
     <div style={{minHeight:"100vh",background:th.bg,color:th.text,display:"flex",alignItems:"center",justifyContent:"center",transition:"background 0.4s",fontFamily:"'DM Sans',sans-serif"}}>
@@ -163,9 +189,11 @@ export default function BrushFeed() {
         *{box-sizing:border-box;margin:0;padding:0;}
         @keyframes blink{0%,100%{opacity:1}50%{opacity:0.2}}
         @keyframes cardIn{from{opacity:0;transform:translateY(22px) scale(0.97)}to{opacity:1;transform:translateY(0) scale(1)}}
+        @keyframes swapIn{from{opacity:0;transform:scale(0.95)}to{opacity:1;transform:scale(1)}}
         @keyframes fadeIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
         @keyframes spin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
         .card-anim{animation:cardIn 0.42s cubic-bezier(0.22,1,0.36,1) both;}
+        .swap-anim{animation:swapIn 0.3s ease both;}
         .fade-in{animation:fadeIn 0.4s ease both;}
         .topic-btn{cursor:pointer;border-radius:999px;padding:11px 22px;font-family:'DM Sans',sans-serif;font-size:16px;font-weight:500;transition:all 0.2s;}
         .topic-btn.disabled{cursor:not-allowed;opacity:0.35;}
@@ -203,33 +231,18 @@ export default function BrushFeed() {
           <div style={{display:"flex",flexDirection:"column",gap:12,width:"100%"}}>
             <p style={{color:th.hint,fontSize:12,textTransform:"uppercase",letterSpacing:"0.1em"}}>Pick your topics</p>
             <div style={{display:"flex",flexWrap:"wrap",gap:10,justifyContent:"center"}}>
-              {Object.entries(TOPIC_META).map(([key,val]) => {
+              {Object.entries(TOPIC_META).filter(([k]) => k !== 'AI Update').map(([key,val]) => {
                 const isSelected = topics.includes(key);
                 const isDisabled = !val.active;
                 return (
                   <div key={key} style={{position:"relative"}}>
-                    <button
-                      className={`topic-btn${isDisabled?" disabled":""}`}
-                      style={{
-                        border:`2px solid ${isDisabled ? th.border : isSelected ? val.color : th.border}`,
-                        background: isDisabled ? th.pill : isSelected ? `${val.color}18` : th.pill,
-                        color: isDisabled ? th.hint : isSelected ? val.color : th.sub,
-                      }}
-                      onClick={()=>toggleTopic(key)}
-                    >
+                    <button className={`topic-btn${isDisabled?" disabled":""}`}
+                      style={{border:`2px solid ${isDisabled?th.border:isSelected?val.color:th.border}`,background:isDisabled?th.pill:isSelected?`${val.color}18`:th.pill,color:isDisabled?th.hint:isSelected?val.color:th.sub}}
+                      onClick={()=>toggleTopic(key)}>
                       {val.emoji} {key}
                     </button>
                     {isDisabled && (
-                      <div style={{
-                        position:"absolute", top:-6, right:-6,
-                        background:th.pill, border:`1px solid ${th.border}`,
-                        borderRadius:999, padding:"1px 6px",
-                        fontSize:9, color:th.hint,
-                        fontFamily:"'DM Sans',sans-serif",
-                        letterSpacing:"0.04em",
-                      }}>
-                        soon
-                      </div>
+                      <div style={{position:"absolute",top:-6,right:-6,background:th.pill,border:`1px solid ${th.border}`,borderRadius:999,padding:"1px 6px",fontSize:9,color:th.hint,fontFamily:"'DM Sans',sans-serif"}}>soon</div>
                     )}
                   </div>
                 );
@@ -247,12 +260,10 @@ export default function BrushFeed() {
             <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:14}}>
               <div style={{width:38,height:38,borderRadius:"50%",border:`3px solid ${th.track}`,borderTopColor:ac,animation:"spin 0.8s linear infinite"}}/>
               <p style={{color:th.sub,fontSize:15}}>Loading your feed…</p>
-              <p style={{color:th.hint,fontSize:13}}>Just a moment</p>
             </div>
           ) : (
             <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:10}}>
-              <button className="cta"
-                disabled={topics.length===0}
+              <button className="cta" disabled={topics.length===0}
                 style={{background:ac,color:settings.theme==="dark"?"#0a0a10":"#1a1a1a"}}
                 onClick={handleStart}>
                 Start brushing →
@@ -277,6 +288,8 @@ export default function BrushFeed() {
       {/* FEED */}
       {screen === "feed" && current && (
         <div style={{display:"flex",flexDirection:"column",gap:14,padding:"24px 22px 32px",maxWidth:460,width:"100%",minHeight:"100vh",justifyContent:"center"}}>
+
+          {/* HUD */}
           <div style={{display:"flex",alignItems:"center",gap:12}}>
             <div style={{display:"flex",alignItems:"center",gap:7,background:th.pill,borderRadius:999,padding:"6px 16px",flexShrink:0}}>
               <span style={{animation:"blink 1.4s infinite",color:ac,fontSize:9}}>●</span>
@@ -288,53 +301,62 @@ export default function BrushFeed() {
             <span style={{fontSize:12,color:th.hint,flexShrink:0}}>{Math.min(currentIndex+1,totalCards)}/{totalCards}</span>
           </div>
 
-          {/* Topic chip + teeth indicator */}
-          <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",gap:8}}>
-            <div style={{border:`1.5px solid ${tMeta?.color||ac}`,borderRadius:999,padding:"4px 14px",fontSize:13,fontWeight:600,color:tMeta?.color||ac,letterSpacing:"0.04em",transition:"all 0.3s",flexShrink:0}}>
-              {tMeta?.emoji} {current.topic}
+          {/* SWAP CARD */}
+          {showSwap ? (
+            <div className="swap-anim">
+              <SwapCard quadrantIndex={currentQ} accent={ac} theme={th}/>
             </div>
-            <TeethInline elapsed={elapsed} accent={ac} theme={th}/>
-          </div>
+          ) : (
+            <>
+              {/* Topic chip */}
+              <div style={{alignSelf:"flex-start",border:`1.5px solid ${tMeta?.color||ac}`,borderRadius:999,padding:"4px 14px",fontSize:13,fontWeight:600,color:tMeta?.color||ac,letterSpacing:"0.04em",transition:"all 0.3s"}}>
+                {tMeta?.emoji} {current.topic}
+              </div>
 
-          {/* Main card */}
-          <div key={currentIndex} className="card-anim"
-            style={{background:th.card,borderRadius:20,padding:"28px 24px 20px",borderLeft:`4px solid ${tMeta?.color||ac}`,display:"flex",flexDirection:"column",gap:12}}>
-            <h2 style={{fontFamily:ff,fontWeight:700,fontSize:fs.title,lineHeight:1.25,color:th.text}}>{current.title}</h2>
-            <p style={{fontFamily:"'DM Sans',sans-serif",fontWeight:300,fontSize:fs.body,lineHeight:1.8,color:th.sub}}>{current.body}</p>
-            <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",gap:6}}>
-              {current.source && (
-                <div style={{display:"flex",alignItems:"center",gap:5}}>
-                  <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke={th.hint} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{flexShrink:0}}>
-                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
-                    <polyline points="14 2 14 8 20 8"/>
-                    <line x1="16" y1="13" x2="8" y2="13"/>
-                    <line x1="16" y1="17" x2="8" y2="17"/>
-                  </svg>
-                  <span style={{fontSize:12,color:th.hint,fontStyle:"italic"}}>{current.source}</span>
+              {/* Source + date — right after topic chip */}
+              <div style={{display:"flex",alignItems:"center",gap:16,flexWrap:"wrap"}}>
+                {current.source && (
+                  <div style={{display:"flex",alignItems:"center",gap:5}}>
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke={th.hint} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                      <polyline points="14 2 14 8 20 8"/>
+                      <line x1="16" y1="13" x2="8" y2="13"/>
+                      <line x1="16" y1="17" x2="8" y2="17"/>
+                    </svg>
+                    <span style={{fontSize:13,color:th.hint,fontStyle:"italic"}}>{current.source}</span>
+                  </div>
+                )}
+                {current.publishedAt && formatDate(current.publishedAt) && (
+                  <div style={{display:"flex",alignItems:"center",gap:5}}>
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke={th.hint} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                      <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+                      <line x1="16" y1="2" x2="16" y2="6"/>
+                      <line x1="8" y1="2" x2="8" y2="6"/>
+                      <line x1="3" y1="10" x2="21" y2="10"/>
+                    </svg>
+                    <span style={{fontSize:13,color:th.hint}}>{formatDate(current.publishedAt)}</span>
+                  </div>
+                )}
+              </div>
+
+              {/* Main card */}
+              <div key={currentIndex} className="card-anim"
+                style={{background:th.card,borderRadius:20,padding:"28px 24px 20px",borderLeft:`4px solid ${tMeta?.color||ac}`,display:"flex",flexDirection:"column",gap:14}}>
+                <h2 style={{fontFamily:ff,fontWeight:700,fontSize:fs.title,lineHeight:1.25,color:th.text}}>{current.title}</h2>
+                <p style={{fontFamily:"'DM Sans',sans-serif",fontWeight:300,fontSize:fs.body,lineHeight:1.8,color:th.sub}}>{current.body}</p>
+                <div style={{height:3,background:th.track,borderRadius:999,overflow:"hidden"}}>
+                  <div style={{height:"100%",width:`${cardProgress*100}%`,background:tMeta?.color||ac,borderRadius:999,transition:"width 0.25s linear"}}/>
+                </div>
+              </div>
+
+              {/* Next preview */}
+              {settings.showNextPreview && next && (
+                <div style={{background:th.pill,borderRadius:14,padding:"12px 16px",display:"flex",flexDirection:"column",gap:4,border:`1px solid ${th.border}`}}>
+                  <span style={{color:TOPIC_META[next.topic]?.color||ac,fontSize:11,fontWeight:600,letterSpacing:"0.07em",textTransform:"uppercase"}}>{TOPIC_META[next.topic]?.emoji} Next up</span>
+                  <span style={{fontWeight:500,fontSize:15,color:th.hint}}>{next.title}</span>
                 </div>
               )}
-              {current.publishedAt && formatDate(current.publishedAt) && (
-                <div style={{display:"flex",alignItems:"center",gap:5}}>
-                  <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke={th.hint} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                    <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
-                    <line x1="16" y1="2" x2="16" y2="6"/>
-                    <line x1="8" y1="2" x2="8" y2="6"/>
-                    <line x1="3" y1="10" x2="21" y2="10"/>
-                  </svg>
-                  <span style={{fontSize:12,color:th.hint}}>{formatDate(current.publishedAt)}</span>
-                </div>
-              )}
-            </div>
-            <div style={{height:3,background:th.track,borderRadius:999,overflow:"hidden"}}>
-              <div style={{height:"100%",width:`${cardProgress*100}%`,background:tMeta?.color||ac,borderRadius:999,transition:"width 0.25s linear"}}/>
-            </div>
-          </div>
-
-          {settings.showNextPreview && next && (
-            <div style={{background:th.pill,borderRadius:14,padding:"12px 16px",display:"flex",flexDirection:"column",gap:4,border:`1px solid ${th.border}`}}>
-              <span style={{color:TOPIC_META[next.topic]?.color||ac,fontSize:11,fontWeight:600,letterSpacing:"0.07em",textTransform:"uppercase"}}>{TOPIC_META[next.topic]?.emoji} Next up</span>
-              <span style={{fontWeight:500,fontSize:15,color:th.hint}}>{next.title}</span>
-            </div>
+            </>
           )}
 
           <p style={{textAlign:"center",fontSize:12,color:th.hint}}>auto-advances every {settings.cardSpeed}s · no touching needed</p>
@@ -410,11 +432,11 @@ export default function BrushFeed() {
               </div>
             </SS>
             <SS label={`Card speed — ${settings.cardSpeed}s per card`} th={th}>
-              <input type="range" min={6} max={20} step={1} value={settings.cardSpeed}
+              <input type="range" min={6} max={30} step={1} value={settings.cardSpeed}
                 style={{width:"100%",accentColor:ac,cursor:"pointer"}}
                 onChange={e=>updSetting("cardSpeed",Number(e.target.value))}/>
               <div style={{display:"flex",justifyContent:"space-between",fontSize:12,color:th.hint,marginTop:4}}>
-                <span>6s — fast reader</span><span>20s — relaxed</span>
+                <span>6s — fast</span><span>20s — default</span><span>30s — relaxed</span>
               </div>
             </SS>
             <SS label="Show next card preview" th={th}>
