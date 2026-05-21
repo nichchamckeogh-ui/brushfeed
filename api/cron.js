@@ -154,7 +154,7 @@ export default async function handler(req, res) {
     console.log('Processing AI company updates...');
     const aiCompanyArticles = (await Promise.all(AI_COMPANY_SOURCES.map(fetchRSS)))
       .flat()
-      .filter(a => isWithinDays(a.rawDate, 2));
+      .filter(a => isWithinDays(a.rawDate, 7));
     console.log(`AI company: ${aiCompanyArticles.length} articles within 48hrs`);
 
     const aiUpdateCards = aiCompanyArticles.length > 0
