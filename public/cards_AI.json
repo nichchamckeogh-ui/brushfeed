@@ -1,138 +1,145 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-05-21T10:56:50.339Z",
-  "cardCount": 19,
+  "generatedAt": "2026-05-21T10:59:12.652Z",
+  "cardCount": 20,
   "aiUpdateCount": 0,
   "cards": [
     {
-      "title": "Nvidia CEO Eyes $200B AI Agent CPU Market",
-      "body": "Jensen Huang predicts the next major growth opportunity for Nvidia will be CPUs designed specifically for AI agents, worth approximately $200 billion. This represents a significant new market segment beyond traditional data center infrastructure.",
+      "title": "Jensen Huang: $200B AI CPU Market Ahead",
+      "body": "Nvidia CEO Jensen Huang predicts the next major opportunity lies in CPUs designed for AI agents, worth around $200 billion. This represents a significant pivot from GPU-dominated AI infrastructure.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Projects First Profitable Quarter",
-      "body": "Anthropic told investors it will more than double revenue to around $10.9 billion in Q2. The AI company is approaching profitability as demand for its services accelerates.",
+      "title": "Anthropic Eyes First Profitable Quarter",
+      "body": "Anthropic projects more than doubling revenue to $10.9 billion in Q2, signaling a path to profitability. The company continues scaling its AI operations amid competitive market pressures.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "xAI Lost $6.4B in 2025, Expanding Aggressively",
-      "body": "SpaceX's IPO filing reveals Elon Musk's xAI burned $6.4 billion last year while planning massive Grok expansion. The filing offers the first public financial details of Musk's AI ambitions.",
+      "title": "xAI Lost $6.4B in 2025, Expanding",
+      "body": "SpaceX's IPO filing reveals Elon Musk's xAI burned $6.4 billion last year while planning massive expansion. The company is purchasing $2.8 billion in natural gas turbines for additional compute capacity.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "Nvidia Reports Record Revenue, Holds $43B Startup Stakes",
-      "body": "Nvidia announced record revenue but forecasted slower growth in the following quarter. The company revealed it holds $43 billion in startup holdings across its investment portfolio.",
+      "title": "Nvidia Posts Record Quarter, Reveals Startup Portfolio",
+      "body": "Nvidia announced record revenue but forecasted slower growth in the next quarter. The company revealed $43 billion in holdings across AI startups.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "xAI Ordering $2.8B in Natural Gas Turbines",
-      "body": "Elon Musk's xAI plans to purchase $2.8 billion worth of natural gas turbines over three years. The massive energy investment reflects the computational demands of scaling Grok.",
+      "title": "Anthropic Pays xAI $1.25B Monthly for Compute",
+      "body": "Elon Musk's xAI struck a surprising deal to provide compute resources to competitor Anthropic. The arrangement is valued at $1.25 billion per month.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Paying xAI $1.25B Monthly for Compute",
-      "body": "Anthropic agreed to purchase compute resources from xAI in a landmark deal valued at $1.25 billion per month. The arrangement reflects significant collaboration between rival AI companies.",
+      "title": "OpenAI Claims Solving 80-Year Math Problem",
+      "body": "OpenAI's reasoning model allegedly disproved a geometry conjecture unsolved since 1946. Mathematicians who previously exposed OpenAI's errors are backing this claim.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Claims Solving 80-Year-Old Math Problem",
-      "body": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946, with backing from mathematicians. This marks a significant milestone in AI's ability to tackle complex mathematical problems.",
+      "title": "Andrew Ng-Backed IrisGo Launches AI Desktop Assistant",
+      "body": "IrisGo watches users' desktop activity and automatically learns to automate routine tasks. The startup positions itself as an AI butler for personal productivity.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "Andrew Ng Backed IrisGo Launches AI Desktop Assistant",
-      "body": "IrisGo, co-founded with backing from Andrew Ng, functions as an AI assistant that watches desktop activity and automates task completion. The startup aims to become an essential AI productivity tool.",
+      "title": "OpenAI Accelerates IPO Plans for September",
+      "body": "After winning its lawsuit against Elon Musk, OpenAI is reportedly resuming IPO preparations. The company may go public as early as September 2026.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Preparing for September IPO",
-      "body": "Following Elon Musk's failed lawsuit, OpenAI is reportedly advancing plans for an IPO potentially happening in September. The public offering could value the AI company at unprecedented levels.",
+      "title": "AI Search Startups Become Hot Investment Target",
+      "body": "AI-powered search has quietly emerged as one of the most attractive consumer AI opportunities. Multiple startups are competing to disrupt traditional search.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "AI Search Startups Becoming Hot Investment Target",
-      "body": "AI search has emerged as one of the most attractive consumer AI segments for investors. Multiple startups are competing to disrupt traditional search with AI-powered alternatives.",
+      "title": "Stability AI Releases Audio Model 3.0",
+      "body": "Stability Audio 3.0 can generate two-minute tracks and runs on-device for efficiency. The smaller model enables music creation without cloud dependencies.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "Stability AI Releases Audio Model Generating 6-Minute Songs",
-      "body": "Stability Audio 3.0 can generate two-minute tracks and runs efficiently on-device. The new model represents a major advancement in AI-generated music capabilities.",
+      "title": "NanoClaw Founder Rejects $20M Buyout, Raises $12M",
+      "body": "NanoClaw, a secure alternative to OpenClaw, was created for AI marketing agents working on complex tasks. The startup chose independent funding over acquisition.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "NanoClaw Creator Rejects $20M Offer, Raises $12M",
-      "body": "NanoClaw's creator turned down a $20 million buyout and instead raised $12 million in seed funding. The secure AI container platform runs sandboxed to assist marketing and automation tasks.",
+      "title": "Figma Adds AI Agent to Design Canvas",
+      "body": "Figma users can now employ natural language prompts to direct AI agents for design generation and editing. The feature automates design iteration workflows.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20",
       "topic": "AI"
     },
     {
-      "title": "Figma Adds AI Agent to Collaborative Canvas",
-      "body": "Figma's new AI assistant responds to natural language prompts to generate designs, edit existing work, and automate iterations. The tool makes design automation accessible to users of all skill levels.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Declares Itself AI Design Contender",
-      "body": "Google announced new AI design tools aimed at accessibility for teachers and small business owners at IO 2026. The company is expanding its position in the competitive AI market.",
+      "title": "Google Declares AI Design Contender at IO 2026",
+      "body": "Google announced AI design tools built for accessibility, targeting teachers and small business owners. The company is positioning itself as a serious design AI player.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Gmail Now Supports Conversational AI Voice Search",
-      "body": "Google expanded Gmail with conversational voice search powered by Gemini at IO 2026. Users can now ask AI to find and retrieve buried email details through natural language.",
+      "title": "Gmail Gets Conversational Voice Search via Gemini",
+      "body": "Google expanded Gmail's AI Inbox with conversational voice capabilities powered by Gemini. Users can now verbally ask the AI to find buried email details.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Google Launches Information AI Agents for Monitoring",
-      "body": "Google is launching AI-powered information agents that monitor topics in the background and proactively alert users to updates. The agents go beyond standard search to provide intelligent monitoring.",
+      "title": "Google Launches Agentic AI Information Monitors",
+      "body": "Google is deploying AI-powered information agents that monitor topics and proactively alert users to updates. These agents go beyond standard search paradigms.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
       "title": "Ocean Raises $28M to Fight AI Email Phishing",
-      "body": "Ocean's agentic email security platform uses AI to analyze email context and detect fraud and impersonation attempts. The startup claims its technology provides comprehensive protection against AI-powered phishing.",
+      "body": "Ocean's agentic email security platform uses AI to analyze email context for fraud and impersonation detection. The startup claims comprehensive threat analysis capabilities.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Musk Loses Lawsuit Against OpenAI and Sam Altman",
-      "body": "A jury unanimously rejected Elon Musk's lawsuit against OpenAI founders, ruling his claims were barred by statute of limitations. The verdict confirmed that Musk's case lacked sufficient legal merit.",
+      "title": "Musk Loses OpenAI Lawsuit, Trial Confirms Weak Case",
+      "body": "A jury unanimously rejected Elon Musk's lawsuit against OpenAI founders, ruling his claims barred by statute of limitations. The trial revealed Musk and Altman had similar strategic aims.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Here's Why Elon Musk Lost OpenAI Lawsuit",
+      "body": "The jury found Musk sued too late, with his claims falling outside applicable statutes of limitations. Judge Yvonne Gonzalez Rogers immediately accepted the advisory verdict.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-19",
       "topic": "AI"
     },
     {
-      "title": "Google Set to Remake Search With Agentic AI",
-      "body": "Google is preparing to fundamentally transform search using agentic AI capabilities in 2026. The shift represents a major reimagining of how users interact with search results.",
+      "title": "Google Search Remake with Agentic AI in 2026",
+      "body": "Google is set to fundamentally transform search using agentic AI capabilities. The shift represents a major evolution in how users will interact with search.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-20",
+      "topic": "AI"
+    },
+    {
+      "title": "Figure AI Humanoid Robots Wow Internet Handlers",
+      "body": "Figure AI's humanoid robots handling packages have captured internet attention with their capabilities. The videos showcase significant advances in robotic dexterity.",
       "source": "Ars Technica",
       "publishedAt": "2026-05-20",
       "topic": "AI"
