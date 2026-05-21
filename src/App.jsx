@@ -155,7 +155,7 @@ export default function BrushFeed() {
       if (currentQ !== lastQuadrantRef.current && lastQuadrantRef.current >= 0) {
         // Show swap card for 1 second
         setShowSwap(true);
-        setTimeout(() => setShowSwap(false), 1000);
+        setTimeout(() => setShowSwap(false), 5000);
       }
       lastQuadrantRef.current = currentQ;
 
@@ -313,36 +313,37 @@ export default function BrushFeed() {
                 {tMeta?.emoji} {current.topic}
               </div>
 
-              {/* Source + date — right after topic chip */}
-              <div style={{display:"flex",alignItems:"center",gap:16,flexWrap:"wrap"}}>
-                {current.source && (
-                  <div style={{display:"flex",alignItems:"center",gap:5}}>
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke={th.hint} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
-                      <polyline points="14 2 14 8 20 8"/>
-                      <line x1="16" y1="13" x2="8" y2="13"/>
-                      <line x1="16" y1="17" x2="8" y2="17"/>
-                    </svg>
-                    <span style={{fontSize:13,color:th.hint,fontStyle:"italic"}}>{current.source}</span>
-                  </div>
-                )}
-                {current.publishedAt && formatDate(current.publishedAt) && (
-                  <div style={{display:"flex",alignItems:"center",gap:5}}>
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke={th.hint} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                      <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
-                      <line x1="16" y1="2" x2="16" y2="6"/>
-                      <line x1="8" y1="2" x2="8" y2="6"/>
-                      <line x1="3" y1="10" x2="21" y2="10"/>
-                    </svg>
-                    <span style={{fontSize:13,color:th.hint}}>{formatDate(current.publishedAt)}</span>
-                  </div>
-                )}
-              </div>
-
-              {/* Main card */}
+              {/* Main card — source+date right after title */}
               <div key={currentIndex} className="card-anim"
-                style={{background:th.card,borderRadius:20,padding:"28px 24px 20px",borderLeft:`4px solid ${tMeta?.color||ac}`,display:"flex",flexDirection:"column",gap:14}}>
+                style={{background:th.card,borderRadius:20,padding:"28px 24px 20px",borderLeft:`4px solid ${tMeta?.color||ac}`,display:"flex",flexDirection:"column",gap:12}}>
                 <h2 style={{fontFamily:ff,fontWeight:700,fontSize:fs.title,lineHeight:1.25,color:th.text}}>{current.title}</h2>
+
+                {/* Source + date — right after header */}
+                <div style={{display:"flex",alignItems:"center",gap:14,flexWrap:"wrap"}}>
+                  {current.source && (
+                    <div style={{display:"flex",alignItems:"center",gap:5}}>
+                      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke={th.hint} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                        <polyline points="14 2 14 8 20 8"/>
+                        <line x1="16" y1="13" x2="8" y2="13"/>
+                        <line x1="16" y1="17" x2="8" y2="17"/>
+                      </svg>
+                      <span style={{fontSize:13,color:th.hint,fontStyle:"italic"}}>{current.source}</span>
+                    </div>
+                  )}
+                  {current.publishedAt && formatDate(current.publishedAt) && (
+                    <div style={{display:"flex",alignItems:"center",gap:5}}>
+                      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke={th.hint} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+                        <line x1="16" y1="2" x2="16" y2="6"/>
+                        <line x1="8" y1="2" x2="8" y2="6"/>
+                        <line x1="3" y1="10" x2="21" y2="10"/>
+                      </svg>
+                      <span style={{fontSize:13,color:th.hint}}>{formatDate(current.publishedAt)}</span>
+                    </div>
+                  )}
+                </div>
+
                 <p style={{fontFamily:"'DM Sans',sans-serif",fontWeight:300,fontSize:fs.body,lineHeight:1.8,color:th.sub}}>{current.body}</p>
                 <div style={{height:3,background:th.track,borderRadius:999,overflow:"hidden"}}>
                   <div style={{height:"100%",width:`${cardProgress*100}%`,background:tMeta?.color||ac,borderRadius:999,transition:"width 0.25s linear"}}/>
