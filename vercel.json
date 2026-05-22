@@ -2,11 +2,10 @@
   "crons": [
     {
       "path": "/api/cron",
-      "schedule": "0 6 * * *"
-    },
-    {
-      "path": "/api/cron",
-      "schedule": "0 18 * * *"
+      "schedule": "0 6,18 * * *"
     }
-  ]
+  ],
+  "env": {
+    "CRON_SECRET": "@cron_secret"
+  }
 }
