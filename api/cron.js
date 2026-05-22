@@ -1,4 +1,5 @@
 // cron.js — runs twice daily via Vercel cron
+// SECURED: validates X-Vercel-Cron-Secret header
 
 // Official company RSS feeds block server requests — using targeted press feeds instead
 // These are updated within hours of any AI company announcement
@@ -144,6 +145,21 @@ async function saveToGitHub(filename, content, token, repo) {
 }
 
 export default async function handler(req, res) {
+  // ============ SECURITY: Validate cron token ============
+  const expectedSecret = process.env.CRON_SECRET;
+  const incomingSecret = req.headers['x-vercel-cron'];
+  
+  if (!expectedSecret) {
+    console.error('CRON_SECRET not set in environment');
+    return res.status(500).json({ error: 'Server misconfigured' });
+  }
+  
+  if (!incomingSecret || incomingSecret !== expectedSecret) {
+    console.warn('Cron accessed without valid secret');
+    return res.status(401).json({ error: 'Unauthorized' });
+  }
+  // =====================================================
+
   const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
   const GITHUB_TOKEN      = process.env.GITHUB_TOKEN;
   const GITHUB_REPO       = process.env.GITHUB_REPO;
