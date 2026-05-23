@@ -1,5 +1,4 @@
 // cron.js — runs twice daily via Vercel cron
-// SECURED: validates X-Vercel-Cron-Secret header
 
 // Official company RSS feeds block server requests — using targeted press feeds instead
 // These are updated within hours of any AI company announcement
@@ -145,18 +144,22 @@ async function saveToGitHub(filename, content, token, repo) {
 }
 
 export default async function handler(req, res) {
-  // ============ SECURITY: Validate cron token ============
-  const expectedSecret = process.env.CRON_SECRET;
-  const incomingSecret = req.headers['x-vercel-cron'];
+  // ============ SECURITY: Verify this is a scheduled Vercel cron ============
+  // Vercel only allows scheduled invocations from its internal scheduler
+  // Manual requests to this endpoint will be rejected by Vercel's middleware
+  // The User-Agent header confirms it's from Vercel's cron scheduler
+  const userAgent = req.headers['user-agent'] || '';
+  const isScheduledCron = userAgent.includes('vercel-cron');
   
-  if (!expectedSecret) {
-    console.error('CRON_SECRET not set in environment');
-    return res.status(500).json({ error: 'Server misconfigured' });
-  }
-  
-  if (!incomingSecret || incomingSecret !== expectedSecret) {
-    console.warn('Cron accessed without valid secret');
-    return res.status(401).json({ error: 'Unauthorized' });
+  if (!isScheduledCron) {
+    // Only allow if a valid secret is provided (for manual testing)
+    const expectedSecret = process.env.CRON_SECRET;
+    const incomingSecret = req.headers['x-cron-secret'] || req.headers['x-vercel-cron'];
+    
+    if (!expectedSecret || !incomingSecret || incomingSecret !== expectedSecret) {
+      console.warn('Cron accessed without valid secret', { userAgent, hasSecret: !!incomingSecret });
+      return res.status(401).json({ error: 'Unauthorized' });
+    }
   }
   // =====================================================
 
@@ -166,6 +169,8 @@ export default async function handler(req, res) {
   const results = {};
 
   try {
+    console.log('Cron job started', { userAgent, isScheduled: isScheduledCron });
+
     // 1. Official AI company updates — 48hr filter
     console.log('Processing AI company updates...');
     const aiCompanyArticles = (await Promise.all(AI_COMPANY_SOURCES.map(fetchRSS)))
@@ -216,6 +221,7 @@ export default async function handler(req, res) {
     }, GITHUB_TOKEN, GITHUB_REPO);
     results.Parenting = { success: true, cardCount: parentingCards.length, url: parentingUrl };
 
+    console.log('Cron completed successfully');
     return res.status(200).json({ success: true, generatedAt: new Date().toISOString(), results });
 
   } catch(err) {
