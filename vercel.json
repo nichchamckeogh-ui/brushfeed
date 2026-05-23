@@ -4,9 +4,8 @@
       "path": "/api/cron",
       "schedule": "0 6,18 * * *"
     }
-  ],
-  "env": {
-    "CRON_SECRET": "@vercel_cron_secret"
-  }
+    ]
+  //],
+  //"  "CRON_SECRET": "@vercel_cron_secret"
+ // }
 }
-//
