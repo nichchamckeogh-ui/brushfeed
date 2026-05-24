@@ -1,6 +1,6 @@
 /// cron.js — runs twice daily via Vercel cron
 
-// Official company RSS feeds block server requests — using targeted press feeds instead
+/// Official company RSS feeds block server requests — using targeted press feeds instead
 // These are updated within hours of any AI company announcement
 const AI_COMPANY_SOURCES = [
   { name: 'TechCrunch AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/', searchTerms: ['openai','anthropic','google','gemini','claude','meta ai','mistral','grok','deepmind','chatgpt','gpt-','llm launch','model release','ai model'] },
