@@ -26,9 +26,9 @@ const DURATION = 120;
 const QUADRANT_DURATION = 30;
 const QUADRANTS = [
   { id:0, label:"Upper Left"  },
-  { id:1, label:"Upper Right" },
-  { id:2, label:"Lower Left"  },
-  { id:3, label:"Lower Right" },
+  { id:1, label:"Lower Left"  },
+  { id:2, label:"Lower Right" },
+  { id:3, label:"Upper Right" },
 ];
 
 function loadPrefs() {
@@ -211,7 +211,7 @@ export default function BrushFeed() {
       // Detect quadrant change — only show swap 3 times (Q0→Q1, Q1→Q2, Q2→Q3)
       // Don't show at Q3 since there's nowhere left to swap to
       const currentQ = Math.min(Math.floor(el / QUADRANT_DURATION), 3);
-      if (currentQ !== lastQuadrantRef.current && lastQuadrantRef.current >= 0 && currentQ < 3 && currentQ !== swapShownForQuadrantRef.current) {
+      if (currentQ !== lastQuadrantRef.current && lastQuadrantRef.current >= 0 && currentQ !== swapShownForQuadrantRef.current) {
         setShowSwap(true);
         swapShownForQuadrantRef.current = currentQ;
         swapTimeRef.current += 5; // account for 5s swap card
