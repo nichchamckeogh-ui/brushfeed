@@ -144,22 +144,20 @@ async function saveToGitHub(filename, content, token, repo) {
 }
 
 export default async function handler(req, res) {
-  // ============ SECURITY: Verify this is a scheduled Vercel cron ============
-  // Vercel only allows scheduled invocations from its internal scheduler
-  // Manual requests to this endpoint will be rejected by Vercel's middleware
-  // The User-Agent header confirms it's from Vercel's cron scheduler
-  const userAgent = req.headers['user-agent'] || '';
-  const isScheduledCron = userAgent.includes('vercel-cron');
+  // ============ SECURITY: Only allow Vercel's scheduled cron invocations ============
+  // Vercel scheduled crons have a specific signature we can verify
+  const authHeader = req.headers.authorization || '';
+  const expectedSecret = process.env.CRON_SECRET;
+  
+  // Vercel passes Bearer token ONLY for scheduled crons, not manual requests
+  const isScheduledCron = authHeader === `Bearer ${expectedSecret}` && expectedSecret;
   
   if (!isScheduledCron) {
-    // Only allow if a valid secret is provided (for manual testing)
-    const expectedSecret = process.env.CRON_SECRET;
-    const incomingSecret = req.headers['x-cron-secret'] || req.headers['x-vercel-cron'];
-    
-    if (!expectedSecret || !incomingSecret || incomingSecret !== expectedSecret) {
-      console.warn('Cron accessed without valid secret', { userAgent, hasSecret: !!incomingSecret });
-      return res.status(401).json({ error: 'Unauthorized' });
-    }
+    console.warn('Cron accessed without valid scheduled authorization', { 
+      hasAuth: !!authHeader,
+      source: req.headers['x-forwarded-for'] || 'unknown'
+    });
+    return res.status(403).json({ error: 'Forbidden — scheduled cron only' });
   }
   // =====================================================
 
@@ -169,7 +167,7 @@ export default async function handler(req, res) {
   const results = {};
 
   try {
-    console.log('Cron job started', { userAgent, isScheduled: isScheduledCron });
+    console.log('Scheduled cron job started');
 
     // 1. Official AI company updates — 48hr filter
     console.log('Processing AI company updates...');
