@@ -1,285 +1,292 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-05-24T09:10:09.439Z",
-  "cardCount": 40,
+  "generatedAt": "2026-05-24T18:11:09.456Z",
+  "cardCount": 41,
   "aiUpdateCount": 19,
   "cards": [
     {
-      "title": "Ferrari Partners with IBM for AI Fan Experience",
-      "body": "IBM and Scuderia Ferrari HP are collaborating to redefine the F1 fan experience using AI technology. The partnership aims to create deeper engagement with Ferrari's global fanbase.",
+      "title": "Amazon's Bee Wearable Raises Privacy Concerns",
+      "body": "Amazon's new Bee wearable combines convenience with notable privacy anxieties. Like other AI wearables, it presents users with trade-offs between functionality and data security.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "IBM and Ferrari Redefine F1 Fan Experience",
+      "body": "IBM and Scuderia Ferrari HP are using AI to create immersive fan experiences. The partnership transforms how audiences engage with Formula 1 racing.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-23",
       "topic": "AI Update"
     },
     {
-      "title": "xAI Shifts Focus to Natural Gas Infrastructure",
-      "body": "Elon Musk's xAI has pivoted toward natural gas, while SpaceX pursues orbital data centers. The move contradicts earlier promises of a solar-electric economy.",
+      "title": "Musk's xAI Pivots to Natural Gas Power",
+      "body": "Elon Musk's xAI has abandoned solar commitments in favor of natural gas energy. SpaceX simultaneously pursues orbital data centers despite earlier sustainability promises.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-23",
       "topic": "AI Update"
     },
     {
       "title": "AI Reconstructs Dead Pilots' Voices from Recordings",
-      "body": "Researchers used AI spectrograms to reconstruct cockpit recordings, prompting the NTSB to temporarily restrict access to its docket system. The incident raises new safety and privacy concerns.",
+      "body": "Researchers used AI spectrograms to reconstruct pilot voices from cockpit recordings, raising serious ethical concerns. The NTSB temporarily blocked access to its docket system in response.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-22",
       "topic": "AI Update"
     },
     {
-      "title": "Google Adds Disco Ball Icons to Pixel",
-      "body": "Google is now offering disco ball-themed customization for Pixel home screens. The playful update reflects the company's lighter approach to design.",
+      "title": "Google Adds Disco Ball Icon Customization",
+      "body": "Google now lets Pixel users customize their home screens with disco ball-themed icons. The feature offers playful personalization options for Android devices.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-22",
       "topic": "AI Update"
     },
     {
-      "title": "AI Startups Inflate Revenue Metrics with VCs",
-      "body": "Some AI startups are stretching traditional 'ARR' metrics in public communications, with investors fully aware of the inflated figures. The practice raises questions about true financial health.",
+      "title": "VCs Inflate AI Startup Revenue Metrics",
+      "body": "Some AI startups stretch traditional ARR metrics to inflate progress narratives. Investors are reportedly aware of these inflated figures.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-22",
       "topic": "AI Update"
     },
     {
-      "title": "SpaceX Files for $1.75 Trillion IPO",
-      "body": "SpaceX's S-1 filing reveals a $28 trillion total addressable market and a CEO pay package tied to Mars colonization. The 36-page risk factor section underscores the company's ambitious plans.",
+      "title": "SpaceX Files $1.75 Trillion IPO Documents",
+      "body": "SpaceX's S-1 filing reveals ambitious $28 trillion total addressable market projections. Elon Musk's compensation is tied to establishing a Mars colony.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-22",
       "topic": "AI Update"
     },
     {
-      "title": "Google Search AI Breaks on Word 'Disregard'",
-      "body": "Google's latest search AI update causes the interface to malfunction when users search for the word 'disregard'. The bug highlights challenges in scaling AI-powered search.",
+      "title": "Google Search Word 'Disregard' Breaks AI",
+      "body": "Google's AI search update inadvertently breaks the search interface when users search \"disregard.\" The glitch highlights ongoing challenges with AI-powered search.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-22",
       "topic": "AI Update"
     },
     {
-      "title": "Google Demos Android XR AI Glasses Prototype",
-      "body": "Google showcased prototype Android XR glasses featuring Gemini-powered translation, navigation, and real-time information overlays. The devices represent significant progress toward practical AR glasses.",
+      "title": "Google Demonstrates Android XR Glasses Prototype",
+      "body": "Google's prototype Android XR glasses overlay Gemini-powered translation, navigation, and real-time information into users' field of view. The technology is approaching consumer-ready functionality.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-22",
       "topic": "AI Update"
     },
     {
-      "title": "Spotify and Universal Enable AI Music Covers",
-      "body": "Spotify partnered with Universal Music Group to allow Premium subscribers to create AI-generated song covers and remixes. Participating artists will share in the revenue generated.",
+      "title": "Spotify and Universal Enable AI-Generated Covers",
+      "body": "Spotify partners with Universal Music Group to allow Premium subscribers to create AI-generated song covers and remixes. Participating artists receive a share of revenue.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-21",
       "topic": "AI Update"
     },
     {
-      "title": "Alternative Search Engines Rise as Google Changes",
-      "body": "As Google integrates more AI features, users are exploring alternative search engines. The shift reflects growing skepticism about AI-driven search results.",
+      "title": "Six Search Engines Challenge Google's Dominance",
+      "body": "As Google transforms with AI overviews, alternative search engines gain relevance. Users dissatisfied with Google's AI-first direction have viable options.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-21",
       "topic": "AI Update"
     },
     {
       "title": "Trump Delays AI Security Executive Order",
-      "body": "President Trump postponed signing an executive order requiring pre-release government security reviews of AI models. He cited problematic language as the reason for delay.",
+      "body": "President Trump postponed signing an executive order requiring government security reviews of AI models. Trump cited problematic language as the reason for the delay.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-21",
       "topic": "AI Update"
     },
     {
-      "title": "Spotify Adds AI Q&A Features for Podcasts",
-      "body": "Spotify is rolling out AI-powered Q&A and briefing generation tools for podcast content. Users can now generate daily or weekly summaries based on custom prompts.",
+      "title": "Spotify Adds AI Q&A and Briefing Features",
+      "body": "Spotify now generates custom daily or weekly podcast briefs based on user prompts. The feature leverages AI to personalize podcast consumption.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-21",
       "topic": "AI Update"
     },
     {
-      "title": "Spotify Launches Research Preview Desktop App",
-      "body": "Spotify is releasing a new desktop app as a research preview in 20+ markets, directly competing with Google's NotebookLM. The tool focuses on AI-powered research capabilities.",
+      "title": "Spotify Launches NotebookLM Competitor App",
+      "body": "Spotify releases a new desktop research app in over 20 markets as a preview. The application challenges Google's NotebookLM in the AI research space.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-21",
       "topic": "AI Update"
     },
     {
-      "title": "Spotify Releases ElevenLabs-Powered Audiobook Tool",
-      "body": "Spotify launched an AI audiobook generation tool powered by ElevenLabs, offering authors freedom to publish anywhere. No exclusive contracts are required.",
+      "title": "Spotify Enables ElevenLabs-Powered Audiobook Creation",
+      "body": "Spotify's AI audiobook tool generates audio from written text without exclusive contracts. Authors retain full publishing freedom across all platforms.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-21",
       "topic": "AI Update"
     },
     {
       "title": "The Path Offers Safer AI Mental Health Support",
-      "body": "Founded by Tony Robbins and Calm alums, The Path scores 95 on Vera-MH mental health safety benchmarks, significantly above consumer bots at 65. The company positions itself as a safer alternative for AI therapy.",
+      "body": "The Path's AI therapy model scores 95 on the Vera-MH mental health safety benchmark. This significantly outperforms consumer bots that score up to 65.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-21",
       "topic": "AI Update"
     },
     {
       "title": "Hark Raises $700M for Universal AI Interface",
-      "body": "Secretive AI startup Hark is developing multimodal models launching this summer for a personal AI platform. The company plans to follow with custom hardware devices.",
+      "body": "Hark plans to release multimodal AI models this summer powering a personal AI platform. Hardware devices designed for these systems will follow.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-21",
       "topic": "AI Update"
     },
     {
-      "title": "Google Pitches AI Agents to Confused Consumers",
-      "body": "Google's I/O conference showcased AI agents for consumer web interaction, but messaging remained unclear. The ambitious concept faces skepticism from potential users.",
+      "title": "Google Pitches Confusing AI Agent Ecosystem",
+      "body": "Google introduced AI agents at I/O as a revolutionary web interaction method. Consumer adoption remains uncertain due to unclear messaging and complexity.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-21",
       "topic": "AI Update"
     },
     {
-      "title": "AI Recycling Startups Tap 20% Aluminum Price Surge",
-      "body": "Recycling startups are deploying AI to improve critical mineral recovery, targeting aluminum as a major opportunity. Rising aluminum prices make AI-optimized recycling increasingly viable.",
+      "title": "AI Recycling Startups Cash in on Aluminum",
+      "body": "With aluminum prices up 20%, recycling startups leverage AI to recover critical minerals. AI optimization aims to create massive new metal supply sources.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-21",
       "topic": "AI Update"
     },
     {
-      "title": "Jensen Huang Identifies $200B AI Agent CPU Market",
-      "body": "Nvidia CEO Jensen Huang projects a massive $200 billion market for CPUs designed specifically for AI agents. The prediction signals Nvidia's pivot beyond GPU dominance.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21",
-      "topic": "AI Update"
+      "title": "Amazon's Bee wearable balances convenience and privacy",
+      "body": "Amazon's AI wearable offers practical benefits alongside privacy concerns. Like other AI devices, it presents users with a tradeoff between convenience and data security.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-24",
+      "topic": "AI"
     },
     {
-      "title": "Ferrari Uses IBM AI to Redefine F1 Fan Experience",
-      "body": "IBM and Scuderia Ferrari HP are leveraging AI to create immersive superfan experiences. The partnership demonstrates how machine learning can transform sports engagement.",
+      "title": "IBM AI redefines Ferrari F1 fan experience",
+      "body": "IBM and Scuderia Ferrari are leveraging AI to create enhanced fan experiences. The partnership demonstrates how machine learning can personalize sports engagement.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-23",
       "topic": "AI"
     },
     {
-      "title": "AI Reconstructs Dead Pilots' Voices from Cockpit Recordings",
-      "body": "Researchers used AI spectrograms to reconstruct pilot voices from archived cockpit data, raising serious safety concerns. The NTSB temporarily blocked access to its docket system in response.",
+      "title": "AI reconstructs dead pilots' voices from recordings",
+      "body": "People used AI spectrograms to reconstruct cockpit recordings, prompting the NTSB to restrict access. The incident raises concerns about AI-generated audio authenticity and misuse.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-22",
       "topic": "AI"
     },
     {
-      "title": "VCs and AI Startups Inflate Revenue Metrics for Growth",
-      "body": "Some AI startups stretch traditional ARR metrics when publicizing progress, with investor awareness. The practice inflates perception of AI startup success and valuation.",
+      "title": "Google Search's AI update breaks word searches",
+      "body": "Google's AI search update now makes the word \"disregard\" effectively break the search interface. The glitch highlights unexpected consequences of integrating AI into core products.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-22",
       "topic": "AI"
     },
     {
-      "title": "Google Search AI Update Breaks Word 'Disregard'",
-      "body": "Google's AI search update causes the word 'disregard' to malfunction within the search interface. The bug highlights unexpected vulnerabilities in AI-powered search systems.",
+      "title": "Google's AI glasses demo shows Gemini integration",
+      "body": "Google demoed prototype Android XR glasses powered by Gemini AI for real-time translation and navigation. The overlay system demonstrates promising AR applications for AI language models.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-22",
       "topic": "AI"
     },
     {
-      "title": "Google Demos Gemini-Powered AR Glasses Prototype",
-      "body": "Google showcased prototype Android XR glasses overlaying AI-driven translation, navigation, and information. The Gemini-powered system delivers real-time contextual data directly into users' field of view.",
+      "title": "AI startups inflating revenue metrics to investors",
+      "body": "Some AI startups are stretching traditional ARR metrics when reporting progress publicly, with VC awareness. The practice raises questions about startup valuation transparency in the AI boom.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-22",
       "topic": "AI"
     },
     {
-      "title": "Spotify Partners Universal Music for AI Song Covers",
-      "body": "Spotify and Universal Music enable Premium subscribers to create AI-generated covers and remixes with artist revenue sharing. The partnership legitimizes fan-made AI music creation.",
+      "title": "Spotify partners with Universal for AI covers",
+      "body": "Spotify and Universal Music Group now let Premium subscribers create AI-generated song covers with artist revenue sharing. The partnership legitimizes AI music generation within major label ecosystems.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "Trump Delays AI Security Executive Order Signing",
-      "body": "President Trump postponed signing an executive order requiring pre-release government security reviews of AI models. He cited dissatisfaction with the order's language as the reason for delay.",
+      "title": "Google search alternatives emerge amid AI changes",
+      "body": "Google's AI overviews are driving users to explore alternative search engines. The shift reflects growing consumer concerns about AI-driven search results.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "Spotify Adds AI Podcast Q&A and Briefing Features",
-      "body": "Spotify rolls out AI-powered Q&A and briefing generation for podcasts with custom prompt support. Users can generate daily or weekly summaries tailored to their interests.",
+      "title": "Trump delays AI security executive order",
+      "body": "President Trump postponed signing an executive order requiring pre-release government reviews of AI models. He cited concerns about the order's language potentially blocking AI development.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "Spotify Launches ElevenLabs AI Audiobook Creation Tool",
-      "body": "Spotify's new AI audiobook generator uses ElevenLabs technology without requiring author exclusivity agreements. Authors retain freedom to publish generated audiobooks anywhere.",
+      "title": "Spotify launches AI podcast briefing features",
+      "body": "Spotify introduced AI-powered Q&A and briefing generation for podcasts based on user prompts. The feature competes with tools like Google's NotebookLM for content summarization.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "The Path Offers AI Therapy with Mental Health Safety Focus",
-      "body": "The Path's AI model scores 95 on the Vera-MH mental health safety benchmark, far exceeding consumer AI chatbots. Founded by Tony Robbins and Calm alums, it prioritizes safer therapeutic interactions.",
+      "title": "Spotify releases AI research app NotebookLM rival",
+      "body": "Spotify's new desktop app offers AI research capabilities in over 20 markets. The tool directly challenges Google's NotebookLM market position.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "Hark Raises $700M for Universal AI Interface Platform",
-      "body": "Hark plans to release multimodal AI models this summer powering a personal platform integrating existing services. The company also plans hardware devices built specifically for their AI systems.",
+      "title": "ElevenLabs powers Spotify audiobook AI tool",
+      "body": "Spotify launched an AI audiobook creation tool using ElevenLabs technology without exclusive contracts. Authors retain freedom to publish AI-generated audiobooks anywhere.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "Google Pitches Confusing AI Agent Ecosystem to Consumers",
-      "body": "Google I/O introduced AI agents as a new consumer web interface, but messaging was unclear. The feature represents one of the conference's most promising yet confusing announcements.",
+      "title": "The Path launches safer AI mental health tool",
+      "body": "The Path's AI mental health model scored 95 on the Vera-MH safety benchmark, far exceeding consumer bots at 65. The startup aims to provide responsible AI therapy alternatives.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "Recycling Startups Use AI to Recover Critical Minerals",
-      "body": "AI technology is improving aluminum recovery in recycling operations as prices surge 20%. Startups aim to build massive new metal supply chains through intelligent recycling.",
+      "title": "Hark raises $700M for universal AI interface",
+      "body": "Secretive AI startup Hark secured $700M Series A funding for a multimodal AI platform. The company plans to release models this summer and custom hardware devices later.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "Jensen Huang Predicts $200B AI Agent CPU Market for Nvidia",
-      "body": "Nvidia CEO Jensen Huang identified a brand-new $200 billion market opportunity in CPUs for AI agents. The prediction positions Nvidia for growth beyond GPUs in enterprise AI infrastructure.",
+      "title": "Google pitches confusing AI agent ecosystem",
+      "body": "Google introduced AI agents at I/O as a new way for consumers to interact with the web. The promising concept suffered from confusing presentation to potential users.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "Anthropic's Code with Claude Shows Coding's AI Future",
-      "body": "Anthropic demonstrated advanced coding capabilities at its developer event in London. The showcase highlights how AI coding assistants are reshaping software development workflows.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-22",
+      "title": "Recycling startups use AI for mineral recovery",
+      "body": "Recycling companies leverage AI to improve critical mineral extraction like aluminum. The approach aims to create sustainable material sourcing amid rising commodity prices.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "Google I/O Reveals AI-Driven Science Shift and World Models",
-      "body": "Google DeepMind CEO Demis Hassabis proclaimed we're approaching AI singularity during I/O keynote. Recent developments with world models are reshaping how AI tackles scientific problems.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-22",
-      "topic": "AI"
-    },
-    {
-      "title": "Can AI Learn to Understand the World? Expert Roundtable",
-      "body": "AI companies seek systems that understand the external world beyond LLM limitations. World models have become central to advancing AI's real-world comprehension capabilities.",
+      "title": "Anthropic's Code with Claude demo impresses",
+      "body": "Anthropic showcased coding's AI-powered future at its Code with Claude developer event in London. The demonstration revealed practical applications of Claude for software development.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "Scaling Creativity in the Age of AI and Storytelling",
-      "body": "AI is transforming how humans express and distribute creative narratives across mediums. Technology integration continues reshaping storytelling from production to distribution.",
+      "title": "Google I/O highlights AI-driven science shift",
+      "body": "DeepMind CEO Demis Hassabis proclaimed we're in the 'foothills of the singularity' during Google I/O. The keynote emphasized AI's accelerating role in scientific discovery and capabilities.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-22",
+      "topic": "AI"
+    },
+    {
+      "title": "Can AI understand the world beyond language?",
+      "body": "AI researchers are developing world models to overcome limitations of large language models. The discussion centers on building AI systems with deeper world understanding.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "US Scrambles to Stop Internet Users Recreating Dead Pilots",
-      "body": "Using AI spectrograms, internet users recreated voices of deceased pilots from cockpit recordings. Federal authorities moved quickly to restrict public access to prevent widespread misuse.",
+      "title": "Scaling creativity through AI storytelling tools",
+      "body": "AI is being integrated into traditional creative storytelling and distribution methods. Technology continues reshaping how humans express ideas and experiences.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-21",
+      "topic": "AI"
+    },
+    {
+      "title": "US government attempts to stop AI voice recreation",
+      "body": "Authorities are working to prevent internet users from recreating dead pilots' voices using AI. The incident highlights emerging security concerns around synthetic audio technology.",
       "source": "Ars Technica",
       "publishedAt": "2026-05-22",
       "topic": "AI"
     },
     {
-      "title": "AI Author's Book Contains Synthetic Quotes, Wants to Continue",
-      "body": "An author discovered AI-generated synthetic quotes inserted into their published work through AI tools. Despite ethical concerns, the author wishes to continue using AI in writing.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-22",
-      "topic": "AI"
-    },
-    {
-      "title": "Trump Cancels AI EO After Top Firm CEOs Decline Event",
-      "body": "Trump abruptly canceled an executive order signing event after major AI company CEOs refused attendance. The incident highlights tensions between the administration and AI industry leadership.",
+      "title": "Author keeps using AI despite synthetic quote issue",
+      "body": "An author continues utilizing AI tools despite AI-generated synthetic quotes appearing in his book. The case raises questions about AI content verification and author accountability.",
       "source": "Ars Technica",
       "publishedAt": "2026-05-22",
       "topic": "AI"
