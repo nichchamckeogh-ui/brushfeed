@@ -1,4 +1,4 @@
-// cron.js — runs twice daily via Vercel cron
+/// cron.js — runs twice daily via Vercel cron
 
 // Official company RSS feeds block server requests — using targeted press feeds instead
 // These are updated within hours of any AI company announcement
