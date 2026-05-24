@@ -39,14 +39,13 @@ export default async function handler(req, res) {
       });
     }
     // SMART SORTING:
-    // If firstVisit=true, sort by publishedAt descending (newest first), then shuffle within groups
-    // If firstVisit=false (repeat visits), shuffle normally to continue through the deck
+    // If firstVisit=true, sort by publishedAt descending (newest first)
+    // If firstVisit=false (repeat visits), shuffle to randomize order
     if (firstVisit) {
       // Sort by publishedAt descending (newest articles first)
+      // publishedAt is YYYY-MM-DD string format, which sorts correctly lexicographically
       allCards.sort((a, b) => {
-        const dateA = new Date(a.publishedAt || 0).getTime();
-        const dateB = new Date(b.publishedAt || 0).getTime();
-        return dateB - dateA; // Descending: newest first
+        return (b.publishedAt || "0000-00-00").localeCompare(a.publishedAt || "0000-00-00");
       });
     } else {
       // Shuffle so topics are interleaved nicely (repeat visit flow)
