@@ -78,7 +78,8 @@ function IntroCard({ accent, theme }) {
 
 // ── SWAP SIDE CARD ─────────────────────────────────────────────────────────────
 function SwapCard({ quadrantIndex, accent, theme }) {
-  const next = QUADRANTS[Math.min(quadrantIndex + 1, 3)];
+  // quadrantIndex is the quadrant we just entered — that is where the user needs to move to
+  const next = QUADRANTS[quadrantIndex];
   const current = QUADRANTS[quadrantIndex];
   return (
     <div style={{
@@ -208,8 +209,7 @@ export default function BrushFeed() {
       setTotalProgress(Math.min(el/DURATION, 1));
       setTimeLeft(Math.max(0, Math.ceil(DURATION - el)));
 
-      // Detect quadrant change — only show swap 3 times (Q0→Q1, Q1→Q2, Q2→Q3)
-      // Don't show at Q3 since there's nowhere left to swap to
+      // Detect quadrant change — show swap at each of the 3 transitions
       const currentQ = Math.min(Math.floor(el / QUADRANT_DURATION), 3);
       if (currentQ !== lastQuadrantRef.current && lastQuadrantRef.current >= 0 && currentQ !== swapShownForQuadrantRef.current) {
         setShowSwap(true);
