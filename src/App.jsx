@@ -43,17 +43,6 @@ function formatDate(dateStr) {
   catch { return null; }
 }
 
-// Check if it's the user's first visit of the day
-function isFirstVisitToday() {
-  const lastVisit = localStorage.getItem("bf_lastVisit");
-  const today = new Date().toDateString();
-  if (lastVisit !== today) {
-    localStorage.setItem("bf_lastVisit", today);
-    return true;
-  }
-  return false;
-}
-
 // ── INTRO CARD — shown at start of session ────────────────────────────────────
 function IntroCard({ accent, theme }) {
   return (
@@ -164,7 +153,10 @@ export default function BrushFeed() {
     setLoadingFirst(true);
     setFeed([]);
     try {
-      const isFirstVisit = isFirstVisitToday();
+      const lastVisit = localStorage.getItem("bf_lastVisit");
+      const today = new Date().toDateString();
+      const isFirstVisit = lastVisit !== today;
+      if (isFirstVisit) localStorage.setItem("bf_lastVisit", today);
       const res = await fetch(`/api/feed?topics=${topics.join(',')}&firstVisit=${isFirstVisit}`);
       if (!res.ok) throw new Error('Failed to load feed');
       const data = await res.json();
@@ -174,7 +166,6 @@ export default function BrushFeed() {
       
       // On first visit of day: cards are already sorted newest-first from backend
       // On repeat visits: shuffle them for variety
-      const isFirstVisit = isFirstVisitToday();
       let feedCards = [...cards];
       if (!isFirstVisit) {
         // Shuffle for repeat visitors to avoid same card order
