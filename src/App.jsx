@@ -43,6 +43,16 @@ function formatDate(dateStr) {
   catch { return null; }
 }
 
+// Check if it's the user's first visit of the day
+function isFirstVisitToday() {
+  const lastVisit = localStorage.getItem("bf_lastVisit");
+  const today = new Date().toDateString();
+  if (lastVisit !== today) {
+    localStorage.setItem("bf_lastVisit", today);
+    return true;
+  }
+  return false;
+}
 
 // ── INTRO CARD — shown at start of session ────────────────────────────────────
 function IntroCard({ accent, theme }) {
@@ -139,6 +149,7 @@ export default function BrushFeed() {
   const rafRef = useRef(null);
   const lastQuadrantRef = useRef(-1);
   const swapTimeRef = useRef(0); // total seconds spent on swap cards
+  const swapShownForQuadrantRef = useRef(-1); // prevent duplicate swap cards
 
   const th = THEMES[settings.theme];
   const ac = ACCENT_COLORS[settings.accentColor];
@@ -153,7 +164,7 @@ export default function BrushFeed() {
     setLoadingFirst(true);
     setFeed([]);
     try {
-      const res = await fetch(`/api/feed?topics=${topics.join(',')}`);
+      const res = await fetch(`/api/feed?topics=${topics.join(',')}&firstVisit=${isFirstVisitToday()}`);
       if (!res.ok) throw new Error('Failed to load feed');
       const data = await res.json();
       if (data.error) throw new Error(data.error);
@@ -169,6 +180,7 @@ export default function BrushFeed() {
       setShowIntro(true);
       lastQuadrantRef.current = -1;
       swapTimeRef.current = 0;
+      swapShownForQuadrantRef.current = -1;
       startRef.current = null;
       setScreen("feed");
       // Hide intro after 4 seconds
@@ -190,10 +202,11 @@ export default function BrushFeed() {
       setTotalProgress(Math.min(el/DURATION, 1));
       setTimeLeft(Math.max(0, Math.ceil(DURATION - el)));
 
-      // Detect quadrant change
+      // Detect quadrant change — only show swap once per quadrant
       const currentQ = Math.min(Math.floor(el / QUADRANT_DURATION), 3);
-      if (currentQ !== lastQuadrantRef.current && lastQuadrantRef.current >= 0) {
+      if (currentQ !== lastQuadrantRef.current && lastQuadrantRef.current >= 0 && currentQ !== swapShownForQuadrantRef.current) {
         setShowSwap(true);
+        swapShownForQuadrantRef.current = currentQ;
         swapTimeRef.current += 5; // account for 5s swap card
         setTimeout(() => setShowSwap(false), 5000);
       }
