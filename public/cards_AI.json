@@ -1,280 +1,238 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-05-26T18:13:06.109Z",
-  "cardCount": 39,
+  "generatedAt": "2026-05-27T18:48:14.051Z",
+  "cardCount": 33,
   "aiUpdateCount": 15,
   "cards": [
     {
-      "title": "Human Archive Pays Indian Gig Workers for Robot Training Data",
-      "body": "A UC Berkeley and Stanford-founded startup is paying gig workers in India to wear camera-equipped caps and sensors for collecting real-world physical training data. AI and robotics labs are racing to acquire this type of data for model development.",
+      "title": "Google's AI Search Reshapes SEO Strategy",
+      "body": "Google I/O made AI-generated answers front and center in search results, replacing traditional blue links. Brands now have minimal visibility into how AI describes them to customers, fundamentally changing years of established SEO strategies.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta Launches Subscription Plans Across Platforms",
+      "body": "Meta is rolling out paid subscriptions for Instagram, Facebook, and WhatsApp globally. The rollout includes new AI, creator, and business offerings under the 'Meta One' subscription brand.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Cognition Raises $1B, Doubles Valuation",
+      "body": "AI coding startup Cognition reached a $25B pre-money valuation with $1B in funding. The company more than doubled its valuation in eight months while hitting $492M annualized revenue run rate.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27",
+      "topic": "AI Update"
+    },
+    {
+      "title": "ElevenLabs Launches Mid-Track Genre Switching",
+      "body": "ElevenLabs released a new music-generation model allowing users to regenerate song sections independently. The feature lets creators switch genres mid-track without affecting other parts of the song.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27",
+      "topic": "AI Update"
+    },
+    {
+      "title": "YouTube Auto-Labels AI-Generated Videos",
+      "body": "YouTube now automatically detects and labels videos using significant photorealistic AI generation. The platform is making AI labels more prominent and reducing reliance on creator disclosure.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Robinhood Enables AI Trading Agents",
+      "body": "Robinhood now allows users to create separate accounts for AI agents to execute stock trades. Users can pre-load account balances for autonomous trading by their AI agents.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27",
+      "topic": "AI Update"
+    },
+    {
+      "title": "DuckDuckGo Installs Surge 30% Post-Google",
+      "body": "DuckDuckGo app installs jumped 30% as users reject Google's AI-driven search overhaul. Google replaced blue links with AI agents at I/O 2026, triggering swift user backlash.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-26",
       "topic": "AI Update"
     },
     {
-      "title": "Universal Music Group and TikTok Renew AI Music Combat Agreement",
-      "body": "UMG continues pushing platforms and AI companies to implement stricter content moderation policies. The renewed agreement aims to combat unauthorized AI music generation.",
+      "title": "OpenRouter Doubles Valuation to $1.3B",
+      "body": "OpenRouter raised $113M Series B from CapitalG, doubling its valuation in one year. The multi-model AI platform saw 5x usage growth in six months, signaling the multi-AI future.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-26",
       "topic": "AI Update"
     },
     {
-      "title": "ClickUp Replaces Hundreds of Employees with AI Agents",
-      "body": "The nine-year-old startup is undergoing mass layoffs while deploying thousands of AI agents. The shift signals broader workplace transformation trends in the industry.",
+      "title": "UMG and TikTok Renew AI Music Protection",
+      "body": "Universal Music Group and TikTok renewed their agreement to combat unauthorized AI music. UMG continues pushing platforms and AI companies for stricter content moderation policies.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-26",
+      "topic": "AI Update"
+    },
+    {
+      "title": "ClickUp Replaces 100s of Employees with AI",
+      "body": "ClickUp is replacing hundreds of employees with thousands of AI agents across the platform. The move signals shifting workforce dynamics in productivity software.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-25",
       "topic": "AI Update"
     },
     {
-      "title": "Google Navigates AI Security Challenges in Real Time",
-      "body": "Even major tech companies like Google are navigating AI security issues as they emerge. The industry is in a transition period for establishing best practices.",
+      "title": "China Retains AI Talent, Reduces Brain Drain",
+      "body": "China's booming AI sector is producing world-class talent that Beijing increasingly keeps domestic. The nation is reluctant to let top AI researchers emigrate.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-24",
+      "publishedAt": "2026-05-27",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon's Bee Wearable Offers Convenience with Privacy Trade-offs",
-      "body": "Amazon's new AI wearable combines convenient features with privacy concerns similar to other AI wearables. The device represents growing tension between utility and user data collection.",
+      "title": "ClickHouse Triples Revenue to $250M",
+      "body": "Database provider ClickHouse tripled annualized revenue to $250M and is charting toward IPO. The company expects a public debut within the next few years.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-24",
+      "publishedAt": "2026-05-27",
       "topic": "AI Update"
     },
     {
-      "title": "Ferrari Partners with IBM AI to Enhance Fan Experience",
-      "body": "Scuderia Ferrari HP and IBM are leveraging AI to redefine fan engagement in F1. The partnership shows how enterprise AI is transforming sports experiences.",
+      "title": "SOND Exits Stealth with Sleep Tech",
+      "body": "Bose's former head of sleep launched SOND with $7M funding and Dreambuds headphones. The closed-loop in-ear system captures 12 physiological signals and acts on them in real-time.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-23",
+      "publishedAt": "2026-05-27",
       "topic": "AI Update"
     },
     {
-      "title": "xAI Pivots to Natural Gas, Abandons Solar Focus",
-      "body": "Elon Musk's xAI has shifted away from solar power toward natural gas investments. SpaceX simultaneously pursues orbital data centers, diverging from Musk's previous 'solar-electric economy' vision.",
+      "title": "Pope Critiques AI, Concentrated Power",
+      "body": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose systemic problems. The document addresses concentrated power, eroding democracy, and tech elite dominance.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-23",
+      "publishedAt": "2026-05-25",
       "topic": "AI Update"
     },
     {
-      "title": "AI Used to Reconstruct Dead Pilots' Voices from Recordings",
-      "body": "Researchers used AI to reconstruct cockpit recordings from spectrograms, forcing the NTSB to temporarily block access to its docket system. The incident raises concerns about AI misuse in sensitive aviation data.",
+      "title": "Human Archive Trains Robots with Gig Workers",
+      "body": "Human Archive, founded by UC Berkeley and Stanford researchers, pays Indian gig workers to collect robot training data. Workers wear camera-equipped caps and sensors for real-world physical data.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-22",
+      "publishedAt": "2026-05-26",
       "topic": "AI Update"
     },
     {
-      "title": "Google Adds Disco Ball Icons to Pixel Home Screen",
-      "body": "Google is rolling out decorative disco ball icons for Pixel devices. The feature lets users customize their home screen with the playful design element.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-22",
-      "topic": "AI Update"
+      "title": "Google's AI Search Replaces Blue Links with Agents",
+      "body": "Google I/O made official that AI-generated answers now dominate search results, shifting visibility away from traditional websites. Brands have almost no visibility into how AI describes them to customers, forcing SEO strategy overhauls.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-27",
+      "topic": "AI"
     },
     {
-      "title": "AI Startups Stretch Revenue Metrics While VCs Look Away",
-      "body": "Some AI startups are inflating traditional 'ARR' metrics when discussing progress publicly. Their investors are fully aware of these stretched accounting practices.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-22",
-      "topic": "AI Update"
+      "title": "AI Coding Startup Cognition Reaches $25B Valuation",
+      "body": "Cognition hit $492 million in annualized revenue run rate, more than doubling its valuation in eight months. The AI coding platform's rapid growth signals strong enterprise demand for AI development tools.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-27",
+      "topic": "AI"
     },
     {
-      "title": "SpaceX Files $1.75 Trillion IPO with Ambitious Mars Goals",
-      "body": "SpaceX's S-1 filing reveals a $28 trillion total addressable market and executive pay tied to Mars colony establishment. The 36-page risk factor section underscores the venture's scope and uncertainty.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-22",
-      "topic": "AI Update"
+      "title": "ElevenLabs Music AI Can Switch Genres Mid-Track",
+      "body": "ElevenLabs' new music-generation model lets users regenerate song sections without affecting the rest of the track. The feature enables more granular control over AI-generated music creation.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-27",
+      "topic": "AI"
     },
     {
-      "title": "Google Search AI Update Breaks 'Disregard' Keyword Searches",
-      "body": "A Google Search AI update has caused the word 'disregard' to break the search interface. The glitch highlights ongoing issues with AI-powered search systems.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-22",
-      "topic": "AI Update"
+      "title": "YouTube Automatically Labels AI-Generated Videos",
+      "body": "YouTube will now automatically detect and label videos using significant photorealistic AI instead of relying solely on creator disclosure. The labels are also being made more prominent to users.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-27",
+      "topic": "AI"
     },
     {
-      "title": "Google Demos Android XR Glasses with Gemini AI Integration",
-      "body": "Google showcased prototype Android XR glasses that overlay Gemini-powered translation and navigation directly into users' field of view. The demonstration shows near-ready wearable AI technology.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-22",
-      "topic": "AI Update"
+      "title": "Robinhood Lets AI Agents Trade Stocks Autonomously",
+      "body": "Robinhood now allows users to create separate accounts with pre-loaded balances for AI agents to trade automatically. The move expands autonomous AI into retail investing.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-27",
+      "topic": "AI"
     },
     {
-      "title": "Spotify Partners with Universal for AI-Generated Music Covers",
-      "body": "Spotify is partnering with Universal Music Group to let Premium subscribers create AI-generated song covers and remixes. Participating artists receive revenue shares from the fan-created content.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21",
-      "topic": "AI Update"
+      "title": "Tech CEOs Suffering from AI Psychosis, Says CEO",
+      "body": "Box CEO Aaron Levie argues that tech leaders are uniquely prone to \"AI psychosis,\" exhibiting almost religious belief in AI productivity gains. The comment highlights potential overestimation of AI capabilities.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-27",
+      "topic": "AI"
     },
     {
-      "title": "Six Search Engine Alternatives as Google Transforms",
-      "body": "Google's upcoming AI overview features are prompting users to explore alternative search engines. Several viable competitors now offer different approaches to web search.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21",
-      "topic": "AI Update"
-    },
-    {
-      "title": "India's gig workers training the world's robots",
-      "body": "Human Archive, founded by UC Berkeley and Stanford researchers, pays Indian gig workers to collect real-world physical training data by wearing camera-equipped caps and sensors. This data is critical for AI and robotics labs racing to build more capable systems.",
+      "title": "DuckDuckGo Installs Spike 30% as Google AI Backlash",
+      "body": "Google's AI Search overhaul at I/O 2026 triggered swift backlash, with DuckDuckGo app installs jumping 30%. Users are actively seeking alternatives to avoid Google's AI-dominated search experience.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-26",
       "topic": "AI"
     },
     {
-      "title": "UMG and TikTok renew AI music combat agreement",
-      "body": "Universal Music Group continues pushing platforms and AI companies to implement stricter content moderation policies. The renewed agreement aims to prevent unauthorized AI-generated music on TikTok.",
+      "title": "OpenRouter Doubles Valuation to $1.3B in Year",
+      "body": "OpenRouter raised $113 million Series B led by CapitalG, with 5x usage growth over six months. The multi-AI-model platform reflects industry shift toward flexible, model-agnostic AI infrastructure.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-26",
       "topic": "AI"
     },
     {
-      "title": "ClickUp replaces hundreds of workers with AI agents",
-      "body": "The nine-year-old startup is eliminating hundreds of employee positions by deploying thousands of AI agents. This shift signals how enterprise software is rapidly automating human roles.",
+      "title": "Startup Uses India Gig Workers to Train AI Robots",
+      "body": "Human Archive, founded by UC Berkeley and Stanford researchers, pays gig workers in India to wear camera-equipped caps collecting real-world training data for AI and robotics. The approach addresses critical shortage of physical training data.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26",
+      "topic": "AI"
+    },
+    {
+      "title": "UMG and TikTok Renew Deal to Combat AI Music Abuse",
+      "body": "Universal Music Group and TikTok renewed their agreement to implement stricter content moderation against unauthorized AI-generated music. UMG has been pushing platforms and AI companies to enforce stronger protections.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26",
+      "topic": "AI"
+    },
+    {
+      "title": "ClickUp Replaces Hundreds of Workers with AI Agents",
+      "body": "ClickUp is replacing hundreds of employees with thousands of AI agents, signaling a shift in how software companies staff operations. The nine-year-old startup's move highlights growing enterprise adoption of autonomous AI.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-25",
       "topic": "AI"
     },
     {
-      "title": "Pope's AI encyclical addresses power concentration",
-      "body": "Pope Leo XIV's encyclical uses AI as a lens to examine concentrated power and eroding democracy. The document critiques how a tech elite shapes the world to its advantage.",
+      "title": "Pope's AI Encyclical Critiques Concentrated Tech Power",
+      "body": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose concentrated power and eroding democracy shaped by tech elites. The religious document highlights growing concerns about AI's influence on society.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-25",
       "topic": "AI"
     },
     {
-      "title": "Everyone navigating AI security in real time",
-      "body": "Even Google is working through AI security challenges as the industry experiences rapid development. The transition period requires all players to adapt security practices on the fly.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-24",
-      "topic": "AI"
-    },
-    {
-      "title": "Amazon's Bee wearable offers convenience and privacy anxiety",
-      "body": "Amazon's new AI wearable provides practical features alongside significant privacy concerns. Like other AI wearables, Bee exemplifies the tradeoff between convenience and data protection.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-24",
-      "topic": "AI"
-    },
-    {
-      "title": "Ferrari uses IBM's AI to create superfans",
-      "body": "IBM and Scuderia Ferrari are partnering to redefine the fan experience using AI technology. The collaboration explores how machine learning can deepen fan engagement in motorsports.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-23",
-      "topic": "AI"
-    },
-    {
-      "title": "AI reconstructs dead pilots' voices from recordings",
-      "body": "Researchers used AI spectrograms to reconstruct cockpit recordings from deceased pilots. The NTSB temporarily blocked access to its docket system in response to this unauthorized voice recreation.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-22",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Search's AI breaks the word 'disregard'",
-      "body": "Google's AI-powered search update has inadvertently made searching for the word 'disregard' effectively impossible. The search interface breaks when processing this specific term.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-22",
-      "topic": "AI"
-    },
-    {
-      "title": "Google's AI glasses nearly ready for prime time",
-      "body": "Google demoed prototype Android XR glasses powered by Gemini that overlay translation, navigation, and information into your field of view. The demo showed the glasses are approaching practical usability.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-22",
-      "topic": "AI"
-    },
-    {
-      "title": "VCs and founders inflate AI startup 'ARR' metrics",
-      "body": "Some AI startups are stretching traditional revenue metrics when discussing progress publicly, with full awareness from their investors. The practice inflates perceived growth in the competitive AI funding landscape.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-22",
-      "topic": "AI"
-    },
-    {
-      "title": "Spotify and UMG allow fan-made AI covers",
-      "body": "Spotify is partnering with Universal Music Group to let Premium subscribers create AI-generated song covers and remixes. Participating artists will receive a share of the revenue generated.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-21",
-      "topic": "AI"
-    },
-    {
-      "title": "Six search engines worth trying now",
-      "body": "As Google integrates more AI features, alternative search engines are becoming viable options. Users unhappy with Google's AI overview feature have several compelling alternatives to explore.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-21",
-      "topic": "AI"
-    },
-    {
-      "title": "Rethinking org design for agentic AI era",
-      "body": "A disconnect exists between organizational ambitions for AI agents and current capabilities, with 85% wanting agentic systems within three years but 76% lacking supporting infrastructure. Enterprise AI adoption requires fundamental organizational restructuring.",
+      "title": "Organizations Want Agentic AI but Lack Infrastructure",
+      "body": "85% of organizations want to be agentic within three years, but 76% say current operations can't support that change. A critical gap exists between AI ambitions and operational readiness.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-26",
       "topic": "AI"
     },
     {
-      "title": "Reality check on AI job displacement panic",
-      "body": "Despite hysteria over AI's threat to white-collar jobs, aggregate employment remains stable with limited evidence of widespread displacement. A more nuanced picture is emerging beneath headline employment numbers.",
+      "title": "AI Jobs Hysteria Lacks Evidence of Mass Unemployment",
+      "body": "Despite fears that AI will devastate white-collar jobs, aggregate employment in developed countries remains stable with limited AI impact on headline numbers. The reality contradicts widespread panic about technological unemployment.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-26",
       "topic": "AI"
     },
     {
-      "title": "AI threatens entry-level work as aggregate jobs hold",
-      "body": "While overall employment has remained stable, AI threatens to disrupt entry-level positions where junior workers typically begin. This hidden crisis may reshape career progression more than headline job numbers suggest.",
+      "title": "Entry-Level Work Crisis May Hide Behind AI Stability",
+      "body": "While overall employment remains stable, a troubling change is emerging in entry-level opportunities as AI advances. The shift could create disparate impacts across different worker categories.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-26",
       "topic": "AI"
     },
     {
-      "title": "Anthropic's Code with Claude shows coding future",
-      "body": "At Anthropic's London developer event, Code with Claude demonstrated how AI is transforming software development practices. The two-day conference explored the future of AI-assisted coding.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-21",
-      "topic": "AI"
-    },
-    {
-      "title": "Google I/O shows AI-driven science's new path",
-      "body": "Demis Hassabis of Google DeepMind stated we're in the 'foothills of the singularity' during Google I/O. Recent AI developments are reshaping the approach to AI-driven scientific research.",
+      "title": "Google DeepMind CEO: AI Standing in Singularity Foothills",
+      "body": "Demis Hassabis declared at Google I/O that AI has reached the \"foothills of the singularity,\" where AI begins rapidly exceeding human intelligence. The statement signals Google's confidence in imminent AI breakthroughs.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-22",
       "topic": "AI"
     },
     {
-      "title": "Can AI learn to understand the world?",
-      "body": "AI companies are building systems to overcome LLM limitations and understand the external world. World models have become central to advancing AI capabilities beyond language processing.",
+      "title": "AI Companies Build World Models to Overcome LLM Limits",
+      "body": "AI companies are developing world models to help systems understand external environments beyond LLM text capabilities. Recent advances in world models signal a shift in AI architecture priorities.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-21",
       "topic": "AI"
     },
     {
-      "title": "Scaling creativity in the age of AI",
-      "body": "Storytelling remains core to humanity, and technology continues reshaping both medium and distribution. AI is transforming how creative expression reaches audiences across formats.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-21",
-      "topic": "AI"
-    },
-    {
-      "title": "FBI explains identifying AI porn creators",
-      "body": "FBI agents reveal methods for identifying people posting non-consensual AI-generated pornography. Law enforcement is developing techniques to track down perpetrators of this emerging crime.",
+      "title": "Critical Vulnerability Imperils Millions of AI Agents",
+      "body": "A critical vulnerability discovered in an open source package threatens millions of deployed AI agents. The security flaw highlights infrastructure risks in rapidly scaling AI systems.",
       "source": "Ars Technica",
       "publishedAt": "2026-05-26",
-      "topic": "AI"
-    },
-    {
-      "title": "3D-printable humanoid legs enable robotics research",
-      "body": "Researchers have created 3D-printable humanoid legs to democratize robotics experimentation. The open-source design allows broader participation in robot development and testing.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-26",
-      "topic": "AI"
-    },
-    {
-      "title": "Pope cites Gandalf, urges disarming AI",
-      "body": "Pope Leo XIV references Tolkien's Gandalf while calling to 'disarm' AI systems. The religious leader emphasizes the need to control powerful AI technologies.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-25",
-      "topic": "AI"
-    },
-    {
-      "title": "US scrambles to stop recreating dead pilots",
-      "body": "The US government is taking action to prevent internet users from recreating deceased pilots' voices using AI. The practice of reconstructing historical audio raises significant ethical and legal concerns.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-22",
       "topic": "AI"
     }
   ]
