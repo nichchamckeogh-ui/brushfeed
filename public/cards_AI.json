@@ -1,264 +1,278 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-05-30T06:46:28.102Z",
-  "cardCount": 37,
-  "aiUpdateCount": 15,
+  "generatedAt": "2026-05-30T18:37:18.493Z",
+  "cardCount": 39,
+  "aiUpdateCount": 19,
   "cards": [
     {
-      "title": "Coders Refusing to Work Without AI Tools",
-      "body": "While AI accelerates code production, researchers warn it may not improve code quality. This could create long-term problems for developers relying too heavily on AI assistance.",
+      "title": "Github Copilot Shifts to Token-Based Billing Model",
+      "body": "Microsoft's Github Copilot is moving away from its previous pricing structure toward token-based billing, sparking significant backlash from developers. The change marks a notable shift in the company's AI assistant strategy.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-30",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta Developing AI-Powered Hardware Pendant",
+      "body": "Meta is reportedly building an AI pendant as part of its broader hardware ambitions. The move signals the company's commitment to wearable AI devices.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-30",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google's Gemini Spark Automates Daily Tasks",
+      "body": "Google's new 24/7 AI assistant Gemini Spark handles inbox summaries and local event planning effectively. Questions remain about why Google positioned it as a separate product.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-30",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Browser Wars Heat Up Beyond Chrome, Safari",
+      "body": "Multiple alternative browsers are challenging Chrome and Safari dominance in 2026. The competitive landscape is expanding with new contenders.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-30",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Coders Depend on AI Despite Quality Concerns",
+      "body": "Developers increasingly refuse to work without AI tools, yet research suggests AI-generated code may not be higher quality. This dependency could create long-term problems.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-29",
       "topic": "AI Update"
     },
     {
-      "title": "Essential AI Glossary: Key Terms Explained",
-      "body": "The AI boom has introduced countless new terms and industry jargon. This glossary breaks down the most important vocabulary you need to understand AI discussions.",
+      "title": "Essential AI Terms and Definitions Glossary",
+      "body": "The rise of AI has introduced numerous new terminology and industry jargon. A comprehensive glossary helps decode the most important AI-related words and phrases.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-29",
       "topic": "AI Update"
     },
     {
-      "title": "CEOs Display AI Psychosis, Says Box Founder",
-      "body": "Box founder Aaron Levie warns that leaders making AI replacement decisions often don't understand actual job responsibilities. ClickUp recently laid off 22% of staff for AI agents, exemplifying this trend.",
+      "title": "CEOs' AI Psychosis Leads to Reckless Decisions",
+      "body": "Box founder Aaron Levie warns that executives replacing jobs with AI often lack understanding of actual job responsibilities. ClickUp exemplifies this trend, cutting 22% of workforce for AI agents.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-29",
       "topic": "AI Update"
     },
     {
-      "title": "Groq Raises $650M Following Nvidia Deal",
-      "body": "AI chip startup Groq is securing $650 million in internal funding while pivoting from hardware to AI inference. The move reflects growing focus on optimizing AI model responses.",
+      "title": "Groq Chip Startup Raises $650M Funding Round",
+      "body": "Following Nvidia's $20 billion acquisition of Groq, the chipmaker is raising $650 million internally. Groq is shifting focus from hardware to AI inference optimization.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-29",
       "topic": "AI Update"
     },
     {
-      "title": "Cognition: AI Coding Agents Won't Replace Humans",
-      "body": "Devin creator Scott Wu emphasizes that AI coding agents are designed to augment, not replace human programmers. The distinction highlights a more collaborative vision for AI development tools.",
+      "title": "Cognition's Devin Agent Won't Replace Developers",
+      "body": "Scott Wu, creator of Devin AI coding agent, emphasizes it's designed to augment rather than replace human programmers. Cognition maintains the tool supports developer productivity.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-29",
       "topic": "AI Update"
     },
     {
-      "title": "XCENA Raises $135M on Memory Bottleneck Bet",
-      "body": "South Korean chip startup XCENA challenges conventional AI wisdom by arguing memory, not compute, is AI's true bottleneck. The $135 million raise validates this alternative architectural approach.",
+      "title": "TechCrunch Disrupt 2026 Speaker Applications Close",
+      "body": "Today is the final deadline to apply for speaking slots at TechCrunch Disrupt 2026. Submit your session topic to help shape industry-defining conversations.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-29",
       "topic": "AI Update"
     },
     {
-      "title": "Glean Crosses $300M Revenue on AI Cuts",
-      "body": "Enterprise AI search startup Glean tripled annual revenue, now highlighting budget optimization as its major selling point. The growth defies typical tech competition despite entry from major giants.",
+      "title": "TechCrunch Disrupt Early Bird Savings Expire Tonight",
+      "body": "Attendees have until 11:59 p.m. PT today to secure Early Bird pricing of up to $410 off. Over 10,000 tech leaders expected at October's anticipated event.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-29",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Kiwibit Smart Bird Feeder Gamifies Backyard Birding",
+      "body": "Kiwibit's AI-powered bird feeder combines nature observation with mobile gaming mechanics. Users can collect bird species on their app similar to Pokémon.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-29",
+      "topic": "AI Update"
+    },
+    {
+      "title": "XCENA Raises $135M on AI Memory Bottleneck Theory",
+      "body": "South Korean chip startup XCENA argues AI's primary constraint is memory, not compute power. The company secured $135 million backing for this thesis.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-29",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Glean Triples Revenue with AI Cost-Cutting Focus",
+      "body": "Enterprise AI search startup Glean surpassed $300M in annual revenue amid tech budget cuts. The company tripled revenue while competing against major tech giants.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-29",
       "topic": "AI Update"
     },
     {
       "title": "Internet Infrastructure Rebuilt for AI Agents",
-      "body": "AWS, Cloudflare, and others are redesigning cloud infrastructure to handle machine-generated traffic instead of human users. This shift reflects AI agents moving from experiments into production systems.",
+      "body": "AWS, Cloudflare, and cloud providers are redesigning infrastructure for machine-generated traffic as AI agents move to production. The shift prioritizes machine-to-machine interactions over human users.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-28",
       "topic": "AI Update"
     },
     {
       "title": "Asana Acquires No-Code Agent Builder StackAI",
-      "body": "Asana is integrating StackAI into its expanding AI workflow platform. The acquisition strengthens Asana's no-code capabilities for building AI agents.",
+      "body": "Asana integrated StackAI into its expanding AI workflow tools suite. The acquisition strengthens Asana's AI-powered productivity capabilities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-28",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Raises $65B, Nears $1T Valuation",
-      "body": "Anthropic closed a Series H round at $965 billion post-money valuation, potentially marking its final private fundraise. An IPO could follow this massive capital injection.",
+      "title": "Anthropic Closes $65B Series H at $965B Valuation",
+      "body": "Anthropic completed a $65 billion funding round approaching $1 trillion valuation. The round could be the AI startup's final private raise before anticipated IPO.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-28",
       "topic": "AI Update"
     },
     {
-      "title": "AI Tokens Emerging as Tradeable Commodity Futures",
-      "body": "Major exchanges are designing derivative products treating AI tokens as raw material inputs like electricity or bandwidth. This shift legitimizes AI computational outputs as financial assets.",
+      "title": "AI Token Futures Trading Coming to Major Exchanges",
+      "body": "Large exchanges are designing derivative products around AI tokens as raw material inputs. AI tokens are increasingly treated like gold, oil, or electricity.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-28",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Releases Opus 4.8 Model",
-      "body": "The new Opus model includes Dynamic Workflows, enabling coordination of multiple AI subagents. This upgrade focuses on improving multi-agent orchestration capabilities.",
+      "title": "StrictlyVC Los Angeles Conference Launching June 18",
+      "body": "StrictlyVC Los Angeles brings together tech leaders for networking and fireside chats. Event features executives from Mach Industries and Shinkei Systems.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-28",
       "topic": "AI Update"
     },
     {
-      "title": "Musk Disputes Anthropic-SpaceX Compute Deal Terms",
-      "body": "Elon Musk publicly claims SpaceX's Anthropic compute commitment is short-term and cancellable, contradicting SpaceX's S-1 filing describing payments through May 2029. The dispute highlights ongoing tensions between the companies.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-28",
-      "topic": "AI Update"
+      "title": "Github Copilot's Token Billing Sparks Developer Backlash",
+      "body": "Microsoft's Github Copilot is shifting to token-based billing, ending its free tier and frustrating developers. The move marks the end of the AI coding assistant's golden age of accessibility.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-30",
+      "topic": "AI"
     },
     {
-      "title": "Sesame Launches iOS App for Conversational AI",
-      "body": "The startup from Oculus founders released its iOS app, bringing conversational AI agents to consumers with natural dialogue capabilities. The experience prioritizes human-like interactions over traditional chatbot interactions.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-28",
-      "topic": "AI Update"
+      "title": "Meta Develops AI-Powered Hardware Pendant",
+      "body": "Meta is making significant hardware bets on artificial intelligence technology. The company continues expanding beyond software into AI-enabled devices.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-30",
+      "topic": "AI"
     },
     {
-      "title": "Apple Plans Siri Overhaul for iOS 27",
-      "body": "New renders reveal Apple's AI strategy including a redesigned Siri and standalone Siri app for iOS 27. The changes position Apple to compete directly with ChatGPT and rivals.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-28",
-      "topic": "AI Update"
+      "title": "Google's Gemini Spark 24/7 AI Assistant Reviewed",
+      "body": "Gemini Spark automates everyday tasks like inbox summaries and event planning with practical usefulness. Google's decision to launch it as a separate product remains unclear.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-30",
+      "topic": "AI"
     },
     {
-      "title": "Coders Refusing to Work Without AI Tools",
-      "body": "While AI accelerates code production, researchers warn it may not improve code quality, creating long-term problems. Developers increasingly depend on AI assistance, but this could backfire if code reliability suffers.",
+      "title": "Coders Depend on AI But Quality Concerns Rise",
+      "body": "While AI helps developers write code faster, researchers warn it may not produce better code. This dependency could create long-term problems for software quality.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-29",
       "topic": "AI"
     },
     {
-      "title": "Essential AI Terms and Definitions Glossary",
-      "body": "The AI boom has flooded the tech world with new terminology and jargon. Here's a comprehensive glossary explaining the most important AI-related words and phrases you'll encounter.",
+      "title": "Essential AI Terms and Glossary Explained",
+      "body": "The AI boom has introduced countless new terms and slang that confuse many professionals. This glossary defines the most important words and phrases you'll encounter.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-29",
       "topic": "AI"
     },
     {
-      "title": "CEOs Have AI Psychosis, Says Box Founder",
-      "body": "Leaders deciding to replace jobs with AI often don't understand the work itself, creating what Aaron Levie calls 'AI psychosis.' ClickUp exemplified this by cutting 22% of staff for AI agents.",
+      "title": "CEOs Suffer from 'AI Psychosis' Says Box Founder",
+      "body": "Box founder Aaron Levie warns that executives replacing jobs with AI often don't understand those roles. ClickUp's 22% workforce cut for AI agents exemplifies this misunderstanding.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-29",
       "topic": "AI"
     },
     {
-      "title": "Groq Raises $650M, Pivots to AI Inference",
-      "body": "AI chipmaker Groq is securing $650 million in funding while shifting focus from hardware to AI inference optimization. The move reflects changing priorities in how AI models process and refine responses.",
+      "title": "Groq Raises $650M Amid AI Chip Competition",
+      "body": "Chipmaker Groq is securing $650 million in funding as it shifts focus to AI inference optimization. The company is pivoting from hardware manufacturing to refining AI model responses.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-29",
       "topic": "AI"
     },
     {
-      "title": "Devin AI Coding Agent Shouldn't Replace Humans",
-      "body": "Cognition's Scott Wu, creator of the popular Devin AI coding agent, emphasizes it's designed to augment rather than replace programmers. Despite its success, the tool remains a human-centric aid.",
+      "title": "Cognition's Devin AI Agent Shouldn't Replace Humans",
+      "body": "Scott Wu of Cognition, maker of the successful Devin AI coding agent, insists it's not designed to supplant human programmers. The tool aims to augment rather than eliminate developers.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-29",
       "topic": "AI"
     },
     {
-      "title": "AI Chip Startup Bets Memory Is Real Bottleneck",
-      "body": "South Korean chip startup XCENA raised $135 million betting that memory, not compute power, is AI's biggest limitation. The contrarian view challenges conventional wisdom about AI infrastructure needs.",
+      "title": "XCENA Chip Startup Raises $135M on Memory Hypothesis",
+      "body": "South Korean chip startup XCENA believes AI's true bottleneck is memory, not compute power. The company raised $135 million to pursue this alternative hardware approach.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-29",
       "topic": "AI"
     },
     {
-      "title": "Glean's AI Search Revenue Triples to $300M",
-      "body": "Enterprise AI search startup Glean tripled annual revenue by positioning itself as a cost-cutting tool amid tech industry budget constraints. The surge demonstrates growing demand for AI efficiency solutions.",
+      "title": "Glean Enterprise AI Search Crosses $300M Revenue",
+      "body": "Enterprise AI search startup Glean tripled annual revenue despite competition from tech giants. Budget-conscious AI solutions have become the company's major selling point.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-29",
       "topic": "AI"
     },
     {
-      "title": "Internet Infrastructure Rebuilt for AI Agents",
-      "body": "AWS, Cloudflare, and others are redesigning cloud infrastructure as AI agents move from experiments to production. The shift prioritizes machine-generated traffic over traditional human internet usage.",
+      "title": "Internet Rebuilt for AI Agent Machine Traffic",
+      "body": "AWS, Cloudflare, and other cloud providers are redesigning infrastructure for AI agents moving into production. The shift prioritizes machine-generated traffic over human user interaction.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-28",
       "topic": "AI"
     },
     {
-      "title": "Asana Acquires No-Code AI Agent Builder",
-      "body": "Asana purchased StackAI to expand its AI workflow automation capabilities. The acquisition integrates no-code agent building into Asana's growing suite of enterprise AI tools.",
+      "title": "Asana Acquires StackAI No-Code Agent Builder",
+      "body": "Asana incorporated StackAI into its growing suite of AI workflow tools. The acquisition strengthens the company's automation and agent-building capabilities.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-28",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Raises $65B, Nears $1T Valuation",
-      "body": "Anthropic closed a Series H round at $965 billion post-money valuation, positioning the AI startup for an imminent IPO. The massive fundraise could be the company's final private round.",
+      "title": "Anthropic Raises $65B at $965B Valuation",
+      "body": "Anthropic closed a massive $65 billion Series H funding round, valuing the AI startup at $965 billion. This could be the company's final private raise before its anticipated IPO.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-28",
       "topic": "AI"
     },
     {
-      "title": "AI Tokens Becoming Tradeable Like Commodities",
-      "body": "Major exchanges are developing derivative products around AI tokens, treating them as raw material inputs like oil or electricity. This signals a fundamental shift in how AI resources are valued.",
+      "title": "AI Tokens Becoming Tradeable Commodity Futures",
+      "body": "Major exchanges are designing derivative products around AI tokens as raw material inputs. AI tokens are increasingly viewed like gold, oil, electricity, or bandwidth.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-28",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Releases Opus 4.8 with Dynamic Workflows",
-      "body": "The new Opus model introduces Dynamic Workflows, enabling coordination of multiple AI subagents working in concert. This advancement enhances AI agents' ability to handle complex, multi-step tasks.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28",
-      "topic": "AI"
-    },
-    {
-      "title": "Musk Downplays Anthropic Compute Deal Duration",
-      "body": "Elon Musk claims xAI's Anthropic compute agreement is short-term and cancellable, contradicting SpaceX's SEC filings showing payments through May 2029. The dispute highlights tensions over AI infrastructure deals.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28",
-      "topic": "AI"
-    },
-    {
-      "title": "Oculus Founders' Sesame AI Launches iOS App",
-      "body": "Sesame's new iOS app brings conversational AI agents designed to feel more natural and human-like than traditional chatbots. The app enables more nuanced back-and-forth interactions with AI.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28",
-      "topic": "AI"
-    },
-    {
-      "title": "Apple Redesigns Siri as Standalone AI App",
-      "body": "New renders reveal Apple's AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app. The changes position Apple to compete directly with ChatGPT and similar AI chatbots.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28",
-      "topic": "AI"
-    },
-    {
-      "title": "Pope Declares Technology Is Never Neutral",
-      "body": "Pope Leo XIV's new encyclical 'Magnifica Humanitas' addresses AI and emphasizes that technology carries inherent values and impacts. The statement calls on technologists and policymakers to approach AI with courage and solidarity.",
+      "title": "Pope's Encyclical Addresses Artificial Intelligence",
+      "body": "Pope Leo XIV's encyclical Magnifica Humanitas emphasizes that 'technology is never neutral' regarding AI. The document calls for courage and solidarity as society navigates the AI moment.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-29",
       "topic": "AI"
     },
     {
-      "title": "AI Jobs Hysteria Lacks Supporting Evidence",
-      "body": "Despite growing panic over AI's threat to white-collar jobs, there's scant evidence the technology has significantly displaced workers yet. A reality check reveals the AI jobs narrative may be overblown.",
+      "title": "Rethinking Organizations for Agentic AI Adoption",
+      "body": "While 85% of organizations want agentic AI within three years, 76% lack operational infrastructure to support it. A major disconnect exists between AI adoption ambitions and execution capabilities.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-26",
       "topic": "AI"
     },
     {
-      "title": "Organizations Want AI Agents But Lack Infrastructure",
-      "body": "While 85% of organizations want to adopt agentic AI within three years, 76% say their current operations can't support the transition. A significant gap exists between AI ambitions and operational readiness.",
+      "title": "AI Jobs Panic Lacks Real Evidence, Study Shows",
+      "body": "Despite growing hysteria about AI threatening white-collar employment, concrete evidence of mass job displacement remains scarce. Reality checks are needed on AI's actual labor market impact.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-26",
-      "topic": "AI"
-    },
-    {
-      "title": "Stay on Top of Relentless AI News Cycle",
-      "body": "MIT Technology Review recognizes the overwhelming pace of AI developments and offers resources to help readers stay informed. Tracking AI progress requires dedicated attention to quality coverage.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-27",
       "topic": "AI"
     },
     {
       "title": "LLMs Believe False Statements Despite Warnings",
-      "body": "Research shows large language models continue believing false information even after explicit corrections. The finding reveals a significant limitation in how LLMs process contradictory information.",
+      "body": "Large language models continue accepting false information even after explicit corrections and warnings. This fundamental limitation raises concerns about LLM reliability and truthfulness.",
       "source": "Ars Technica",
       "publishedAt": "2026-05-28",
       "topic": "AI"
     },
     {
-      "title": "Developer Sneaks Data-Nuking Prompt Injection",
-      "body": "A frustrated developer embedded a data-destructing prompt injection into code written by 'vibe coders' relying on AI. The incident exposes security vulnerabilities in AI-generated code without proper review.",
+      "title": "Developer Injects Data-Destroying Prompt Injection Attack",
+      "body": "A frustrated developer embedded a prompt injection attack into code written by less rigorous 'vibe coders.' The malicious prompt could destroy data, highlighting AI-generated code security risks.",
       "source": "Ars Technica",
       "publishedAt": "2026-05-28",
       "topic": "AI"
     },
     {
-      "title": "Startup Offers Free Cleaning for Robot Training",
-      "body": "A startup provides free home cleaning services in exchange for permission to record footage for training AI robots. The model leverages household data to develop better robotic AI systems.",
+      "title": "Home Cleaning Startup Offers Free Service for Robot Training",
+      "body": "A startup offers free home cleaning services in exchange for recording footage to train cleaning robots. The data collection approach enables AI training for autonomous home service robots.",
       "source": "Ars Technica",
       "publishedAt": "2026-05-29",
       "topic": "AI"
