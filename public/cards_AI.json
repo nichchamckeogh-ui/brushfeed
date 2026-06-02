@@ -1,238 +1,273 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-01T18:49:29.427Z",
-  "cardCount": 33,
-  "aiUpdateCount": 15,
+  "generatedAt": "2026-06-02T06:12:15.394Z",
+  "cardCount": 38,
+  "aiUpdateCount": 18,
   "cards": [
     {
-      "title": "Anthropic Files for IPO",
-      "body": "Anthropic announced Monday it has filed confidentially for an initial public offering. The AI safety company joins other major AI firms in pursuing public markets.",
+      "title": "Alphabet Plans $80B Investment in AI Infrastructure",
+      "body": "Alphabet is raising $80B to fund its AI buildout, responding to enterprise and consumer demand that exceeds current supply. The company cites strong demand for AI solutions across its product portfolio.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-01",
       "topic": "AI Update"
     },
     {
-      "title": "SpaceX IPO Faces Water Access Challenge",
-      "body": "SpaceX disclosed in IPO filings that significant water resources are needed to cool data centers. The company identifies access to abundant, affordable water as a major risk factor.",
+      "title": "Nvidia Targets $200B CPU Market with AI Agent PCs",
+      "body": "Nvidia is positioning AI agent PCs to capture the $200B CPU market through partnerships with Microsoft, Dell, and HP. If successful, the move could democratize AI agents for mainstream users.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-01",
       "topic": "AI Update"
     },
     {
-      "title": "Windborne's Weather AI Beats Government",
-      "body": "Windborne Systems' latest weather forecasting model outperforms government agencies' predictions by days. The startup demonstrates AI's capability in meteorological forecasting.",
+      "title": "Florida Sues OpenAI Over Alleged Violent Incident",
+      "body": "Florida filed a first-of-its-kind lawsuit against OpenAI and Sam Altman, linking ChatGPT to a shooting at Florida State University. The lawsuit centers on the AI's alleged role in violent incidents.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-01",
       "topic": "AI Update"
     },
     {
-      "title": "DuckDuckGo Expands No-AI Search Option",
-      "body": "DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox browsers. The alternative search engine capitalizes on growing user traffic seeking AI-free search.",
+      "title": "Water Access Becomes SpaceX IPO Risk Factor",
+      "body": "SpaceX's IPO filing identifies water access as a significant operational risk for cooling its data centers. The company needs substantial water resources to sustain its AI infrastructure expansion.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-01",
       "topic": "AI Update"
     },
     {
-      "title": "SoftBank Invests €75B in French Data Centers",
-      "body": "SoftBank commits up to €75 billion to build French data center infrastructure. The investment targets 5 gigawatts of additional data center capacity development.",
+      "title": "Anthropic Files for Public Markets Debut",
+      "body": "Anthropic, now a major AI powerhouse, has filed to go public after attracting top-tier enterprise customers. The Claude maker has evolved from underdog to industry contender.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30",
+      "publishedAt": "2026-06-01",
       "topic": "AI Update"
     },
     {
-      "title": "Github Copilot's Token Billing Sparks Backlash",
-      "body": "Microsoft's Github Copilot introduces token-based billing, ending its free golden age. Developers express significant frustration over the new pricing model.",
+      "title": "WindBorne AI Weather Startup Outforecasts Agencies",
+      "body": "WindBorne uses 400 high-altitude balloons at 15 global sites to gather superior weather data. The startup's unique model-building and data collection approach beats government agency predictions.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30",
+      "publishedAt": "2026-06-01",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Develops AI Pendant Hardware",
-      "body": "Meta is reportedly developing an AI-powered pendant device. The move signals major investments in AI-enabled wearable hardware.",
+      "title": "DuckDuckGo Boosts 'No-AI' Search Extensions",
+      "body": "DuckDuckGo launched 'no AI' web extensions for Chrome and Firefox as user traffic surges. The alternative search engine capitalizes on privacy-first demand amid AI concerns.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google's Gemini Spark Automates Daily Tasks",
-      "body": "Google's 24/7 AI assistant Gemini Spark helps automate tasks from inbox summaries to event planning. The separate product offering raises questions about Google's strategic product positioning.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Groq Raises $650M, Pivots to AI Inference",
-      "body": "AI chip startup Groq is raising $650 million in internal funding. The company shifts focus from hardware to AI inference optimization and response refinement.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-29",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Cognition's Devin Won't Replace Human Coders",
-      "body": "Cognition CEO Scott Wu says AI coding agent Devin isn't designed to supplant programmers. The company emphasizes human-AI collaboration over replacement in software development.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-29",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Coding Speeds Production, Quality Questions Remain",
-      "body": "Developers increasingly refuse to work without AI tools, but researchers warn code quality may suffer. Fast production doesn't guarantee better code, creating future technical debt risks.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-29",
-      "topic": "AI Update"
-    },
-    {
-      "title": "CEOs Display 'AI Psychosis' Says Aaron Levie",
-      "body": "Box founder Aaron Levie warns executives are making AI replacement decisions without understanding jobs. ClickUp's 22% workforce cut for AI agents exemplifies this disconnect.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-29",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Terminology Glossary for 2026",
-      "body": "AI's rise has introduced an avalanche of new terms and industry slang. A comprehensive glossary clarifies definitions of essential AI vocabulary and phrases.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-29",
+      "publishedAt": "2026-06-01",
       "topic": "AI Update"
     },
     {
       "title": "Erin Brockovich Targets Data Center Secrecy",
-      "body": "Environmental activist Erin Brockovich launches new mission against data center opacity. She focuses on exposing environmental impacts of AI infrastructure.",
+      "body": "Environmental activist Erin Brockovich is now investigating data center operations and transparency. Her mission focuses on exposing undisclosed impacts of AI infrastructure expansion.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-31",
       "topic": "AI Update"
     },
     {
-      "title": "Tech Industry Debates AI Psychosis Among CEOs",
-      "body": "Latest Equity podcast episode questions whether tech leaders are uniquely susceptible to 'AI psychosis.' Experts debate CEO decision-making patterns in AI implementation.",
+      "title": "SoftBank to Invest €75B in French Data Centers",
+      "body": "SoftBank plans to develop and operate up to 5 gigawatts of additional European data center capacity. The investment underscores the massive infrastructure race fueling AI buildout.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-31",
+      "publishedAt": "2026-05-30",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Files for IPO",
-      "body": "The AI safety company Anthropic has filed confidentially for an initial public offering. This marks a major milestone for one of the leading competitors to OpenAI.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-01",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Weather Startup Outforecasts Government",
-      "body": "Windborne Systems' weather forecasting model beats government predictions by days. The AI-powered approach demonstrates superior accuracy in weather prediction.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-01",
-      "topic": "AI"
-    },
-    {
-      "title": "DuckDuckGo Launches No-AI Search Tools",
-      "body": "The privacy-focused search engine launches 'no AI' web extensions for Chrome and Firefox as traffic booms. Users can now avoid AI-generated results entirely.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-01",
-      "topic": "AI"
-    },
-    {
-      "title": "Github Copilot Token Billing Sparks Backlash",
-      "body": "Microsoft's Github Copilot shifts to token-based billing, ending its previous pricing model. Developers express frustration over the controversial change.",
-      "source": "TechCrunch",
+      "title": "GitHub Copilot Token-Based Billing Sparks Backlash",
+      "body": "GitHub Copilot's shift to token-based pricing is drawing consternation from developer communities. Microsoft's AI coding tool appears to be ending its golden age of developer goodwill.",
+      "source": "TechCrunch AI",
       "publishedAt": "2026-05-30",
-      "topic": "AI"
+      "topic": "AI Update"
     },
     {
-      "title": "Meta Develops AI-Powered Pendant Hardware",
-      "body": "Meta is reportedly building an AI pendant as part of its hardware strategy. The device represents the company's push into AI-powered wearables.",
-      "source": "TechCrunch",
+      "title": "Meta Reportedly Developing AI Hardware Pendant",
+      "body": "Meta is making significant bets on AI-powered hardware beyond its headset lineup. The reported AI pendant signals Meta's broader push into wearable AI devices.",
+      "source": "TechCrunch AI",
       "publishedAt": "2026-05-30",
-      "topic": "AI"
+      "topic": "AI Update"
     },
     {
       "title": "Google's Gemini Spark Automates Daily Tasks",
-      "body": "Google's 24/7 AI assistant Gemini Spark handles inbox summaries and event planning. The tool proves surprisingly useful but raises questions about its separate product status.",
+      "body": "Gemini Spark is Google's 24/7 AI assistant for automating inbox summaries and local event planning. The separate product offering raises questions about Google's AI product fragmentation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-30",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Investment Boom Creates Extreme VC Competition",
+      "body": "Top venture capitalists report a frenzy of seed and Series A offers for young AI founders in San Francisco. The groupthink boom is creating unprecedented pressure to back AI startups.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-30",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Developers Increasingly Refuse Work Without AI",
+      "body": "Coders are demanding AI tools despite concerns that AI-generated code may lack quality. Researchers warn faster code production doesn't guarantee better outcomes long-term.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-29",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Glossary: Essential Terms and Definitions",
+      "body": "As AI proliferates, industry jargon has exploded with new terms and slang. This glossary defines key AI words and phrases essential for understanding the sector.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-29",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Psychosis: When Companies Go Too Far",
+      "body": "Box founder Aaron Levie warns executives replacing human jobs don't understand those roles, calling it 'AI psychosis.' ClickUp exemplified this by cutting 22% of staff for AI agents.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-29",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Groq Seeks $650M After Nvidia Funding Shift",
+      "body": "AI chipmaker Groq is raising $650M internally as it pivots from hardware to AI inference. The funding move follows Nvidia's $20B not-acquisition of chip talent.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-29",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Devin Creator Says AI Shouldn't Replace Humans",
+      "body": "Cognition's Scott Wu, creator of Devin AI coding agent, argues AI shouldn't supplant human programmers. Despite Devin's success, Wu emphasizes human-AI collaboration over replacement.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-29",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Alphabet plans $80B AI infrastructure investment",
+      "body": "Alphabet is raising $80 billion to fund its AI buildout as enterprise and consumer demand for its AI solutions exceeds available supply. The company is doubling down on infrastructure to meet rapidly growing market needs.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-01",
+      "topic": "AI"
+    },
+    {
+      "title": "Nvidia pushes AI agents to consumer PCs",
+      "body": "Nvidia is working with Microsoft, Dell, and HP to bring AI agents to consumer laptops through on-device processing. If successful, this could democratize AI agent access for everyday users.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-01",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic files for IPO as AI powerhouse",
+      "body": "Anthropic, once considered an underdog in large language models, has landed top-tier enterprise customers and is now going public. The AI safety-focused company has become a major player in the LLM space.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-01",
+      "topic": "AI"
+    },
+    {
+      "title": "AI weather startup outperforms government forecasts",
+      "body": "WindBorne's AI weather model is out-forecasting traditional government agencies using a network of 400 balloons collecting sensor data globally. Advances in their model stem from improved data collection and AI processing techniques.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-01",
+      "topic": "AI"
+    },
+    {
+      "title": "GitHub Copilot shifts to token-based billing",
+      "body": "Microsoft's GitHub Copilot is moving away from free tiers to a new token-based pricing model, sparking developer backlash. Developers are expressing frustration over the end of the platform's generous free access period.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-30",
       "topic": "AI"
     },
     {
-      "title": "Coders Refuse Work Without AI Tools",
-      "body": "Developers increasingly demand AI assistance, but researchers warn the output may sacrifice code quality. The long-term implications for software reliability remain unclear.",
+      "title": "Meta reportedly developing AI-powered pendant",
+      "body": "Meta is making significant hardware bets on AI, reportedly developing an AI pendant as part of its broader strategy. The wearable device signals the company's commitment to on-device AI experiences.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-30",
+      "topic": "AI"
+    },
+    {
+      "title": "Google's Gemini Spark assists daily automation",
+      "body": "Google's new 24/7 AI assistant Gemini Spark automates everyday tasks like inbox summaries and event planning with practical utility. However, questions remain about why Google chose to launch it as a separate product.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-30",
+      "topic": "AI"
+    },
+    {
+      "title": "AI-assisted coding risks quality concerns",
+      "body": "While AI coding tools help developers produce code faster, researchers warn they may not improve code quality. Developers increasingly relying on AI assistance could face long-term technical debt issues.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-29",
       "topic": "AI"
     },
     {
-      "title": "AI Terminology Glossary Explains Key Terms",
-      "body": "The rapid rise of AI has created an avalanche of new industry terms and slang. This comprehensive glossary clarifies essential vocabulary for understanding modern AI discussions.",
+      "title": "AI glossary: Essential terms explained clearly",
+      "body": "The rise of AI has introduced an avalanche of new terms and terminology into tech discourse. This glossary clarifies the most important AI-related words and phrases you'll encounter.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-29",
       "topic": "AI"
     },
     {
-      "title": "CEOs Suffer from 'AI Psychosis'",
-      "body": "Box founder Aaron Levie argues executives replace jobs without understanding the work involved. He cites ClickUp's 22% workforce cut for AI agents as a cautionary example.",
+      "title": "AI psychosis: Companies over-trusting automation",
+      "body": "Box founder Aaron Levie warns of \"AI psychosis\" where executives underestimate job complexity when implementing AI replacements. ClickUp's 22% workforce cut for AI agents exemplifies this misalignment between technology and human reality.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-29",
       "topic": "AI"
     },
     {
-      "title": "Groq Raises $650M for AI Inference",
-      "body": "The AI chip startup pivots from hardware to focus on AI inference and model optimization. The funding round follows Nvidia's $20B not-acquisition of talent.",
+      "title": "Groq raises $650M to expand AI inference",
+      "body": "AI chipmaker Groq is raising $650 million in funding as it pivots toward AI inference optimization. The company is refocusing on how AI models respond to user queries rather than hardware alone.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-29",
       "topic": "AI"
     },
     {
-      "title": "Devin Creator: AI Shouldn't Replace Coders",
-      "body": "Cognition's Scott Wu clarifies that Devin, the AI coding agent, complements rather than replaces human programmers. The distinction reflects ongoing debate about AI's role in software development.",
+      "title": "Devin AI coder: Augment, not replace humans",
+      "body": "Cognition's Scott Wu, creator of Devin, the most successful AI coding agent, emphasizes it's designed to augment rather than replace programmers. The tool aims to enhance developer productivity, not eliminate coding jobs.",
       "source": "TechCrunch",
       "publishedAt": "2026-05-29",
       "topic": "AI"
     },
     {
-      "title": "China Approves First Invasive Brain-Computer Chip",
-      "body": "A paralyzed patient in Henan province successfully used an implanted brain-computer interface to write with a pen. This marks a major breakthrough in invasive neural AI technology.",
+      "title": "China approves first invasive brain-computer chip",
+      "body": "China has approved the world's first invasive brain-computer interface chip, allowing paralyzed patients to control devices with thought. The breakthrough represents a major milestone in AI-assisted neural technology integration.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-01",
       "topic": "AI"
     },
     {
-      "title": "Pope Calls Technology Never Neutral",
-      "body": "Pope Leo XIV's encyclical 'Magnifica Humanitas' addresses artificial intelligence and human responsibility. The statement warns technologists and policymakers to act with courage regarding AI.",
+      "title": "Pope's AI encyclical calls for human-centered tech",
+      "body": "Pope Leo XIV's new encyclical \"Magnifica Humanitas\" addresses AI, emphasizing that \"technology is never neutral.\" The statement calls on technologists and policymakers to approach AI development with courage and solidarity.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-29",
       "topic": "AI"
     },
     {
-      "title": "AI Hype Index: Graduates Reject AI Narrative",
-      "body": "University of Arizona graduates booed former Google CEO Eric Schmidt when he urged them to shape AI. The reaction reveals generational skepticism about AI's promised benefits.",
+      "title": "AI Hype Index: Grads skeptical of AI promises",
+      "body": "Class of 2026 graduates booed former Google CEO Eric Schmidt when he encouraged them to help shape AI. The reaction reflects growing generational skepticism toward AI hype.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-28",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Model Solves 80-Year Math Problem",
-      "body": "An OpenAI model successfully solved a famous mathematical problem that eluded humans for decades. The achievement demonstrates advanced reasoning capabilities in specialized domains.",
+      "title": "Meta AI chatbot tricked into stealing Instagram accounts",
+      "body": "Hackers exploited Meta's AI support chatbot to bypass security and steal celebrity Instagram accounts. The incident exposes vulnerabilities in AI-powered customer service systems.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-01",
       "topic": "AI"
     },
     {
-      "title": "Intel Claims Cheaper, Cooler AI Chip",
-      "body": "Intel announces upcoming AI chips designed to undercut Nvidia and AMD on price and thermal efficiency. The company intensifies competition in the booming AI hardware market.",
+      "title": "GM accelerates development with AI/ML optimization",
+      "body": "General Motors reduced development time from 15 hours to one minute using AI and machine learning. The breakthrough demonstrates transformative productivity gains from AI integration in automotive engineering.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-01",
       "topic": "AI"
     },
     {
-      "title": "Nvidia RTX Spark Arrives on Windows PCs",
-      "body": "Nvidia's RTX Spark brings unified memory and RTX GPU capabilities to Windows Arm systems. The technology enhances AI inference performance on edge devices.",
+      "title": "Nvidia RTX Spark brings unified AI computing",
+      "body": "Nvidia's new RTX Spark combines Arm CPUs, RTX GPUs, and unified memory for Windows PC AI workloads. The platform aims to simplify AI development and deployment on consumer hardware.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-01",
       "topic": "AI"
     },
     {
-      "title": "Robot Training Startup Offers Free Home Cleaning",
-      "body": "A startup provides complimentary home cleaning services in exchange for recording rights to train robots. The model balances cost savings against privacy concerns.",
+      "title": "Intel's AI chip promises cheaper, cooler performance",
+      "body": "Intel is developing a competitive AI chip positioning itself as cheaper and more energy-efficient than Nvidia and AMD alternatives. The chipmaker aims to challenge dominance in the AI accelerator market.",
       "source": "Ars Technica",
-      "publishedAt": "2026-05-29",
+      "publishedAt": "2026-06-01",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI model solves 80-year-old math problem",
+      "body": "An OpenAI model solved a famous mathematical problem that has stumped human mathematicians for 80 years. The breakthrough demonstrates AI's growing capability in abstract reasoning and complex problem-solving.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-06-01",
       "topic": "AI"
     }
   ]
