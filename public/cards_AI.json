@@ -1,292 +1,327 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-03T06:43:12.083Z",
-  "cardCount": 41,
+  "generatedAt": "2026-06-03T18:09:50.147Z",
+  "cardCount": 46,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Cyera targets $12B valuation with $300M funding round",
-      "body": "The cybersecurity company is nearing a $300 million Series round led by Evolution Equity Partners, achieving an 80x ARR multiple despite operating losses. This valuation reflects strong investor confidence in the security market.",
+      "title": "Amazon Uses AI to Generate Product Images",
+      "body": "Amazon will use visual search and AI to show AI-generated product images matching search queries. The retailer says this will help guide users to products.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-03",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Voice AI Startup Scales Across Africa, Middle East",
+      "body": "Founders from Goldman and Meta built a voice AI stack serving overlooked markets. The startup now handles over 17,000 calls per day.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-03",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Publishers Can Now Opt Out of AI Search",
+      "body": "U.K. regulators are requiring Google offer a tool for publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-03",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta's WhatsApp AI Agent Goes Global",
+      "body": "Meta's AI agent for WhatsApp Business is now available globally. WhatsApp will charge businesses based on token usage.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-03",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Coralogix Raises $200M for AI Monitoring",
+      "body": "Coralogix is betting on demand for tools to monitor AI agent behavior in production. The infrastructure firm is among growing players providing operational oversight for AI systems.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-03",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Cyera Eyes $12B Valuation Despite Losses",
+      "body": "The cybersecurity company is nearing a $300 million funding round led by Evolution Equity Partners. Cyera is valued at 80x ARR multiple.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-02",
       "topic": "AI Update"
     },
     {
-      "title": "Uber cuts AI spending after exhausting budget in months",
-      "body": "Uber capped employee AI spending after the company had encouraged staff to use AI as much as possible. The spending spree depleted budgets in just four months.",
+      "title": "Uber Caps AI Spending After Budget Overrun",
+      "body": "Uber has capped employee AI spending after blowing through its budget in just 4 months. The cutback follows the company's push to encourage staff AI usage.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-02",
       "topic": "AI Update"
     },
     {
-      "title": "Microsoft releases open-source AI evaluation framework",
-      "body": "Microsoft launched Adaptive Spec-driven Scoring for Evaluation and Regression Testing (ASSERT), an open-source framework for spinning up AI evaluations. Developers can now spin up AI behavior tests using simple text descriptions.",
+      "title": "Microsoft Releases AI Testing Framework",
+      "body": "Microsoft released Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework. Developers can now spin up AI evaluations using text descriptions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-02",
       "topic": "AI Update"
     },
     {
-      "title": "Martin Scorsese embraces AI for storyboarding",
-      "body": "The legendary director becomes an unlikely Hollywood advocate for AI technology, though he's using it solely for storyboarding purposes. His adoption signals growing acceptance of AI in creative workflows.",
+      "title": "Scorsese Uses AI for Film Storyboarding",
+      "body": "Martin Scorsese has become an unlikely Hollywood voice for AI adoption. The legendary director is using the technology solely for storyboarding purposes.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-02",
       "topic": "AI Update"
     },
     {
-      "title": "Microsoft Scout brings OpenClaw to Microsoft 365",
-      "body": "Microsoft launched Scout, a new AI assistant inspired by OpenClaw, designed to integrate with the Microsoft 365 system. The tool brings advanced AI capabilities directly into enterprise workflows.",
+      "title": "Microsoft Launches Scout Personal Assistant",
+      "body": "Microsoft Scout is a new AI assistant launched at Build. It brings OpenClaw-inspired power and flexibility into the Microsoft 365 system.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-02",
       "topic": "AI Update"
     },
     {
-      "title": "Google deploys AI fake call detection technology",
-      "body": "Google launched fake call detection to protect users against AI deepfake impersonation scams spoofing trusted phone numbers. Scammers are increasingly using AI to sound like authority figures, family members, or employers.",
+      "title": "Google Rolls Out Deepfake Call Detection",
+      "body": "Google is deploying fake call detection to protect against AI deepfake impersonation scams. Scammers are increasingly spoofing trusted numbers and using AI voices.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-02",
       "topic": "AI Update"
     },
     {
-      "title": "Microsoft gives developers AI agent behavior control",
-      "body": "Microsoft released a specification allowing developer, compliance, and security teams to define policies for AI agents in portable policy files. This gives teams portable control over agent behavior across deployments.",
+      "title": "Microsoft Helps Devs Control AI Agent Behavior",
+      "body": "Microsoft is offering developers better ways to control AI agent behavior through portable policy files. Compliance and security teams can define custom policies for agents.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-02",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon faces class action over Ring facial recognition",
-      "body": "Amazon's Ring faces a class action lawsuit claiming its Familiar Faces feature stores images of passersby without consent. The lawsuit, filed in Seattle, raises privacy concerns around biometric data collection.",
+      "title": "Amazon Faces Lawsuit Over Ring Facial Recognition",
+      "body": "A class action lawsuit claims Amazon's Ring Familiar Faces stores images without consent. The suit was filed by a Virginia resident in Seattle.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-02",
       "topic": "AI Update"
     },
     {
-      "title": "Trump signs narrower AI oversight executive order",
-      "body": "President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models after industry objections. The order takes a lighter-touch approach than initially proposed.",
+      "title": "Trump Signs Narrower AI Oversight Executive Order",
+      "body": "President Trump signed a revised AI executive order after industry objections. The order now requires only voluntary prerelease government reviews of advanced models.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-02",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI launches six new Codex workplace tools",
-      "body": "OpenAI released six plug-ins targeting specific white-collar jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Each tool bundles integrations, instructions, and context for specialized work.",
+      "title": "OpenAI Launches Codex Tools for White-Collar Work",
+      "body": "OpenAI released six plug-ins for specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Tools are available within the Codex app.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-02",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic expands Claude Mythos to critical infrastructure",
-      "body": "Anthropic expanded Project Glasswing access to 150 organizations across 15 countries targeting critical infrastructure in power, water, healthcare, and communications. The program protects systems where cyberattacks could affect 100 million people.",
+      "title": "Anthropic Expands Claude to Critical Infrastructure",
+      "body": "Anthropic is expanding Project Glasswing to 150 organizations across 15+ countries. Claude Mythos access targets critical infrastructure in power, water, healthcare, and communications.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-02",
       "topic": "AI Update"
     },
     {
-      "title": "ZeroDrift raises $10M for AI compliance protection",
-      "body": "ZeroDrift launched a new AI compliance service that sits between AI models and end users to flag problematic messages. The solution automatically flags and replaces any messages presenting compliance issues.",
+      "title": "ZeroDrift Raises $10M for AI Compliance",
+      "body": "ZeroDrift is building an AI compliance service between models and users. The service flags and replaces messages that present compliance problems.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-02",
       "topic": "AI Update"
     },
     {
-      "title": "Impulse Space raises $500M to hire human engineers",
-      "body": "Rocket engine startup Impulse Space raised $500 million prioritizing human talent over AI for engineering complex physical systems. Impulse Space president Eric Romo emphasized that physical systems engineering still depends on human expertise.",
+      "title": "Impulse Space Raises $500M, Prioritizes Human Talent",
+      "body": "Rocket engine startup Impulse Space raised $500 million for hiring people, not AI. Engineering physical systems still depends on human talent, says the company.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-02",
       "topic": "AI Update"
     },
     {
-      "title": "Alphabet plans $80B investment in AI infrastructure",
-      "body": "Alphabet announced plans to raise $80 billion to pay for its AI buildout as enterprise and consumer demand exceeds available supply. The company is experiencing strong demand for AI solutions and services.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-01",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nvidia pursues $200B CPU market with AI agent PCs",
-      "body": "Nvidia is chasing the $200 billion CPU market by partnering with Microsoft, Dell, and HP to bring AI agents to consumer PCs. If Nvidia succeeds in making AI agents accessible and useful, it could be transformative.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-01",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Florida sues OpenAI over violent incident allegations",
-      "body": "Florida filed a first-of-its-kind lawsuit against OpenAI and Sam Altman, partially revolving around a shooting at Florida State University and ChatGPT's alleged role. The lawsuit raises questions about AI platforms' responsibility in violent incidents.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-01",
-      "topic": "AI Update"
-    },
-    {
-      "title": "SpaceX water needs emerge as IPO risk factor",
-      "body": "SpaceX identified water access as a risk factor in its IPO filing, stating it needs significant water resources to cool data centers. Abundant, affordable water access is now a critical business challenge for the company.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-01",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic files for public stock market debut",
-      "body": "Anthropic filed to go public as an AI powerhouse with top-tier enterprise customers. The company has evolved from an underdog to a major player in the large language model landscape.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-01",
-      "topic": "AI Update"
-    },
-    {
-      "title": "WindBorne weather AI outperforms government agencies",
-      "body": "WindBorne's AI weather startup is out-forecasting government agencies using 400 balloons in flight collecting sensor readings globally. The company's unique combination of model-building and data collection drives its forecasting advances.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-01",
-      "topic": "AI Update"
-    },
-    {
-      "title": "DuckDuckGo expands no-AI search engine access",
-      "body": "Alternative search engine DuckDuckGo launched 'no AI' web extensions for Chrome and Firefox as traffic booms. The company makes its no-AI position easier to access for users seeking AI-free search.",
+      "title": "Alphabet Plans $80B Investment in AI Buildout",
+      "body": "Alphabet plans to raise $80 billion to fund its AI expansion. The company says demand for AI solutions is exceeding available supply.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-01",
       "topic": "AI Update"
     },
     {
-      "title": "Microsoft Launches AI Evaluation Framework for Developers",
-      "body": "Microsoft released Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for AI evaluations. The tool lets developers spin up AI behavior tests using text descriptions.",
+      "title": "Nvidia Chases CPU Market with AI Agent PCs",
+      "body": "Nvidia is pursuing the $200B CPU market with AI agent PCs from Microsoft, Dell, and HP. The company aims to bring AI agents safely to consumers.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-01",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Amazon Uses AI to Generate Product Images",
+      "body": "Amazon is deploying AI-generated product images in search results to help guide users to relevant items. The visual search feature leverages artificial intelligence to match queries with product recommendations.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-03",
+      "topic": "AI"
+    },
+    {
+      "title": "Founders Build Voice AI for Underserved Markets",
+      "body": "Two former Goldman Sachs and Meta executives launched a voice AI startup targeting Africa and the Middle East. Their custom stack now processes over 17,000 calls daily.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-03",
+      "topic": "AI"
+    },
+    {
+      "title": "U.K. Requires Google AI Search Opt-Out Tool",
+      "body": "New U.K. regulation mandates Google provide publishers an option to opt out of generative AI search features. The tool will be tested locally before global rollout.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-03",
+      "topic": "AI"
+    },
+    {
+      "title": "Meta's WhatsApp AI Agent Goes Global",
+      "body": "WhatsApp's AI agent for businesses is now available worldwide, charging companies based on token usage. The feature streamlines customer interactions through artificial intelligence.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-03",
+      "topic": "AI"
+    },
+    {
+      "title": "Coralogix Raises $200M for AI Agent Monitoring",
+      "body": "Coralogix leads a growing wave of startups building tools to monitor AI agents in production. The infrastructure company addresses rising demand for reliability and troubleshooting as AI systems scale.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-03",
+      "topic": "AI"
+    },
+    {
+      "title": "Uber Restricts Employee AI Spending After Overages",
+      "body": "Uber capped internal AI spending after employees burned through the budget in just four months. The company had previously encouraged staff to maximize AI tool usage.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-02",
       "topic": "AI"
     },
     {
-      "title": "Microsoft Scout Brings OpenClaw to Microsoft 365",
-      "body": "Microsoft launched Scout at Build, a new AI assistant bringing OpenClaw's power to Microsoft 365. The tool is designed to enhance productivity across enterprise workflows.",
+      "title": "Microsoft Launches AI Behavior Testing Framework",
+      "body": "Microsoft released Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open-source tool for AI evaluations. Developers can now create AI behavior tests using simple text descriptions.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-02",
       "topic": "AI"
     },
     {
-      "title": "Google Deploys AI Deepfake Detection Against Scams",
-      "body": "Google rolled out fake call detection to protect users from AI deepfake impersonation scams. The feature combats scammers spoofing trusted numbers and using AI to impersonate authority figures.",
+      "title": "Scorsese Uses AI for Film Storyboarding",
+      "body": "Martin Scorsese has become an unlikely AI advocate, using the technology exclusively for storyboarding. The legendary director's adoption signals mainstream acceptance of AI in creative workflows.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-02",
       "topic": "AI"
     },
     {
-      "title": "Microsoft Gives Developers Better AI Agent Control",
-      "body": "Microsoft released a specification letting developers define policies for AI agents in portable policy files. Compliance and security teams can now better control agent behavior.",
+      "title": "Microsoft Launches Scout AI Assistant",
+      "body": "Microsoft Scout, unveiled at Build, brings OpenClaw-inspired capabilities into Microsoft 365. The personal AI assistant combines flexibility with enterprise integration.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-02",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Launches Codex Plug-ins for White-Collar Work",
-      "body": "OpenAI released six specialized Codex plug-ins for data analytics, creative production, sales, design, investing, and banking. Each tool bundles integrations and instructions to optimize AI for specific jobs.",
+      "title": "Google Adds AI Deepfake Call Detection",
+      "body": "Google is rolling out fake call detection to combat AI deepfake impersonation scams. The feature protects against spoofed numbers and AI-generated voices mimicking authority figures.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-02",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Expands Claude Mythos to Critical Infrastructure",
-      "body": "Anthropic expanded Project Glasswing to 150 organizations across 15+ countries targeting critical infrastructure. The security program now provides AI vulnerability detection in power, water, healthcare, and communications.",
+      "title": "Microsoft Lets Devs Control AI Agent Behavior",
+      "body": "Microsoft introduced portable policy files allowing developers to define AI agent constraints. Compliance and security teams can now enforce custom policies across deployments.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-02",
       "topic": "AI"
     },
     {
-      "title": "ZeroDrift Raises $10M for AI Compliance Layer",
-      "body": "ZeroDrift launched a compliance service that sits between AI models and users to flag problematic messages. The startup protects organizations from AI model failures and policy violations.",
+      "title": "Ring Faces Class Action Over Facial Recognition",
+      "body": "Amazon's Ring faces a lawsuit claiming its Familiar Faces feature stores passerby images without consent. The AI facial-recognition tool is at the center of privacy concerns.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-02",
       "topic": "AI"
     },
     {
-      "title": "Alphabet Plans $80B Investment in AI Infrastructure",
-      "body": "Alphabet announced plans to raise $80B for its AI buildout to meet enterprise demand. The company said demand for AI solutions exceeds its available supply.",
+      "title": "Trump Signs Revised AI Oversight Executive Order",
+      "body": "President Trump signed a narrower AI executive order requiring only voluntary government reviews of advanced models. The move followed industry objections to stricter original proposals.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI Launches Codex Plugins for Work",
+      "body": "OpenAI released six specialized Codex plug-ins targeting data analytics, creative work, sales, design, and finance. Each tool bundles integrations and context for specific professional roles.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic Expands Claude Security Program Globally",
+      "body": "Anthropic is scaling Project Glasswing to 150 organizations across 15 countries, focusing on critical infrastructure. The security vulnerability program protects power, water, healthcare, and communications sectors.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02",
+      "topic": "AI"
+    },
+    {
+      "title": "ZeroDrift Raises $10M for AI Compliance",
+      "body": "ZeroDrift offers AI compliance services sitting between models and end users, flagging problematic messages. The startup protects organizations from AI-related compliance risks.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02",
+      "topic": "AI"
+    },
+    {
+      "title": "Alphabet Plans $80B Investment for AI Infrastructure",
+      "body": "Alphabet is raising $80 billion to fund its AI buildout as enterprise and consumer demand surges. The company states demand exceeds available AI supply.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-01",
       "topic": "AI"
     },
     {
-      "title": "Nvidia Launches AI Agent PCs with Partners",
-      "body": "Nvidia partnered with Microsoft, Dell, and HP to launch AI agent-capable PCs. The initiative aims to bring AI agents safely and usefully to mainstream consumers.",
+      "title": "Nvidia Targets $200B CPU Market with AI Agents",
+      "body": "Nvidia is partnering with Microsoft, Dell, and HP to bring AI agent PCs to mainstream users. The push could reshape personal computing if executed successfully.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-01",
       "topic": "AI"
     },
     {
-      "title": "Florida Sues OpenAI and Sam Altman",
-      "body": "Florida filed a lawsuit against OpenAI and Sam Altman over violent incidents. The case centers on ChatGPT's alleged role in a shooting at Florida State University.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-01",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic Files for Public Offering",
-      "body": "Anthropic, now an AI powerhouse with top-tier enterprise customers, filed to go public. The company has emerged as a leading LLM developer despite earlier underdog status.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-01",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Weather Startup Outforecasts Government Agencies",
-      "body": "WindBorne's AI weather model outperforms government forecasts using its unique data collection approach. The company operates 400 balloons globally, gathering sensor readings from 15 launch sites.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-01",
-      "topic": "AI"
-    },
-    {
-      "title": "DuckDuckGo Expands No-AI Search Engine Access",
-      "body": "DuckDuckGo launched browser extensions for Chrome and Firefox to promote no-AI search. The move comes as traffic to the privacy-focused search engine booms.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-01",
-      "topic": "AI"
-    },
-    {
-      "title": "Small Businesses Leverage AI for Core Operations",
-      "body": "AI tools now enable small businesses to streamline accounting, design, research, and development. The technology democratizes skills previously requiring dedicated staff.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-02",
-      "topic": "AI"
-    },
-    {
-      "title": "Agentic AI Addresses Global Healthcare Strain",
-      "body": "Agentic AI systems could help alleviate chronic underinvestment in global healthcare. The technology addresses fragmented care access and high staffing constraints.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-02",
-      "topic": "AI"
-    },
-    {
-      "title": "Pope's Encyclical Frames AI Neutrality Challenge",
-      "body": "Pope Leo XIV's Magnifica Humanitas encyclical emphasizes that technology is never neutral. The statement calls for courage and solidarity in addressing AI's societal impact.",
+      "title": "Pope's Encyclical Warns AI is Never Neutral",
+      "body": "Pope Leo XIV's new encyclical on AI emphasizes that 'technology is never neutral.' Magnifica Humanitas calls for courage and solidarity in addressing AI challenges.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-29",
       "topic": "AI"
     },
     {
-      "title": "Microsoft Plans AI Agent Operating System",
-      "body": "Microsoft's Project Solara is an Android OS designed specifically for AI agents instead of traditional apps. The platform represents a shift toward agent-first computing architecture.",
+      "title": "Small Businesses Leverage AI for Operations",
+      "body": "AI tools now help small businesses handle accounting, design, research, and product development. The democratization of AI makes advanced capabilities accessible to enterprises of all sizes.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-02",
+      "topic": "AI"
+    },
+    {
+      "title": "Agentic AI Transforms Global Healthcare",
+      "body": "Agentic AI systems address chronic healthcare underinvestment and staffing shortages worldwide. The technology promises to reduce fragmented access and improve care outcomes.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-02",
+      "topic": "AI"
+    },
+    {
+      "title": "Microsoft Plans RTX Spark Desktop for Developers",
+      "body": "Microsoft is building Linux tools and an RTX Spark desktop environment for Windows developers. The effort enhances support for AI development workflows.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-02",
       "topic": "AI"
     },
     {
-      "title": "Mathematicians Warn of AI Threats to Profession",
-      "body": "Mathematicians are raising concerns as AI industry encroaches on their field. The profession faces challenges from advancing AI capabilities.",
+      "title": "Microsoft Project Solara is Agent-Focused OS",
+      "body": "Project Solara is a new Android-based OS designed specifically for AI agents rather than traditional apps. The operating system reimagines how agents interact with systems.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-02",
       "topic": "AI"
     },
     {
-      "title": "Android Detects Spoofed Calls and Impersonation",
-      "body": "Android phones will soon detect spoofed calls and impersonation scams using AI. The feature protects users from deepfake and fraud attacks.",
+      "title": "Android Detects Spoofed Calls and AI Scams",
+      "body": "Android phones will soon detect spoofed calls and impersonation scams using AI technology. The feature protects users from deepfake-based social engineering attacks.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-02",
       "topic": "AI"
     },
     {
-      "title": "GitHub Copilot Users React to New Pricing",
-      "body": "GitHub Copilot introduced usage-based pricing, drawing reactions from developers. The cost structure reflects growing demand for AI coding assistance.",
+      "title": "Mathematicians Warn of AI Industry Threats",
+      "body": "Mathematicians are raising alarms as AI encroaches on their profession's core work. The warning highlights concerns about AI's impact on intellectual disciplines.",
       "source": "Ars Technica",
-      "publishedAt": "2026-06-01",
+      "publishedAt": "2026-06-02",
       "topic": "AI"
     },
     {
-      "title": "Hackers Exploit Meta's AI Support Chatbot",
-      "body": "Hackers manipulated Meta's AI support chatbot to steal celebrity Instagram accounts. The breach reveals vulnerabilities in AI customer service systems.",
+      "title": "GitHub Copilot Users React to Pricing Changes",
+      "body": "GitHub Copilot's new usage-based pricing has sparked reactions from developers concerned about costs. The shift reflects how AI tool expenses are becoming significant for users.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-01",
       "topic": "AI"
