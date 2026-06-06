@@ -1,264 +1,215 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-05T18:26:53.631Z",
-  "cardCount": 37,
-  "aiUpdateCount": 20,
+  "generatedAt": "2026-06-06T06:07:19.107Z",
+  "cardCount": 30,
+  "aiUpdateCount": 15,
   "cards": [
     {
-      "title": "Anthropic Revenue Hits $47B Annualized Ahead of IPO",
-      "body": "Anthropic's annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. The company faces a real test maintaining this breakneck growth trajectory.",
+      "title": "Startup Battlefield 200 Applications Close June 8",
+      "body": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October in San Francisco.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-05",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Pays SpaceX $920M Monthly for Compute",
+      "body": "Google and SpaceX finalized a deal worth $920M per month for compute resources. The agreement stems from unexpected demand for Google's recently launched AI products.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-05",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AirTrunk Commits $30B for India AI Data Centers",
+      "body": "Australian data center operator AirTrunk announced plans to build 5GW of AI data center capacity in India. The massive investment reflects the growing infrastructure demands of AI companies.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-05",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Industry Faces Runaway Cost Management Crisis",
+      "body": "Industry conversation has shifted from aggressive scaling to implementing guardrails and cost controls. Companies are scrambling to manage AI's rapidly escalating operational expenses.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-05",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Reports $47B Annualized Revenue Before IPO",
+      "body": "Anthropic's annualized revenue crossed $47 billion in May, dramatically up from $9 billion at end of 2025. The company is growing at breakneck pace ahead of its IPO filing.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-04",
       "topic": "AI Update"
     },
     {
-      "title": "Alphabet Raises Record $85B for Google's AI Business",
-      "body": "Alphabet completed a record-breaking $85 billion stock sale signaling strong investor appetite for AI-related offerings. The massive raise demonstrates investor confidence in AI's commercial potential.",
+      "title": "Airbnb CEO Plans New AI Lab Launch",
+      "body": "Airbnb CEO Brian Chesky announced plans to launch a new AI lab. Previously, the company opted against LLM partnerships, stating existing products weren't ready.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-03",
+      "publishedAt": "2026-06-04",
       "topic": "AI Update"
     },
     {
-      "title": "Google Expands AI Search with Publisher Opt-Out Option",
-      "body": "U.K. regulators are requiring Google to offer publishers a tool to opt out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+      "title": "Meta Builds AI Data Centers in Tents",
+      "body": "Meta discovered a creative cost-cutting solution: constructing data centers using tents. The approach aims to slash the company's massive data center infrastructure costs.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-03",
+      "publishedAt": "2026-06-04",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Approves Poke as First AI Agent for Messages",
+      "title": "Poke Approved as First AI Agent on iMessage Business",
       "body": "Poke became the first AI agent approved for Apple's Messages for Business platform. The startup enables users to interact with AI agents through simple text messages.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-04",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Rolls Out AI Creator Assistant on Facebook",
-      "body": "Meta launched a new AI creator assistant that helps Facebook creators get quick answers about their performance. Creators can now ask questions like 'When should I post?' instead of parsing through dashboards.",
+      "title": "Meta Launches AI Creator Assistant on Facebook",
+      "body": "Meta released a new AI assistant for Facebook creators that answers questions about posting times and comment sentiment. The tool eliminates the need to manually parse performance dashboards.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-04",
       "topic": "AI Update"
     },
     {
-      "title": "Google's Dreambeans Turns Your Life Into Cartoons",
-      "body": "Dreambeans is Google's new AI tool that creates illustrated 'stories' from personal data in your Google account. The weirdly-named tool curates AI-generated content personalized to individual users.",
+      "title": "Hello Robot Releases Fourth-Generation Stretch Home Robot",
+      "body": "California startup Hello Robot unveiled Stretch, the fourth generation of its home assistance robot. The robot is designed to help bring robotics into residential settings.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-04",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Lovable Expands Google Cloud Deal 5x with Claude Access",
+      "body": "Lovable signed a multiyear expansion deal with Google Cloud involving a 5x increase in usage footprint. The deal includes expanded access to Anthropic's Claude AI model.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-03",
       "topic": "AI Update"
     },
     {
-      "title": "Lovable Signs $5x Google Cloud Expansion Deal",
-      "body": "Lovable and Google signed a multiyear deal expanding Lovable's footprint on Google Cloud by 5x. The deal includes expanded access to Anthropic's Claude AI model.",
+      "title": "Alphabet Raises Record $85B for Google AI Business",
+      "body": "Alphabet completed a record-breaking $85 billion stock sale dedicated to Google's AI initiatives. The massive raise signals strong investor confidence in AI-related business opportunities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-03",
       "topic": "AI Update"
     },
     {
-      "title": "AirTrunk Commits $30B to Build AI Data Centers",
-      "body": "Australian data center operator AirTrunk plans to set up 5GW of capacity in India. The massive investment signals continued infrastructure buildout for AI computing demands.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Amazon Uses AI to Generate Product Search Images",
-      "body": "Amazon will use visual search and AI to show AI-generated product images matching user search queries. The retailer says the feature helps guide users to relevant products.",
+      "title": "Google Dreambeans Turns Your Life Into Cartoon",
+      "body": "Google launched Dreambeans, an AI tool that converts personal data from your Google account into illustrated stories. The whimsically-named tool creates AI-generated cartoon narratives.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-03",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Builds Data Centers Inside Tents to Cut Costs",
-      "body": "Meta found a novel way to reduce its massive data center bill by building facilities in tents. The cost-cutting approach reflects industry pressure to manage AI infrastructure expenses.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Hello Robot Releases Stretch Fourth Generation",
-      "body": "Hello Robot released the fourth-generation of its home assistance robot, Stretch. The California startup is positioning itself as ready to bring robots into consumer homes.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Airbnb CEO Plans to Launch New AI Lab",
-      "body": "Brian Chesky announced Airbnb will launch a new AI lab. The CEO previously said Airbnb hasn't partnered with an LLM because existing products weren't quite ready.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Cost Crisis Prompts Industry Guardrail Shift",
-      "body": "Industry conversation shifted from 'tokenmaxxing' to managing AI's runaway costs and implementing guardrails. Companies are prioritizing cost control over rapid scaling growth strategies.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Voice AI Startup Handles 17K Daily Calls in Africa",
-      "body": "Two founders left Goldman and Meta to build voice AI for overlooked African and Middle Eastern markets. Their startup's proprietary stack now handles over 17,000 calls daily.",
+      "title": "Amazon Shows AI-Generated Product Images in Search",
+      "body": "Amazon will now display AI-generated product images matching user search queries using visual search technology. The retailer says the feature helps guide customers to relevant products.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-03",
       "topic": "AI Update"
     },
     {
-      "title": "Apple's App Store Generates $1.4 Trillion Annually",
-      "body": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year. Digital goods sales reached $149 billion with 90% of transactions without Apple's commission.",
+      "title": "Apple App Store Hits $1.4T in Annual Billings",
+      "body": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion the previous year. Digital goods sales reached $149 billion with 90% of transactions paid without Apple commission.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-04",
       "topic": "AI Update"
     },
     {
-      "title": "WWDC 2026: Siri Revamp and Apple Intelligence Updates",
-      "body": "Apple's WWDC 2026 will feature Siri's highly anticipated revamp and Apple Intelligence updates. The event is shaping up to showcase significant AI integration across Apple products.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Together Tech Wave Emerges as 2026 Startup Trend",
-      "body": "While AI fundraising hits record highs, some founders are building 'together tech' that gets people offline. Brynn Putnam raised funds for Board, a startup focused on in-person gaming experiences.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Mira Murati Steps Into Spotlight Post-OpenAI",
-      "body": "Mira Murati is increasing her public visibility as former OpenAI CTO. In the current AI landscape, staying low-profile has diminishing returns for maintaining market relevance.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic's Amodei Dismisses AI Returns Concerns",
-      "body": "Ahead of its IPO, Anthropic CEO Daniela Amodei shrugged off doubts about AI's investment returns. The company continues its dramatic growth trajectory with strong revenue expansion.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "StrictlyVC LA Hosts Defense Tech and AI Summit",
-      "body": "Investors, founders, and tech leaders will gather June 18 at The Aerospace Corporation Campus for StrictlyVC Los Angeles. The event explores consequential shifts in venture capital, defense tech, and AI.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Token costs force AI industry to implement guardrails",
-      "body": "The AI industry is shifting from rapid growth to cost control as token expenses spiral. Companies are now prioritizing sustainability over \"move fast\" culture.",
+      "title": "Google pays SpaceX $920M monthly for AI compute",
+      "body": "Google signed a major deal with SpaceX to secure computing capacity for its AI products. The agreement reflects unexpected demand surge for Google's recently launched AI offerings.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-05",
       "topic": "AI"
     },
     {
-      "title": "Anthropic's revenue hits $47B annualized ahead of IPO",
-      "body": "Anthropic announced annualized revenue crossed $47 billion in May, up dramatically from $9 billion at end of 2025. The company faces a real test in proving its trajectory is sustainable.",
+      "title": "AI infrastructure costs spiral out of control",
+      "body": "The industry is shifting from rapid expansion to managing runaway AI costs. Companies are implementing guardrails and control measures as the 'tokenmaxxing' era ends.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-05",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic's revenue soars to $47B annualized",
+      "body": "Anthropic announced explosive growth with annualized revenue reaching $47 billion in May, up from $9 billion at end of 2025. The company faces testing ground ahead of its IPO.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-04",
       "topic": "AI"
     },
     {
-      "title": "Poke becomes first AI agent on Apple Messages Business",
-      "body": "Poke, which enables AI agents through text messages, is now approved for Apple's Messages for Business platform. This marks a significant milestone for AI agent integration in Apple's ecosystem.",
+      "title": "Apple approves first AI agent for Messages",
+      "body": "Poke became the first AI agent approved for Apple's Messages for Business platform. The startup enables users to deploy AI agents through simple text messages.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-04",
       "topic": "AI"
     },
     {
-      "title": "Meta rolls out AI creator assistant for Facebook",
-      "body": "Meta launched a new AI assistant helping creators get quick performance insights without parsing dashboards. Creators can now ask questions like \"When should I post?\" and get instant answers.",
+      "title": "Meta launches AI assistant for Facebook creators",
+      "body": "Meta rolled out an AI creator assistant that answers performance questions without parsing dashboards. Creators can now ask when to post and what audiences are saying.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-04",
       "topic": "AI"
     },
     {
-      "title": "Lovable expands Google Cloud deal by 5x with Claude",
-      "body": "Lovable signed a multiyear expansion deal with Google Cloud involving a 5x increase in usage. The deal also includes expanded access to Anthropic's Claude AI model.",
+      "title": "Lovable expands Google Cloud deal by 5x",
+      "body": "Lovable signed a multiyear deal with Google Cloud to expand its footprint significantly. The agreement includes expanded access to Anthropic's Claude model.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-03",
       "topic": "AI"
     },
     {
-      "title": "Alphabet raises record $85B for Google AI business",
-      "body": "Alphabet's record-breaking $85 billion stock sale signals strong investor appetite for AI-related offerings. The move demonstrates confidence in Google's AI expansion strategy.",
+      "title": "Alphabet raises record $85B for Google AI",
+      "body": "Alphabet completed a record-breaking $85 billion stock sale dedicated to Google's AI business. The move signals strong investor confidence in AI-related ventures.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-03",
       "topic": "AI"
     },
     {
-      "title": "Google's Dreambeans turns your life into AI cartoons",
-      "body": "Dreambeans is Google's new AI tool that generates illustrated \"stories\" from your personal Google account data. The whimsically-named feature curates AI-generated visual narratives.",
+      "title": "Google's Dreambeans turns your life into cartoons",
+      "body": "Google introduced Dreambeans, an AI tool that curates illustrated stories from your personal data. The quirky offering transforms real moments into animated narratives.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-03",
       "topic": "AI"
     },
     {
-      "title": "Amazon shows AI-generated product images in search",
-      "body": "Amazon will use visual search and AI to display AI-generated product images matching user queries. The retailer claims this helps guide users to relevant products.",
+      "title": "Amazon deploys AI-generated product images",
+      "body": "Amazon is using visual search and AI to show generated product images in search results. The retailer claims AI imagery helps guide users to relevant products.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-03",
       "topic": "AI"
     },
     {
-      "title": "Voice AI startup handles 17K calls daily in Africa",
-      "body": "Two former Goldman and Meta founders built a voice AI stack for African and Middle Eastern markets. Their platform now handles over 17,000 calls per day.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-03",
-      "topic": "AI"
-    },
-    {
-      "title": "UK regulators require Google AI Search opt-out tool",
-      "body": "UK regulators mandate Google provide publishers with opt-out tools for generative AI search features. The option will be tested in the UK then rolled out globally.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-03",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta AI agent exploited to steal Instagram accounts",
-      "body": "Attackers used Meta's AI customer support agent to steal Instagram accounts by requesting account transfers. The hack exposed significant security gaps in AI agent deployment.",
+      "title": "Meta's AI agent hacked, Instagram accounts stolen",
+      "body": "Attackers exploited Meta's AI customer support agent to steal Instagram accounts by redirecting them to attacker-controlled emails. The breach exposed gaps in AI security beyond typical safeguards.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-05",
       "topic": "AI"
     },
     {
-      "title": "AI chatbots impact our brain's attention and control",
-      "body": "Psychologists studying human-AI interaction find chatbots significantly affect cognitive control and focus. This raises important questions about AI's effect on brain function.",
+      "title": "AI chatbots reshape how our brains work",
+      "body": "Psychologists warn AI chatbots may be affecting cognitive control and attention spans. Research shows significant impacts on how users interact with digital technology.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-05",
       "topic": "AI"
     },
     {
-      "title": "Courts overwhelmed by flood of AI-generated lawsuits",
-      "body": "Federal judges are struggling with unprecedented numbers of AI-generated legal documents from self-represented litigants. Courts must adapt procedures to handle this new volume efficiently.",
+      "title": "Courts overwhelmed by AI-generated lawsuits",
+      "body": "Federal judges report a flood of AI-generated legal filings, many with errors and weak cases. Courts are struggling to cope with volume as pro se litigants use AI tools.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-04",
       "topic": "AI"
     },
     {
-      "title": "Virtual power plants could power AI data centers",
-      "body": "Google signed a deal with Voltus to help fund virtual power plants supporting data centers. This approach could offset massive AI infrastructure energy demands.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-03",
-      "topic": "AI"
-    },
-    {
-      "title": "Small businesses leverage AI for admin operations",
-      "body": "AI can now handle accounting, design, market research, and product development for small businesses. This democratizes access to capabilities previously requiring specialized staff.",
+      "title": "Small businesses leverage AI for operations",
+      "body": "Small businesses can deploy AI across accounting, design, and market research functions. LLMs now enable entrepreneurs to automate skills that previously required specialized hires.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-02",
       "topic": "AI"
     },
     {
-      "title": "Agentic AI transforms global healthcare delivery",
-      "body": "Healthcare systems facing chronic underinvestment and staffing gaps are turning to agentic AI solutions. AI agents help bridge care provision gaps and improve patient outcomes.",
+      "title": "Agentic AI transforms global healthcare",
+      "body": "AI agents are being deployed to address healthcare sector strain and chronic underinvestment. Autonomous systems can help fill gaps in fragmented care access.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-02",
       "topic": "AI"
     },
     {
-      "title": "LLMs best at resisting Russian propaganda",
-      "body": "Research identifies which large language models are most effective at resisting Russian propaganda attempts. This benchmark helps assess AI robustness against information manipulation.",
+      "title": "These LLMs best resist Russian propaganda",
+      "body": "Certain large language models demonstrated superior resistance to Russian propaganda compared to others. The findings highlight important differences in model robustness.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-04",
       "topic": "AI"
