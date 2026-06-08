@@ -1,287 +1,231 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-07T18:16:46.697Z",
-  "cardCount": 40,
-  "aiUpdateCount": 20,
+  "generatedAt": "2026-06-08T06:14:53.450Z",
+  "cardCount": 32,
+  "aiUpdateCount": 12,
   "cards": [
     {
-      "title": "Notion Restores Anthropic Access After Disruption",
-      "body": "Notion's head of product expressed surprise at the viral attention surrounding the service disruption. The access has now been restored following the outage.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-07",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Shifts Strategy Beyond Chat Interface",
-      "body": "A senior OpenAI employee stated that 'Chat is dead' as the company pivots toward building a 'super app.' The company continues development on this ambitious new direction.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-07",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Launches Lockdown Mode for Data Protection",
-      "body": "Lockdown Mode aims to reduce prompt injection vulnerabilities and protect sensitive data in ChatGPT. While not eliminating risk entirely, the feature significantly strengthens security.",
+      "title": "OpenAI Unveils Lockdown Mode for Data Protection",
+      "body": "OpenAI launched Lockdown Mode to reduce prompt injection attack risks and protect sensitive data in ChatGPT. While vulnerabilities may persist, the feature aims to minimize unauthorized data sharing during conversations.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Apple Intelligence Updates Coming at WWDC 2026",
-      "body": "Apple's Worldwide Developers Conference will showcase Siri's highly anticipated revamp and new Apple Intelligence features. The announcements are expected to drive major updates to AI capabilities.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Sriram Krishnan Departs White House AI Role",
-      "body": "The White House AI advisor is stepping down to launch a new institution focused on AI policy. Krishnan will continue shaping the Trump administration's approach to AI.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Trump Administration Considers OpenAI Equity Stake",
-      "body": "President Trump is discussing potential deals where Americans could benefit from AI's success. The proposal would give the U.S. government a financial stake in OpenAI.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Startup Battlefield 200 Applications Close June 8",
-      "body": "Applications for TechCrunch Disrupt 2026's Startup Battlefield 200 close on June 8 at 11:59 p.m. PT. Winners will compete on the Disrupt Stage in San Francisco this October.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-05",
       "topic": "AI Update"
     },
     {
       "title": "Google Pays SpaceX $920M Monthly for Compute",
-      "body": "Google has inked a major deal with SpaceX valued at $920 million per month for computational capacity. The agreement reflects unexpected demand for Google's recently launched AI products.",
+      "body": "Google signed a major deal with SpaceX worth $920M per month for computing resources. The agreement stems from unexpected demand for Google's recently launched AI products.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-05",
       "topic": "AI Update"
     },
     {
-      "title": "Startups Push Back Against Phone-First Culture",
-      "body": "A wave of startups is intentionally steering users away from smartphones toward in-person experiences. Board, a new social gaming startup, exemplifies this 'together tech' movement gaining traction.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Industry Shifts Focus to Cost Control",
-      "body": "The conversation around AI has pivoted from 'tokenmaxxing' to implementing guardrails and cost management. Rising AI expenses are forcing companies to reassess their growth-at-all-costs strategies.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "'Together Tech' Wave Defines 2026 Startup Bets",
-      "body": "Founders are increasingly building products that bring people together through in-person experiences rather than screen time. This countermovement marks a significant shift in startup priorities and fundraising.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AirTrunk Commits $30B to India Data Centers",
-      "body": "The Australian operator will build 5GW of AI data center capacity in India. This massive investment reflects surging demand for computational infrastructure across Asia.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Mira Murati Returns to Spotlight Amid Competition",
-      "body": "The executive is becoming more visible after maintaining a lower profile in recent months. In today's crowded market, increased visibility is crucial for maintaining relevance.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Revenue Surges to $47B Annualized",
-      "body": "Anthropic announced record annualized revenue of $47 billion in May, up from $9 billion in late 2025. The company faces mounting pressure to justify these returns ahead of its IPO.",
+      "title": "Anthropic's Revenue Crosses $47 Billion Annualized",
+      "body": "Anthropic announced annualized revenue hit $47 billion in May, skyrocketing from $9 billion at end of 2025. The AI company faces a real test as it heads toward its IPO.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-04",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Apple Approves First AI Agent for Messages",
+      "body": "Poke became the first AI agent approved for Apple's Messages for Business platform. The startup enables users to interact with AI agents through simple text messages.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-04",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta Builds AI Data Centers in Tents",
+      "body": "Meta found a way to slash massive data center costs by constructing facilities in tents. This unconventional approach addresses the company's surging infrastructure expenses.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-04",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta Launches AI Creator Assistant on Facebook",
+      "body": "Meta rolled out a new AI assistant helping creators get quick answers about performance metrics and posting strategies. Creators can ask questions like \"When should I post?\" without parsing charts manually.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-04",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Still Building 'Super App' Platform",
+      "body": "OpenAI continues developing a \"super app\" beyond chat functionality, according to senior employees. The company is signaling a strategic shift in its product direction.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-07",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Notion Restores Access to Anthropic Service",
+      "body": "Notion restored access to Anthropic after experiencing service disruption. Notion's product head expressed surprise at the social media response to the outage.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-07",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AirTrunk Commits $30B to India AI Data Centers",
+      "body": "Australian data center operator AirTrunk announced a $30 billion investment to build 5GW of AI data center capacity in India. The expansion addresses growing computational demands in the region.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-05",
       "topic": "AI Update"
     },
     {
       "title": "Airbnb CEO Launches New AI Lab Initiative",
-      "body": "Brian Chesky announced plans to build an AI lab as existing LLM partnerships haven't met Airbnb's standards. The company has waited for more mature AI products before committing to partnerships.",
+      "body": "Airbnb CEO Brian Chesky plans to launch a new AI lab for the platform. Chesky previously stated existing LLM partnerships weren't mature enough for integration.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-04",
       "topic": "AI Update"
     },
     {
-      "title": "StrictlyVC LA Summit on Defense and AI",
-      "body": "A major tech event will gather investors, founders, and leaders on June 18 in Los Angeles. The forum will focus on venture capital, defense tech, and AI's role in industry.",
+      "title": "Trump Administration Eyes OpenAI Equity Stake",
+      "body": "President Trump stated he's discussing deals allowing Americans to benefit from AI company success. The administration is considering taking an equity position in OpenAI.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04",
+      "publishedAt": "2026-06-06",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Slashes Data Center Costs With Tent Design",
-      "body": "Meta is building data centers inside tents to dramatically reduce infrastructure expenses. The unconventional approach addresses the company's massive computational demands more cost-effectively.",
+      "title": "White House AI Advisor Sriram Krishnan Departs",
+      "body": "Sriram Krishnan is leaving his role as White House AI advisor. He's reportedly starting a new institution to continue shaping Trump's AI policy.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04",
+      "publishedAt": "2026-06-06",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Approves Poke as First Business AI Agent",
-      "body": "Poke has become the first AI agent approved for Apple's Messages for Business platform. The approval allows users to interact with AI agents through simple text messaging.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta Rolls Out AI Creator Assistant on Facebook",
-      "body": "Creators can now use AI to answer questions about posting timing and audience feedback. The assistant simplifies performance analysis by eliminating the need to parse complex dashboards.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Hello Robot Releases Fourth-Generation Stretch Unit",
-      "body": "Hello Robot unveiled the latest version of its Stretch home assistance robot. The California startup is positioning itself to bring robotics into mainstream household use.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04",
-      "topic": "AI Update"
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "body": "Major AI companies plan IPOs that could drive significant price increases across the industry. The move signals a shift toward monetizing AI at scale.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-07",
+      "topic": "AI"
     },
     {
       "title": "Notion restores access to Anthropic after disruption",
-      "body": "Notion's head of product noted surprising engagement around the service restoration. The incident highlighted dependencies between major AI platforms.",
+      "body": "Notion's service interruption affecting Anthropic access generated substantial social media attention. The restoration highlights integration challenges between AI platforms.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-07",
       "topic": "AI"
     },
     {
-      "title": "OpenAI working on 'super app' beyond chat",
-      "body": "A senior OpenAI employee stated \"Chat is dead,\" signaling shift beyond conversational interfaces. The company is exploring expanded AI applications.",
+      "title": "OpenAI shifts strategy with 'super app' development",
+      "body": "OpenAI is moving beyond chat-based interfaces toward a comprehensive super app. A senior employee declared \"Chat is dead\" as the company evolves its product strategy.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-07",
       "topic": "AI"
     },
     {
-      "title": "OpenAI launches Lockdown Mode for data protection",
-      "body": "The new security feature aims to reduce prompt injection attack vulnerabilities in ChatGPT. It protects sensitive data from being inadvertently shared.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-06",
-      "topic": "AI"
-    },
-    {
-      "title": "Sriram Krishnan leaves White House AI advisor role",
-      "body": "The former advisor is starting a new institution to continue shaping AI policy. His departure marks a transition in Trump administration AI governance.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-06",
-      "topic": "AI"
-    },
-    {
-      "title": "Trump administration considering OpenAI equity stake",
-      "body": "President Trump discussed deals allowing Americans to benefit from AI success. The potential investment represents government involvement in major AI companies.",
+      "title": "OpenAI launches Lockdown Mode for data security",
+      "body": "Lockdown Mode protects sensitive data from prompt injection attacks in ChatGPT. The feature reduces vulnerability risks though doesn't eliminate them entirely.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-06",
       "topic": "AI"
     },
     {
       "title": "Google pays SpaceX $920M monthly for compute",
-      "body": "The deal stems from unexpected demand for Google's recently launched AI products. It reflects massive infrastructure needs for AI operations.",
+      "body": "The unprecedented deal reflects skyrocketing demand for Google's AI products. Unexpected computational needs are driving major infrastructure investments.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-05",
       "topic": "AI"
     },
     {
-      "title": "AI industry scrambles to manage runaway costs",
-      "body": "The conversation shifted from aggressive scaling to implementing guardrails and cost controls. Token costs are forcing industry-wide budget reassessment.",
+      "title": "Token costs spiral: AI industry demands cost controls",
+      "body": "The conversation shifted from aggressive growth to implementing guardrails. Industry leaders now prioritize managing runaway AI computational expenses.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-05",
       "topic": "AI"
     },
     {
-      "title": "AirTrunk commits $30B for AI data centers",
-      "body": "The Australian operator plans 5GW capacity expansion in India specifically for AI. It demonstrates accelerating infrastructure investment for AI workloads.",
+      "title": "AirTrunk commits $30B for Indian AI data centers",
+      "body": "The Australian operator plans 5GW capacity specifically for AI workloads in India. This signals major infrastructure expansion to support AI demand.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-05",
       "topic": "AI"
     },
     {
-      "title": "Anthropic revenue hits $47B annualized rate",
-      "body": "The AI company achieved dramatic growth from $9B at end of 2025. Ahead of its IPO, Anthropic demonstrates strong market momentum.",
+      "title": "Anthropic revenue hits $47B annualized, eyes IPO",
+      "body": "Anthropic's revenue skyrocketed from $9B to $47B in just months. CEO Amodei downplays concerns about AI ROI ahead of public markets debut.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-04",
       "topic": "AI"
     },
     {
-      "title": "Airbnb CEO plans to launch new AI lab",
-      "body": "Brian Chesky stated existing LLM products weren't ready for partnership last year. The company now moves forward with dedicated AI research.",
+      "title": "Airbnb CEO plans new AI lab, seeks partnerships",
+      "body": "Brian Chesky announced intentions to launch a dedicated AI research lab. The company previously delayed LLM partnerships waiting for better solutions.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-04",
       "topic": "AI"
     },
     {
       "title": "Poke becomes first AI agent on Apple Messages",
-      "body": "The startup gained approval for its text-based AI agent platform on Apple's business channel. It marks growing integration of AI assistants in mainstream messaging.",
+      "body": "Apple approved Poke as its inaugural AI agent for business messaging. The startup enables users to deploy AI assistants via text.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-04",
       "topic": "AI"
     },
     {
-      "title": "Meta launches AI creator assistant on Facebook",
-      "body": "The assistant answers creator questions about posting timing and audience comments. It streamlines analytics interpretation through conversational AI.",
+      "title": "Meta rolls out AI assistant for content creators",
+      "body": "Creators can now ask AI questions about posting times and audience feedback. The assistant simplifies analytics interpretation for Facebook creators.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-04",
       "topic": "AI"
     },
     {
-      "title": "Meta hack exploits AI customer support vulnerability",
-      "body": "Attackers used Meta's AI agent to steal Instagram accounts by changing associated emails. The breach revealed security gaps in customer-facing AI systems.",
+      "title": "Meta's AI security flaw exposed customer accounts",
+      "body": "Attackers exploited Meta's AI support agent to steal Instagram accounts by requesting email linking. The breach included high-profile accounts and reveals AI security gaps.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-05",
       "topic": "AI"
     },
     {
-      "title": "AI chatbots impact human attention and cognition",
-      "body": "Psychologist Gloria Mark explores how AI interactions affect user focus and mental control. Studies show concerning effects on cognitive autonomy.",
+      "title": "AI chatbots may be rewiring our brains",
+      "body": "Psychologist Gloria Mark warns that constant AI interaction may impact cognitive control. Research suggests digital technology interaction patterns are fundamentally changing.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-05",
       "topic": "AI"
     },
     {
-      "title": "Courts face flood of AI-generated lawsuits",
-      "body": "Judge Maritza Braswell handles increasing volumes of AI-written legal documents from unrepresented litigants. The system struggles to manage quality and legitimacy.",
+      "title": "Courts overwhelmed by AI-generated lawsuits",
+      "body": "Judges report a flood of poorly drafted AI-generated legal documents from pro se litigants. Courts struggle to manage volume while maintaining justice access.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-04",
       "topic": "AI"
     },
     {
-      "title": "Google funds virtual power plants for data centers",
-      "body": "The company signed a deal with Voltus supporting the largest US power grid's VPP. This addresses massive energy demands from AI operations.",
+      "title": "Google partners on virtual power plants for AI",
+      "body": "Google signed a deal with Voltus for virtual power plant support in major US grids. The agreement helps finance distributed energy resources powering data centers.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-03",
-      "topic": "AI"
-    },
-    {
-      "title": "Trump signs new executive order on AI",
-      "body": "The administration issued revised AI policy after scrapping an earlier version. The order reshapes federal AI governance and oversight.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-03",
-      "topic": "AI"
-    },
-    {
-      "title": "Agentic AI could transform global healthcare",
-      "body": "AI agents address chronic underinvestment and care gaps in healthcare systems. They enable distributed care and bridge service fragmentation.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-02",
       "topic": "AI"
     },
     {
       "title": "Small businesses leverage AI for operations",
-      "body": "AI handles accounting, design, research, and product development functions. It democratizes capabilities previously requiring specialized staff.",
+      "body": "AI tools now handle accounting, design, and market research for small firms. The technology democratizes business functions previously requiring specialized staff.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-02",
       "topic": "AI"
     },
     {
-      "title": "LLMs resist Russian propaganda better than humans",
-      "body": "Study found certain large language models effectively resist disinformation manipulation. Results suggest AI potential for information warfare defense.",
+      "title": "Agentic AI could transform global healthcare",
+      "body": "AI agents address critical gaps in healthcare provision and staff shortages. Automated systems enable better resource allocation in underinvested sectors.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-02",
+      "topic": "AI"
+    },
+    {
+      "title": "AI gun detection system fails school shooting case",
+      "body": "A school shooting survivor sued an AI detection firm for missed weapon identification. The case highlights safety risks of automated security systems.",
       "source": "Ars Technica",
-      "publishedAt": "2026-06-04",
+      "publishedAt": "2026-06-07",
+      "topic": "AI"
+    },
+    {
+      "title": "S&P 500 blocks SpaceX, OpenAI, and Anthropic",
+      "body": "Index providers rejected several prominent AI and aerospace firms from S&P 500 inclusion. The decision reflects ongoing criteria debates around new tech companies.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-06-05",
+      "topic": "AI"
+    },
+    {
+      "title": "Fitbit Air wearable burdened by chatty AI coach",
+      "body": "The device combines fitness tracking with an overly talkative AI coaching assistant. The intrusive AI feature diminishes the otherwise solid wearable experience.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-06-05",
       "topic": "AI"
     }
   ]
