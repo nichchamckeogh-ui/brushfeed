@@ -1,308 +1,280 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-09T06:53:03.465Z",
-  "cardCount": 43,
-  "aiUpdateCount": 16,
+  "generatedAt": "2026-06-09T18:09:35.078Z",
+  "cardCount": 39,
+  "aiUpdateCount": 19,
   "cards": [
     {
-      "title": "Apple's AI Strategy Proving Smart Long-Term",
-      "body": "Apple is addressing criticism about losing the AI race with significant improvements to its intelligence features. The company demonstrated strategic AI integration across Siri, Photos, and other core apps at WWDC 2026.",
+      "title": "WWDC 2026: Apple Intelligence and Siri Overhaul",
+      "body": "Apple unveiled major improvements to Siri AI and introduced Apple Intelligence across iOS 27. The keynote focused on AI as one part of broader software improvements rather than a standalone feature.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-09",
       "topic": "AI Update"
     },
     {
-      "title": "Sequoia Under Fire for Dual-Pricing Tactics",
-      "body": "Mercor's Brendan Foody publicly accused Sequoia of selling the same equity at different prices. The practice highlights ongoing valuation concerns among top venture firms.",
+      "title": "Anthropic Releases Claude Fable 5 Publicly",
+      "body": "Anthropic launched Claude Fable 5, its first Mythos-class model available to the general public. The model includes safety guardrails blocking high-risk responses in cybersecurity and biology.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-09",
       "topic": "AI Update"
     },
     {
-      "title": "Sam Altman's Identity Firm Faces Layoffs",
-      "body": "Tools for Humanity, Altman's identity verification company, is reportedly downsizing amid revenue struggles. The layoffs come as OpenAI files for IPO.",
+      "title": "Tech Industry Shifts to MANGOS Acronym",
+      "body": "SpaceX, Anthropic, and OpenAI are preparing massive public debuts, potentially reshaping the tech industry's power structure. The new MANGOS acronym may replace FAANG as the defining corporate classification.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Sandstone Raises $30M for Legal AI",
+      "body": "Sandstone closed a Series A funding round six months after its Sequoia-led seed round. The company brings AI capabilities to in-house legal teams.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Lovable Hits $500M Annualized Revenue",
+      "body": "Lovable surpassed $500 million in annualized run-rate revenue with users building 1 million new projects weekly. The platform is replacing internal software for businesses worldwide.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Orbital Raises $5M for Space Data Centers",
+      "body": "Euwyn Poon, former Spin e-scooter founder, launched Orbital to deploy 10,000 space-based data centers. He previously scaled production to 250,000 scooters.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Apple's Measured AI Strategy Gaining Ground",
+      "body": "Apple's incremental AI approach at WWDC may counter accusations of losing the industry race. The company positioned AI as enhancing existing features rather than dominating the narrative.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Mercor Accuses Sequoia of Dual-Pricing",
+      "body": "Mercor's Brendan Foody called out Sequoia for selling identical equity at different valuations. Top-tier VCs reportedly use this practice regularly.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Tools for Humanity Struggles, Lays Off Staff",
+      "body": "Sam Altman's identity verification company is reportedly downsizing amid revenue generation challenges. The layoffs coincide with OpenAI's IPO filing.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-08",
       "topic": "AI Update"
     },
     {
       "title": "OpenAI Files Confidentially for IPO",
-      "body": "OpenAI submitted a confidential IPO filing just over a week after rival Anthropic did the same. The dual filings intensify competition between the two AI giants.",
+      "body": "OpenAI filed for a confidential IPO following Anthropic's similar move a week earlier. The filings signal an intensifying competitive race between the two AI giants.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-08",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Prioritizes Software Improvements at WWDC",
-      "body": "Apple's WWDC keynote focused heavily on fixes, performance improvements, and long-requested features alongside AI announcements. The company positioned AI as one component of broader software enhancements.",
+      "title": "Apple Plays Catch-Up on AI Features",
+      "body": "Apple's WWDC keynote emphasized fixes and long-requested features before unveiling upgraded Siri AI. The company positioned AI as enhancing core user experiences rather than leading innovation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-08",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Waives Cloud API Costs for Small Devs",
-      "body": "As AI experimentation costs rise, Apple is removing cloud API fees for developers with under 2 million first-time App Store downloads. The move aims to democratize AI development.",
+      "title": "Apple Waives Cloud API Costs for Developers",
+      "body": "Apple is lowering barriers for small developers by eliminating cloud API costs for apps with under 2 million downloads. The move addresses rising AI experimentation costs in the ecosystem.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-08",
       "topic": "AI Update"
     },
     {
-      "title": "Siri Gets Dedicated App and Major Overhaul",
-      "body": "Apple unveiled a redesigned Siri as a standalone app with enhanced AI capabilities. The assistant now functions as a true AI companion rather than a simple voice controller.",
+      "title": "iPhone Now Completes Sentences and Workflows",
+      "body": "Apple integrated AI-powered features across Safari, Shortcuts, and Password apps for enhanced productivity. Users can now automate tasks and generate content with natural language prompts.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-08",
       "topic": "AI Update"
     },
     {
-      "title": "Apple's AI-Powered Shortcuts Accepts Natural Language",
-      "body": "The Shortcuts app now allows users to describe desired workflows in plain language instead of building them manually. Apple's AI interprets prompts and creates workflows automatically.",
+      "title": "Shortcuts App Gets AI Workflow Builder",
+      "body": "Apple's Shortcuts app now lets users describe desired workflows in plain language for AI generation. The feature simplifies automation for non-technical users.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-08",
       "topic": "AI Update"
     },
     {
-      "title": "Image Playground Gets Major Competitive Upgrade",
-      "body": "Apple's AI image generator received a significant makeover to increase competitiveness with other solutions. The improvements address previous limitations of the tool.",
+      "title": "Image Playground Gets Major Makeover",
+      "body": "Apple's AI image generator received significant improvements to enhance competitiveness. The updated tool now delivers higher-quality results for creative users.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-08",
       "topic": "AI Update"
     },
     {
-      "title": "Photos App Gains New AI Editing Features",
-      "body": "A new spatial \"Reframe\" feature lets users leverage AI to adjust photo perspectives automatically. The tool enhances editing capabilities directly within Photos.",
+      "title": "Photos App Gains AI Editing Capabilities",
+      "body": "Apple's Photos app introduces a spatial 'Reframe' feature powered by AI for perspective adjustment. Users can now edit compositions automatically.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-08",
       "topic": "AI Update"
     },
     {
-      "title": "Siri Camera Feature Splits Bills Intelligently",
-      "body": "Users can now point their iPhone at a bill and use Siri to identify their items and split costs via Apple Cash. The feature simplifies expense sharing among groups.",
+      "title": "Siri Gets Its Own Dedicated App",
+      "body": "Apple finally launched a standalone Siri app alongside iOS 27. The dedicated application enhances accessibility and features for the assistant.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-08",
       "topic": "AI Update"
     },
     {
-      "title": "Safari and Password App Get AI Upgrades",
-      "body": "Apple added AI-powered features to Safari and its Password app to enhance functionality. The updates continue Apple's strategy of embedding AI across core applications.",
+      "title": "Siri Camera Feature Simplifies Bill Splitting",
+      "body": "Point your iPhone at a restaurant bill and select your items to split costs via Apple Cash. The new camera feature streamlines expense sharing with friends.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-08",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Launches AI Merchandise Design Tool",
-      "body": "Amazon Shopping app now lets users generate custom designs with Alexa for products like T-shirts and hoodies. Designs can be printed directly on merchandise through the app.",
+      "title": "Siri AI Transforms into Intelligent Companion",
+      "body": "Apple's upgraded Siri evolves from voice-controlled assistant to a true AI companion with expanded capabilities. The redesigned assistant can now handle complex tasks and contextual understanding.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-08",
       "topic": "AI Update"
     },
     {
-      "title": "AI Price Hikes Likely as Firms Go Public",
-      "body": "Industry observers expect token price increases as major AI companies prepare for IPOs. The race to profitability may pressure pricing across AI services.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-07",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Notion Restores Anthropic Access After Disruption",
-      "body": "Notion regained access to Anthropic's services following a service disruption. The incident drew significant social media attention regarding platform dependencies.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-07",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Developing Super App Beyond Chat",
-      "body": "Senior OpenAI employees indicate the company is moving beyond chat-based interfaces. The Super App project signals a shift toward broader AI platform capabilities.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-07",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Why Apple's slow-and-steady AI bet is starting to look smart",
-      "body": "Apple's new AI capabilities are positioning the company competitively in the industry race. The company is demonstrating that a measured approach to AI integration can yield meaningful results.",
+      "title": "WWDC 2026: Apple Intelligence and Siri AI",
+      "body": "Apple unveiled a significantly improved Siri assistant with AI capabilities at WWDC 2026. The company positioned AI as one part of a broader effort to enhance its software experience.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-09",
       "topic": "AI"
     },
     {
-      "title": "OpenAI files for IPO, Sam Altman's company does layoffs",
-      "body": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling with revenue generation. The company will downsize its staff amid challenges in the market.",
+      "title": "Anthropic Releases Claude Fable 5 Model",
+      "body": "Anthropic launched Claude Fable 5, its first Mythos-class AI model available to the public. The model includes guardrails blocking high-risk responses in cybersecurity and biology.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-09",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI Files for IPO Confidentially",
+      "body": "OpenAI filed confidentially for an IPO following Anthropic's public filing. The move intensifies competition between the two leading AI firms.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-08",
       "topic": "AI"
     },
     {
-      "title": "OpenAI files confidentially for IPO, following Anthropic",
-      "body": "OpenAI's IPO filing comes just over a week after rival Anthropic filed to go public. The move signals an intensifying race between the two major AI firms.",
+      "title": "Anthropic Files for IPO, Leading AI Race",
+      "body": "Anthropic filed to go public, ramping up competition with OpenAI. The filing marks a major milestone for the AI industry.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-08",
       "topic": "AI"
     },
     {
-      "title": "Apple plays catch-up at WWDC",
-      "body": "Apple unveiled an upgraded AI-powered Siri alongside performance improvements and long-requested features. The company positioned AI as one part of a broader software improvement effort.",
+      "title": "Apple Waives Cloud API Costs for Developers",
+      "body": "As AI experimentation becomes more expensive, Apple is eliminating cloud API costs for developers with fewer than 2 million first-time App Store downloads. The move aims to democratize AI access.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-08",
       "topic": "AI"
     },
     {
-      "title": "Apple bets cheaper AI will woo small developers",
-      "body": "Apple is waiving cloud API costs for developers with fewer than 2 million App Store downloads. The move aims to lower the barrier to AI experimentation as costs rise.",
+      "title": "Apple's Shortcuts App Gets AI Upgrade",
+      "body": "Apple enhanced its Shortcuts app with AI, allowing users to describe workflows in natural language prompts. The app now handles AI-powered automation for iPhone and Mac users.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-08",
       "topic": "AI"
     },
     {
-      "title": "Everything announced on Siri AI, iOS 27, Apple Intelligence",
-      "body": "Apple made the case for an improved Siri assistant with a substantial AI component at WWDC. The overhaul demonstrates the company's commitment to integrating AI throughout its OS ecosystem.",
+      "title": "Apple's Image Playground Gets Major Makeover",
+      "body": "Apple's AI image generator received significant improvements to boost competitiveness. The upgraded tool aims to rival other generative AI image platforms.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-08",
       "topic": "AI"
     },
     {
-      "title": "Apple taught your iPhone to finish sentences and workflows",
-      "body": "Apple is adding AI-powered features to Safari, Shortcuts, and Password apps. The updates aim to enhance user productivity with intelligent automation.",
+      "title": "Apple Photos App Adds AI Editing Features",
+      "body": "Apple introduced a spatial \"Reframe\" feature powered by AI for photo editing. Users can now adjust perspectives automatically using machine learning.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-08",
       "topic": "AI"
     },
     {
-      "title": "Apple will let you build workflows using AI in Shortcuts",
-      "body": "Shortcuts gets an AI upgrade allowing users to describe desired workflows in natural language prompts. The feature simplifies workflow creation for non-technical users.",
+      "title": "Siri Gets Dedicated App in iOS 27",
+      "body": "Apple finally gave Siri its own standalone application. The dedicated app reflects the assistant's evolution into a more capable AI companion.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-08",
       "topic": "AI"
     },
     {
-      "title": "Apple's Image Playground doesn't suck anymore",
-      "body": "Apple's AI image generator is undergoing a makeover to improve competitiveness. The improvements signal Apple's commitment to advancing its generative AI capabilities.",
+      "title": "Apple's Siri AI Overhaul Arrives",
+      "body": "Apple transformed Siri from a voice-controlled assistant into a true AI companion with expanded capabilities. The new \"Siri AI\" can handle significantly more complex tasks.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-08",
       "topic": "AI"
     },
     {
-      "title": "Apple's Photos app is getting new AI editing features",
-      "body": "A new spatial 'Reframe' feature will let users use AI to adjust photo perspectives. The tool leverages machine learning to provide intelligent photo editing.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-08",
+      "title": "Leading in Hybrid Human-AI Workforce",
+      "body": "AI agent adoption is projected to surge up to 300% in the next two years. Leadership teams are evaluating implications of autonomous AI agents in enterprise settings.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-09",
       "topic": "AI"
     },
     {
-      "title": "Apple gives Siri its own dedicated app",
-      "body": "Siri is finally getting a standalone app presence. The move reflects Apple's increasing focus on AI-powered assistants as a core feature.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-08",
+      "title": "Five Key Themes in AI Right Now",
+      "body": "MIT Technology Review highlighted the biggest current themes in artificial intelligence. The analysis covers emerging trends shaping the AI industry.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-09",
       "topic": "AI"
     },
     {
-      "title": "Apple is fixing bill splitting with new Siri Camera feature",
-      "body": "Users can point their iPhone at a bill and select what they ordered to split costs via Apple Cash. The feature combines computer vision with AI processing.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-08",
-      "topic": "AI"
-    },
-    {
-      "title": "Apple's long-awaited AI Siri overhaul is finally here",
-      "body": "The new 'Siri AI' transforms the assistant from voice control to a full AI companion. The upgrade enables significantly more capabilities than the previous version.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-08",
-      "topic": "AI"
-    },
-    {
-      "title": "Amazon now lets you design custom merch using AI",
-      "body": "A new Amazon Shopping app feature allows users to generate designs with Alexa. Designs can be printed on T-shirts, hoodies, tumblers, and other products.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-08",
-      "topic": "AI"
-    },
-    {
-      "title": "Is this the dawn of the Tokenpocalypse?",
-      "body": "Price increases are expected as major AI companies prepare to go public. The move could significantly impact costs for AI service users.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-07",
-      "topic": "AI"
-    },
-    {
-      "title": "Notion restores access to Anthropic after disruption",
-      "body": "Notion's head of product expressed surprise at the social media response to a service disruption. The outage affected Anthropic integrations on the platform.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-07",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI is still working on that 'super app'",
-      "body": "A senior OpenAI employee declared that 'Chat is dead.' The company is pursuing a broader application beyond ChatGPT.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-07",
-      "topic": "AI"
-    },
-    {
-      "title": "Are AI chatbots making us lose control of our brains?",
-      "body": "Psychologist Gloria Mark, who has studied digital technology interaction for 30 years, discusses how AI chatbots may impact cognitive control. The research explores the intersection of AI tools and human cognition.",
+      "title": "Meta Hack Reveals AI Security Gaps",
+      "body": "Attackers exploited Meta's AI customer support agent to steal Instagram accounts. The incident demonstrates vulnerabilities beyond frontier AI model security.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-05",
       "topic": "AI"
     },
     {
-      "title": "Meta hack shows more to AI security than Mythos",
-      "body": "Attackers used Meta's AI customer support agent to steal Instagram accounts by requesting account linking. The incident highlights vulnerabilities in AI systems handling authentication.",
+      "title": "AI Chatbots Impact on Cognitive Control",
+      "body": "Research shows AI chatbots may affect users' cognitive control and brain function. Psychologists are studying long-term implications of AI assistant dependency.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-05",
       "topic": "AI"
     },
     {
-      "title": "How courts are coping with flood of AI-generated lawsuits",
-      "body": "Judge Maritza Braswell in Colorado reports an influx of AI-generated legal documents from unrepresented litigants. The trend reflects increased accessibility to AI writing tools for legal purposes.",
+      "title": "Courts Cope with AI-Generated Lawsuits Flood",
+      "body": "Federal judges face increasing challenges from AI-generated legal filings. Courts are developing protocols to handle the surge of machine-generated litigation.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-04",
       "topic": "AI"
     },
     {
-      "title": "How virtual power plants could power data centers",
-      "body": "Google signed a deal with Voltus to support a virtual power plant in the US's largest power grid. The partnership addresses energy demands for data center operations.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-03",
-      "topic": "AI"
-    },
-    {
-      "title": "How small businesses can leverage AI",
-      "body": "AI capabilities span accounting, design, market research, and product development for small businesses. The technology offers significant opportunities for operational efficiency.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-02",
-      "topic": "AI"
-    },
-    {
-      "title": "Say hi to Siri AI—Apple's new conversational voice assistant",
-      "body": "Apple announced a reimagined Siri with conversational capabilities and expanded functionality. The updated assistant represents a significant evolution from previous versions.",
+      "title": "Apple's Siri AI Now More Conversational",
+      "body": "Apple announced an upgraded \"Siri AI\" with enhanced conversational abilities. The new assistant marks a significant step forward in voice AI technology.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-08",
       "topic": "AI"
     },
     {
-      "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
-      "body": "Google integrated its latest AI models into NotebookLM for enhanced functionality. The update brings cutting-edge generative AI capabilities to the research tool.",
+      "title": "Gemini 3.5 Comes to NotebookLM",
+      "body": "Google integrated Gemini 3.5 and Antigravity into NotebookLM. The update enhances AI capabilities for research and note-taking workflows.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-08",
       "topic": "AI"
     },
     {
-      "title": "Chat is dead: OpenAI preps overhaul of ChatGPT",
-      "body": "OpenAI is preparing significant changes to ChatGPT's structure and capabilities. The overhaul suggests a shift away from chat-focused interfaces toward broader applications.",
+      "title": "Apple Claims Privacy Despite Google Servers",
+      "body": "Apple asserts its AI remains private even when running on Google Cloud servers. The company emphasized privacy protections in its hybrid cloud architecture.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-08",
       "topic": "AI"
     },
     {
-      "title": "The weather and climate science AI revolution isn't revolutionary",
-      "body": "Recent advances in AI for weather and climate prediction have limitations that affect their impact. The technology shows promise but isn't delivering transformative breakthroughs as expected.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-08",
+      "title": "Sandstone Raises $30M for AI Legal Tech",
+      "body": "Sandstone secured $30 million in Series A funding to bring AI to in-house legal teams. The funding came just six months after a Sequoia-led seed round.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-09",
       "topic": "AI"
     },
     {
-      "title": "School shooting survivor sues AI gun detection firm",
-      "body": "A survivor filed suit after an AI weapon detection system failed to identify a firearm. The case raises questions about AI reliability in critical safety applications.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-07",
+      "title": "Lovable Hits $500M Annualized Revenue",
+      "body": "Lovable announced $500 million in annualized run-rate revenue with 1 million new AI projects weekly. Users are building businesses and replacing internal software with the platform.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-09",
       "topic": "AI"
     }
   ]
