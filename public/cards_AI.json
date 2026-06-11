@@ -1,315 +1,287 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-11T06:57:35.573Z",
-  "cardCount": 44,
+  "generatedAt": "2026-06-11T18:10:23.387Z",
+  "cardCount": 40,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Anthropic Launches Claude Fable 5 Model",
-      "body": "Anthropic released Claude Fable 5, its first Mythos-class model available to the public. The model includes guardrails blocking responses in high-risk areas like cybersecurity and biology.",
+      "title": "Deezer Launches AI Music Detection Tool",
+      "body": "Deezer introduced a tool that scans playlists across Spotify, Apple Music, and other platforms to identify AI-generated music. The tool helps users understand which tracks on their favorite services are created by AI.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09",
+      "publishedAt": "2026-06-11",
       "topic": "AI Update"
     },
     {
-      "title": "Decart Launches Oasis 3 World Model",
-      "body": "Decart launched Oasis 3, a real-time world model generating photorealistic driving environments for autonomous vehicle testing. The model is now available via API for developers.",
+      "title": "Pool App Organizes Screenshots Intelligently",
+      "body": "Pool's new app automatically sorts screenshots into personalized collections and tracks original links behind saved content. Users can rediscover products, recipes, travel ideas, and other saved items effortlessly.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "DoorDash Debuts AI Ordering Chatbot",
+      "body": "Ask DoorDash allows users to order using natural language prompts and photos instead of scrolling menus. The chatbot understands user intent and builds carts accordingly.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Opendoor Exits India Amid GCC Shift",
+      "body": "Opendoor's departure from India reflects broader conversations about AI and outsourcing trends. The move comes as India becomes the world's largest Global Capability Center market.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic's Amodei Maintains Lean Leadership",
+      "body": "Anthropic founder Dario Amodei reportedly has just one direct report, maintaining unusually flat organizational structure. The approach contrasts with typical executive hierarchies at comparable tech firms.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "xAI Engineer Sues Over Safety Concerns",
+      "body": "A former xAI engineer filed a lawsuit alleging wrongful termination for raising Grok safety concerns. The firing reportedly occurred days before SpaceX's historic IPO.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-10",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Signs India AI Data Center Deal",
-      "body": "Meta partnered with Reliance on a 168-megawatt AI data center facility in India. The facility supports Meta's global AI computing needs with expansion potential.",
+      "title": "Amazon Borrows $17.5B for AI Expansion",
+      "body": "Amazon secured $17.5 billion in bank financing to fuel aggressive AI infrastructure spending. Tech companies are accumulating substantial debt racing through the AI arms race.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI-Obsessed Firms Spend $7,500 Monthly",
+      "body": "The most AI-focused companies spend approximately $7,500 per employee monthly on AI, according to Ramp AI Index. This spending hasn't yet exceeded engineer salaries but is approaching that threshold.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Memory Tools Can Degrade AI Models",
+      "body": "New research reveals that AI memory systems can reduce model performance and increase sycophantic behavior. The findings challenge assumptions about memory-enhanced architectures.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic's Fable Criticized for Strict Guards",
+      "body": "Cybersecurity researchers complain that Anthropic's Fable model has overly restrictive guardrails for legitimate cybersecurity work. The constraints limit practical applications for security professionals.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Niteshift Raises $7M to Fight AI Lockdown",
+      "body": "Datadog veterans launched AI coding startup Niteshift with a $7 million seed round, opposing vendor lock-in. The company bets companies prefer power and flexibility over proprietary AI solutions.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "SpaceX IPO Betting on Space Data Centers",
+      "body": "SpaceX's exceptional IPO valuation largely reflects call options on ambitious space data center plans. The company's unbelievable valuation hinges on these hard-tech moonshot ventures.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-10",
       "topic": "AI Update"
     },
     {
       "title": "Warner Music Acquires Sureel AI",
-      "body": "Warner Music acquired AI attribution startup Sureel AI to track artist work usage in AI-generated content. The acquisition helps monitor AI model training data sourcing.",
+      "body": "Warner Music Group acquired Sureel AI to track when artists' work is used in AI-generated content or for model training. The acquisition strengthens WMG's ability to monitor AI usage of its catalog.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-10",
       "topic": "AI Update"
     },
     {
-      "title": "Jedify Raises $24M Funding Round",
-      "body": "Jedify raised $24M to help companies arm AI agents with business context. Norwest led the round with participation from Snowflake Ventures and other investors.",
+      "title": "Jedify Raises $24M for AI Agent Context",
+      "body": "Jedify secured $24 million in Series A funding to help companies arm AI agents with business context. The round was led by Norwest with participation from multiple strategic investors.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-10",
       "topic": "AI Update"
     },
     {
-      "title": "Google Cuts AI Subscription Pricing",
-      "body": "Google significantly reduced pricing for its budget AI subscription tier. The move signals competitive pressure in the AI subscription market.",
+      "title": "Decart Launches Oasis 3 World Model",
+      "body": "Decart released Oasis 3, a real-time world model generating photorealistic driving environments for autonomous vehicle testing. The API-available model allows developers to build custom AV testing environments.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-10",
       "topic": "AI Update"
+    },
+    {
+      "title": "Meta Builds Data Center in India",
+      "body": "Meta signed its first AI data center deal in India with Reliance for a 168-megawatt facility. The infrastructure will support Meta's global AI computing and allow future expansion.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Cuts AI Subscription Price Wars",
+      "body": "Google significantly reduced pricing for its budget AI subscription tier. The move signals the company's commitment to competing aggressively in the AI subscription market.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Justin Ernest Invests $500M Without Fund",
+      "body": "Sabertooth VC founder invested nearly $500 million into hot startups without establishing a formal VC fund. Ernest leveraged a captive LP network to back companies like Anthropic and Anduril.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "What We Actually Want from AI",
+      "body": "Personal AI assistants promise convenience but raise questions about user dependency and lifestyle changes. The technology's impact on human autonomy and behavior remains culturally contentious.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic's Claude Fable 5 Generates Games",
+      "body": "Anthropic's Claude Fable 5 can create video games with a single click, appealing to casual developers. The model will likely resonate with web-based vibe coders.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Deezer Tool Identifies AI-Generated Music",
+      "body": "Deezer launched a tool that scans playlists across Spotify, Apple Music, and other platforms to detect AI-generated music. The technology helps users identify artificial content in their listening habits.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-11",
+      "topic": "AI"
+    },
+    {
+      "title": "DoorDash AI Chatbot Orders with Prompts",
+      "body": "Ask DoorDash lets users search using natural language and photos instead of scrolling menus. The AI chatbot simplifies food ordering by understanding conversational requests.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-11",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic CEO Has Minimal Direct Reports",
+      "body": "Dario Amodei runs one of the world's fastest-growing AI companies with just one direct report. The streamlined structure reflects his leadership approach at Anthropic.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-11",
+      "topic": "AI"
+    },
+    {
+      "title": "xAI Engineer Sues Over Grok Safety",
+      "body": "A former xAI engineer is suing the company for allegedly firing him after raising AI safety concerns about Grok. The lawsuit highlights tension between rapid deployment and safety protocols.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10",
+      "topic": "AI"
     },
     {
       "title": "Amazon Borrows $17.5B for AI Spending",
-      "body": "Amazon borrowed $17.5B from banks following its bond sale as AI spending escalates. Companies face mounting debt from the ongoing AI arms race.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Niteshift Raises $7M Seed Funding",
-      "body": "AI coding agent startup Niteshift raised $7M from prominent angel investors. The company bets on providing power and flexibility over vendor lock-in with AI makers.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "xAI Engineer Sues Over Safety Concerns",
-      "body": "A former xAI engineer sued the company and SpaceX for alleged wrongful termination over Grok safety concerns. The lawsuit claims he was fired days before SpaceX's IPO.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Fable Guardrails Too Strict",
-      "body": "Cybersecurity researchers criticized Anthropic's Fable model for overly strict guardrails limiting cybersecurity work. The restrictions prevent legitimate security research applications.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Memory Tools Degrade Model Performance",
-      "body": "New research shows AI memory systems can reduce model performance and encourage sycophantic behavior. The findings challenge assumptions about AI memory system benefits.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Top AI Firms Spend $7,500 Per Employee",
-      "body": "The most AI-focused companies spend approximately $7,500 monthly per employee on AI infrastructure. The Ramp AI Index reveals unprecedented spending levels in AI-obsessed firms.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Opendoor Exits India Market",
-      "body": "Opendoor announced its exit from India amid broader outsourcing industry discussions. The decision reflects changes in global GCC market dynamics.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic CEO Dario Amodei Structure",
-      "body": "Anthropic CEO Dario Amodei operates with just one direct report in his management structure. The streamlined approach reflects leadership at the AI company.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "SpaceX IPO Hinges on Space Data Centers",
-      "body": "Most SpaceX IPO value represents a call option on ambitious space data center plans. The three hard-tech moonshots position SpaceX for future growth.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Apple Announces Siri AI at WWDC 2026",
-      "body": "Apple unveiled improvements to its Siri assistant at WWDC 2026, emphasizing better user experience. The announcements showcased AI integration across iOS 27 and Apple Intelligence.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Cheaper AI Models Challenge Economics",
-      "body": "Industry analysis questions whether tech companies will adopt cheaper AI models for equivalent workloads. A shift to efficient models could dramatically alter AI economics.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Fable 5 Enables Quick Video Game Creation",
-      "body": "Anthropic's Claude Fable 5 allows users to create video games with minimal effort. The capability appeals to web developers and creative coders.",
-      "source": "TechCrench AI",
-      "publishedAt": "2026-06-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Sabertooth VC Invests $500M Without Fund",
-      "body": "Sabertooth VC founder Justin Ernest deployed nearly $500M into startups without a traditional VC fund structure. The approach uses a captive LP network instead of formal fundraising.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Personal AI Assistants Raise Dependency Concerns",
-      "body": "Critics question the desirability of relying on personal AI assistants for daily functioning. The debate explores trade-offs between convenience and autonomy in AI adoption.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Opendoor's India exit fuels outsourcing debate",
-      "body": "Opendoor's decision to exit India is sparking broader conversations about AI and outsourcing trends. The move comes as India becomes the world's largest Global Capability Center market.",
+      "body": "Amazon is borrowing heavily as companies race to spend on AI infrastructure and capabilities. The debt climb reflects the massive capital requirements of the AI arms race.",
       "source": "TechCrunch",
+      "publishedAt": "2026-06-10",
+      "topic": "AI"
+    },
+    {
+      "title": "AI-Obsessed Firms Spend $7,500 Monthly",
+      "body": "The most AI-focused companies are spending roughly $7,500 per employee each month on AI, according to Ramp AI Index. This spending hasn't yet exceeded typical engineer salaries.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Memory Systems Degrade Model Performance",
+      "body": "New research reveals that memory tools can actually worsen AI model performance and create sycophantic tendencies. The findings challenge assumptions about enhancing AI with memory capabilities.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic's Fable Has Strict Guardrails",
+      "body": "Cybersecurity researchers criticize Anthropic's Fable model for having overly restrictive guardrails that limit legitimate security work. The guardrails prevent necessary penetration testing and vulnerability research.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10",
+      "topic": "AI"
+    },
+    {
+      "title": "Niteshift AI Coding Startup Raises $7M",
+      "body": "Datadog veterans launched Niteshift, an AI coding agent startup, betting companies will prioritize control over vendor lock-in. The seed round attracted prominent angel investors concerned about Big AI dependencies.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10",
+      "topic": "AI"
+    },
+    {
+      "title": "Warner Music Acquires Sureel AI",
+      "body": "Warner Music Group acquired AI attribution startup Sureel AI to track artists' work usage in AI-generated content and model training. The acquisition strengthens WMG's ability to monitor AI-related rights.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10",
+      "topic": "AI"
+    },
+    {
+      "title": "Jedify Raises $24M for AI Agents",
+      "body": "Jedify raised $24M to equip AI agents with business context and knowledge. The funding round includes strategic participation from Snowflake Ventures and top-tier VCs.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10",
+      "topic": "AI"
+    },
+    {
+      "title": "Decart Launches Photorealistic World Model",
+      "body": "Decart released Oasis 3, a real-time world model generating photorealistic driving environments for autonomous vehicle testing. The API is now available for developers building AV simulation tools.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10",
+      "topic": "AI"
+    },
+    {
+      "title": "Meta Signs Data Center Deal in India",
+      "body": "Meta partnered with Reliance on a 168-megawatt AI data center facility in India. The infrastructure supports Meta's global AI computing needs with expansion capacity.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Cuts AI Subscription Tier Prices",
+      "body": "Google significantly reduced pricing for its budget AI subscription tier, escalating competition in the AI subscription market. The move aims to increase adoption of Google's affordable AI services.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic's Fable 5 Makes Video Games",
+      "body": "Anthropic's Claude Fable 5 can generate weirdly fun video games with minimal input. The capability appeals to web developers seeking AI-assisted game creation tools.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-09",
+      "topic": "AI"
+    },
+    {
+      "title": "Google DeepMind Researches Multi-Agent Safety",
+      "body": "Google DeepMind is funding research into dangers of millions of AI agents interacting online. The work addresses potential risks from mass-market agent deployment.",
+      "source": "MIT Technology Review",
       "publishedAt": "2026-06-11",
       "topic": "AI"
     },
     {
-      "title": "Anthropic's Dario Amodei leadership structure",
-      "body": "Anthropic's CEO Dario Amodei operates with just one direct report, highlighting an unconventional leadership approach. The lean structure reflects his hands-on management style.",
-      "source": "TechCrunch",
+      "title": "Chemists Use AI for Drug Design",
+      "body": "AI is transforming pharmaceutical development, enabling precision therapy design that targets diseases while minimizing harm to healthy cells. The technology accelerates drug discovery in oncology, virology, and endocrinology.",
+      "source": "MIT Technology Review",
       "publishedAt": "2026-06-11",
       "topic": "AI"
     },
     {
-      "title": "xAI engineer sues over Grok safety concerns",
-      "body": "A former xAI engineer is suing the company and SpaceX for alleged wrongful termination after raising AI safety concerns about Grok. The lawsuit was filed days before SpaceX's historic IPO.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Amazon borrows $17.5B as AI spending soars",
-      "body": "Amazon borrowed $17.5 billion from banks to fuel continued AI infrastructure spending in the competitive AI arms race. Companies are burning through massive sums while debt climbs.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "AI-obsessed firms spend $7,500 monthly per employee",
-      "body": "The most AI-focused companies are spending approximately $7,500 per employee monthly on AI tools and infrastructure. This spending level hasn't yet exceeded typical engineer salaries.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "AI memory tools can degrade model performance",
-      "body": "New research reveals that memory systems in AI models can actually worsen performance and encourage sycophantic responses. The findings challenge assumptions about memory enhancement benefits.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic's Fable guardrails too strict cybersecurity",
-      "body": "Cybersecurity researchers are criticizing Anthropic's new Fable model for having overly restrictive guardrails. The limitations prevent practical cybersecurity research and testing work.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Niteshift raises $7M to fight AI lock-in",
-      "body": "AI coding startup Niteshift raised $7 million in seed funding from prominent angels to challenge vendor lock-in. The company bets companies want control over their AI tools, not dependence on model makers.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Warner Music acquires AI attribution startup",
-      "body": "Warner Music Group acquired AI attribution startup Sureel AI to track unauthorized use of artists' work in AI training. The acquisition helps WMG monitor AI-generated content using its catalog.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Jedify raises $24M for business context AI",
-      "body": "Jedify secured $24 million to help companies equip AI agents with contextual business knowledge. The round was led by Norwest with participation from Snowflake Ventures and others.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Decart's world model simulates hours driving",
-      "body": "Decart launched Oasis 3, a real-time world model generating photorealistic driving environments for autonomous vehicle testing. The API is now available for developers building simulation tools.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta opens AI data center in India",
-      "body": "Meta signed its first AI data center deal in India with Reliance, featuring a 168-megawatt facility. The infrastructure supports Meta's global AI computing needs and allows future expansion.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Google fires shot in AI subscription wars",
-      "body": "Google significantly reduced pricing for its budget AI subscription tier, intensifying competition. The move signals aggressive positioning in the AI subscription market.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic's Fable 5 creates video games",
-      "body": "Anthropic's Claude Fable 5 can generate functional video games with a single click. The capability is expected to appeal to creative coders and hobbyist developers.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Tech companies embrace cheaper AI models",
-      "body": "Companies are discovering that cheaper AI models can handle many workloads without sacrificing quality. This shift could dramatically change AI economics industry-wide.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Apple improves Siri AI at WWDC 2026",
-      "body": "Apple showcased significant improvements to its Siri assistant at WWDC, emphasizing AI enhancements. The updated Siri features prominent in Apple's broader AI strategy.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic releases Claude Fable 5 publicly",
-      "body": "Anthropic released Claude Fable 5, its first Mythos-class model available to the general public. The model includes guardrails blocking responses in high-risk areas like cybersecurity and biology.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-09",
-      "topic": "AI"
-    },
-    {
-      "title": "AI agents surge adoption in enterprises",
-      "body": "AI agent adoption is expected to jump 300% in the next two years across enterprises. Leadership teams are weighing implications of hybrid human-AI workforces and autonomous coordination.",
+      "title": "Leading Hybrid Human-AI Enterprises",
+      "body": "AI agent adoption is projected to surge 300% in the next two years, requiring new leadership approaches. Organizations must balance autonomous AI capabilities with human oversight and control.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-09",
       "topic": "AI"
     },
     {
-      "title": "Meta's AI customer support agent hacked",
-      "body": "Attackers exploited Meta's AI customer support agent to steal sensitive information. The breach highlights security vulnerabilities beyond traditional AI safety measures.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-05",
-      "topic": "AI"
-    },
-    {
-      "title": "AI chatbots impacting human brain control",
-      "body": "Research suggests AI chatbots may be affecting how people use their own cognitive abilities. Psychologist Gloria Mark has studied 30 years of digital technology's impact on human attention.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-05",
-      "topic": "AI"
-    },
-    {
-      "title": "Google DeepMind releases DiffusionGemma",
-      "body": "Google DeepMind unveiled DiffusionGemma, a model that runs local AI inference 4x faster. The advancement improves performance for on-device AI applications.",
+      "title": "Google DeepMind Releases DiffusionGemma",
+      "body": "Google DeepMind released DiffusionGemma, an AI model running local inference 4x faster than competing solutions. The efficiency gains enable faster on-device AI applications.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-10",
       "topic": "AI"
     },
     {
-      "title": "Court rules AI search not necessary",
-      "body": "A court ruled against Google that AI-powered search capabilities are not essential for search functionality. The decision has implications for AI integration in search engines.",
+      "title": "Court Rules AI Search Unnecessary",
+      "body": "A court ruled that AI search technology is not needed for effective internet search, challenging AI search assumptions. The decision questions the necessity of AI-powered search products.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic lists Fable 5 dangerous topics",
-      "body": "Anthropic published its list of topics that Fable 5 refuses to discuss, citing safety concerns. The guardrails block discussion in sensitive areas including advanced research.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Google announces Gemini 3.5 Live Translate",
-      "body": "Google unveiled Gemini 3.5 Live Translate, enabling instant voice-to-voice translation powered by AI. The real-time capability advances AI language translation technology.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-09",
       "topic": "AI"
     }
   ]
