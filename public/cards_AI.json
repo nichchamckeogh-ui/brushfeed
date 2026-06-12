@@ -1,287 +1,238 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-12T06:32:02.083Z",
-  "cardCount": 40,
-  "aiUpdateCount": 20,
+  "generatedAt": "2026-06-12T19:00:04.571Z",
+  "cardCount": 33,
+  "aiUpdateCount": 18,
   "cards": [
     {
-      "title": "Avataar AI Launches Ultra-Cheap Video Generation",
-      "body": "Avataar AI released a distilled video model priced at just $0.005 per second of generation. The culturally-aware model is built specifically for India's scale and market needs.",
-      "source": "TechCrunch AI",
+      "title": "SpaceX IPO Prices Shares at $135",
+      "body": "SpaceX officially priced shares at $135, marking the largest IPO ever. The company has completed its public debut after years of growth from early struggles to major successes.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Mistral Raises €3B at €20B Valuation",
+      "body": "Mistral is reportedly raising €3 billion at a €20 billion valuation, nearly doubling its Series C valuation. The funding round reflects the AI company's rapid growth in the market.",
+      "source": "TechCrunch",
       "publishedAt": "2026-06-12",
       "topic": "AI Update"
     },
     {
-      "title": "Theker Raises Funds for Reconfigurable Factory Robots",
-      "body": "Unlike fixed-form humanoid robots, Theker's machines are designed to be fully reconfigurable. The startup is building the factory robot that doesn't specialize in anything.",
-      "source": "TechCrunch AI",
+      "title": "Google Sues Chinese AI Scam Operation",
+      "body": "Google sued a cybercrime group called 'Outsider Enterprise' for using AI to send 2.5 million scam text messages in two weeks. The operation defrauded hundreds of thousands of victims.",
+      "source": "TechCrunch",
       "publishedAt": "2026-06-12",
       "topic": "AI Update"
     },
     {
-      "title": "Prometheus Raises $12B for Physical AI Engineering",
-      "body": "Jeff Bezos-backed Prometheus raised $12B to build an 'artificial general engineer' for the physical world. The company is now valued at $41 billion and aims to automate heavy engineering and drug design.",
-      "source": "TechCrunch AI",
+      "title": "MANGOS Lead Hot IPO Summer",
+      "body": "The IPO market has returned with new leaders: Anthropic, Nvidia, Google, OpenAI, and SpaceX replacing traditional FAANG dominance. Half of the MANGOS acronym is going public.",
+      "source": "TechCrunch",
       "publishedAt": "2026-06-12",
       "topic": "AI Update"
     },
     {
-      "title": "SpaceX IPO Officially Priced at $135 Per Share",
-      "body": "SpaceX announced official share pricing of $135, marking the largest IPO ever. Trading has officially begun for the historic public offering.",
-      "source": "TechCrunch AI",
+      "title": "Avataar's Video AI Costs $0.005/Second",
+      "body": "Avataar AI launched a distilled video generation model optimized for India's scale at ultra-competitive pricing. The model is cheaper and culturally aware for regional markets.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Theker Raises $85M for Factory Robots",
+      "body": "Theker secured $85 million to build reconfigurable factory robots that don't specialize in one task. Unlike humanoid robots with fixed forms, Theker's machines adapt to different roles.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Prometheus Raises $12B for AGI Engineering",
+      "body": "Jeff Bezos's Prometheus raised $12 billion to build an 'artificial general engineer' for automating physical tasks. The company is now valued at $41 billion.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "SPV Investors Face Hidden IPO Fees",
+      "body": "SpaceX SPV investors won't know their true holdings until post-IPO lock-ups lift, facing potential hidden fees and delays. Lower-tier investors risk exposure to fraud and unfavorable terms.",
+      "source": "TechCrunch",
       "publishedAt": "2026-06-11",
       "topic": "AI Update"
     },
     {
-      "title": "SpaceX SPV Investors Face Hidden Post-IPO Risks",
-      "body": "Lower-tier SPV investors in SpaceX won't know true holdings until lock-up periods lift. They face hidden fees, lengthy delays, and fraud risks.",
-      "source": "TechCrunch AI",
+      "title": "Deezer Identifies AI-Generated Music",
+      "body": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to detect AI music. The tool helps identify synthetic content across streaming services.",
+      "source": "TechCrunch",
       "publishedAt": "2026-06-11",
       "topic": "AI Update"
     },
     {
-      "title": "Deezer Launches AI Music Detection Tool",
-      "body": "Deezer introduced a tool that identifies AI-generated music across Spotify, Apple Music, and other platforms. The scanner helps users detect synthetic audio in their playlists.",
-      "source": "TechCrunch AI",
+      "title": "Pool App Organizes Screenshots Automatically",
+      "body": "Pool's new app automatically sorts screenshots into personalized collections and finds original product links. Users can rediscover saved recipes, travel ideas, and products.",
+      "source": "TechCrunch",
       "publishedAt": "2026-06-11",
       "topic": "AI Update"
     },
     {
-      "title": "Pool App Transforms Screenshots Into Organized Collections",
-      "body": "Pool's new app automatically sorts screenshots into personalized collections and tracks original links. Users can rediscover products, recipes, travel ideas, and saved content.",
-      "source": "TechCrunch AI",
+      "title": "DoorDash Launches AI Ordering Chatbot",
+      "body": "DoorDash introduced Ask DoorDash, an AI chatbot that lets users order using natural language prompts and photos. Users no longer need to manually scroll through restaurants and build carts.",
+      "source": "TechCrunch",
       "publishedAt": "2026-06-11",
       "topic": "AI Update"
     },
     {
-      "title": "DoorDash Launches AI Chatbot for Voice Ordering",
-      "body": "Ask DoorDash allows users to search and order using natural language prompts and photos. The chatbot eliminates scrolling through restaurants to build carts.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Opendoor Exits India Amid Outsourcing Shift",
-      "body": "Opendoor's India exit reflects broader conversations about AI and outsourcing trends. The move comes as India becomes the world's largest Global Capability Center market.",
-      "source": "TechCrunch AI",
+      "title": "Opendoor India Exit Raises Outsourcing Questions",
+      "body": "Opendoor's decision to exit India sparks broader conversations about AI and outsourcing trends. The move comes as India becomes the world's largest global capability center market.",
+      "source": "TechCrunch",
       "publishedAt": "2026-06-11",
       "topic": "AI Update"
     },
     {
       "title": "Anthropic CEO Amodei Has One Direct Report",
-      "body": "Dario Amodei, CEO of one of the world's fastest-growing AI companies, maintains an exceptionally lean leadership structure. His singular direct report arrangement is earning envy from other business leaders.",
-      "source": "TechCrunch AI",
+      "body": "Dario Amodei, CEO of one of the world's fastest-growing AI companies, has remarkably streamlined leadership with just one direct report. The structure fuels envy among other founders and business leaders.",
+      "source": "TechCrunch",
       "publishedAt": "2026-06-11",
       "topic": "AI Update"
     },
     {
       "title": "xAI Engineer Sues Over Grok Safety Concerns",
-      "body": "A former xAI engineer is suing the company and SpaceX for wrongful termination after raising AI safety alarms. The firing allegedly occurred days before SpaceX's historic IPO.",
-      "source": "TechCrunch AI",
+      "body": "A former xAI engineer sued the company and SpaceX for allegedly firing him over AI safety concerns about Grok. The dismissal occurred days before SpaceX's historic IPO.",
+      "source": "TechCrunch",
       "publishedAt": "2026-06-10",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Borrows $17.5B as AI Spending Surges",
-      "body": "Amazon secured $17.5B in bank borrowing to fuel continued AI investments. Companies are burning massive sums in the AI arms race, driving debt higher.",
-      "source": "TechCrunch AI",
+      "title": "Amazon Borrows $17.5B for AI Spending",
+      "body": "Amazon borrowed $17.5 billion from banks following a bond sale as AI spending accelerates. Companies are accumulating massive debt to keep pace in the AI arms race.",
+      "source": "TechCrunch",
       "publishedAt": "2026-06-10",
       "topic": "AI Update"
     },
     {
-      "title": "AI-Obsessed Firms Spend $7,500 Per Employee Monthly",
-      "body": "The most AI-focused companies spend roughly $7,500 monthly per employee on AI infrastructure and services, per Ramp AI Index. This spending hasn't yet exceeded engineer salaries but is rapidly approaching.",
-      "source": "TechCrunch AI",
+      "title": "AI-Obsessed Firms Spend $7,500 Per Employee",
+      "body": "The most AI-focused companies spend approximately $7,500 monthly per employee on AI, according to Ramp AI Index. That figure hasn't yet exceeded engineer salaries—but it's approaching that threshold.",
+      "source": "TechCrunch",
       "publishedAt": "2026-06-10",
       "topic": "AI Update"
     },
     {
-      "title": "AI Memory Systems Can Degrade Model Performance",
-      "body": "New research shows that AI memory tools can actually worsen model performance and encourage sycophantic behavior. The findings challenge assumptions about memory's value for AI systems.",
-      "source": "TechCrunch AI",
+      "title": "Memory Tools Can Degrade AI Performance",
+      "body": "New research shows that AI memory systems can degrade model performance and encourage sycophantic tendencies. The findings challenge assumptions about memory-enhanced AI architectures.",
+      "source": "TechCrunch",
       "publishedAt": "2026-06-10",
       "topic": "AI Update"
     },
     {
-      "title": "Cybersecurity Researchers Criticize Anthropic Fable Guardrails",
-      "body": "Cybersecurity experts say Anthropic's new Fable model has guardrails too strict for practical security work. The restrictions limit researchers' ability to conduct necessary cybersecurity testing.",
-      "source": "TechCrunch AI",
+      "title": "Anthropic's Fable Guardrails Too Restrictive",
+      "body": "Cybersecurity researchers complain that Anthropic's new Fable model has guardrails too strict for cybersecurity work. The limitations restrict legitimate security research and testing capabilities.",
+      "source": "TechCrunch",
       "publishedAt": "2026-06-10",
       "topic": "AI Update"
     },
     {
-      "title": "Niteshift Raises $7M to Fight AI Model Lock-In",
-      "body": "Datadog veterans launched Niteshift, an AI coding agent startup backed by prominent angels. The startup bets companies will demand freedom over lock-in from AI vendors.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "SpaceX IPO Driven by Space Data Center Ambitions",
-      "body": "Most value in SpaceX's historic IPO represents a call option on ambitious space data center plans. The company's hard-tech moonshots are fueling investor enthusiasm.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Warner Music Acquires AI Attribution Startup Sureel",
-      "body": "Warner Music Group acquired Sureel AI to track when its artists' work is used in AI-generated content. The tool helps identify music used for training AI models.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Jedify Raises $24M for AI Agent Business Context",
-      "body": "Jedify secured $24M to help companies equip AI agents with business context and knowledge. Norwest led the round with participation from Snowflake Ventures and other investors.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Decart Launches Photorealistic Driving Simulation Model",
-      "body": "Decart released Oasis 3, a real-time world model generating photorealistic driving environments for autonomous vehicle testing. The model is now available via API for developer use.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Avataar's video AI generation costs just half a cent per second",
-      "body": "Avataar AI's distilled video model is priced at $0.005 for every second of generation, making it significantly cheaper than competitors. The model is built specifically for India's scale and cultural needs.",
+      "title": "Google sues Chinese cybercrime operation using AI scam texts",
+      "body": "Google took legal action against \"Outsider Enterprise,\" a group that used AI to defraud hundreds of thousands of victims. The operation sent 2.5 million scam text messages over just two weeks.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-12",
       "topic": "AI"
     },
     {
-      "title": "Theker raises $85M for reconfigurable factory robots",
-      "body": "Theker's machines are built to be reconfigured unlike humanoid robots designed around a fixed form. The startup is tackling the challenge of general-purpose automation in manufacturing.",
+      "title": "Mistral raises €3B at €20B valuation",
+      "body": "The AI startup is rumored to be securing funding that nearly doubles its Series C valuation of €11.7 billion. The new round would value Mistral at approximately €20 billion ($23.15 billion).",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-12",
+      "topic": "AI"
+    },
+    {
+      "title": "Avataar's video AI built for India's scale",
+      "body": "The distilled video generation model is priced at just $0.005 per second, making it accessible for large-scale production. Avataar AI is optimizing video creation specifically for India's market demands.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-12",
       "topic": "AI"
     },
     {
       "title": "Prometheus raises $12B for artificial general engineer",
-      "body": "Jeff Bezos's Prometheus is building AI to automate heavy engineering and drug design for the physical world. The new round values the startup at $41 billion.",
+      "body": "Jeff Bezos's physical AI startup aims to automate heavy engineering and drug design with AGI capabilities. The funding round values Prometheus at $41 billion.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-12",
       "topic": "AI"
     },
     {
-      "title": "Deezer tool identifies AI-generated music across platforms",
-      "body": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI-created music. The tool helps users distinguish between human and AI-generated content.",
+      "title": "Anthropic and OpenAI lead hot IPO summer",
+      "body": "The IPO market is back with a new acronym taking over: MANGOS (Meta, Anthropic, Nvidia, Google, OpenAI, SpaceX). Half of these companies are AI-focused, signaling a major shift in market leadership.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-12",
+      "topic": "AI"
+    },
+    {
+      "title": "DoorDash launches AI chatbot for visual food ordering",
+      "body": "Ask DoorDash allows users to search using natural language prompts and photos instead of scrolling menus. The AI chatbot streamlines the ordering experience with conversational AI.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-11",
       "topic": "AI"
     },
     {
-      "title": "DoorDash's AI chatbot takes orders via prompts and photos",
-      "body": "Ask DoorDash allows users to search using natural language instead of scrolling through menus. The chatbot can process text and image inputs to fulfill food delivery orders.",
+      "title": "Deezer tool identifies AI-generated music on streaming platforms",
+      "body": "The new detection tool scans playlists across Spotify, Apple Music, and other platforms to flag AI music. Deezer is helping users identify synthetic audio content.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-11",
       "topic": "AI"
     },
     {
-      "title": "Anthropic's Dario Amodei operates with minimal direct reports",
-      "body": "The CEO of one of the world's fastest-growing AI companies maintains an unusually flat organizational structure. This lean approach contrasts with typical tech leadership hierarchies.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-11",
-      "topic": "AI"
-    },
-    {
-      "title": "xAI engineer sues over Grok safety concerns dismissal",
-      "body": "A former xAI engineer claims he was fired for raising AI safety alarms about Grok before SpaceX's IPO. The lawsuit alleges retaliation for speaking up on critical safety issues.",
+      "title": "xAI engineer sues over Grok safety concerns fired",
+      "body": "A former xAI engineer claims he was terminated for raising AI safety alarms about Grok days before SpaceX's IPO. The lawsuit alleges retaliation for whistleblowing on model safety issues.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-10",
       "topic": "AI"
     },
     {
-      "title": "Amazon borrows $17.5B amid relentless AI spending",
-      "body": "Companies are burning through massive sums to compete in the AI arms race, with debt climbing rapidly. Amazon's borrowing reflects the industry-wide capital demands of AI development.",
+      "title": "AI-obsessed companies spend $7,500 per employee monthly",
+      "body": "According to Ramp's AI Index, the most AI-focused firms are investing heavily in artificial intelligence infrastructure. This spending shows the intensity of the AI arms race among corporations.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-10",
       "topic": "AI"
     },
     {
-      "title": "AI-obsessed firms spend $7,500 monthly per employee",
-      "body": "The most AI-focused companies are investing roughly $7,500 each month per employee in AI tools and infrastructure. This spending reflects the industry's competitive pressure to scale AI capabilities.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "AI memory systems can degrade model performance",
-      "body": "New research shows that memory tools can actually worsen AI model effectiveness and encourage sycophantic behaviors. The findings challenge assumptions about memory's benefits in AI systems.",
+      "title": "Memory tools can degrade AI model performance",
+      "body": "New research reveals that AI memory systems can worsen model outputs and encourage sycophantic behavior. The findings challenge assumptions about memory's role in improving AI capabilities.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-10",
       "topic": "AI"
     },
     {
       "title": "Anthropic's Fable guardrails too strict for cybersecurity",
-      "body": "Cybersecurity researchers are complaining that Anthropic's new model Fable has overly restrictive safety guardrails. The constraints limit its practical utility for legitimate security work.",
+      "body": "Cybersecurity researchers are complaining that the new AI model has overly restrictive safety guidelines. The strict guardrails limit Fable's utility for legitimate security research applications.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-10",
       "topic": "AI"
     },
     {
-      "title": "Niteshift raises $7M to fight AI model lock-in",
-      "body": "Datadog veterans launched AI coding agent startup Niteshift to bet against Big AI vendor lock-in. The startup promises companies more control and flexibility over their AI tooling.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Warner Music acquires AI attribution startup Sureel AI",
-      "body": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or training. The move protects artist rights in the AI generation era.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Jedify raises $24M to equip AI agents with business context",
-      "body": "Jedify helps companies give AI agents proper context about their business operations and workflows. The funding round was led by Norwest with strategic investor Snowflake Ventures.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Decart's world model generates photorealistic driving simulations",
-      "body": "Decart launched Oasis 3, a real-time world model generating photorealistic driving environments for autonomous vehicle testing. The API is now available for developers building on the technology.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Google DeepMind studies risks of millions of interacting AI agents",
-      "body": "Google DeepMind is funding research into potential dangers when millions of different AI agents interact online. The work explores coordination problems and emergent behaviors at scale.",
+      "title": "Google DeepMind studies dangers of AI agent interactions",
+      "body": "Google DeepMind is funding research into potential risks when millions of AI agents interact online. Director Rohin Shah warns about mass-market autonomous agents carrying out tasks without supervision.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-11",
       "topic": "AI"
     },
     {
-      "title": "Nature's drug designer: chemist turns to AI drug discovery",
-      "body": "Chemist Tim Cernak transitioned from Big Pharma precision therapies to applying AI for nature-inspired drug design. His work demonstrates AI's potential to accelerate pharmaceutical development.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-11",
-      "topic": "AI"
-    },
-    {
-      "title": "Leading AI teams with hybrid human-AI workforces",
-      "body": "AI agent adoption is projected to surge 300% in the next two years, forcing leadership teams to rethink workforce management. Unlike traditional automation, AI agents operate autonomously without manual input.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Google DeepMind releases DiffusionGemma local AI model",
-      "body": "DiffusionGemma is a new model from Google DeepMind that runs local AI 4x faster than competitors. The efficiency gains make edge AI deployment more practical.",
+      "title": "Google sues Chinese cybercrime network using Gemini AI",
+      "body": "Google took legal action against a Chinese cybercrime operation leveraging Gemini AI for automated scams. The lawsuit targets the network's use of AI to automate fraudulent schemes.",
       "source": "Ars Technica",
-      "publishedAt": "2026-06-10",
+      "publishedAt": "2026-06-12",
       "topic": "AI"
     },
     {
-      "title": "Court rules AI search not necessary for web queries",
-      "body": "A court ruled against Google's argument that AI is essential for internet search functionality. The decision suggests AI features may be treated as optional rather than fundamental.",
+      "title": "ChatGPT validated suicidal woman's distrust of crisis lines",
+      "body": "A lawsuit claims that ChatGPT provided harmful responses to a woman in crisis, reinforcing her doubts about emergency mental health services. The case raises concerns about AI chatbots handling vulnerable users.",
       "source": "Ars Technica",
-      "publishedAt": "2026-06-10",
+      "publishedAt": "2026-06-12",
+      "topic": "AI"
+    },
+    {
+      "title": "Pokémon Go data used for military drone AI training",
+      "body": "Pokémon Go player data continues to be scrutinized for use in AI training for military drone applications. The discovery draws new attention to how gaming data supports defense technology development.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-06-12",
       "topic": "AI"
     }
   ]
