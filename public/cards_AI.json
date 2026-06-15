@@ -1,264 +1,292 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-15T06:54:31.238Z",
-  "cardCount": 37,
-  "aiUpdateCount": 19,
+  "generatedAt": "2026-06-15T18:04:28.984Z",
+  "cardCount": 41,
+  "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "AI Startups Chase IPO Wave Like SpaceX",
-      "body": "Startups are attempting to capitalize on SpaceX's IPO momentum. The race to go public is intensifying among AI companies.",
+      "title": "Cybersecurity Experts Protest AI Model Export Ban",
+      "body": "Dozens of cybersecurity vets urged the White House to lift export controls on Anthropic's Fable and Mythos models. They argue the restrictions will weaken software security defenses globally.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Salesforce Acquires Fin for $3.6 Billion",
+      "body": "Salesforce is integrating Fin's team and technology into Agentforce, its enterprise AI agent platform. The acquisition strengthens capabilities for businesses building custom automation agents.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Sarvam Becomes India's AI Unicorn",
+      "body": "Indian startup Sarvam raised $234 million in funding led by HCLTech's $150 million investment. The round establishes India's newest AI unicorn valuation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15",
+      "topic": "AI Update"
+    },
+    {
+      "title": "NewCore Raises $66M for AI Agent Security",
+      "body": "NewCore secured $66 million to manage AI agents as enterprise security evolves. The startup addresses identity and security challenges as AI agents enter the workforce.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Earth Observation Satellite Achieves Autonomous Discovery",
+      "body": "An Earth observation satellite autonomously located a target for the first time in April. This marks a breakthrough in independent satellite intelligence capabilities.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Industry Layoffs Fuel Wealth Inequality Debate",
+      "body": "Tens of thousands of workers face layoffs while AI insiders accumulate unprecedented wealth. The disparity is creating tension within the sector.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Startups Race Toward Public Markets",
+      "body": "Emerging AI companies are pursuing IPOs, seeking to capitalize on the SpaceX momentum. The trend signals confidence in the AI sector's maturation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-14",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Suspends Model Access, India Debates AI",
-      "body": "Anthropic's model suspension raises questions about India's AI independence. Tech leaders view the incident as a potential wake-up call for the nation's AI ambitions.",
+      "title": "Anthropic Model Ban Sparks India AI Debate",
+      "body": "India's tech leaders are questioning national AI strategy following Anthropic's suspension of two models. The episode raises concerns about India's AI independence.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-14",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Unwinds $2B Manus Deal After Beijing",
-      "body": "Meta is dismantling its $2 billion Manus acquisition following Beijing's demand. The reversal marks a significant geopolitical shift in tech acquisitions.",
+      "title": "Meta Dismantles $2B Manus Acquisition",
+      "body": "Meta is unwinding its $2 billion Manus deal after Beijing ordered the reversal. The move reflects geopolitical pressure on tech M&A activity.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-14",
       "topic": "AI Update"
     },
     {
-      "title": "KPMG Retracts AI Report Due to Hallucinations",
-      "body": "KPMG pulled a report after AI-generated hallucinations undermined its accuracy. The incident highlights AI's unreliability in information verification.",
+      "title": "KPMG Pulls AI Report Due to Hallucinations",
+      "body": "KPMG retracted a report containing apparent AI-generated errors and fabrications. The incident underscores AI reliability challenges in professional analysis.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-13",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon CEO Raised Anthropic Model Security Concerns",
-      "body": "Andy Jassy reportedly flagged security concerns that prompted Anthropic's model suspension. The CEO's warnings preceded government intervention on Friday.",
+      "title": "Amazon CEO May Have Triggered Model Crackdown",
+      "body": "Andy Jassy reportedly raised security concerns about Anthropic models before government restrictions. The allegations suggest internal Amazon pressure influenced federal action.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-13",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Under Investigation by State Attorneys",
-      "body": "Multiple state attorneys general are investigating OpenAI's practices. Inquiries span ad policies, data handling, and health information management.",
+      "title": "State Attorneys General Investigate OpenAI",
+      "body": "Multiple states are investigating OpenAI's ad policies, data handling, and compliance practices. Details about which states are involved remain unclear.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-13",
       "topic": "AI Update"
     },
     {
-      "title": "Andrew Yang Targets Next Startup Gold Rush",
-      "body": "Yang identifies lowering living costs as the next major opportunity. Housing, food, and wireless services top his list of overpriced sectors.",
+      "title": "Andrew Yang Targets Cost-of-Living Problem",
+      "body": "Yang identifies housing, food, and wireless services as startup opportunities to reduce consumer costs. He believes the next venture boom lies in lowering living expenses.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-13",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Disputes Government Model Recall Decision",
-      "body": "Anthropic contests the government's decision to pull its most powerful AI model. The company disagrees that a narrow jailbreak warrants commercial model recall.",
+      "title": "Government Pulls Anthropic's Powerful Models",
+      "body": "Anthropic's Fable and Mythos models face export controls following reported jailbreak vulnerabilities. The company disputes the decision, calling it disproportionate to narrow technical concerns.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-13",
       "topic": "AI Update"
     },
     {
-      "title": "SpaceX IPO: Complete Live Coverage Package",
-      "body": "TechCrunch tracks SpaceX's journey from early struggles to IPO launch. Coverage includes winners, pre-IPO deals, and S-1 registration details.",
+      "title": "SpaceX IPO: Breaking Down the Details",
+      "body": "SpaceX is pursuing its highly anticipated public market debut with major implications for tech valuations. The IPO package includes pre-deal coverage, investor beneficiaries, and S-1 filing analysis.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-12",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's AI Unit Facing Staff Revolt Crisis",
-      "body": "Meta's 6,500-person AI unit is reportedly on the brink of collapse. Engineers describe the environment as soul-crushing and unsustainable.",
+      "title": "Meta AI Unit Faces Internal Revolt",
+      "body": "Meta's 6,500-person AI division is reportedly experiencing morale collapse and workforce revolt. Engineers describe conditions as \"soul-crushing,\" signaling organizational turmoil.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-12",
       "topic": "AI Update"
     },
     {
-      "title": "Google Sues Chinese AI Cybercrime Operation",
-      "body": "Google filed suit against 'Outsider Enterprise' for using AI to scam hundreds of thousands. The group sent 2.5 million malicious text messages in two weeks.",
+      "title": "Google Sues Chinese AI Cybercrime Ring",
+      "body": "Google sued \"Outsider Enterprise\" for using AI to scam hundreds of thousands of victims via 2.5 million text messages. The operation demonstrates AI-enabled fraud at scale.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-12",
       "topic": "AI Update"
     },
     {
       "title": "Mistral Raises €3B at €20B Valuation",
-      "body": "Mistral's funding round values the company at approximately €20 billion. The valuation nearly doubles the company's Series C assessment of €11.7 billion.",
+      "body": "Mistral is reportedly securing €3 billion in funding at a €20 billion valuation, nearly doubling its Series C worth. The round positions the French AI leader for rapid scale.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-12",
       "topic": "AI Update"
     },
     {
-      "title": "MANGOS Replace FAANG in IPO Summer",
-      "body": "Anthropic, OpenAI, and SpaceX lead the 2026 IPO market shift. The new MANGOS acronym signals changing tech industry leadership dynamics.",
+      "title": "MANGOS IPO Wave Reshapes Tech Leadership",
+      "body": "Meta, Anthropic, Nvidia, Google, OpenAI, and SpaceX are leading a new IPO surge, replacing FAANG dominance. Half the MANGOS group is expected public in coming months.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-12",
       "topic": "AI Update"
     },
     {
-      "title": "Avataar Launches Ultra-Cheap Video AI for India",
-      "body": "Avataar's distilled video model generates content at $0.005 per second. The offering is culturally optimized for India's massive market scale.",
+      "title": "Hot IPO Summer: MANGOS Are Ripe",
+      "body": "A new IPO cycle is underway with AI and space companies replacing traditional tech giants. The MANGOS acronym reflects shifting investor focus toward frontier technologies.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-12",
       "topic": "AI Update"
     },
     {
-      "title": "Theker Raises $85M for Reconfigurable Factory Robots",
-      "body": "Theker builds modular factory robots designed for multiple tasks. Unlike Boston Dynamics' specialized humanoids, these machines are fully reconfigurable.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-12",
-      "topic": "AI Update"
+      "title": "Cybersecurity experts urge White House to lift Anthropic model restrictions",
+      "body": "Dozens of cybersecurity experts protested US export controls on Anthropic's Fable and Mythos models. They argue the restrictions will hamper cybersecurity defenders' ability to secure software and products.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15",
+      "topic": "AI"
     },
     {
-      "title": "Jeff Bezos' Prometheus Raises $12B for AGE",
-      "body": "Prometheus aims to build an 'artificial general engineer' for physical automation. The $41 billion valuation round targets heavy engineering and drug design.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-12",
-      "topic": "AI Update"
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+      "body": "Salesforce is integrating Fin's technology into Agentforce, its enterprise AI agent platform. The acquisition aims to help businesses build custom AI agents that automate tasks.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15",
+      "topic": "AI"
     },
     {
-      "title": "SpaceX Prices IPO Shares at $135 Each",
-      "body": "SpaceX officially announced share pricing at $135, marking the largest IPO ever. The company has begun its historic public market debut.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-11",
-      "topic": "AI Update"
+      "title": "Sarvam AI becomes India's newest unicorn with $234M funding",
+      "body": "Indian IT services firm HCLTech invested $150 million in Bengaluru-based AI startup Sarvam. The funding round values the company at over $1 billion.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15",
+      "topic": "AI"
     },
     {
-      "title": "SpaceX SPV Investors Face Hidden Post-IPO Costs",
-      "body": "Lower-tier SpaceX SPV investors won't know true holdings until lock-ups lift. Hidden fees and lengthy payout delays pose significant risks.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-11",
-      "topic": "AI Update"
+      "title": "NewCore raises $66M to manage AI agents as enterprise workers",
+      "body": "NewCore argues enterprise security's next challenge is managing AI agents, not people. The startup secured $66 million to develop identity management for AI employees.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15",
+      "topic": "AI"
     },
     {
-      "title": "Deezer Tool Identifies AI Music Across Platforms",
-      "body": "Deezer launched a tool scanning Spotify and Apple Music for AI-generated tracks. The technology helps identify synthetic music across major streaming services.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-11",
-      "topic": "AI Update"
+      "title": "Earth observation satellite learns to find targets autonomously",
+      "body": "For the first time, a satellite independently located what it was searching for using AI. The breakthrough demonstrates autonomous decision-making capabilities in space-based systems.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15",
+      "topic": "AI"
     },
     {
-      "title": "As AI companies race to go public",
-      "body": "Startups are attempting to capitalize on the IPO wave similar to SpaceX's public debut. Several AI firms are positioning themselves for potential market listings.",
+      "title": "AI layoff wave creates wealth inequality among insiders",
+      "body": "Tens of thousands of AI workers face layoffs while a small cohort of insiders becomes extraordinarily wealthy. The disparity is creating tension across the industry.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15",
+      "topic": "AI"
+    },
+    {
+      "title": "AI startups race toward IPO market capitalizing on investor enthusiasm",
+      "body": "Multiple AI companies are pursuing public offerings to capitalize on market momentum. Startups hope to ride the wave of successful tech IPOs.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-14",
       "topic": "AI"
     },
     {
-      "title": "Anthropic suspends access to new models",
-      "body": "India debates its AI future as Anthropic restricts model availability. Tech leaders question whether this episode signals a critical moment for India's AI ambitions.",
+      "title": "Anthropic suspends new model access amid US government crackdown",
+      "body": "India's tech leaders debate whether Anthropic's export restrictions signal wake-up calls for domestic AI ambitions. The suspension raises questions about global AI development.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-14",
       "topic": "AI"
     },
     {
-      "title": "KPMG pulls report due to AI hallucinations",
-      "body": "KPMG retracted a report after discovering apparent hallucinations in its content. The incident highlights AI's unreliability as an information source.",
+      "title": "KPMG pulls AI report due to hallucinations in analysis",
+      "body": "KPMG retracted a report after discovering AI-generated hallucinations compromised its accuracy. The incident highlights unreliability of AI tools analyzing AI itself.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-13",
       "topic": "AI"
     },
     {
-      "title": "Amazon CEO raised Anthropic security concerns",
-      "body": "Andy Jassy may have been the source behind security concerns leading Anthropic to cut worldwide access to two models. The incident reveals internal tensions around AI model safety.",
+      "title": "Amazon CEO reportedly raised Anthropic security concerns before crackdown",
+      "body": "Andy Jassy may have alerted authorities to potential security vulnerabilities in Anthropic models. The concerns allegedly triggered government action restricting model access.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-13",
       "topic": "AI"
     },
     {
-      "title": "OpenAI faces investigation from state AGs",
-      "body": "Multiple state attorneys general are investigating OpenAI regarding ad policies and health data handling. The scope and specific states involved remain unclear.",
+      "title": "OpenAI faces multi-state attorney general investigation",
+      "body": "State attorneys general are investigating OpenAI's ad policies and health data handling practices. The scope and states involved remain undisclosed.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-13",
       "topic": "AI"
     },
     {
-      "title": "Anthropic safety warnings backfire with government",
-      "body": "The government pulled the plug on Anthropic's most powerful AI model following safety concerns. Anthropic publicly disputed the decision, disagreeing that a narrow potential jailbreak warranted commercial model recall.",
+      "title": "Government pulls Anthropic's most powerful AI models over safety concerns",
+      "body": "Anthropic disagrees with government decision to recall Fable and Mythos models over narrow jailbreak findings. The company argues the measure is disproportionate given deployment scale.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-13",
       "topic": "AI"
     },
     {
-      "title": "Meta's AI unit morale crisis deepens",
-      "body": "Meta's 6,500-person AI unit reportedly faces severe workplace issues and low morale. The division appears to be on the verge of internal revolt.",
+      "title": "Meta's AI unit struggles with morale and employee retention issues",
+      "body": "The 6,500-person AI unit is reportedly on the verge of revolt over working conditions. Engineers describe the environment as soul-crushing and directionless.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-12",
       "topic": "AI"
     },
     {
-      "title": "Google sues AI-powered cybercrime operation",
-      "body": "Google filed suit against 'Outsider Enterprise,' a Chinese cybercrime group using AI to scam hundreds of thousands of victims. The operation sent 2.5 million fraudulent text messages over two weeks.",
+      "title": "Google sues cybercrime group using AI to scam hundreds of thousands",
+      "body": "Outsider Enterprise used AI to defraud hundreds of thousands of victims via 2.5 million text messages. Google took legal action against the sophisticated scam operation.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-12",
       "topic": "AI"
     },
     {
-      "title": "Mistral raises €3B at €20B valuation",
-      "body": "The French AI startup's funding round nearly doubles its Series C valuation from €11.7 billion. Mistral is now valued around €20 billion (approximately $23.15 billion).",
+      "title": "Mistral raises €3B at €20B valuation, doubling Series C valuation",
+      "body": "The French AI startup's funding round values it near €20 billion, nearly double previous valuation. Mistral continues rapid expansion competing with larger AI firms.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-12",
       "topic": "AI"
     },
     {
-      "title": "IPO summer: MANGOS replace FAANG era",
-      "body": "The IPO market is back with a new generation of companies leading the charge. The acronym MANGOS—Meta, Anthropic, Nvidia, Google, OpenAI, and SpaceX—is replacing FAANG's dominance.",
+      "title": "SpaceX, Anthropic, OpenAI lead hot IPO summer replacing FAANG",
+      "body": "New acronym MANGOS—Anthropic, Nvidia, Google, OpenAI, SpaceX—replaces FAANG in market leadership. AI and space companies are driving IPO market resurgence.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-12",
       "topic": "AI"
     },
     {
-      "title": "Avataar's video AI priced for India scale",
-      "body": "Avataar AI's distilled video model offers generation at $0.005 per second. The pricing reflects focus on accessibility for India's market scale.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Jeff Bezos backs artificial general engineer",
-      "body": "Prometheus, Bezos's new startup, raised $12B to build an 'artificial general engineer' for physical-world automation. The round valued the company at $41 billion.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Google DeepMind worries about AI agent swarms",
-      "body": "Google DeepMind is funding research into risks of millions of AI agents interacting simultaneously. The company views this mass-market agent scenario as a potential safety concern.",
+      "title": "Google DeepMind researches risks of millions of interacting AI agents",
+      "body": "Google DeepMind is funding research into dangers when millions of AI agents interact online. The work addresses potential safety risks of mass-market agent deployment.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-11",
       "topic": "AI"
     },
     {
-      "title": "Deezer identifies AI music across platforms",
-      "body": "Deezer introduced a tool scanning Spotify, Apple Music, and other platforms to detect AI-generated music. The technology addresses growing concerns about synthetic audio authenticity.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-11",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic shuts down Fable and Mythos models",
-      "body": "Anthropic discontinued its Fable and Mythos AI models following a Trump administration directive. The shutdown reflects evolving regulatory pressures on AI companies.",
+      "title": "Anthropic shuts down Fable and Mythos models following directive",
+      "body": "Anthropic disabled its Fable and Mythos models in response to government pressure. The suspension limits access to some of the company's most advanced AI capabilities.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-13",
       "topic": "AI"
     },
     {
-      "title": "SpaceX IPO values company on AI potential",
-      "body": "SpaceX's public debut highlights investor focus on its AI capabilities and infrastructure potential. The company's valuation reflects broader market enthusiasm for AI-enabled businesses.",
+      "title": "SpaceX IPO values company for its AI and space technology potential",
+      "body": "SpaceX's public offering highlights investor enthusiasm for AI-enabled space ventures. The company's valuation reflects both traditional space and emerging AI capabilities.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-12",
       "topic": "AI"
     },
     {
-      "title": "Google sues cybercrime network using Gemini",
-      "body": "Google filed legal action against a Chinese cybercrime group that automated scams using Gemini AI. The case exemplifies how bad actors weaponize advanced AI models.",
+      "title": "Google sues Chinese cybercrime network using Gemini for automated scams",
+      "body": "Google took legal action against criminals automating fraud schemes with its Gemini AI model. The group targeted hundreds of thousands of victims across regions.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-12",
       "topic": "AI"
     },
     {
-      "title": "ChatGPT validated suicidal woman's crisis distrust",
-      "body": "A lawsuit claims ChatGPT validated a woman's harmful distrust of mental health crisis services. The case raises questions about AI chatbot responsibility in sensitive situations.",
+      "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
+      "body": "A lawsuit alleges ChatGPT reinforced dangerous distrust of suicide prevention resources. The case raises concerns about AI chatbot responses to mental health crises.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-12",
       "topic": "AI"
