@@ -1,320 +1,250 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-17T18:31:41.287Z",
-  "cardCount": 45,
-  "aiUpdateCount": 20,
+  "generatedAt": "2026-06-18T06:46:11.802Z",
+  "cardCount": 35,
+  "aiUpdateCount": 15,
   "cards": [
-    {
-      "title": "Anthropic Joins Frontier Carbon Removal Coalition",
-      "body": "Anthropic has become the first AI startup to join the Frontier coalition, which received $915M in new pledges for carbon removal projects. The move signals AI companies' commitment to addressing environmental impact.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Social Media Platforms Enable User-Controlled Algorithms",
-      "body": "Threads, Instagram, and TikTok are introducing tools that let users directly influence their recommendation algorithms. The shift marks a major move toward customizable social media experiences.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Odyssey Reaches $1.45B Valuation on World Models",
-      "body": "World model startup Odyssey secured funding backed by Amazon and other major investors at a $1.45B valuation. The company is emerging as a key player in AI development beyond large language models.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Americans Skeptical About AI's Societal Impact",
-      "body": "Only 16% of Americans believe AI will have a positive impact on society, according to a Pew Research study. Public sentiment contrasts sharply with Wall Street's enthusiasm for the technology.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Launches Gemini-Powered Smart Speaker",
-      "body": "Google's new $99.99 Home Speaker replaces rigid voice commands with conversational Gemini interactions. The launch represents Google's bet on generative AI to revitalize the smart speaker market.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Slowtech Movement Gains Momentum Amid Phone Addiction",
-      "body": "A new slowtech revolution is emerging as consumers seek to reclaim control over their attention and time. The movement challenges the always-on digital lifestyle with tools designed for disconnection.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Labs Outsource Physical Training Data Collection",
-      "body": "Some AI research labs are contracting with XDOF to collect robot training data, a unglamorous but critical task. Solving physical AI's data problem is essential for matching LLM-level accomplishments.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Pramaana Labs Raises $27M for AI Formal Verification",
-      "body": "Pramaana Labs secured $27M in seed funding from Khosla Ventures to bring formal verification to AI systems. The startup will target sensitive sectors like law, drug discovery, and tax preparation.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Canadian Pension Giant Invests in India Data Centers",
-      "body": "A major Canadian pension fund is acquiring an 8.2% stake in CtrlS, which operates 15+ data centers across India. The investment highlights growing competition to fund Asia's AI infrastructure boom.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "DeepL Acquires Mixhalo for Live Event Translation",
-      "body": "Translation platform DeepL acquired Mixhalo to expand into live-event audio streaming and translation services. The deal includes a new San Francisco office as DeepL grows its U.S. presence.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Pinterest Launches Experimental AI Shopping App",
-      "body": "Pinterest introduced 'Ask Pinterest,' an experimental AI-powered shopping app offering conversational recommendations. The app lets users seek product inspiration through natural language interactions.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Gains Market Share Amid Trump Admin Tensions",
-      "body": "Business user adoption of Anthropic's products continues to surge despite recent conflicts with the Trump administration. Sales data from Ramp suggests the controversy may actually boost Anthropic's growth.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "SpaceX Valuation Surges to $2.6 Trillion Post-IPO",
-      "body": "SpaceX's valuation jumped by $1 trillion following the launch of public share trading on Friday. The company briefly surpassed Amazon in market value following the historic milestone.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Android 17 Expands Gemini AI Features Across Devices",
-      "body": "Google released Android 17 and Wear OS 7 with new multitasking, parental controls, and security tools. The Pixel Drop brings Google's latest AI models directly to its hardware ecosystem.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "60% of US Consumers Turned Off by AI Messaging",
-      "body": "A WordPress VIP survey found that 60% of U.S. consumers view 'AI' in brand messaging as a turnoff. Consumers remain wary of AI-generated answers despite companies' investment in AI search.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "SpaceX IPO Coverage: Winners and What's Inside",
-      "body": "TechCrunch's comprehensive SpaceX IPO package covers the company's journey, major stakeholders, and regulatory filings. The coverage includes pre-IPO deals and analysis of long-term implications for the space industry.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "DOJ Backs xAI Gas Turbines on National Security Grounds",
-      "body": "The Justice Department argued that the Pentagon needs xAI's unpermitted gas turbines for national security. The DOJ framed the issue as critical to national, economic, and energy security.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Plaud Surpasses $100M ARR With AI Notetakers",
-      "body": "Plaud announced its software business exceeded $100M in annual recurring revenue after shipping over 2M AI notetakers. The company is carving out space in an increasingly crowded meeting AI market.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Robinhood Avoids AI Scapegoat in Layoff Announcement",
-      "body": "Robinhood's CEO conspicuously avoided blaming AI for the company's 10% workforce reduction. The move contrasts sharply with tech peers who cite AI restructuring as justification for mass layoffs.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Probably Raises $9M to Build Reliable AI Systems",
-      "body": "Probably secured $9M to prevent hallucinations and factual errors in AI outputs. The startup aims to achieve accuracy matching deterministic systems, not traditional LLMs.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Joins Frontier Carbon Removal Coalition",
-      "body": "Anthropic has joined the Frontier coalition, which received $915M in pledges for carbon removal projects. The move positions the AI startup among leaders addressing climate impact.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17",
-      "topic": "AI"
-    },
-    {
-      "title": "World Models Next Big Thing After LLMs",
-      "body": "Odyssey, a world model startup, secured $1.45B valuation with backing from Amazon and other major investors. World models represent the next frontier in AI beyond large language models.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17",
-      "topic": "AI"
-    },
-    {
-      "title": "Americans Skeptical About AI's Societal Impact",
-      "body": "Only 16% of Americans believe AI will positively impact society, according to Pew Research. The finding contrasts sharply with Wall Street's enthusiasm for the technology.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17",
-      "topic": "AI"
-    },
     {
       "title": "Google Home Speaker Gets Gemini AI Upgrade",
       "body": "Google's new $99.99 Home Speaker replaces rigid voice commands with conversational Gemini interactions. The company is betting generative AI can revitalize the smart speaker market.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Joins Frontier Carbon Removal Coalition",
+      "body": "Anthropic became the first AI startup to join the Frontier coalition. The coalition received an additional $915M in pledges to fund carbon removal projects.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "World Model Maker Odyssey Reaches $1.45B Valuation",
+      "body": "Odyssey, backed by Amazon and other major investors, has raised funding at a $1.45B valuation. World models represent the next frontier in AI beyond large language models.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Pramaana Labs Raises $27M for AI Verification",
+      "body": "Khosla Ventures led Pramaana Labs' seed round to bring formal verification to AI systems. The startup targets sensitive sectors like law, drug discovery, and tax preparation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "DeepL Acquires Mixhalo for Event Audio Translation",
+      "body": "DeepL acquired Mixhalo to expand live-event audio streaming and translation capabilities. The company is opening a San Francisco office to scale its U.S. operations.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Pinterest Launches Ask Pinterest AI Shopping App",
+      "body": "Pinterest unveiled 'Ask Pinterest,' an experimental AI-powered shopping app with conversational recommendations. The app lets users seek inspiration through natural language interactions.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Android 17 Launches With Gemini AI Features",
+      "body": "Google released Android 17 and Wear OS 7 with new multitasking and parental controls. A Pixel Drop brings the latest Google AI models to devices.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "SpaceX Valuation Surges to $2.6 Trillion",
+      "body": "SpaceX's valuation increased by $1 trillion since its IPO launch on Friday. The company briefly surpassed Amazon in market value.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Business Growth Continues Despite Trump Tensions",
+      "body": "Anthropic's popularity with enterprise users is growing significantly, according to Ramp data. Recent government tensions may paradoxically boost the company's adoption.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Enterprises Grapple With AI ROI Reality Check",
+      "body": "Silicon Valley's 'tokenmaxxing' trend has given way to budget constraints as companies face actual AI costs. Uber and others exhausted annual AI budgets in months.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "World Leaders Fear U.S. AI Dominance Dependency",
+      "body": "French President Macron and Indian PM Modi raised concerns at G7 about U.S. control over AI access. The Anthropic blackout highlighted risks of overnight service cuts.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Social Media Platforms Enable User Algorithm Control",
+      "body": "Threads, Instagram, and TikTok are introducing tools for users to customize their recommendation algorithms. The shift gives consumers more control over their feeds.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Only 16 Percent Americans Optimistic About AI",
+      "body": "A Pew Research study shows Americans are significantly less optimistic about AI than Wall Street. Most don't expect positive societal impact from the technology.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Canadian Pension Fund Bets on India Data Centers",
+      "body": "A major Canadian pension giant will acquire an 8.2% stake in CtrlS Datacenters. The investment supports India's AI infrastructure boom.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Labs Outsource Robot Training Data Collection",
+      "body": "AI companies are hiring specialized firms like XDOF to collect physical robot training data. Solving data challenges is critical for physical AI to match LLM progress.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "How to turn off AI in your Google Docs",
+      "body": "Google's Gemini writing suggestions in Docs are generating unwanted pop-ups for users. Here's how to disable the 'write with Gemini' feature.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-18",
+      "topic": "AI"
+    },
+    {
+      "title": "Enterprises still figuring out their AI ROI",
+      "body": "Companies that aggressively pushed AI adoption earlier this year are now facing budget constraints. Uber burned through its annual AI budget in months, forcing some firms to cut Claude licenses.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-17",
       "topic": "AI"
     },
     {
-      "title": "Robot Training Data Problem Demands Solutions",
-      "body": "Physical AI labs need massive amounts of training data to match LLM achievements. Some companies are already paying firms like XDOF to collect this critical data.",
+      "title": "World leaders fear U.S. control over American AI",
+      "body": "French President Macron and Indian PM Modi raised concerns at the G7 that the U.S. could cut off AI access overnight. The Anthropic blackout highlighted this geopolitical vulnerability.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-17",
       "topic": "AI"
     },
     {
-      "title": "Pramaana Labs Secures $27M for AI Verification",
-      "body": "Pramaana Labs raised $27M from Khosla Ventures to bring formal verification to AI systems. The startup targets high-stakes verticals like law, drug discovery, and tax preparation.",
+      "title": "Anthropic joins Frontier carbon removal coalition",
+      "body": "Anthropic has become the first AI startup to join the Frontier coalition, which received $915M in new pledges for carbon removal projects.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-17",
       "topic": "AI"
     },
     {
-      "title": "DeepL Acquires Mixhalo for Live Translation",
-      "body": "DeepL acquired Mixhalo to expand its audio streaming and translation capabilities for live events. The move includes opening a new San Francisco office for U.S. expansion.",
+      "title": "World models startup Odyssey hits $1.45B valuation",
+      "body": "Odyssey, backed by Amazon and other major investors, is positioning world models as the next frontier beyond LLMs. The funding round cements the startup as a key player in AI development.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-17",
       "topic": "AI"
     },
     {
-      "title": "Pinterest Launches Conversational AI Shopping App",
-      "body": "Pinterest's new 'Ask Pinterest' app uses AI to provide shopping recommendations through conversation. The experimental tool lets users seek inspiration in a more natural way.",
+      "title": "Only 16% of Americans see AI as positive",
+      "body": "A Pew Research study reveals a stark disconnect between Wall Street's enthusiasm and public skepticism about AI. Most everyday Americans doubt the technology will benefit society.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-17",
       "topic": "AI"
     },
     {
-      "title": "Anthropic's Popularity Grows Despite Government Tensions",
-      "body": "Anthropic's business popularity is surging among enterprise users despite recent conflicts with the Trump administration. Data from Ramp suggests the feud may actually boost adoption.",
+      "title": "Google's Gemini smart speaker reinvents home AI",
+      "body": "Google's new $99.99 Home Speaker replaces rigid voice commands with conversational Gemini interactions. The device signals Google's bet on generative AI for the smart home market.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-17",
+      "topic": "AI"
+    },
+    {
+      "title": "Robot training data collection remains unglamorous",
+      "body": "Physical AI development requires massive amounts of training data from tedious data collection work. Some AI labs are already outsourcing this labor-intensive process.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-17",
+      "topic": "AI"
+    },
+    {
+      "title": "Pramaana Labs raises $27M for AI formal verification",
+      "body": "Khosla Ventures backed the startup to bring rigorous verification methods to AI systems. Pramaana targets sensitive verticals like law and drug discovery where reliability is critical.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-17",
+      "topic": "AI"
+    },
+    {
+      "title": "DeepL acquires Mixhalo for AI audio translation",
+      "body": "DeepL expanded into live-event audio streaming and translation through the Mixhalo acquisition. The move marks DeepL's opening of a San Francisco office to strengthen U.S. operations.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-17",
+      "topic": "AI"
+    },
+    {
+      "title": "Pinterest launches AI-powered shopping app 'Ask'",
+      "body": "Ask Pinterest is an experimental AI chatbot that lets users seek shopping recommendations through conversation. The app brings generative AI to Pinterest's core shopping experience.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-17",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic's government feud may boost adoption",
+      "body": "Business user data suggests Anthropic's popularity is growing despite tensions with the Trump administration. The latest conflict may actually strengthen the company's market position.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-16",
       "topic": "AI"
     },
     {
-      "title": "Android 17 Expands Gemini AI Features",
-      "body": "Google released Android 17 and Wear OS 7 with expanded Gemini AI capabilities across devices. New multitasking tools and security features accompany the latest Pixel Drop.",
+      "title": "Android 17 brings expanded Gemini AI features",
+      "body": "Google released Android 17 and Wear OS 7 with new multitasking tools and AI enhancements. The Pixel Drop brings the latest Google AI models directly to devices.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-16",
       "topic": "AI"
     },
     {
-      "title": "Consumers Wary of AI in Brand Messaging",
-      "body": "60% of US consumers find 'AI' in brand messaging a turnoff, according to WordPress VIP survey. The finding suggests disconnect between corporate AI enthusiasm and consumer sentiment.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-16",
-      "topic": "AI"
-    },
-    {
-      "title": "xAI's Gas Turbines Matter for National Security",
-      "body": "The Justice Department claims the Pentagon needs xAI's unpermitted gas turbines for national and energy security. The DOJ is arguing against litigation over the company's power infrastructure.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-16",
-      "topic": "AI"
-    },
-    {
-      "title": "Plaud AI Notetaker Business Hits $100M ARR",
-      "body": "Plaud surpassed $100M in annual recurring revenue after shipping over 2 million AI notetakers. The company competes in the crowded market for AI-powered meeting transcription.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-16",
-      "topic": "AI"
-    },
-    {
-      "title": "Probably Raises $9M to Prevent AI Hallucinations",
-      "body": "Probably secured $9M to build more reliable AI systems that avoid hallucinations and factual errors. The startup aims for accuracy on par with deterministic systems.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-16",
-      "topic": "AI"
-    },
-    {
-      "title": "Military Uses AI Models as Strategic Advisors",
-      "body": "MIT Technology Review's exclusive eBook explores how militaries deploy AI models for decision-making. Six updated stories examine the intersection of artificial intelligence and defense.",
+      "title": "Military increasingly relies on AI advisors",
+      "body": "An exclusive MIT Technology Review eBook compiles stories on how militaries deploy AI for decision-making. The collection spans six reports updated through April 2026.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-16",
       "topic": "AI"
     },
     {
-      "title": "Brain Implant User Becomes First AI Power User",
-      "body": "Casey Harrell, paralyzed with ALS, has become the first 'power user' of a brain-computer interface for speech. He's been using the implanted electrode system for nearly three years.",
+      "title": "Brain implant user becomes AI speech pioneer",
+      "body": "Casey Harrell, who has ALS, has been using a brain-computer interface for nearly three years to communicate. He's now recognized as the first major 'power user' of BCI technology.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-15",
       "topic": "AI"
     },
     {
-      "title": "South Koreans Lead Global AI Adoption Race",
-      "body": "South Korea has emerged as unusually enthusiastic about AI integration across society and government. The nation uses AI in immigration checkpoints and beyond.",
+      "title": "South Korea's AI obsession reshapes society",
+      "body": "Seoul leads the world in AI adoption, from unmanned immigration checkpoints to widespread AI integration. The nation's embrace of AI reflects both technological innovation and cultural priorities.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-15",
       "topic": "AI"
     },
     {
-      "title": "Dangerous AI Models Coming Regardless",
-      "body": "Experts warn that increasingly dangerous AI models will arrive despite regulatory efforts. The technology's capabilities are advancing faster than governance frameworks.",
+      "title": "AI coding agents teach robots hardware skills",
+      "body": "AI agents successfully trained robots to perform hardware installation tasks like mounting GPUs. The development demonstrates AI's expanding role in physical robotics.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-17",
       "topic": "AI"
     },
     {
-      "title": "Google Home Speaker Available for Preorder",
-      "body": "The $100 Google Home Speaker with Gemini AI is finally available for preorder after months of delay. The device replaces traditional voice assistant interactions with conversational AI.",
+      "title": "Dangerous AI models coming regardless",
+      "body": "Experts warn that advanced AI models with dangerous capabilities are inevitable. Regulation and safety measures cannot prevent their eventual development.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-17",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Pauses Token-Based Claude SDK Billing",
-      "body": "Anthropic has paused token-based billing for its Claude Agent SDK. The move addresses concerns about pricing structure for developers.",
+      "title": "Anthropic pauses Claude Agent SDK token billing",
+      "body": "Anthropic has temporarily halted token-based billing for its Claude Agent SDK. The move addresses concerns from developers about pricing models.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-16",
       "topic": "AI"
     },
     {
-      "title": "Pentagon Uses AI to Write Congressional Reports",
-      "body": "The Pentagon confirmed it uses AI models to write reports mandated by Congress. The practice highlights increasing military reliance on AI assistance.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-16",
-      "topic": "AI"
-    },
-    {
-      "title": "Android 17 Hits Pixel Phones and Watches",
-      "body": "Android 17 began rolling out to Pixel devices with enhanced Gemini AI integration. The update includes new productivity and security features.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-16",
-      "topic": "AI"
-    },
-    {
-      "title": "SpaceX Acquires AI Coding Platform Cursor",
-      "body": "SpaceX announced a $60 billion acquisition of Cursor, an AI coding platform. The deal represents significant investment in AI-powered development tools.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-16",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI Losing Billions Annually, Documents Show",
-      "body": "Leaked financial documents reveal OpenAI is losing billions of dollars per year. The losses underscore challenges in AI model training economics.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-16",
-      "topic": "AI"
-    },
-    {
-      "title": "Mobileye Enters US Robotaxi Market",
-      "body": "Intel's Mobileye is launching a standalone robotaxi service in the United States. The move positions the company as a direct competitor in autonomous vehicle transportation.",
+      "title": "Pentagon uses AI to write congressional reports",
+      "body": "The U.S. military has deployed AI systems to automate report writing for mandated congressional documents. The development highlights government adoption of AI technologies.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-16",
       "topic": "AI"
