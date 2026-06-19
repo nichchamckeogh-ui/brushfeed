@@ -1,238 +1,231 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-19T06:47:45.483Z",
-  "cardCount": 33,
+  "generatedAt": "2026-06-19T18:05:12.161Z",
+  "cardCount": 32,
   "aiUpdateCount": 18,
   "cards": [
     {
-      "title": "Elastic Acquires DeductiveAI for Up to $85M",
-      "body": "Elastic has agreed to acquire DeductiveAI, a startup using AI to detect and resolve software bugs. The three-year-old company was backed by CRV.",
+      "title": "US Government Pulls Anthropic's Fable 5 and Mythos 5",
+      "body": "The US government forced Anthropic to pull its two newest models citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails. Cybersecurity researchers have since begun investigating the vulnerability.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-19",
       "topic": "AI Update"
     },
     {
-      "title": "Baseten Raises $1.5B in Mega-Round",
-      "body": "AI inference startup Baseten is reportedly finalizing a $1.5 billion funding round at a $13 billion valuation. The raise reflects the ongoing \"inference gold rush\" in the industry.",
+      "title": "Reliance Weaving AI Into Telecom Services",
+      "body": "Reliance is integrating AI into telecom services used by over 500 million people. Billionaire Ambani's vision aims to bring AI into every call, app, and home.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Allbirds CEO Launches New AI Business",
+      "body": "The Allbirds CEO launched a startup with substantial seed funding but currently operates as a sole founder. The company's next steps remain unclear despite the major capital injection.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "ASML Disputes US Claims About China",
+      "body": "The US alleged that ASML's top chip tool may have ended up in China. ASML denies the claim, citing strong commercial incentives to protect its export license.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Elastic Acquires DeductiveAI for Up to $85M",
+      "body": "Elastic agreed to buy CRV-backed DeductiveAI, which uses AI to catch and resolve software bugs. The startup was founded just three years ago before the acquisition.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Baseten Raising $1.5B at $13B Valuation",
+      "body": "AI inference startup Baseten is reportedly finalizing a $1.5 billion funding round at a $13 billion valuation. The raise comes months after the company's previous mega-round amid the \"inference gold rush.\"",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
       "title": "Snap Spins Off AI Video Unit Dotmo",
-      "body": "Snap is spinning off its AI video team into a new company called Dotmo. The move comes as Snap looks to reduce costs while accelerating AI video development.",
+      "body": "Snapchat is spinning off its AI video team into a new company called Dotmo to manage costs. Current Snap staff are leaving to focus exclusively on AI video development.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Adds Talent Ahead of IPO",
-      "body": "OpenAI is hiring top talent including Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball. The moves signal preparation for the company's upcoming IPO.",
+      "title": "OpenAI Hires Key Talent Ahead of IPO",
+      "body": "OpenAI hired Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball. The moves come as the company prepares for its upcoming IPO.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
-      "title": "US Singles Skeptical About AI Dating",
-      "body": "Nearly 47% of US singles view AI negatively in dating contexts. However, many remain open to AI assistance with profile optimization and conversation starters.",
+      "title": "Nearly Half of US Singles Skeptical of AI Dating",
+      "body": "About 47% of singles view AI negatively in dating apps, according to Match's survey. However, many users remain open to AI assistance with profile creation and conversation starters.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Aims to Challenge Nvidia Directly",
-      "body": "AWS is in talks to sell its AI chips to other data centers as it seeks to compete with Nvidia. CEO Andy Jassy has identified this as a $50 billion opportunity.",
+      "title": "Amazon Plans to Sell AI Chips Directly",
+      "body": "AWS is in talks to sell its AI chips to other data centers, challenging Nvidia's dominance. CEO Andy Jassy identifies this as a $50 billion opportunity for the company.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
-      "title": "FERC Creates Fast Lane for Data Centers",
-      "body": "Federal regulators have mandated that grid operators provide accelerated interconnection pathways for AI data centers. The order aims to speed deployment but doesn't address underlying electricity supply constraints.",
+      "title": "FERC Fast-Tracks AI Data Center Grid Access",
+      "body": "Federal regulators told grid operators to prioritize data center interconnections in a new fast lane. The move fails to address underlying electricity supply shortages for AI infrastructure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
       "title": "Karamo Brown Launches AI Wellness App Kē",
-      "body": "The \"Queer Eye\" life coach has launched Kē, a wellness app featuring his AI digital clone. The app covers fitness, nutrition, meditation, sobriety, and personal growth.",
+      "body": "The \"Queer Eye\" life coach created Kē, a wellness app featuring his AI digital clone. The app draws from his year-and-a-half personal journey across fitness, mental health, and relationships.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
-      "title": "General Intuition Seeks $300M at $2B Valuation",
-      "body": "General Intuition is in talks to raise $300 million to develop embodied AI and world models. The startup leverages Medal's dataset of 2 billion videos annually.",
+      "title": "General Intuition Raises $300M at $2B Valuation",
+      "body": "General Intuition is in talks to raise $300 million for training embodied AI and world models. The startup leverages Medal's dataset of 2 billion videos per year from 10 million users.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
-      "title": "Guardrails PAC Challenges Big Tech Spending",
-      "body": "A tech worker-backed PAC called Guardrails is launching a $5 million campaign funded by grassroots donations. The group positions itself as a populist counterweight to Big Tech's political influence.",
+      "title": "Tech Workers Launch $5M Political PAC",
+      "body": "Guardrails, a worker-backed PAC, is mounting a populist challenge to Big Tech's political influence with grassroots donations. The $5 million effort targets the AI industry's growing power.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
-      "title": "Pixi Launches Interactive AR Messaging App",
-      "body": "Pixi has released a new iOS app that transforms text messages into interactive augmented reality experiences. The app represents the next evolution beyond traditional emoji and GIF reactions.",
+      "title": "Pixi Brings AR Experiences to Text Messaging",
+      "body": "Pixi's new iOS app transforms text messages into interactive augmented reality experiences. The app positions itself as the next evolution beyond stickers, GIFs, and emoji reactions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
-      "title": "How to Disable AI in Google Docs",
-      "body": "Google Docs users can now disable the \"Write with Gemini\" AI feature that appears as pop-ups. The tutorial provides steps to turn off unwanted AI suggestions.",
+      "title": "How to Disable Gemini in Google Docs",
+      "body": "Google Docs users can now turn off AI features to eliminate \"write with Gemini\" pop-ups. The guide provides steps to customize AI assistance in the productivity tool.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
       "title": "Roelof Botha Joins SpaceX Board",
-      "body": "Former Sequoia Capital leader Roelof Botha has been appointed to SpaceX's board of directors. The appointment comes days after SpaceX completed the largest IPO ever.",
+      "body": "Former Sequoia Capital leader Roelof Botha has joined SpaceX's board of directors. The appointment fills an existing vacancy days after SpaceX's historic IPO.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-17",
       "topic": "AI Update"
     },
     {
-      "title": "Snap's AR Glasses Fail to Impress",
-      "body": "Snap's long-awaited smart glasses debut, priced at premium levels, has negatively impacted the company's stock. The expensive product launch hasn't generated expected market enthusiasm.",
+      "title": "Snap's AR Glasses Debut Disappoints Stock",
+      "body": "Snap unveiled expensive AR glasses, but the launch failed to boost investor confidence. The company's stock declined following the long-awaited hardware announcement.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-17",
       "topic": "AI Update"
     },
     {
-      "title": "Enterprises Reckoning With AI ROI Challenges",
-      "body": "Companies are discovering the true costs of aggressive AI adoption after initial \"tokenmaxxing\" pushes. Uber burned through its annual AI budget in months, while others have cut Claude subscriptions.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "World Leaders Fear US AI Control Risk",
-      "body": "French President Macron and Indian PM Modi raised concerns at the G7 that the US could unilaterally cut off AI access. The Anthropic blackout has intensified international worries about AI dependence.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Joins Frontier Carbon Coalition",
-      "body": "Anthropic has become the first AI startup to join the Frontier coalition supporting carbon removal projects. The coalition received an additional $915 million in pledges.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Social Platforms Enable User Algorithm Control",
-      "body": "Threads, Instagram, and TikTok are introducing customizable algorithm tools that give users direct influence over recommendations. The shift represents the next evolution of social media personalization.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Elastic acquires DeductiveAI for bug-catching AI",
-      "body": "Elastic agreed to buy DeductiveAI, an AI startup that automatically detects and resolves software bugs, for up to $85M. The three-year-old company represents a strategic move into AI-powered debugging tools.",
+      "title": "US Government Bans Anthropic's Newest AI Models",
+      "body": "The US government forced Anthropic to pull Fable 5 and Mythos 5, citing national security concerns after researchers found ways to bypass guardrails. The ban hasn't stopped market momentum for the company.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-19",
       "topic": "AI"
     },
     {
-      "title": "Baseten raises $1.5B in AI inference mega-round",
-      "body": "Inference startup Baseten is closing a $1.5B funding round at a $13B valuation amid surging demand for AI model deployment. The raise reflects the growing 'inference gold rush' in AI infrastructure.",
+      "title": "Reliance Weaves AI Into 500M+ Telecom Users",
+      "body": "Billionaire Ambani's Reliance is integrating AI across telecom services, apps, and home devices for over 500 million people.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Elastic Acquires DeductiveAI Bug-Catching Platform",
+      "body": "Elastic is buying AI startup DeductiveAI for up to $85M, which uses machine learning to detect and resolve software bugs. The three-year-old startup has caught attention in the debugging space.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-19",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Inference Startup Baseten Raises $1.5B",
+      "body": "Baseten is finalizing a massive $1.5 billion funding round at a $13 billion valuation, capitalizing on the AI inference boom. This comes months after the startup's previous mega-round.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
-      "title": "Snap spins off Dotmo AI video company",
-      "body": "Snapchat is spinning off its AI video team into a new company called Dotmo to reduce costs. Current Snap staff will leave to focus exclusively on AI video development.",
+      "title": "Snap Spins Off AI Video Team Into Dotmo",
+      "body": "Snapchat is launching Dotmo, a new company focused on AI video development, composed of current staff leaving the social platform. The spinoff reflects cost pressures on AI initiatives.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
-      "title": "OpenAI hires Transformer co-inventor before IPO",
-      "body": "OpenAI brought on Noam Shazeer, a Transformer co-inventor from Google DeepMind, and former Trump AI policy official Dean Ball. The moves signal major hires ahead of the company's upcoming IPO.",
+      "title": "OpenAI Hires Transformer Co-Inventor Before IPO",
+      "body": "OpenAI is strengthening its leadership by bringing on Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball. The moves signal preparations ahead of the company's planned IPO.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
-      "title": "Amazon AI chips challenge Nvidia's dominance",
-      "body": "AWS is in talks to sell its custom AI chips to other data centers, representing a potential $50B opportunity. The move positions Amazon as a direct competitor to Nvidia in the chip market.",
+      "title": "Nearly Half of US Singles Reject AI Dating",
+      "body": "About 47% of American singles view AI negatively in dating apps, though many are open to AI for profile optimization. The finding reveals mixed consumer sentiment on AI romance tools.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
-      "title": "FERC fast-tracks AI data center grid connections",
-      "body": "Federal regulators directed grid operators to prioritize interconnections for AI data centers. The move aims to accelerate deployment but doesn't address underlying electricity supply shortages.",
+      "title": "Amazon Sells Its AI Chips to Competitors",
+      "body": "AWS is in talks to sell its custom AI chips to other data centers as CEO Andy Jassy targets a $50 billion opportunity. The move challenges Nvidia's dominance in AI hardware.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
-      "title": "General Intuition raises $300M for embodied AI",
-      "body": "General Intuition is in talks to raise $300M at a $2B valuation for its embodied AI and world models. The startup leverages Medal's dataset of 2 billion videos annually from 10 million users.",
+      "title": "AI Data Centers Get Government Grid Fast Lane",
+      "body": "FERC granted AI data centers expedited interconnection to the electrical grid, but failed to address underlying electricity supply shortages. The mandate speeds deployment but sidesteps resource constraints.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
-      "title": "How to disable AI in Google Docs",
-      "body": "Google's 'write with Gemini' AI prompts can be turned off in Google Docs settings. The guide helps users who want to disable AI writing suggestions.",
+      "title": "Karamo Brown Launches AI Wellness Clone App",
+      "body": "'Queer Eye' coach Karamo Brown released Kē, a wellness app featuring his AI digital clone for fitness, meditation, and personal guidance. The app draws from his year-long wellness journey.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
-      "title": "Companies hit AI ROI reckoning after overspending",
-      "body": "Enterprises are reassessing AI investments after experiencing budget overruns similar to Uber's AI spending blowout. Companies like Uber burned through annual AI budgets in months, forcing recalibration of AI strategies.",
+      "title": "General Intuition Raises $300M for Embodied AI",
+      "body": "The startup is in talks to raise $300M at a $2B valuation, training embodied AI and world models using billions of video datasets. General Intuition leverages Medal's 2 billion annual videos from 10M users.",
       "source": "TechCrunch",
-      "publishedAt": "2026-06-17",
+      "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
-      "title": "World leaders fear US AI dominance as weapon",
-      "body": "French President Macron and Indian PM Modi raised concerns that the US could cut off AI access overnight. The Anthropic blackout incident reinforced fears about American AI dependency.",
+      "title": "How to Turn Off Google's AI in Docs",
+      "body": "Google Docs users can disable the 'write with Gemini' AI feature if unwanted prompts are appearing. A simple toggle removes the AI assistant from the interface.",
       "source": "TechCrunch",
-      "publishedAt": "2026-06-17",
+      "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
-      "title": "Anthropic joins carbon removal coalition",
-      "body": "Anthropic became the first AI startup to join the Frontier carbon removal coalition, which received $915M in new pledges. The move aligns the AI company with climate initiatives.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17",
-      "topic": "AI"
-    },
-    {
-      "title": "AI coding agents teach robots hardware installation",
-      "body": "AI coding agents successfully trained robots to install GPUs and perform precision tasks like cutting zip ties. The breakthrough demonstrates practical applications of AI in robotics and hardware assembly.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-17",
-      "topic": "AI"
-    },
-    {
-      "title": "Military AI advisor eBook explores defense AI",
-      "body": "MIT Technology Review published an exclusive eBook examining how militaries use AI models for decision-making. The collection includes six articles exploring AI's expanding role in military strategy.",
+      "title": "Subquadratic Claims LLM Bottleneck Breakthrough",
+      "body": "Miami-based AI startup Subquadratic emerged from stealth claiming to solve a decade-old mathematical bottleneck limiting large language models. Skepticism remains pending technical validation.",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-06-16",
+      "publishedAt": "2026-06-19",
       "topic": "AI"
     },
     {
-      "title": "ALS patient becomes brain implant power user",
-      "body": "Casey Harrell became the first 'power user' of a brain implant enabling speech through AI decoding. The breakthrough demonstrates practical applications of neural interfaces for communication.",
+      "title": "Brain-Computer Implants Enable ALS Patient Power User",
+      "body": "Casey Harrell, paralyzed by ALS, has used a brain-computer interface implant for nearly three years to communicate and control devices. The breakthrough demonstrates practical BCI applications beyond research.",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-06-16",
-      "topic": "AI"
-    },
-    {
-      "title": "South Korea's AI obsession shapes culture",
-      "body": "South Korea demonstrates exceptional enthusiasm for AI adoption across immigration, services, and daily life. The nation's cultural embrace of AI reflects both technological advancement and societal priorities.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-15",
+      "publishedAt": "2026-06-19",
       "topic": "AI"
     }
   ]
