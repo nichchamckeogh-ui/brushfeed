@@ -1,187 +1,194 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-21T18:37:30.663Z",
-  "cardCount": 26,
+  "generatedAt": "2026-06-22T06:46:06.277Z",
+  "cardCount": 27,
   "aiUpdateCount": 15,
   "cards": [
     {
       "title": "Trump Administration Cracks Down on Anthropic",
-      "body": "The Trump administration has taken action against Anthropic, prompting discussion about what triggered these moves. The implications for the broader AI ecosystem remain uncertain.",
+      "body": "The Trump administration has taken action against Anthropic, prompting discussion about what triggered these moves. The implications could reshape the broader AI ecosystem and competitive landscape.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-21",
       "topic": "AI Update"
     },
     {
-      "title": "iOS 27 Brings Practical Apple Intelligence Features",
-      "body": "Apple's iOS 27 introduces multiple AI features beyond the Siri overhaul announced at WWDC. These new capabilities focus on practical utility across the operating system.",
+      "title": "iOS 27 Brings Practical AI Features Beyond Siri",
+      "body": "Apple's iOS 27 includes AI enhancements throughout the OS beyond the Siri overhaul announced at WWDC. These features focus on practical utility across multiple Apple applications.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-21",
       "topic": "AI Update"
     },
     {
       "title": "Signal's Whittaker: AI Chatbots Aren't Friends",
-      "body": "Meredith Whittaker emphasizes that AI chatbots are not conscious beings or sentient interlocutors. She warns against treating them as genuine relationships.",
+      "body": "Meredith Whittaker warns users that AI chatbots lack consciousness and sentience. She emphasizes these tools should not be treated as conscious beings or true interlocutors.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-20",
       "topic": "AI Update"
     },
     {
-      "title": "Nobel Laureate Jumper Leaves DeepMind for Anthropic",
-      "body": "John Jumper, a Nobel laureate, is departing Google DeepMind to join rival Anthropic. This marks another high-profile departure from DeepMind.",
+      "title": "DeepMind Nobel Laureate Joins Anthropic",
+      "body": "John Jumper, a Nobel laureate at Google DeepMind, is leaving to join rival Anthropic. His departure follows other notable exits from DeepMind.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-20",
       "topic": "AI Update"
     },
     {
-      "title": "US Government Bans Anthropic's Fable 5 and Mythos 5",
-      "body": "The US government forced Anthropic to pull its newest models Fable 5 and Mythos 5 citing national security concerns. Amazon researchers reportedly discovered guardrail bypass methods.",
+      "title": "Export Controls Failed to Stop Cybersecurity Software",
+      "body": "A 30-year history shows export controls on cybersecurity software have proven ineffective. The effectiveness of similar restrictions on Anthropic's Mythos model remains questionable.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-19",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Ban May Actually Boost Brand Recognition",
-      "body": "The forced withdrawal of Fable 5 and Mythos 5 has sparked debate about unintended marketing benefits. The controversy has increased public awareness of Anthropic's capabilities.",
+      "title": "US Bans Anthropic's Fable 5 and Mythos 5",
+      "body": "The US government forced Anthropic to pull Fable 5 and Mythos 5 over national security concerns following alleged guardrail bypass discoveries by Amazon researchers. The ban could inadvertently boost Anthropic's brand visibility.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-19",
       "topic": "AI Update"
     },
     {
-      "title": "Reliance Integrates AI Into 500M+ User Services",
-      "body": "Billionaire Ambani's Reliance is embedding AI across telecom services reaching over 500 million people. The push aims to enhance calling, apps, and home devices.",
+      "title": "Reliance Weaves AI Into Telecom Services",
+      "body": "Billionaire Ambani's Reliance is integrating AI across calls, apps, and home services for over 500 million users. The move represents massive-scale AI deployment in telecom infrastructure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-19",
       "topic": "AI Update"
     },
     {
       "title": "Elastic Acquires Deductive AI for $85M",
-      "body": "Elastic has agreed to acquire Deductive AI, a startup using AI to catch and resolve software bugs. The deal values the three-year-old company at up to $85 million.",
+      "body": "Elastic has agreed to buy CRV-backed Deductive AI, which uses AI to identify and resolve software bugs. The acquisition values the three-year-old startup at up to $85 million.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-19",
       "topic": "AI Update"
     },
     {
-      "title": "AI Inference Startup Baseten Raises $1.5B",
-      "body": "Baseten is reportedly closing a $1.5 billion funding round at a $13 billion valuation. The raise reflects ongoing investor enthusiasm for AI inference infrastructure.",
+      "title": "Inference Startup Baseten Raises $1.5B",
+      "body": "AI inference startup Baseten is reportedly closing a $1.5 billion funding round at a $13 billion valuation. The deal reflects ongoing investor enthusiasm for the inference sector.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
       "title": "Snap Spins Off AI Video Team as Dotmo",
-      "body": "Snapchat's parent company is spinning off its AI video team into a new company called Dotmo. The move comes as Snap seeks to manage AI development costs.",
+      "body": "Snapchat is spinning off its AI video team into a new company called Dotmo to manage costs. Current Snap staff leading the division will transition to the independent venture.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Hires Key Talent Ahead of IPO",
-      "body": "OpenAI has recruited Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball. Both hires signal OpenAI's IPO preparation.",
+      "title": "OpenAI Recruits Top Talent Ahead of IPO",
+      "body": "OpenAI is hiring high-profile executives including Transformer co-inventor Noam Shazeer from DeepMind and former Trump AI policy official Dean Ball. The moves signal preparations for the company's planned IPO.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
-      "title": "Nearly Half of US Singles Reject AI Dating",
-      "body": "About 47% of singles view AI negatively in dating contexts, according to Match. However, many users remain open to AI for profile enhancement and conversation assistance.",
+      "title": "US Singles Skeptical About Dating App AI",
+      "body": "Nearly 47% of US singles view AI use in dating negatively, according to Match data. However, many users welcome AI assistance for profile improvements and conversation starters.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Challenges Nvidia With AI Chip Sales",
-      "body": "AWS is negotiating to sell its AI chips to other data centers, opening a potential $50 billion opportunity. CEO Andy Jassy says this represents a direct challenge to Nvidia.",
+      "title": "Amazon Challenges Nvidia with AI Chip Sales",
+      "body": "AWS is negotiating to sell its custom AI chips to competing data centers. CEO Andy Jassy estimates this represents a $50 billion opportunity for Amazon.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
-      "title": "FERC Fast-Tracks Data Center Grid Access",
-      "body": "Federal regulators mandated that grid operators give data centers expedited interconnection approval. The move addresses infrastructure bottlenecks but doesn't solve electricity supply shortages.",
+      "title": "FERC Gives Data Centers Grid Fast Lane",
+      "body": "Federal regulators ordered grid operators to prioritize data center interconnections for speed. However, the mandate does not address underlying electricity supply shortages.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
       "title": "How to Disable AI in Google Docs",
-      "body": "Google Docs users bothered by AI writing suggestions can now disable the feature. The guide explains how to remove unwanted 'write with Gemini' prompts.",
+      "body": "Google Docs users can turn off the \"Write with Gemini\" feature to remove AI pop-ups. The guide provides steps to disable AI assistance in the application.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
       "title": "Beyond Siri: Practical AI Features Coming to iOS 27",
-      "body": "Apple's iOS 27 brings useful AI features beyond Siri's overhaul announced at WWDC. The company is rolling out practical AI capabilities across the operating system.",
+      "body": "Apple's iOS 27 brings more than Siri's AI overhaul, with useful AI features rolling out across the operating system. The updates focus on practical, everyday functionality for iPhone users.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-21",
       "topic": "AI"
     },
     {
-      "title": "Signal's Whittaker: AI Chatbots Aren't Your Friends",
-      "body": "Meredith Whittaker warns that AI chatbots lack consciousness and sentience despite their conversational abilities. She emphasizes these tools should not be viewed as conscious beings or friends.",
+      "title": "Signal's Meredith Whittaker on AI Chatbot Reality",
+      "body": "Whittaker emphasizes that AI chatbots are not conscious beings or sentient interlocutors, challenging user misconceptions. Her message underscores the importance of understanding AI's actual capabilities and limitations.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-20",
       "topic": "AI"
     },
     {
-      "title": "Nobel Laureate Jumper Leaves DeepMind for Anthropic",
-      "body": "John Jumper, a Nobel laureate, is departing Google DeepMind to join rival AI company Anthropic. He's among several prominent researchers leaving Google's AI division.",
+      "title": "Nobel Laureate John Jumper Joins Anthropic from DeepMind",
+      "body": "Jumper, a prominent AI researcher, is leaving Google DeepMind for rival Anthropic. His departure reflects ongoing talent movement within the competitive AI industry.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-20",
       "topic": "AI"
     },
     {
       "title": "US Government Bans Anthropic's Fable 5 and Mythos 5",
-      "body": "The US government forced Anthropic to pull its newest AI models citing national security concerns. Amazon researchers allegedly found a way to bypass Fable 5's safety guardrails.",
+      "body": "The US government forced Anthropic to pull two newest AI models citing national security concerns after researchers allegedly found guardrail bypass methods. The ban raises questions about AI governance and export controls.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-19",
       "topic": "AI"
     },
     {
-      "title": "Elastic Acquires Deductive AI for Up to $85M",
-      "body": "Deductive AI, a startup using artificial intelligence to catch and resolve software bugs, was founded just three years ago. Elastic is expanding its AI capabilities through the acquisition.",
+      "title": "Deductive AI Caught by Elastic in $85M Acquisition",
+      "body": "Deductive AI, an AI startup that catches and resolves software bugs, was founded just three years ago. Elastic's acquisition signals growing demand for AI-powered debugging solutions.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-19",
       "topic": "AI"
     },
     {
-      "title": "Baseten AI Inference Startup Raising $1.5B",
-      "body": "AI inference startup Baseten is reportedly finalizing a $1.5 billion round at a $13 billion valuation. The funding reflects the ongoing 'inference gold rush' in the AI market.",
+      "title": "Baseten Raises $1.5B as Inference Gold Rush Continues",
+      "body": "AI inference startup Baseten is finalizing a $1.5 billion funding round at a $13 billion valuation. The mega-round reflects investor appetite for AI inference infrastructure.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
       "title": "Snap Spins Off AI Video Team into Dotmo",
-      "body": "Snapchat is spinning off its AI video development team into a new company called Dotmo due to costs. Current Snap staff will leave to focus on AI video innovation.",
+      "body": "Snapchat is spinning off an internal AI video development unit into a new company called Dotmo. The move reflects the high costs and strategic importance of AI video technology.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Hires Transformer Co-Inventor Before IPO",
-      "body": "OpenAI is bulking up before its IPO by landing Transformer co-inventor Noam Shazeer from Google DeepMind. The company also hired former Trump AI policy official Dean Ball.",
+      "title": "OpenAI Bolsters Leadership Ahead of IPO",
+      "body": "OpenAI hired Noam Shazeer, a Transformer co-inventor from Google DeepMind, and Dean Ball, a former Trump AI policy official. The hires signal OpenAI's preparation for its upcoming public listing.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
       "title": "Amazon Challenges Nvidia by Selling AI Chips",
-      "body": "AWS is in talks to sell its AI chips to other data centers as it challenges Nvidia's dominance. CEO Andy Jassy estimates this represents a $50 billion opportunity.",
+      "body": "AWS is in talks to sell its AI chips to other data centers, with CEO Andy Jassy calling it a $50 billion opportunity. The move could reshape the AI infrastructure market.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
       "title": "How to Turn Off AI in Google Docs",
-      "body": "Google's 'write with Gemini' AI feature can be disabled in Docs if users find it intrusive. The guide shows steps to remove pesky AI pop-ups from the application.",
+      "body": "Google's AI features in Docs can be disabled by users annoyed with \"write with Gemini\" pop-ups. A quick guide helps users regain control over their document experience.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
-      "title": "Subquadratic Claims LLM Bottleneck Breakthrough",
-      "body": "Miami-based AI startup Subquadratic claims it solved a mathematical bottleneck holding back large language models for nearly a decade. The startup emerged from stealth with the announcement despite initial skepticism.",
+      "title": "Subquadratic Claims Major LLM Bottleneck Breakthrough",
+      "body": "Miami-based AI startup Subquadratic claims to have solved a mathematical bottleneck holding back large language models for nearly a decade. Though details remain thin, the announcement has generated significant industry attention.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Brain-Computer Interface Trials Accelerating Rapidly",
+      "body": "Brain-computer interface technology is advancing, with users like Casey Harrell utilizing implants for nearly three years. The devices enable paralyzed individuals to communicate and interact with technology.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-19",
       "topic": "AI"
