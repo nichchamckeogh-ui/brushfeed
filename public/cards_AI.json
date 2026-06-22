@@ -1,196 +1,210 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-22T06:46:06.277Z",
-  "cardCount": 27,
-  "aiUpdateCount": 15,
+  "generatedAt": "2026-06-22T18:24:35.696Z",
+  "cardCount": 29,
+  "aiUpdateCount": 12,
   "cards": [
     {
-      "title": "Trump Administration Cracks Down on Anthropic",
-      "body": "The Trump administration has taken action against Anthropic, prompting discussion about what triggered these moves. The implications could reshape the broader AI ecosystem and competitive landscape.",
+      "title": "Amazon Tests Alexa+ in India with Hindi Support",
+      "body": "Amazon is expanding its Alexa+ conversational AI assistant to India with a Hindi-language version. The company is inviting Indian users to test the new localized AI assistant.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-21",
+      "publishedAt": "2026-06-22",
       "topic": "AI Update"
     },
     {
-      "title": "iOS 27 Brings Practical AI Features Beyond Siri",
-      "body": "Apple's iOS 27 includes AI enhancements throughout the OS beyond the Siri overhaul announced at WWDC. These features focus on practical utility across multiple Apple applications.",
+      "title": "Reflection AI Signs $150M/Month Compute Deal with SpaceX",
+      "body": "Reflection AI will pay $150 million monthly for access to Nvidia's GB300 AI chips through SpaceX's Colossus 2 data center near Memphis. The deal runs from July 2026 through 2029.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-21",
+      "publishedAt": "2026-06-22",
       "topic": "AI Update"
     },
     {
-      "title": "Signal's Whittaker: AI Chatbots Aren't Friends",
-      "body": "Meredith Whittaker warns users that AI chatbots lack consciousness and sentience. She emphasizes these tools should not be treated as conscious beings or true interlocutors.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "DeepMind Nobel Laureate Joins Anthropic",
-      "body": "John Jumper, a Nobel laureate at Google DeepMind, is leaving to join rival Anthropic. His departure follows other notable exits from DeepMind.",
+      "title": "Nobel Laureate John Jumper Leaves DeepMind for Anthropic",
+      "body": "DeepMind researcher and Nobel laureate John Jumper is joining rival AI company Anthropic. This marks another significant departure from Google's AI research division.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-20",
       "topic": "AI Update"
     },
     {
-      "title": "Export Controls Failed to Stop Cybersecurity Software",
-      "body": "A 30-year history shows export controls on cybersecurity software have proven ineffective. The effectiveness of similar restrictions on Anthropic's Mythos model remains questionable.",
+      "title": "US Bans Anthropic's Fable 5 and Mythos 5 Models",
+      "body": "The US government forced Anthropic to pull its two newest models citing national security concerns. The ban followed reports that Amazon researchers found a way to bypass Fable 5's safety guardrails.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-19",
       "topic": "AI Update"
     },
     {
-      "title": "US Bans Anthropic's Fable 5 and Mythos 5",
-      "body": "The US government forced Anthropic to pull Fable 5 and Mythos 5 over national security concerns following alleged guardrail bypass discoveries by Amazon researchers. The ban could inadvertently boost Anthropic's brand visibility.",
+      "title": "Elastic Acquires Deductive AI for Up to $85M",
+      "body": "Elastic is buying bug-detection AI startup Deductive AI for up to $85 million. The three-year-old company uses AI to automatically catch and resolve software bugs.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-19",
       "topic": "AI Update"
     },
     {
-      "title": "Reliance Weaves AI Into Telecom Services",
-      "body": "Billionaire Ambani's Reliance is integrating AI across calls, apps, and home services for over 500 million users. The move represents massive-scale AI deployment in telecom infrastructure.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Elastic Acquires Deductive AI for $85M",
-      "body": "Elastic has agreed to buy CRV-backed Deductive AI, which uses AI to identify and resolve software bugs. The acquisition values the three-year-old startup at up to $85 million.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Inference Startup Baseten Raises $1.5B",
-      "body": "AI inference startup Baseten is reportedly closing a $1.5 billion funding round at a $13 billion valuation. The deal reflects ongoing investor enthusiasm for the inference sector.",
+      "title": "Baseten Raises $1.5B at $13B Valuation",
+      "body": "AI inference startup Baseten is reportedly closing a $1.5 billion funding round months after its previous mega-round. The raise reflects the ongoing \"inference gold rush\" in AI infrastructure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
       "title": "Snap Spins Off AI Video Team as Dotmo",
-      "body": "Snapchat is spinning off its AI video team into a new company called Dotmo to manage costs. Current Snap staff leading the division will transition to the independent venture.",
+      "body": "Snapchat's parent company is spinning off its AI video team into a new independent company called Dotmo. The move comes as Snap seeks to control costs while advancing AI video development.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Recruits Top Talent Ahead of IPO",
-      "body": "OpenAI is hiring high-profile executives including Transformer co-inventor Noam Shazeer from DeepMind and former Trump AI policy official Dean Ball. The moves signal preparations for the company's planned IPO.",
+      "title": "OpenAI Hires Transformer Co-Inventor Before IPO",
+      "body": "OpenAI is bulking up ahead of its IPO, landing Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball. Both hires signal OpenAI's expansion in research and policy.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
-      "title": "US Singles Skeptical About Dating App AI",
-      "body": "Nearly 47% of US singles view AI use in dating negatively, according to Match data. However, many users welcome AI assistance for profile improvements and conversation starters.",
+      "title": "Amazon Challenges Nvidia by Selling AI Chips",
+      "body": "AWS is in talks to sell its proprietary AI chips to other data centers. CEO Andy Jassy estimates this represents a $50 billion market opportunity for the company.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-18",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Challenges Nvidia with AI Chip Sales",
-      "body": "AWS is negotiating to sell its custom AI chips to competing data centers. CEO Andy Jassy estimates this represents a $50 billion opportunity for Amazon.",
+      "title": "Reliance Weaves AI Into Services for 500M Users",
+      "body": "Billionaire Ambani's Reliance is integrating AI across telecom services used by over 500 million people. The push aims to bring AI capabilities into calls, apps, and home devices.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-18",
+      "publishedAt": "2026-06-19",
       "topic": "AI Update"
     },
     {
-      "title": "FERC Gives Data Centers Grid Fast Lane",
-      "body": "Federal regulators ordered grid operators to prioritize data center interconnections for speed. However, the mandate does not address underlying electricity supply shortages.",
+      "title": "Apple Launches Practical AI Features in iOS 27",
+      "body": "Beyond Siri's AI overhaul, Apple is bringing several AI-powered features across iOS 27. These practical tools will be distributed throughout the operating system's various apps and functions.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-18",
+      "publishedAt": "2026-06-21",
       "topic": "AI Update"
     },
     {
-      "title": "How to Disable AI in Google Docs",
-      "body": "Google Docs users can turn off the \"Write with Gemini\" feature to remove AI pop-ups. The guide provides steps to disable AI assistance in the application.",
+      "title": "Signal's Whittaker: AI Chatbots Aren't Your Friends",
+      "body": "Signal executive Meredith Whittaker warns users that AI chatbots are not conscious beings or sentient. She emphasizes the importance of remembering what these systems actually are.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-18",
+      "publishedAt": "2026-06-20",
       "topic": "AI Update"
     },
     {
-      "title": "Beyond Siri: Practical AI Features Coming to iOS 27",
-      "body": "Apple's iOS 27 brings more than Siri's AI overhaul, with useful AI features rolling out across the operating system. The updates focus on practical, everyday functionality for iPhone users.",
+      "title": "Amazon Tests Alexa+ with Hindi Support in India",
+      "body": "Amazon is expanding its new conversational AI assistant Alexa+ to India with a Hindi-language version. The company is inviting Indian users to test the multilingual AI experience.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-22",
+      "topic": "AI"
+    },
+    {
+      "title": "Reflection AI Inks Massive Compute Deal with SpaceX",
+      "body": "Reflection AI will pay $150 million monthly through 2029 for access to Nvidia's latest GB300 AI chips via SpaceX's Colossus 2 data center. The deal grants immediate access to cutting-edge AI infrastructure.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-22",
+      "topic": "AI"
+    },
+    {
+      "title": "Trump Admin Cracks Down on Anthropic AI",
+      "body": "The administration has made new moves against AI company Anthropic, prompting discussion about implications for the broader AI ecosystem. The episode explores what prompted these latest actions.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-21",
       "topic": "AI"
     },
     {
-      "title": "Signal's Meredith Whittaker on AI Chatbot Reality",
-      "body": "Whittaker emphasizes that AI chatbots are not conscious beings or sentient interlocutors, challenging user misconceptions. Her message underscores the importance of understanding AI's actual capabilities and limitations.",
+      "title": "iOS 27 Brings Practical AI Features Beyond Siri",
+      "body": "Apple's iOS 27 includes multiple AI-powered features throughout the operating system, not just Siri improvements. The rollout brings practical machine learning capabilities to users' daily iPhone interactions.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-21",
+      "topic": "AI"
+    },
+    {
+      "title": "Signal's Meredith Whittaker Warns AI Chatbots Aren't Friends",
+      "body": "Signal's leader emphasizes that AI chatbots are not sentient beings or conscious interlocutors. The warning highlights the importance of realistic expectations around AI assistants.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-20",
       "topic": "AI"
     },
     {
-      "title": "Nobel Laureate John Jumper Joins Anthropic from DeepMind",
-      "body": "Jumper, a prominent AI researcher, is leaving Google DeepMind for rival Anthropic. His departure reflects ongoing talent movement within the competitive AI industry.",
+      "title": "Nobel Laureate John Jumper Leaves DeepMind for Anthropic",
+      "body": "Jumper, a prestigious AI researcher and Nobel laureate, is departing Google DeepMind for rival AI company Anthropic. He joins other notable departures from the AI research division.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-20",
       "topic": "AI"
     },
     {
-      "title": "US Government Bans Anthropic's Fable 5 and Mythos 5",
-      "body": "The US government forced Anthropic to pull two newest AI models citing national security concerns after researchers allegedly found guardrail bypass methods. The ban raises questions about AI governance and export controls.",
+      "title": "US Bans Anthropic's Fable 5 and Mythos 5 Models",
+      "body": "The US government forced Anthropic to pull its two newest AI models citing national security concerns. The ban followed reports that Amazon researchers found ways to bypass Fable 5's safety guardrails.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-19",
       "topic": "AI"
     },
     {
-      "title": "Deductive AI Caught by Elastic in $85M Acquisition",
-      "body": "Deductive AI, an AI startup that catches and resolves software bugs, was founded just three years ago. Elastic's acquisition signals growing demand for AI-powered debugging solutions.",
+      "title": "Reliance Weaves AI Into Telecom for 500M+ Users",
+      "body": "Billionaire Ambani's Reliance is integrating AI into telecom services reaching over 500 million people. The initiative aims to embed AI across calls, apps, and smart homes.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-19",
       "topic": "AI"
     },
     {
-      "title": "Baseten Raises $1.5B as Inference Gold Rush Continues",
-      "body": "AI inference startup Baseten is finalizing a $1.5 billion funding round at a $13 billion valuation. The mega-round reflects investor appetite for AI inference infrastructure.",
+      "title": "Elastic Acquires Bug-Catching AI Startup Deductive",
+      "body": "Elastic has agreed to buy Deductive AI for up to $85 million, a startup using AI to identify and resolve software bugs. The three-year-old company represents the growing market for AI development tools.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-19",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Inference Startup Baseten Raises $1.5 Billion",
+      "body": "Baseten is reportedly finalizing a $1.5 billion funding round at a $13 billion valuation. The raise reflects the ongoing \"inference gold rush\" in the AI market.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
-      "title": "Snap Spins Off AI Video Team into Dotmo",
-      "body": "Snapchat is spinning off an internal AI video development unit into a new company called Dotmo. The move reflects the high costs and strategic importance of AI video technology.",
+      "title": "Snap Spins Off Dotmo, AI Video Company",
+      "body": "Snapchat maker Snap is spinning off its AI video team into a new standalone company called Dotmo. The move reflects rising costs associated with AI development.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Bolsters Leadership Ahead of IPO",
-      "body": "OpenAI hired Noam Shazeer, a Transformer co-inventor from Google DeepMind, and Dean Ball, a former Trump AI policy official. The hires signal OpenAI's preparation for its upcoming public listing.",
+      "title": "OpenAI Hires Transformer Co-Inventor Before IPO",
+      "body": "OpenAI has brought on Noam Shazeer, a Transformer co-inventor from Google DeepMind, as it prepares for its IPO. The company also hired former Trump AI policy official Dean Ball.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-18",
+      "topic": "AI"
+    },
+    {
+      "title": "Nearly Half of US Singles Reject AI in Dating",
+      "body": "About 47% of US singles view AI negatively in dating apps, according to Match data. Many users remain open to AI helping with profile improvements and conversation starters.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
       "title": "Amazon Challenges Nvidia by Selling AI Chips",
-      "body": "AWS is in talks to sell its AI chips to other data centers, with CEO Andy Jassy calling it a $50 billion opportunity. The move could reshape the AI infrastructure market.",
+      "body": "AWS is negotiating to sell its proprietary AI chips to other data centers, CEO Andy Jassy announced. The move represents a potential $50 billion opportunity for the company.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18",
       "topic": "AI"
     },
     {
-      "title": "How to Turn Off AI in Google Docs",
-      "body": "Google's AI features in Docs can be disabled by users annoyed with \"write with Gemini\" pop-ups. A quick guide helps users regain control over their document experience.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Subquadratic Claims Major LLM Bottleneck Breakthrough",
-      "body": "Miami-based AI startup Subquadratic claims to have solved a mathematical bottleneck holding back large language models for nearly a decade. Though details remain thin, the announcement has generated significant industry attention.",
+      "title": "Subquadratic Claims LLM Bottleneck Breakthrough",
+      "body": "Miami-based AI startup Subquadratic emerged from stealth claiming to have solved a mathematical bottleneck limiting large language models for nearly a decade. Details remain sparse, with skepticism in the research community.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-19",
       "topic": "AI"
     },
     {
-      "title": "Brain-Computer Interface Trials Accelerating Rapidly",
-      "body": "Brain-computer interface technology is advancing, with users like Casey Harrell utilizing implants for nearly three years. The devices enable paralyzed individuals to communicate and interact with technology.",
+      "title": "Brain-Computer Interface Trials Accelerate Rapidly",
+      "body": "Casey Harrell, paralyzed with ALS, has become the first major power user of brain implants, unable to speak without the device. He has successfully used the brain-computer interface for nearly three years.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-19",
+      "topic": "AI"
+    },
+    {
+      "title": "How Anthropic Talked Itself Into Export Ban",
+      "body": "Anthropic may have inadvertently contributed to US government restrictions on exporting its AI models. The ban raises questions about corporate transparency and regulatory consequences.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-06-22",
       "topic": "AI"
     }
   ]
