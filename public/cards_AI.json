@@ -1,201 +1,215 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-24T06:37:11.850Z",
-  "cardCount": 28,
-  "aiUpdateCount": 13,
+  "generatedAt": "2026-06-24T18:04:08.082Z",
+  "cardCount": 30,
+  "aiUpdateCount": 15,
   "cards": [
     {
-      "title": "India's MoEngage Deploys AI Agents for Customer Marketing",
-      "body": "MoEngage secured an all-cash deal providing access to technology that assigns individual AI agents to customers. The platform leverages AI for personalized marketing at scale.",
+      "title": "Facebook Launches AI Companion App for Creators",
+      "body": "Facebook is testing a new AI companion app with select creators featuring its recently launched AI creator assistant. The tool is built specifically to help creators manage and develop their content.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Unveils Custom Chip Named Jalapeño",
+      "body": "OpenAI revealed its first custom processor built by Broadcom, designed specifically for the company's inference systems. The chip represents a strategic move toward hardware independence.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Figma Updates with AI-Powered Code Layers",
+      "body": "Figma's latest update adds code layers, animation support, and shaders alongside new AI-powered custom plug-in creation. The features expand design-to-development workflows.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Agility Robotics Plans $2.5B SPAC IPO",
+      "body": "Humanoid robotics startup Agility Robotics plans to go public via SPAC, expecting to raise $620 million in proceeds. The deal values the Oregon State spinout at $2.5 billion.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic's Claude Tag Integrates Slack Workspace",
+      "body": "Anthropic launched Claude Tag, an always-on AI teammate for Slack that learns organizational context and workflows. The feature represents a strategic push to embed Claude deeper into enterprise operations.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-23",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Launches Claude Tag for Slack Integration",
-      "body": "Anthropic's Claude Tag brings an always-on AI teammate directly to Slack. The feature captures organizational context and institutional knowledge for enterprise workflows.",
+      "title": "MoEngage Deploys Millions of AI Agent Assistants",
+      "body": "India's MoEngage announced an all-cash deal giving it technology to assign personalized AI agents to individual customers. The move positions the company at the forefront of agent-based marketing.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-23",
       "topic": "AI Update"
     },
     {
-      "title": "Fika Jobs Raises $4M for AI Video Hiring",
-      "body": "Stockholm-based Fika Jobs combines AI interview agents with short-form video profiles. The platform merges LinkedIn-style functionality with TikTok-like video content for recruitment.",
+      "title": "Fika Jobs Raises $4M for AI Interview Platform",
+      "body": "Stockholm-based Fika Jobs secured $4 million to build a video-first hiring platform combining AI interview agents with short-form profiles. The tool merges LinkedIn-style networking with TikTok-style content.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-23",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Launches Open Source Bug Patching Initiative",
-      "body": "OpenAI is deploying AI to help the open source community identify and patch vulnerabilities. The initiative strengthens cybersecurity across open source projects.",
+      "title": "OpenAI Launches Open Source Bug-Patching Initiative",
+      "body": "OpenAI announced a new initiative using AI to help the open source community identify and patch vulnerabilities. The program aims to strengthen security across open source ecosystems.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-23",
       "topic": "AI Update"
     },
     {
-      "title": "Agentic AI Enters 'Loopy' Continuous Automation Era",
-      "body": "Loopy enables swarms of agents to work continuously in the background endlessly. The advancement takes agentic AI capabilities beyond discrete task execution.",
+      "title": "Groq Raises $650M After Nvidia Non-Acquisition",
+      "body": "AI chipmaker Groq confirmed a $650 million funding round and is re-staffing after Nvidia's $20 billion non-acqui-hire deal. The company is expanding its neocloud business and hiring new executives.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-22",
       "topic": "AI Update"
     },
     {
-      "title": "Groq Confirms $650M Raise, Rebuilds Executive Team",
-      "body": "AI chipmaker Groq raised $650M and is restaffing leadership after Nvidia's $20B deal. The company is doubling down on its neocloud business strategy.",
+      "title": "Google DeepMind Invests $75M in AI Filmmaking",
+      "body": "Google DeepMind and A24 are partnering to build AI filmmaking tools with a $75 million commitment. The collaboration aims to transform content creation in Hollywood.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-22",
       "topic": "AI Update"
     },
     {
-      "title": "Google DeepMind Invests $75M in A24 AI Filmmaking",
-      "body": "Google DeepMind and A24 partnered to build AI filmmaking tools. The collaboration targets Hollywood's adoption of AI-powered creative production.",
+      "title": "Amazon Tests Alexa+ AI Assistant in India",
+      "body": "Amazon is expanding its conversational AI assistant Alexa+ to India with Hindi-language support. The rollout invites users to test the new assistant in their local language.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-22",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Tests Alexa+ in India with Hindi Support",
-      "body": "Amazon is expanding its Alexa+ conversational AI assistant to India with Hindi-language support. The rollout marks a key step in regional AI adoption.",
+      "title": "SpaceX Signs $150M Monthly AI Compute Deal",
+      "body": "Reflection AI, an open source lab, will pay SpaceX $150 million monthly for access to Nvidia's latest GB300 chips through 2029. The deal grants immediate compute access from SpaceX's Memphis data center.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-22",
       "topic": "AI Update"
     },
     {
-      "title": "SpaceX Inks $150M Monthly Compute Deal for AI",
-      "body": "Reflection AI will pay SpaceX $150M monthly from July 2026-2029 for Nvidia GB300 chips. The deal provides immediate access to cutting-edge AI compute infrastructure.",
+      "title": "Agentic AI Systems Operating in Continuous Loops",
+      "body": "The AI industry is adopting 'loopy' agentic systems that authorize swarms of agents to work continuously in the background. This evolution takes autonomous AI capabilities to the next level.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-22",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Unveils Practical AI Features Beyond Siri",
-      "body": "iOS 27 introduces useful AI capabilities across the system beyond Siri's overhaul. Apple is embedding AI throughout the user experience.",
+      "title": "Trump Administration Cracks Down on Anthropic",
+      "body": "The Trump administration has initiated new moves against AI company Anthropic. The actions raise questions about regulatory pressures shaping the AI ecosystem.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-21",
       "topic": "AI Update"
     },
     {
-      "title": "Signal Leader Warns AI Chatbots Are Not Friends",
-      "body": "Meredith Whittaker emphasizes that AI chatbots lack consciousness and sentience. The warning addresses misconceptions about AI assistant relationships.",
+      "title": "Nvidia's Water Solution Misses AI's Main Problem",
+      "body": "Nvidia announced a new cooling system reducing data center water use, but the initiative ignores AI's largest water consumption from fossil fuel power plants. The gap highlights infrastructure challenges ahead.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-22",
       "topic": "AI Update"
     },
     {
-      "title": "Nobel Laureate Jumper Leaves DeepMind for Anthropic",
-      "body": "John Jumper, Nobel laureate, is departing Google DeepMind for rival Anthropic. The move reflects ongoing executive shifts in the AI industry.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-20",
-      "topic": "AI Update"
+      "title": "Facebook Launches AI Companion App for Creators",
+      "body": "Facebook is testing a new AI companion app built with its recently launched AI creator assistant. The tool is currently available to select creators on the platform.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-24",
+      "topic": "AI"
     },
     {
-      "title": "Export Controls on AI Cybersecurity Models Face Questions",
-      "body": "Historical export controls on cybersecurity software have proven ineffective over 30 years. Questions arise about restricting Anthropic's Mythos model under similar frameworks.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-19",
-      "topic": "AI Update"
+      "title": "OpenAI Unveils Custom Chip Built by Broadcom",
+      "body": "OpenAI introduced Jalapeño, a custom processor designed specifically for its inference systems. The chip was built in partnership with Broadcom.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-24",
+      "topic": "AI"
     },
     {
-      "title": "India's MoEngage bets on AI agents for marketing",
-      "body": "MoEngage secured an all-cash deal giving it access to technology that assigns AI agents to individual customers. The acquisition positions the company at the forefront of personalized AI-driven marketing.",
+      "title": "Figma Adds AI Features and Code Layers",
+      "body": "Figma's latest update includes new code layers, motion and shader support, and AI-powered custom plug-ins. The features aim to streamline design workflows.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-24",
+      "topic": "AI"
+    },
+    {
+      "title": "MoEngage Bets on AI Agents for Marketing",
+      "body": "India's MoEngage acquired technology that assigns individual AI agents to customers. The all-cash deal positions the company for the future of personalized marketing.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-23",
       "topic": "AI"
     },
     {
-      "title": "Anthropic's Claude Tag integrates AI into Slack",
-      "body": "Claude Tag brings an always-on AI teammate directly to Slack, capturing organizational context and institutional knowledge. This strategic move positions Anthropic deeper into enterprise workflows.",
+      "title": "Anthropic Brings Claude to Slack with New Tag",
+      "body": "Anthropic launched Claude Tag, an always-on AI teammate integrated into Slack. The feature captures organizational context and institutional knowledge for enterprises.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-23",
       "topic": "AI"
     },
     {
-      "title": "Fika Jobs raises $4M for AI interview agents",
-      "body": "The Stockholm startup is building a video-first hiring platform combining AI interview agents with short-form video profiles. It blends LinkedIn and TikTok functionality to streamline candidate evaluation.",
+      "title": "Fika Jobs Raises $4M for AI Interview Platform",
+      "body": "Stockholm-based Fika Jobs secured $4 million to build a video-first hiring platform with AI agents. The tool combines short-form video profiles with automated interviews.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-23",
       "topic": "AI"
     },
     {
-      "title": "OpenAI launches open source bug patching initiative",
-      "body": "OpenAI is using AI to help the open source community identify and patch vulnerabilities. The initiative strengthens security across shared codebases.",
+      "title": "OpenAI Launches Open Source Bug-Patching Initiative",
+      "body": "OpenAI is using AI to help the open source community identify and fix vulnerabilities. The initiative aims to strengthen security across open source projects.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-23",
       "topic": "AI"
     },
     {
-      "title": "Agentic AI enters 'loopy' continuous background mode",
-      "body": "The latest evolution authorizes swarms of AI agents to work endlessly in the background without manual intervention. This pushes agentic AI capabilities to new autonomous levels.",
+      "title": "AI World Getting 'Loopy' with Continuous Agents",
+      "body": "The latest AI trend involves authorizing swarms of agents to work continuously in the background. This agentic AI approach takes automation to a new level.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-22",
       "topic": "AI"
     },
     {
-      "title": "Groq raises $650M after Nvidia not-acqui-hire deal",
-      "body": "The AI chipmaker secured funding and is pivoting toward its neocloud business after Nvidia's $20B not-acqui-hire. Groq is simultaneously hiring new executives to lead expansion.",
+      "title": "Groq Confirms $650M Raise After Nvidia Deal",
+      "body": "AI chipmaker Groq raised $650 million and is expanding its neocloud business. The company is also hiring new executives after Nvidia's controversial not-acqui-hire deal.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-22",
       "topic": "AI"
     },
     {
-      "title": "Google DeepMind invests $75M in AI filmmaking tools",
-      "body": "DeepMind and A24 partnered to develop AI-powered filmmaking technology. The deal signals major tech investment in creative AI applications.",
+      "title": "Google DeepMind Invests $75M in AI Filmmaking",
+      "body": "Google DeepMind partnered with A24 to build AI filmmaking tools. The $75 million bet positions AI as central to Hollywood's future production process.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-22",
       "topic": "AI"
     },
     {
-      "title": "Amazon tests Alexa+ with Hindi language support",
-      "body": "Amazon is expanding its conversational AI assistant Alexa+ to India with Hindi-language capabilities. The rollout represents global expansion of next-generation voice AI.",
+      "title": "Amazon Tests Alexa+ in India with Hindi",
+      "body": "Amazon is expanding its Alexa+ conversational AI assistant to India with Hindi language support. Users in the country can now test the new AI assistant.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-22",
       "topic": "AI"
     },
     {
-      "title": "SpaceX compute deal powers Reflection AI research",
-      "body": "Reflection AI will pay $150M monthly through 2029 for immediate access to Nvidia's GB300 AI chips at SpaceX's Memphis data center. The massive deal funds cutting-edge open source AI research.",
+      "title": "SpaceX Inks $150M Monthly Compute Deal",
+      "body": "Reflection AI will pay SpaceX $150 million monthly for access to Nvidia's GB300 AI chips through 2029. The deal provides cutting-edge compute resources for open source AI development.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-22",
       "topic": "AI"
     },
     {
-      "title": "Trump administration cracks down on Anthropic",
-      "body": "The administration announced moves against Anthropic, sparking debate about AI ecosystem consequences. The crackdown raises questions about AI governance and competition.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-21",
+      "title": "Stripe and Anthropic Fund Respiratory Research",
+      "body": "Stripe, Anthropic, and OpenAI are backing efforts to develop prevention for respiratory infections. The initiative aims to move beyond current cold prevention limitations.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-24",
       "topic": "AI"
     },
     {
-      "title": "Apple brings AI features across iOS 27 ecosystem",
-      "body": "Beyond Siri's overhaul, iOS 27 introduces practical AI capabilities throughout the system. Apple's layered approach distributes intelligence across device features.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-21",
+      "title": "Web Data Infrastructure Layer Emerges for AI",
+      "body": "Enterprises need structured data at scale to maximize AI potential, but much information remains blocked or unstructured. A new data infrastructure layer is emerging to solve this challenge.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-24",
       "topic": "AI"
     },
     {
-      "title": "Signal's Whittaker warns AI chatbots aren't friends",
-      "body": "Signal president Meredith Whittaker cautioned users about anthropomorphizing AI chatbots as conscious beings. The warning addresses growing emotional attachment to language models.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Nobel laureate Jumper leaves DeepMind for Anthropic",
-      "body": "John Jumper, a Nobel laureate, departed Google DeepMind to join rival Anthropic. The move reflects ongoing talent migration in competitive AI research.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Export controls fail to stop AI cybersecurity model",
-      "body": "Anthropic's Mythos cybersecurity model faces export restrictions, but history suggests such controls remain ineffective. Decades of failed export controls on security software inform skepticism.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-19",
-      "topic": "AI"
-    },
-    {
-      "title": "Oracle's 21,000 layoffs fuel AI investment debt",
-      "body": "Oracle's massive workforce reduction finances debt-fueled AI infrastructure investments. The layoffs reflect corporate restructuring to prioritize artificial intelligence.",
+      "title": "Oracle's 21,000 Layoffs Fuel AI Investments",
+      "body": "Oracle announced 21,000 layoffs to fund its debt-fueled AI expansion strategy. The company is prioritizing AI capabilities despite workforce reductions.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-23",
       "topic": "AI"
