@@ -1,287 +1,266 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-26T06:50:36.543Z",
-  "cardCount": 40,
-  "aiUpdateCount": 19,
+  "generatedAt": "2026-06-26T18:23:46.358Z",
+  "cardCount": 37,
+  "aiUpdateCount": 17,
   "cards": [
     {
-      "title": "White House Asks OpenAI to Slow GPT 5.6 Release",
-      "body": "OpenAI plans to share its newest model GPT 5.6 with select partners instead of broad public release. The Trump administration reportedly raised safety concerns about the rollout.",
+      "title": "OpenAI Hires Uber India Chief for Market Expansion",
+      "body": "OpenAI has hired a top executive from Uber India to lead its operations in the region. The move signals aggressive expansion of offices, partnerships, and hiring in India, one of OpenAI's biggest markets outside the U.S.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-26",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Launches Jalapeño Custom Inference Chip",
+      "body": "OpenAI unveiled Jalapeño, a custom inference chip built with Broadcom to reduce reliance on Nvidia. The move joins Google, Apple, and SpaceX in the growing trend of major tech companies developing their own AI chips.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-26",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Model Competition Transcends Company Rivalry",
+      "body": "AI capabilities have progressed to the point where they carry real political consequences. Addressing these consequences requires collective action beyond traditional company-to-company competition.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-26",
+      "topic": "AI Update"
+    },
+    {
+      "title": "White House Asks OpenAI to Slow Model Release",
+      "body": "The Trump administration requested OpenAI delay the public release of GPT 5.6 due to safety concerns. OpenAI plans to share the model with select partners instead of broader public release.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
-      "title": "Patronus AI Lands $50M for AI Agent Testing",
-      "body": "The agent-testing startup, founded by former Meta researchers, raised funding to build digital worlds that stress-test AI systems. Investors cite nearly insatiable market demand for the technology.",
+      "title": "Patronus AI Raises $50M for Agent Testing",
+      "body": "Patronus AI, founded by former Meta researchers, secured $50 million to build digital stress-testing environments for AI agents. The startup is experiencing strong demand as AI agent development accelerates.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
-      "title": "Claude Gaining Paid Users Against ChatGPT",
-      "body": "Anthropic's Claude is increasingly winning over consumers willing to pay for AI despite ChatGPT's dominant market position. Data shows a notable shift in paid user preferences.",
+      "title": "Claude Gaining Ground on Paid ChatGPT Users",
+      "body": "Anthropic's Claude is increasingly winning over paid consumers despite ChatGPT's commanding market lead. Data shows a notable shift in consumer preference toward Claude among paying users.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
-      "title": "General Intuition Raises $320M for Game-Trained AI",
-      "body": "The startup is leveraging millions of hours of gameplay footage to train AI agents for real-world applications. The $2.3B valuation bet reflects confidence that action data develops human-like intuition.",
+      "title": "General Intuition Raises $320M for Game-Based AI",
+      "body": "General Intuition secured $320 million to scale AI trained on millions of hours of video game footage. The company believes gaming data can help develop AI with more human-like intuition.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
-      "title": "Databricks Ex-Chief Eyes 1,000x Power Reduction",
-      "body": "Un-0, an image-generation system tool, demonstrates technology that can replicate conventional AI systems with drastically reduced power consumption. The breakthrough suggests significant efficiency gains are possible.",
+      "title": "Databricks Chief Eyes 1000x Power Reduction",
+      "body": "Un-0, an image generation tool from Databricks' former AI chief, demonstrates technology that could slash AI power consumption dramatically. The system replicates conventional AI results with significantly lower energy requirements.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
-      "title": "Netris Raises $15M Series A from a16z",
-      "body": "The startup provides network switch software to accelerate neocloud deployment timelines. The platform helps operators go live faster with infrastructure optimization.",
+      "title": "Netris Secures $15M Series A from a16z",
+      "body": "Netris raised $15 million to accelerate neocloud deployment with network switch software. The platform helps operators reduce time-to-live for AI infrastructure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
       "title": "Adobe Acquires Topaz Labs for Enhancement Tools",
-      "body": "Adobe announced the acquisition of Topaz Labs, known for image and video enhancement capabilities. The tools will be integrated across Adobe's application suite.",
+      "body": "Adobe completed its acquisition of image and video enhancement tool maker Topaz Labs. Adobe plans to integrate Topaz tools across its creative applications.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Invests Fresh $13B in India AI Infrastructure",
-      "body": "Amazon's latest India investment accelerates its AI infrastructure expansion in the region. The commitment reflects broader tech industry competition for AI capability buildout.",
+      "title": "Amazon Invests $13B in India AI Infrastructure",
+      "body": "Amazon announced a fresh $13 billion investment in AI infrastructure across India. The move reflects intense competition among global tech giants expanding AI capabilities in the region.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
-      "title": "Europe Pushes Back on Washington's Chip War",
-      "body": "ASML's CEO highlighted tensions between U.S. export restrictions and European semiconductor interests. The MATCH Act would limit older-generation chip tool sales already a decade old.",
+      "title": "Europe Challenges U.S. Chip Export Restrictions",
+      "body": "European officials are pushing back against Washington's expanding chip trade controls affecting allies. The MATCH Act's restrictions on older chipmaking equipment are creating friction with traditional partners.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
-      "title": "Former Infosys Chief Launches New Startup",
-      "body": "Vishal Sikka's venture, backed by Mayfield and Aramco Ventures, aims to disrupt IT services. The team includes veterans from SAP, Infosys, and VianAI.",
+      "title": "Infosys Alum Launches IT Services Challenger",
+      "body": "Former Infosys Chief Vishal Sikka launched a new startup backed by Mayfield and Aramco Ventures. The venture combines talent from SAP, Infosys, and VianAI to disrupt IT services.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-24",
       "topic": "AI Update"
     },
     {
       "title": "Cerebras Stock Plunges After Earnings Report",
-      "body": "The AI chipmaker's first public earnings forecast narrower gross margins, alarming investors. CEO clarified margin guidance was misunderstood but damage to stock price occurred.",
+      "body": "Cerebras stock fell sharply following its first public earnings report with narrower gross margin forecasts. The AI chipmaker's CEO clarified that profit margin outlook had been misunderstood.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-24",
       "topic": "AI Update"
     },
     {
-      "title": "Engineering Jobs Prove Most Resilient to AI",
-      "body": "SignalFire data shows engineers represent a larger share of new hires despite AI disruption narrative. The data contradicts widespread predictions of job losses in technical roles.",
+      "title": "Engineering Jobs Prove Resilient Against AI",
+      "body": "New data shows engineering roles are among the most resilient job categories despite AI disruption. Engineers actually represent a larger share of new hires than many expected.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-24",
       "topic": "AI Update"
     },
     {
-      "title": "Top AI Researchers Leave Google for Anthropic",
-      "body": "Jonas Adler and Alexander Pritzel joined the exodus from Google to Anthropic. The departures follow earlier moves by Noam Shazeer and John Jumper to rivals.",
+      "title": "Top AI Researchers Exit Google for Anthropic",
+      "body": "Jonas Adler and Alexander Pritzel are among the latest Google AI researchers departing for Anthropic. The departures continue a trend of top talent leaving Google for competitive AI labs.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-24",
       "topic": "AI Update"
     },
     {
-      "title": "Memory Chip Demand Drives Record Profits",
-      "body": "A U.S. memory chip company quadrupled revenue to $41.45 billion year-over-year. Profits surged from $1.88 billion to $28.2 billion amid AI infrastructure buildout.",
+      "title": "Memory Chip Shortage Boosts U.S. Company Revenue",
+      "body": "A major U.S. memory chip manufacturer saw revenue quadruple to $41.45 billion year-over-year. Profits surged from $1.88 billion to $28.2 billion, driven by persistent chip demand.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-24",
       "topic": "AI Update"
     },
     {
-      "title": "Companies Implement AI Budget Token Rationing",
-      "body": "Organizations are restricting employee AI usage to prevent budget exhaustion on small tasks. The tokenmaxxing era is giving way to token conservation practices.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-24",
-      "topic": "AI Update"
+      "title": "OpenAI Hires Uber India Chief for Market Expansion",
+      "body": "OpenAI is expanding its presence in India with a major executive hire from Uber. The move signals the company's commitment to growing offices, partnerships, and hiring in its biggest market outside the U.S.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-26",
+      "topic": "AI"
     },
     {
-      "title": "Facebook Launches AI Companion for Creators",
-      "body": "A new creator app, currently in limited testing, integrates Facebook's AI creator assistant. The tool is designed to support content creators with AI-powered capabilities.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-24",
-      "topic": "AI Update"
+      "title": "Tech Giants Building Custom AI Chips to Challenge Nvidia",
+      "body": "OpenAI, Google, Apple, and SpaceX are developing proprietary AI chips to reduce dependence on Nvidia. OpenAI's Jalapeño inference chip, built with Broadcom, signals a major shift in the semiconductor landscape.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-26",
+      "topic": "AI"
     },
     {
-      "title": "Agility Robotics Plans $2.5B SPAC Public Debut",
-      "body": "The humanoid robotics startup, spun from Oregon State in 2015, will go public via SPAC merger. The deal expects to generate $620 million in proceeds.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Figma Adds Code Layers, Animations, AI Features",
-      "body": "Figma's latest update introduces code layers, motion support, and custom AI-powered plug-ins. The enhancements expand design capabilities for creators and developers.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Unveils Jalapeño Custom Inference Chip",
-      "body": "OpenAI introduced its first custom processor, built by Broadcom and named Jalapeño. The chip was designed specifically for OpenAI's inference system requirements.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Slows GPT 5.6 Release Over Safety Concerns",
-      "body": "OpenAI plans to share its newest model GPT 5.6 with select partners instead of the broader public. The Trump administration reportedly asked the company to slow roll the release due to safety concerns.",
+      "title": "White House Asks OpenAI to Slow Model Release",
+      "body": "The Trump administration requested OpenAI delay releasing GPT 5.6 to a broader public due to safety concerns. The model will instead be shared with a select group of partners.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
       "title": "Patronus AI Raises $50M for AI Agent Testing",
-      "body": "Agent-testing startup Patronus AI, founded by former Meta researchers, has secured $50M in funding. The company creates digital worlds to stress-test AI agents, experiencing high demand from investors.",
+      "body": "Agent-testing startup Patronus AI secured $50 million in funding led by former Meta AI researchers. The company creates digital worlds to stress-test AI agents amid surging demand.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "Claude Gains Ground in Paid AI Consumer Market",
-      "body": "Anthropic's Claude is increasingly winning over paid consumers despite ChatGPT's commanding market lead. Data shows consumers paying for AI are choosing Claude at growing rates.",
+      "title": "Claude Gaining Ground in Paid AI Market",
+      "body": "Anthropic's Claude is increasingly winning over paid consumers despite ChatGPT's commanding market lead. Data shows a growing shift toward Claude among subscribed AI users.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "General Intuition Bets $320M on Video Game AI Training",
-      "body": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay. The company believes action data from video games can help AI develop human-like intuition.",
+      "title": "General Intuition Raises $320M for Game-Trained AI",
+      "body": "The startup raised $320 million to scale AI trained on millions of hours of video game footage. The approach aims to help AI agents develop human-like intuition through gameplay data.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "Databricks Ex-Chief Claims 1,000x Power Reduction",
-      "body": "Un-0, an image-generation system, demonstrates how Databricks' technology can replicate conventional AI systems more efficiently. The tool shows potential for dramatically reducing AI's power consumption.",
+      "title": "Ex-Databricks AI Chief Aims to Cut Power Usage",
+      "body": "Un-0, a new image-generation system, demonstrates technology that could slash AI's power consumption by 1,000x. The breakthrough challenges conventional assumptions about AI computational costs.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "Netris Raises $15M to Accelerate Neocloud Deployment",
-      "body": "Netris secured $15M Series A funding from a16z for its network software platform. The company helps neocloud operators reduce deployment time through software running on network switches.",
+      "title": "Netris Raises $15M Series A for AI Infrastructure",
+      "body": "a16z-backed Netris provides software for network switches that accelerates neocloud deployment. The platform helps operators reduce time-to-live for AI infrastructure.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
       "title": "Adobe Acquires Topaz Labs for AI Enhancement Tools",
-      "body": "Adobe announced its acquisition of Topaz Labs, maker of AI-powered image and video enhancement tools. The tools will be integrated across Adobe's creative applications.",
+      "body": "Adobe announced the acquisition of image and video enhancement tool maker Topaz Labs. The tools will be integrated across Adobe's creative applications.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
       "title": "Amazon Invests $13B More in India AI Infrastructure",
-      "body": "Amazon announced a fresh $13B investment in India's AI infrastructure. The move reflects global tech companies racing to expand AI capabilities in the region.",
+      "body": "Amazon announced a fresh $13 billion investment in AI infrastructure for India. The move reflects the global tech industry's race to expand AI capabilities in the region.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "Top Google AI Researchers Defect to Anthropic",
-      "body": "Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, continuing a trend of departures. Previous high-profile researchers Noam Shazeer and John Jumper also recently left Google.",
+      "title": "AI Was Supposed to Kill Jobs; Engineers Thrive",
+      "body": "New data from SignalFire shows engineers are actually hiring at higher rates despite AI disruption narratives. Engineers represent a growing share of new hires across the tech industry.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-24",
       "topic": "AI"
     },
     {
-      "title": "Cerebras Stock Plunges After Earnings Forecast",
-      "body": "AI chipmaker Cerebras saw its stock plunge following its first earnings report since going public. The company's narrower gross margin forecast for its core business spooked investors.",
+      "title": "Top AI Researchers Leaving Google for Anthropic",
+      "body": "Jonas Adler and Alexander Pritzel are departing Google to join Anthropic, following other notable scientist exits. The trend reflects ongoing talent migration to AI competitors.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-24",
       "topic": "AI"
     },
     {
-      "title": "Engineers Are Most Resilient to AI Job Displacement",
-      "body": "New data shows engineers are actually making up a larger share of new hires, contrary to AI automation fears. Engineers appear to be the most resilient profession despite AI disruption.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-24",
-      "topic": "AI"
-    },
-    {
-      "title": "Companies Ration AI Token Spending After Budget Spikes",
-      "body": "Firms are implementing token rationing as employees maximize AI API spending on small tasks. The tokenmaxxing era has quickly given way to cost control measures.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-24",
-      "topic": "AI"
-    },
-    {
-      "title": "Facebook Launches AI Companion App for Creators",
-      "body": "Facebook is testing a new AI companion app with select creators featuring its recently launched creator assistant. The tool is built directly into the app for easier access.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-24",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI Unveils Jalapeño Chip Built by Broadcom",
-      "body": "OpenAI announced its first custom chip, Jalapeño, designed specifically for inference workloads. The processor was built by Broadcom to meet OpenAI's unique system requirements.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-24",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Rapidly Reshapes Behind-the-Scenes Retail Decisions",
-      "body": "AI is transforming retail not through flashy chatbots but by revolutionizing backend decisions on product placement and inventory. The biggest changes are happening invisibly in how retailers operate.",
+      "title": "AI Reshapes Retail Behind-the-Scenes Operations",
+      "body": "Artificial intelligence is transforming retail decision-making in inventory management and search results. The changes occur mostly invisibly, not through flashy consumer-facing features.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "Stripe and OpenAI Back Respiratory Infection Research",
-      "body": "Stripe, Anthropic, and OpenAI are funding efforts to combat respiratory infections like the common cold. The collaboration aims to develop new prevention methods for widespread illnesses.",
+      "title": "IBM Chip Technology Could Extend Moore's Law",
+      "body": "IBM unveiled a prototype chip with 100 billion transistors at twice previous density levels. The breakthrough could enable faster, more energy-efficient computers for the next decade.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-25",
+      "topic": "AI"
+    },
+    {
+      "title": "Stripe, Anthropic, OpenAI Back Infection Research",
+      "body": "Stripe, Anthropic, and OpenAI are funding efforts to prevent respiratory infections like the common cold. The collaboration aims to develop new prevention strategies for widespread viral infections.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-24",
       "topic": "AI"
     },
     {
       "title": "Web Data Infrastructure Layer Emerging for AI",
-      "body": "Enterprises need data at scale to capitalize on AI, but much relevant information is blocked or unstructured. A new infrastructure layer is emerging to unlock enterprise data for AI models.",
+      "body": "Enterprises need massive data at scale to capitalize on AI potential, but much relevant information remains blocked or unstructured. A new infrastructure layer is addressing data accessibility challenges for AI models.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-24",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Accuses Alibaba of Largest Claude Cloning Attack",
-      "body": "Anthropic says Alibaba has conducted the largest cloning attack against Claude. The company is calling for punishment related to the AI model duplication.",
+      "title": "Notion Shutters Email App as Users Prefer AI",
+      "body": "Notion is discontinuing its Skiff-influenced email app because most users now prefer AI agent alternatives. The shift reflects changing user preferences toward AI-powered productivity tools.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "Notion Kills Email App as Users Adopt AI Agents",
-      "body": "Notion is discontinuing its Skiff-influenced email app due to low user adoption. Most users have shifted to using AI agents instead of the traditional email interface.",
+      "title": "Anthropic Claims Alibaba Cloned Claude Model",
+      "body": "Anthropic accused Alibaba of the largest Claude cloning attack to date. The company is calling for government punishment against the alleged unauthorized model replication.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-06-25",
+      "topic": "AI"
+    },
+    {
+      "title": "IBM Claims World's First Sub-1 Nanometer Tech",
+      "body": "IBM announced breakthrough chip technology achieving sub-1 nanometer specifications. The advancement could represent a major leap forward in semiconductor performance and efficiency.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
       "title": "OpenAI and Broadcom Announce LLM Inference Chip",
-      "body": "OpenAI and Broadcom unveiled a chip specifically designed for large-language model inference at scale. The processor addresses the computational demands of deploying LLMs in production.",
+      "body": "OpenAI and Broadcom jointly unveiled a custom chip designed for large-scale LLM inference. The collaboration represents a significant step toward specialized AI hardware infrastructure.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-24",
-      "topic": "AI"
-    },
-    {
-      "title": "IBM Claims World's First Sub-1 Nanometer Chip",
-      "body": "IBM announced chip technology that could extend Moore's Law another decade with 100 billion transistors in fingernail-sized area. The density doubles previous 2021 state-of-the-art technology.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-25",
       "topic": "AI"
     }
   ]
