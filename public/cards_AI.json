@@ -1,278 +1,278 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-28T06:38:41.439Z",
+  "generatedAt": "2026-06-28T18:06:38.413Z",
   "cardCount": 39,
-  "aiUpdateCount": 14,
+  "aiUpdateCount": 18,
   "cards": [
     {
-      "title": "Apple Vision Pro Exec Joins OpenAI Hardware Team",
-      "body": "Paul Meade, Apple's VP overseeing Vision Pro, is reportedly departing to join OpenAI's hardware division. The move signals OpenAI's accelerated push into physical AI devices.",
+      "title": "Wall Street Eyes Micron as Next Nvidia",
+      "body": "Investors are searching for the next AI chip superstar beyond Nvidia. Micron is emerging as a top candidate in the competitive semiconductor market.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-28",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Skepticism Surrounds Elon's Orbital Data Centers",
+      "body": "SoftBank's CEO joins critics questioning Elon Musk's orbital data center vision. Not everyone believes the hype around space-based AI infrastructure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-27",
       "topic": "AI Update"
     },
     {
-      "title": "Trump Admin Authorizes Anthropic Mythos Use for 100+ Orgs",
-      "body": "Over 100 U.S. companies and government agencies now have authorized access to Mythos 5, including non-American employees. The clearance marks a major policy shift on AI model distribution.",
+      "title": "Apple Vision Pro Executive Joins OpenAI",
+      "body": "Paul Meade, Apple's Vision Pro VP, is departing for OpenAI's hardware team. The move signals OpenAI's continued expansion into physical devices.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-27",
       "topic": "AI Update"
     },
     {
-      "title": "Asian Startups Launch Mythos-Rival Models to Bypass Export Ban",
-      "body": "New AI models launching across Asia promise Mythos-equivalent capabilities without U.S. export restrictions. The trend could permanently shift AI market dominance away from American labs.",
+      "title": "Founder Uses Claude AI to Fight Cancer",
+      "body": "Entrepreneur Connor Christou leveraged Claude to analyze his cancer battle data. He fed blood results, scans, and wearables into the AI system.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-27",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Limits GPT-5.6 Rollout After Government Request",
-      "body": "OpenAI restricted GPT-5.6 distribution following Trump administration pressure, citing concerns about limiting access to critical users. The company warns that government vetting shouldn't become standard practice.",
+      "title": "Asian Startups Launch Mythos Alternatives",
+      "body": "New Asia-based AI models promise Mythos-like capabilities without export restrictions. U.S. AI labs risk losing massive international market share.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-27",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Trump Admin Releases Anthropic Mythos Widely",
+      "body": "Over 100 U.S. companies and agencies gain authorized access to Mythos 5. Authorization includes non-American employees across approved organizations.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-27",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Limits GPT-5.6 After Gov Request",
+      "body": "OpenAI restricted GPT-5.6 rollout following government pressure. The company argues such restrictions shouldn't become standard practice.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-26",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Launches Jalapeño Custom Inference Chip",
-      "body": "OpenAI unveiled Jalapeño, a custom inference chip built with Broadcom to reduce Nvidia dependence. The move joins Google, Apple, and SpaceX in building proprietary AI silicon.",
+      "title": "OpenAI Hires Uber India Chief",
+      "body": "OpenAI recruits Uber India's leader to expand operations in the subcontinent. The hiring signals aggressive market growth outside the U.S.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-26",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Poaches Uber India Chief for Expansion",
-      "body": "OpenAI hired India's former Uber leader to head its largest non-U.S. market. The appointment accelerates the company's office expansion and partnership growth in India.",
+      "title": "Tech Giants Build Custom AI Chips",
+      "body": "OpenAI, Google, Apple, and SpaceX are developing proprietary chips to reduce Nvidia dependence. OpenAI's Jalapeño chip, built with Broadcom, marks the latest challenge.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-26",
       "topic": "AI Update"
     },
     {
-      "title": "White House Requests OpenAI Slow GPT-5.6 Release",
-      "body": "The Trump administration asked OpenAI to limit GPT-5.6 availability to select partners over safety concerns. The restricted rollout marks an unprecedented government intervention in AI model launches.",
+      "title": "AI Competition Has Real Political Stakes",
+      "body": "Advanced AI models now carry significant political consequences. Industry leaders must address these implications through collective action.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-26",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI's Jalapeño Chip Challenges Nvidia",
+      "body": "OpenAI unveiled Jalapeño, a custom inference chip built with Broadcom. The development marks a pivotal shift away from Nvidia's market dominance.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-26",
+      "topic": "AI Update"
+    },
+    {
+      "title": "White House Requests GPT-5.6 Slow Rollout",
+      "body": "The Trump administration asked OpenAI to delay public GPT-5.6 release over safety concerns. OpenAI plans selective partner access instead of broad availability.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
-      "title": "Patronus AI Raises $50M for AI Agent Testing Platform",
-      "body": "The agent-testing startup, founded by ex-Meta researchers, secured $50M amid surging demand for stress-testing AI systems. Patronus creates digital environments to validate AI agent reliability.",
+      "title": "Patronus AI Raises $50M for Agent Testing",
+      "body": "The ex-Meta startup secures funding to build digital worlds for AI stress-testing. Demand for agent evaluation tools is reportedly soaring.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
-      "title": "Claude Gains Ground Against ChatGPT in Paid Market",
-      "body": "Anthropic's Claude is increasingly winning over paying consumers despite ChatGPT's dominant market position. Paid user data shows a notable shift in premium AI adoption patterns.",
+      "title": "Claude Gains Ground on Paid ChatGPT Users",
+      "body": "Anthropic's Claude is increasingly winning paying consumers from ChatGPT. Data shows growing preference for Claude among premium subscribers.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
-      "title": "General Intuition Raises $320M for Game-Trained AI Agents",
-      "body": "The startup raised $320M to scale AI trained on millions of hours of video game footage. The company believes gameplay data can help AI develop human-like intuition.",
+      "title": "General Intuition Raises $320M for Gaming AI",
+      "body": "The startup secured funding to train AI agents on millions of hours of gameplay. Gaming-based learning could develop more human-like AI intuition.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
-      "title": "Databricks Former Chief Promises 1000x Power Reduction",
-      "body": "Un-0, an image-generation tool, demonstrates how Databricks' technology can replicate conventional AI systems with dramatically lower power consumption. The breakthrough could reshape AI infrastructure economics.",
+      "title": "Databricks Cuts AI Power Consumption Dramatically",
+      "body": "Un-0 image-generation tool demonstrates a 1,000x potential power bill reduction. Databricks' former AI chief is leading the efficiency breakthrough.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
-      "title": "Netris Raises $15M Series A for Neocloud Networks",
-      "body": "a16z-backed Netris secured $15M for software that accelerates neocloud operator launches. The platform reduces deployment time via intelligent network switching solutions.",
+      "title": "Netris Raises $15M Series A from a16z",
+      "body": "Netris provides software for network switches powering AI neoclouds. The funding accelerates deployment timelines for neocloud infrastructure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
-      "title": "Adobe Acquires Video Enhancement Firm Topaz Labs",
-      "body": "Adobe announced its acquisition of Topaz Labs, a maker of image and video enhancement tools. The tools will integrate across Adobe's creative applications.",
+      "title": "Adobe Acquires Topaz Labs",
+      "body": "Adobe completed acquisition of image and video enhancement tool maker Topaz Labs. Integration across Adobe apps is planned.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-25",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Invests $13B in India AI Infrastructure Expansion",
-      "body": "Amazon announced fresh $13B investment in Indian AI infrastructure as global tech companies compete for market dominance. The commitment reflects the strategic importance of India's growing AI sector.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-25",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Apple Vision Pro exec joins OpenAI hardware team",
-      "body": "Paul Meade, Apple's VP in charge of Vision Pro, is reportedly leaving to join OpenAI's hardware division. The move signals OpenAI's push into physical AI devices.",
+      "title": "Apple VP joins OpenAI's hardware team",
+      "body": "Paul Meade, Apple Vision Pro's executive, is leaving to join OpenAI's hardware division. The move signals OpenAI's expanding ambitions beyond software into physical devices.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-27",
       "topic": "AI"
     },
     {
-      "title": "Founder uses Claude AI to fight cancer diagnosis",
-      "body": "Connor Christou fed blood results, scan data, and wearables into Claude to help manage his cancer treatment. The AI helped him process and analyze critical health information.",
+      "title": "AI helps founder fight cancer with data",
+      "body": "Connor Christou fed his medical data—blood results, scans, wearables, and journals—into Claude to combat his cancer diagnosis. The AI-assisted approach demonstrates potential medical applications of large language models.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-27",
       "topic": "AI"
     },
     {
-      "title": "Asian startups launch models amid Anthropic export ban",
-      "body": "New AI models launching in Asia promise capabilities comparable to Anthropic's Mythos without export restrictions. U.S. AI labs risk losing the Asian market.",
+      "title": "Asian startups launch models amid export ban",
+      "body": "New AI models with Mythos-like capabilities are launching across Asia as Anthropic faces export restrictions. This could result in significant market losses for U.S. AI labs.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-27",
       "topic": "AI"
     },
     {
-      "title": "Trump administration authorizes Mythos for 100+ companies",
-      "body": "Over 100 U.S. companies and government agencies gain access to Anthropic's Mythos 5 model, including non-American employees. The authorization expands AI adoption in government and enterprise.",
+      "title": "Government expands Anthropic Mythos access widely",
+      "body": "Over 100 U.S. companies and government agencies are now authorized to use Mythos 5, including non-American employees. The expansion reflects government confidence in the model's capabilities.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-27",
       "topic": "AI"
     },
     {
-      "title": "OpenAI limits GPT-5.6 rollout after government request",
-      "body": "OpenAI restricted GPT-5.6 distribution following a government access request, but argues the process shouldn't become standard. The company says restrictions keep best tools from users and defenders.",
+      "title": "OpenAI limits GPT-5.6 rollout after pressure",
+      "body": "OpenAI restricted GPT-5.6 access following a government request, stating such restrictions shouldn't become standard. The company argues that limiting distribution prevents tools from reaching users who need them most.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-26",
       "topic": "AI"
     },
     {
-      "title": "OpenAI hires Uber India chief for expansion",
-      "body": "OpenAI poaches Uber India's leadership to expand its presence in India's major market. The hire marks aggressive investment in offices, partnerships, and local talent.",
+      "title": "OpenAI hires Uber India chief for growth",
+      "body": "OpenAI recruited the Uber India chief to lead operations in its largest market outside the U.S. The hire marks aggressive expansion of offices, partnerships, and hiring in India.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-26",
       "topic": "AI"
     },
     {
-      "title": "Tech giants build custom AI chips to challenge Nvidia",
-      "body": "OpenAI, Google, Apple, and SpaceX are building proprietary AI chips to reduce Nvidia dependence. OpenAI's Jalapeño inference chip, built with Broadcom, signals the shift away from chip market dominance.",
+      "title": "Tech giants build custom chips challenging Nvidia",
+      "body": "OpenAI, Google, Apple, and SpaceX are building proprietary AI chips as alternatives to Nvidia's dominance. OpenAI's Jalapeño chip, built with Broadcom, signals a shift away from total chip market dependence.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-26",
       "topic": "AI"
     },
     {
-      "title": "AI model capabilities now have political consequences",
-      "body": "Advanced AI models like those from Anthropic and OpenAI require collective action to manage real-world political impacts. The competition between AI labs has evolved beyond business rivalry.",
+      "title": "AI capability now has real political stakes",
+      "body": "As AI models grow more powerful, their capabilities create significant political consequences. Addressing these impacts requires collective action beyond individual company competition.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-26",
       "topic": "AI"
     },
     {
-      "title": "OpenAI's Jalapeño chip challenges Nvidia's dominance",
-      "body": "OpenAI's custom Jalapeño inference chip, built with Broadcom, marks Big Tech's biggest move away from Nvidia. The chip market's total dependence on Nvidia is ending.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-26",
-      "topic": "AI"
-    },
-    {
-      "title": "White House asks OpenAI to slow GPT-5.6 release",
-      "body": "OpenAI plans limited GPT-5.6 rollout to select partners at the Trump administration's request over safety concerns. The government intervention sets a precedent for AI model releases.",
+      "title": "White House asks OpenAI to slow rollout",
+      "body": "The Trump administration requested OpenAI slow GPT-5.6 release to a select group due to safety concerns. OpenAI will distribute the model to partners rather than the broader public.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "Patronus AI raises $50M for AI agent testing",
-      "body": "Patronus AI, founded by former Meta AI researchers, landed $50M to build digital worlds for stress-testing AI agents. Investor demand for agent validation tools is nearly insatiable.",
+      "title": "Patronus AI raises $50M for agent testing",
+      "body": "The agent-testing startup, founded by former Meta AI researchers, secured $50M to build digital worlds for stress-testing AI agents. Investor demand for the platform's capabilities is described as \"nearly insatiable.\"",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "Claude gains ground on ChatGPT in paid subscriptions",
-      "body": "Anthropic's Claude is increasingly winning over paid consumers despite ChatGPT's commanding market lead. Data shows a shift in consumer preference toward Claude among subscription users.",
+      "title": "Claude gains ground against ChatGPT",
+      "body": "Anthropic's Claude is increasingly winning over paid consumers despite ChatGPT's commanding market lead. Data shows a notable shift in preferences among paid AI users.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "General Intuition raises $320M for gameplay-trained AI",
-      "body": "General Intuition secured $320M funding to scale AI trained on millions of hours of video game footage. The startup bets that action data from games can develop human-like AI intuition.",
+      "title": "Gaming startup raises $320M for AI training",
+      "body": "General Intuition bet $320M that video game footage can train AI agents for real-world tasks. The company believes action data from gameplay helps AI develop something closer to human intuition.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "Databricks AI chief seeks 1,000x power reduction",
-      "body": "Un-0 is an image-generation tool showing how Databricks' technology can replicate conventional AI systems with dramatic efficiency gains. The breakthrough could cut AI's power consumption dramatically.",
+      "title": "Former Databricks AI chief cuts power usage",
+      "body": "Un-0 is an image-generation tool that reportedly reduces AI power consumption by 1,000x compared to conventional systems. The technology demonstrates how efficiency breakthroughs could reshape AI infrastructure.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "Netris raises $15M to accelerate neocloud launches",
-      "body": "Netris raised $15M Series A from a16z to help AI neoclouds go live faster with network software. The platform reduces deployment time for cloud infrastructure operators.",
+      "title": "Netris raises $15M for AI infrastructure speed",
+      "body": "The a16z-backed startup provides network switch software to help neocloud operators accelerate time-to-live. Netris is addressing critical infrastructure bottlenecks in AI deployment.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "Adobe acquires Topaz Labs for enhancement tools",
-      "body": "Adobe acquired image and video enhancement maker Topaz Labs and plans integration across its creative suite. The acquisition expands Adobe's AI-powered content tools.",
+      "title": "Adobe acquires Topaz Labs for AI tools",
+      "body": "Adobe acquired image and video enhancement maker Topaz Labs to integrate tools across its applications. The acquisition strengthens Adobe's AI capabilities in creative software.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "Amazon invests $13B more in India AI infrastructure",
-      "body": "Amazon doubled down on India with a fresh $13B AI infrastructure investment. The move reflects global tech competition to expand AI capabilities in emerging markets.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-25",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI restrictions reshape AI model access landscape",
-      "body": "Unprecedented government restrictions on OpenAI's GPT-5.6 signal a new era of AI regulation. The limitations highlight growing political consequences of advanced AI capabilities.",
+      "title": "AI reshapes retail behind the scenes",
+      "body": "AI is transforming retail operations—not just through flashy chatbots, but by optimizing product search, inventory decisions, and customer recommendations. The biggest changes happen in systems consumers never see.",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-06-26",
-      "topic": "AI"
-    },
-    {
-      "title": "AI reshapes retail through behind-the-scenes decisions",
-      "body": "Artificial intelligence is transforming retail not through flashy consumer features but through backend decision-making systems. AI controls product surfacing, inventory management, and customer targeting.",
-      "source": "MIT Technology Review",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "IBM chip extends Moore's Law another decade",
-      "body": "IBM built a prototype chip with 100 billion transistors in fingernail-size area, doubling previous density. The breakthrough could enable faster, more energy-efficient AI systems for years.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-25",
-      "topic": "AI"
-    },
-    {
-      "title": "Stripe, Anthropic, OpenAI fund respiratory infection research",
-      "body": "Stripe, Anthropic, and OpenAI are funding research to prevent respiratory infections like the common cold. The collaboration combines AI expertise with biomedical research.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-24",
-      "topic": "AI"
-    },
-    {
-      "title": "Web data infrastructure emerges for AI scaling",
-      "body": "Enterprises need unstructured web data at scale to maximize AI potential, creating demand for new data infrastructure. This layer bridges blocked information and AI model requirements.",
+      "title": "Stripe, Anthropic, OpenAI fight infections",
+      "body": "The companies are backing an effort to prevent respiratory infections like the common cold. Strategic partnerships between AI leaders and health innovators could accelerate medical breakthroughs.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-24",
       "topic": "AI"
     },
     {
-      "title": "NYT sues Microsoft for copyright-infringing AI supercomputer",
-      "body": "The New York Times accused Microsoft of building a copyright-infringing supercomputer to train OpenAI models. The lawsuit highlights ongoing AI training data disputes.",
+      "title": "Web data infrastructure layer emerges for AI",
+      "body": "Enterprises need data at scale for AI, but much information remains blocked or unstructured. A new infrastructure layer is emerging to unlock data for AI models.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-24",
+      "topic": "AI"
+    },
+    {
+      "title": "NYT slams Microsoft for infringing copyright",
+      "body": "The New York Times accused Microsoft of building a copyright-infringing supercomputer for OpenAI. The legal dispute highlights tensions over AI training data and intellectual property.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-26",
       "topic": "AI"
     },
     {
-      "title": "Notion kills email app as users prefer AI agents",
-      "body": "Notion discontinued its Skiff-influenced email app because most users switched to AI agent alternatives. The move reflects changing preferences for AI-powered communication tools.",
+      "title": "Anthropic accuses Alibaba of Claude cloning",
+      "body": "Anthropic claims Alibaba executed the largest Claude cloning attack and demands punishment. The incident underscores security and IP protection challenges in AI competition.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
-      "title": "Anthropic accuses Alibaba of massive Claude cloning",
-      "body": "Anthropic claims Alibaba conducted the largest Claude model cloning attack and demands punishment. The incident represents a major AI security and IP violation.",
+      "title": "Notion shuts email app as AI dominates",
+      "body": "Notion is killing its email app because most users prefer AI agents for communication tasks. The shift reflects changing user preferences as AI assistants become more capable.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-25",
       "topic": "AI"
