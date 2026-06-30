@@ -1,273 +1,329 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-06-29T18:42:21.271Z",
-  "cardCount": 38,
-  "aiUpdateCount": 18,
+  "generatedAt": "2026-06-30T06:34:27.330Z",
+  "cardCount": 46,
+  "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Anthropic Secures California Government Partnership",
-      "body": "Anthropic has forged a deal allowing California government to use Claude at half price, strengthening the company's relationship with the state. The partnership positions Anthropic as a key AI provider for government operations.",
+      "title": "AI Adoption Boosts Entry-Level Hiring, Report Finds",
+      "body": "High-intensity AI adopters increased headcount by 10.2%, with entry-level positions rising 12%. The data counters claims that AI eliminates junior jobs.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Base44 Launches Own AI Model for Defensibility",
+      "body": "Wix-owned coding platform Base44 is rolling out its proprietary AI model. The company aims to eventually outperform frontier models.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Expands Free Gemini Image Generation in US",
+      "body": "Eligible free Gemini users can now create personalized AI images based on interests and connected Google app data. The feature is rolling out across the US.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-29",
       "topic": "AI Update"
     },
     {
-      "title": "South Korea Invests $550B in AI Infrastructure",
-      "body": "South Korean memory chip giants are committing over $550 billion to build new memory lab fabs to address supply constraints. The investment positions South Korea as a major AI tech powerhouse.",
+      "title": "Anthropic Offers Claude to California at Half Price",
+      "body": "Anthropic has struck a deal with California to provide Claude access at 50% discount to state government. The partnership marks deepening ties with the state.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-29",
       "topic": "AI Update"
     },
     {
-      "title": "Arena AI Leaderboard Reaches $100M Valuation",
-      "body": "Arena, the popular free AI leaderboard platform, has grown into a $100 million business after launching commercial services. The platform has become the industry standard for evaluating AI model performance.",
+      "title": "South Korea Commits $550B to Memory Chip Expansion",
+      "body": "The world's two largest memory chip companies are building new fabs to address supply demands. South Korea positions itself as a global AI tech leader.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-29",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Arena AI Leaderboard Valued at $100 Million",
+      "body": "The popular free AI leaderboard platform has reached unicorn status after launching commercial services. The startup launched its paid offering just last September.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-29",
       "topic": "AI Update"
     },
     {
       "title": "Cursor Launches Mobile App for Coding Agents",
-      "body": "Cursor has released a new mobile app enabling remote oversight of coding agents on the go. The tool allows developers to guide AI coding agents from anywhere.",
+      "body": "The coding platform released a new mobile app for remote oversight of coding agents. Users can now guide agents while on the go.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-29",
       "topic": "AI Update"
     },
     {
-      "title": "TIDAL Blocks AI Music Monetization",
-      "body": "TIDAL has implemented a new policy preventing AI-generated music from earning money on its service. The move reflects growing industry concerns about AI-created content.",
+      "title": "TIDAL Cuts Off AI Music Monetization",
+      "body": "The streaming service will remove AI-generated music attempting to impersonate artists or groups. TIDAL is using automated tools to enforce the policy.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-29",
       "topic": "AI Update"
     },
     {
-      "title": "Proception Raises $11M After Tesla Settlement",
-      "body": "Robotics startup Proception settled a Tesla trade secret suit and announced an $11 million funding round. The company specializes in collecting training data for robot hands.",
+      "title": "Proception Settles Tesla Suit, Raises $11M",
+      "body": "The robot hand company settled a trade secret dispute with Tesla and announced new funding. Proception is developing unique approaches to robotic hand training data.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-29",
       "topic": "AI Update"
     },
     {
       "title": "Omen AI Raises $31M for Data Center Optimization",
-      "body": "Omen AI secured $31 million in Series A funding to monitor chip coolant and prevent bacterial outbreaks in data centers. The startup addresses critical infrastructure challenges in AI compute.",
+      "body": "Omen AI secured Series A funding to monitor chip coolant systems in data centers. The startup aims to prevent bacterial outbreaks and improve efficiency.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-29",
       "topic": "AI Update"
     },
     {
-      "title": "Ford Rehires Engineers as AI Falls Short",
-      "body": "Ford has rehired experienced engineers after discovering that AI alone cannot produce high-quality products. The company acknowledged that artificial intelligence requires human expertise to succeed.",
+      "title": "Ford Rehires Engineers After AI Falls Short",
+      "body": "Ford is bringing back experienced engineers as AI implementation failed to meet product quality standards. The automaker acknowledged overreliance on AI for production.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-28",
       "topic": "AI Update"
     },
     {
       "title": "Wall Street Eyes Micron as Next Nvidia",
-      "body": "Wall Street investors believe memory chip maker Micron could become the next major AI beneficiary like Nvidia. The company is positioned to capitalize on growing AI infrastructure demand.",
+      "body": "Investors believe Micron, a US memory maker, could follow Nvidia's success trajectory. Wall Street is searching for more public AI-related investment opportunities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-28",
       "topic": "AI Update"
     },
     {
       "title": "Skepticism Grows Over Orbital Data Centers",
-      "body": "SoftBank's CEO and others question Elon Musk's vision for orbital data centers. Industry leaders remain unconvinced of the feasibility and necessity of space-based compute.",
+      "body": "SoftBank's CEO and others are questioning Elon Musk's vision for orbital data centers. The concept faces significant technical and economic scrutiny.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-27",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Vision Pro Exec Joins OpenAI",
-      "body": "Paul Meade, Apple's Vice President overseeing Vision Pro, is leaving to join OpenAI's hardware team. The move signals OpenAI's expanded focus on hardware development.",
+      "title": "Apple Vision Pro Executive Joins OpenAI",
+      "body": "Paul Meade, Apple VP for Vision Pro, is reportedly joining OpenAI's hardware team. The move signals OpenAI's commitment to building its own devices.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-27",
       "topic": "AI Update"
     },
     {
-      "title": "Founder Uses Claude to Fight Cancer",
-      "body": "A startup founder fed his medical data—blood results, scans, wearables, and journals—into Claude to develop a personalized cancer treatment strategy. The approach demonstrates AI's emerging role in healthcare.",
+      "title": "Founder Uses Claude to Fight Cancer Diagnosis",
+      "body": "Entrepreneur Conno Christou fed medical data and personal records into Claude to develop cancer treatment strategies. The AI helped analyze blood results, scans, and wearable data.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-27",
       "topic": "AI Update"
     },
     {
-      "title": "Asian Startups Launch Models Amid Export Ban",
-      "body": "Asian AI startups are launching new models with Mythos-like capabilities to circumvent Anthropic's export restrictions. The trend could reshape the global AI market dynamics.",
+      "title": "Asian Startups Launch Mythos-Rival Models",
+      "body": "New AI models launching in Asia offer Mythos-like capabilities without US export restrictions. The development could reshape the global AI market landscape.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-27",
       "topic": "AI Update"
     },
     {
-      "title": "Trump Administration Authorizes Mythos 5 Access",
-      "body": "Over 100 U.S. companies and government agencies are authorized to use Anthropic's Mythos 5 model. The approval includes access for non-American employees within these organizations.",
+      "title": "Trump Admin Authorizes Mythos Use by 100+ Entities",
+      "body": "Over 100 US companies and government agencies gained authorization to use Mythos 5. The release includes approval for non-American employees of authorized organizations.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-27",
       "topic": "AI Update"
     },
     {
       "title": "OpenAI Limits GPT-5.6 Rollout After Government Request",
-      "body": "OpenAI restricted GPT-5.6's rollout following a government request, expressing concern that such processes shouldn't become standard. The company argues that government controls limit access for developers and global partners.",
+      "body": "OpenAI delayed GPT-5.6 expansion following a government request, warning restrictions limit tool availability. The company opposes making government access a long-term default process.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-26",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Hires Uber India Chief for Expansion",
-      "body": "OpenAI recruited Uber India's chief to lead its operations in one of its largest markets outside the U.S. The hire marks the company's major push into India with expanded offices and partnerships.",
+      "title": "OpenAI Poaches Uber India Chief for Leadership",
+      "body": "OpenAI hired a former Uber India executive to lead operations in its biggest non-US market. The move marks continued expansion in India with offices and partnerships.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-26",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Unveils Jalapeño Custom Inference Chip",
-      "body": "OpenAI revealed Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in reducing Nvidia dependence. The move signals a major shift in the AI chip landscape.",
+      "title": "Tech Giants Build Custom AI Chips to Challenge Nvidia",
+      "body": "OpenAI, Google, Apple, and SpaceX are developing proprietary AI chips, ending Nvidia's total market dominance. OpenAI's Jalapeño inference chip, built with Broadcom, signals the shift.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-26",
       "topic": "AI Update"
     },
     {
-      "title": "AI Competition Now Has Political Consequences",
-      "body": "AI model capabilities have evolved to the point where they carry real political ramifications. Industry progress requires collective action rather than individual company competition.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-26",
-      "topic": "AI Update"
+      "title": "AI Jobs Boom Contradicts Job-Loss Narrative",
+      "body": "A new report shows high-intensity AI adopters increased headcount by 10.2%, with entry-level hiring rising 12%. This directly counters the rhetoric that AI eliminates junior positions.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-30",
+      "topic": "AI"
     },
     {
-      "title": "Anthropic Strikes California Government AI Deal",
-      "body": "Anthropic has partnered with California to provide Claude AI at half price for state government use. This deal strengthens Anthropic's position against OpenAI rivals.",
+      "title": "Base44 Launches Own AI Model for Defensibility",
+      "body": "Wix-owned vibe coding platform Base44 is rolling out its own AI model to compete with frontier models. The move reflects broader efforts by AI startups to reduce dependence on established providers.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-30",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Expands Free Gemini Image Generation",
+      "body": "Gemini's personalized AI image generation is now free for eligible US users, creating images based on interests and connected Google app data. The expansion makes advanced AI capabilities more accessible to mainstream users.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-29",
       "topic": "AI"
     },
     {
-      "title": "Arena AI Leaderboard Reaches $100M Valuation",
-      "body": "The popular free AI model leaderboard has become a $100M business after launching commercial services in September. Arena helps developers compare and benchmark AI models.",
+      "title": "Anthropic Strikes California Government Deal",
+      "body": "Anthropic negotiated a deal allowing California government to use Claude at 50% discount. The partnership strengthens Anthropic's position as an alternative to OpenAI.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-29",
       "topic": "AI"
     },
     {
-      "title": "Cursor Launches Mobile App for Coding Agents",
-      "body": "Cursor released a new mobile app for remote oversight of AI coding agents on the go. The tool enables developers to guide their coding assistants from anywhere.",
+      "title": "South Korea Commits $550B to AI Infrastructure",
+      "body": "The world's two largest memory chip companies pledge major investment to build more memory fab labs amid a global shortage. South Korea is positioning itself as a critical AI hardware powerhouse.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-29",
       "topic": "AI"
     },
     {
-      "title": "TIDAL Blocks AI-Generated Music Monetization",
-      "body": "TIDAL implemented a new policy preventing AI-generated music from earning revenue on its platform. This move protects human artists from AI music competition.",
+      "title": "Arena AI Leaderboard Hits $100M Valuation",
+      "body": "The popular free AI model leaderboard launched its commercial service last September and has already achieved unicorn-adjacent valuations. Arena became essential infrastructure for tracking AI model performance.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-29",
       "topic": "AI"
     },
     {
-      "title": "Omen AI Secures $31M to Optimize Data Centers",
-      "body": "Omen AI raised Series A funding to monitor chip coolant and prevent bacterial outbreaks in AI data centers. The startup's AI solution tackles critical infrastructure challenges.",
+      "title": "Cursor Launches Mobile Coding Agent App",
+      "body": "Cursor released a mobile app enabling remote oversight of coding agents on the go. The tool extends AI-assisted development beyond desktop environments.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-29",
       "topic": "AI"
     },
     {
-      "title": "Ford Rehires Engineers After AI Shortcomings",
-      "body": "Ford admitted that relying solely on AI proved insufficient for producing high-quality vehicles. The company rehired experienced engineers to work alongside AI systems.",
+      "title": "TIDAL Removes AI-Generated Music Impersonators",
+      "body": "The streaming platform will cut monetization and use automated tools to remove AI-generated music attempting to impersonate artists. TIDAL joins other platforms addressing AI music authenticity concerns.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-29",
+      "topic": "AI"
+    },
+    {
+      "title": "Robotics Startup Settles Tesla Trade Secret Suit",
+      "body": "Proception announced an $11M raise after settling a Tesla lawsuit, taking a unique approach to collecting robot hand training data. The company tackles one of robotics' hardest problems: dexterous manipulation.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-29",
+      "topic": "AI"
+    },
+    {
+      "title": "Omen AI Raises $31M for Data Center Optimization",
+      "body": "The startup uses AI to monitor chip coolant and prevent bacterial outbreaks in data centers. Omen's Series A reflects growing focus on AI infrastructure reliability.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-29",
+      "topic": "AI"
+    },
+    {
+      "title": "Ford Rehires Human Engineers After AI Fails",
+      "body": "Ford admitted that relying solely on AI for product development produced subpar results and is bringing back experienced engineers. The automaker acknowledged AI's limitations in manufacturing quality.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-28",
       "topic": "AI"
     },
     {
-      "title": "Apple Vision Pro Exec Joins OpenAI Hardware Team",
-      "body": "Paul Meade, Apple's VP of Vision Pro, is leaving to join OpenAI's hardware division. The move signals OpenAI's expanding focus on AI hardware development.",
+      "title": "Wall Street Eyes Micron as Next AI Chip Winner",
+      "body": "Investors seeking the next Nvidia-like winner are focusing on memory maker Micron as AI infrastructure demand surges. Micron's success hinges on sustained AI adoption growth.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-28",
+      "topic": "AI"
+    },
+    {
+      "title": "Skepticism Grows Over Orbital AI Data Centers",
+      "body": "SoftBank's CEO and others question Elon Musk's vision for orbital data centers. The hype around space-based AI infrastructure faces increasing industry scrutiny.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-27",
       "topic": "AI"
     },
     {
-      "title": "Founder Uses Claude AI to Fight Cancer",
-      "body": "Conno Christou leveraged Claude to analyze his medical data, scan results, and wearable outputs in his cancer battle. The AI helped synthesize complex health information into actionable insights.",
+      "title": "Apple Vision Pro VP Joins OpenAI Hardware Team",
+      "body": "Paul Meade, Apple's VP overseeing Vision Pro headset, is leaving to join OpenAI's hardware division. The move signals intensifying competition between tech giants in AI hardware.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-27",
       "topic": "AI"
     },
     {
-      "title": "Asian AI Startups Launch Mythos Alternatives",
-      "body": "New AI models are launching across Asia with Mythos-like capabilities to bypass Anthropic's export restrictions. This shift threatens U.S. AI labs' dominance in Asian markets.",
+      "title": "Founder Uses Claude AI to Battle Cancer",
+      "body": "Entrepreneur Conno Christou fed blood results, scans, wearables data and journal entries into Claude to optimize his cancer-fighting regime. The case demonstrates Claude's potential in personalized health applications.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-27",
       "topic": "AI"
     },
     {
-      "title": "Trump Administration Authorizes Mythos 5 Usage",
-      "body": "Over 100 U.S. companies and government agencies gained authorization to use Anthropic's Mythos 5 model. The approval includes non-American employees of authorized organizations.",
+      "title": "Asian Startups Launch Mythos Alternatives Amid Ban",
+      "body": "New models launching in Asia promise Mythos-like capabilities without export ban risks as Anthropic faces US restrictions. The move signals potential Western AI labs could lose massive Asian markets.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-27",
+      "topic": "AI"
+    },
+    {
+      "title": "Trump Admin Authorizes Mythos for 100+ Companies",
+      "body": "Over 100 US companies and government agencies gained authorization to use Mythos 5, including non-American employees. The expanded access reflects government confidence in the model.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-27",
       "topic": "AI"
     },
     {
       "title": "OpenAI Limits GPT-5.6 Rollout After Government Request",
-      "body": "OpenAI restricted GPT-5.6's release following government restrictions, criticizing mandatory access processes. The company warned such requirements limit tools for developers and cyber defenders.",
+      "body": "OpenAI restricted GPT-5.6's rollout citing government restrictions but stated this shouldn't become standard practice. The company argues limiting access hurts developers, enterprises, and cyber defenders.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-26",
       "topic": "AI"
     },
     {
       "title": "OpenAI Hires Uber India Chief for Expansion",
-      "body": "OpenAI recruited Uber India's chief to lead operations in its largest market outside the U.S. The hire accelerates OpenAI's expansion in India through offices and partnerships.",
+      "body": "OpenAI poached a top Uber executive to lead operations in its biggest market outside the US. The hire reflects aggressive expansion plans for India's AI market.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-26",
       "topic": "AI"
     },
     {
       "title": "Tech Giants Build Custom AI Chips vs Nvidia",
-      "body": "OpenAI, Google, Apple, and SpaceX are developing proprietary AI chips to reduce Nvidia dependence. OpenAI's custom Jalapeño inference chip signals a shift away from total GPU reliance.",
+      "body": "OpenAI, Google, Apple, and SpaceX are building proprietary chips as Nvidia's AI chip dominance faces growing challenges. OpenAI's Jalapeño inference chip marks major shift toward supply chain independence.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-26",
       "topic": "AI"
     },
     {
-      "title": "OpenAI's Jalapeño Chip Challenges Nvidia Dominance",
-      "body": "OpenAI unveiled Jalapeño, a custom inference chip built with Broadcom to reduce Nvidia dependency. The move reflects growing tech industry efforts to establish AI chip alternatives.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-26",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Models Now Have Real Political Consequences",
-      "body": "As AI capabilities mature, their political impact demands collective action beyond individual company concerns. The Anthropic vs. OpenAI narrative has evolved into broader governance questions.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-26",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Agents Aren't Your Coworkers, Expert Warns",
-      "body": "MIT Technology Review cautions against treating AI agents as actual workplace colleagues despite company marketing. The distinction matters for understanding AI's actual role in enterprises.",
+      "title": "AI Agents Are Not Your Coworkers",
+      "body": "Despite marketing as \"coworkers,\" AI agents lack human qualities companies attribute to them. The framing obscures both capabilities and limitations of agentic AI tools.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-29",
       "topic": "AI"
     },
     {
       "title": "Enterprise AI Investment Hits Inflection Point",
-      "body": "Gartner identifies 2026 as an inflection year for organizations to align AI projects with business goals. Companies increasingly pressure AI systems to prove measurable financial returns.",
+      "body": "Gartner calls 2026 an \"inflection year\" for aligning AI projects with business strategy as ROI pressure mounts. Agentic AI is emerging as key tool for delivering measurable financial outcomes.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-29",
       "topic": "AI"
     },
     {
-      "title": "AI Reshapes Retail Behind the Scenes",
-      "body": "Artificial intelligence is transforming retail decision-making in search algorithms, inventory management, and pricing rather than flashy consumer-facing features. These backend AI applications have broader impact than visible chatbots.",
+      "title": "Metrics Obscure as Much as They Reveal",
+      "body": "Metrics reveal useful insights but often corrupt or obscure critical information through their limitations. Understanding what metrics can't measure is essential for sound decision-making.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-29",
+      "topic": "AI"
+    },
+    {
+      "title": "Unprecedented OpenAI Restrictions Announced",
+      "body": "Government restrictions on OpenAI deployments represent unprecedented constraints on AI development. The limitations raise questions about regulatory approaches to frontier AI models.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-26",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Transforming Retail Behind the Scenes",
+      "body": "AI is reshaping retail through backend decisions on product search, inventory, and recommendations rather than flashy customer-facing features. The transformation is invisible but fundamental to how shopping works.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-25",
       "topic": "AI"
     },
     {
       "title": "IBM Chip Technology Extends Moore's Law",
-      "body": "IBM unveiled a prototype chip with 100 billion transistors at unprecedented density, doubling previous records. The breakthrough could power faster, more efficient AI systems for years.",
+      "body": "IBM unveiled a 100 billion transistor prototype with twice the density of its 2021 design, potentially extending Moore's Law another decade. The breakthrough enables faster, more energy-efficient computing for AI applications.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-25",
-      "topic": "AI"
-    },
-    {
-      "title": "NYT Sues Microsoft Over OpenAI Supercomputer",
-      "body": "The New York Times accused Microsoft of building a copyright-infringing supercomputer for OpenAI. The legal challenge targets the infrastructure supporting large language model training.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-26",
       "topic": "AI"
     }
   ]
