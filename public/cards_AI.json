@@ -1,301 +1,322 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-07-01T06:30:09.639Z",
-  "cardCount": 42,
+  "generatedAt": "2026-07-01T18:28:19.013Z",
+  "cardCount": 45,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Father of Internet Vinton Cerf Retires from Google",
-      "body": "Vinton Cerf, co-creator of internet protocols, is stepping down as Google's chief internet evangelist. His departure marks the end of an era for one of the internet's founding figures.",
+      "title": "Cloudflare Pushes AI Companies to Pay Publishers",
+      "body": "Cloudflare is requiring AI companies to separate web crawlers for search from those used for AI training by September 15, or face being blocked on publisher sites. The policy aims to ensure AI firms compensate content creators.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-01",
       "topic": "AI Update"
     },
     {
-      "title": "Trump Administration Lifts Anthropic Model Restrictions",
-      "body": "The Trump administration dropped restrictions on Anthropic's Mythos and Fable models. The move reflects ongoing policy uncertainty around AI regulation and governance.",
+      "title": "Venice AI Becomes Unicorn with $65M Series A",
+      "body": "Privacy-focused Venice AI raised $65M in Series A funding while already profitable with over $70M annualized run-rate revenue. The milestone underscores growing demand for privacy-preserving AI platforms.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-01",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google's Gemini Spark Now Available on Mac",
+      "body": "Google expanded its agentic Gemini Spark assistant to Mac with real-time tracking and broader app support. The move strengthens Google's competitive position in AI assistants across devices.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-01",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta Develops AI Compute Cloud Business",
+      "body": "Meta is building plans to sell AI compute power and models as a cloud infrastructure service. The venture directly competes with AWS, Google Cloud, and Microsoft Azure.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-01",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Trump Administration Drops Anthropic Model Restrictions",
+      "body": "The Trump administration lifted restrictions on Anthropic's Mythos and Fable models, reflecting inconsistent AI policy. The move highlights ongoing uncertainty in federal AI governance.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-01",
       "topic": "AI Update"
     },
     {
       "title": "Wayve Launches $85M Employee Tender Offer",
-      "body": "Autonomous vehicle startup Wayve announced an $85M employee tender offer at $8.5B valuation. The move reflects a growing trend of AI startups using tenders for talent retention.",
+      "body": "Autonomous vehicle AI company Wayve announced an $85M employee tender offer at $8.5B valuation. The move follows industry trend of AI startups using tenders for talent retention.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-01",
       "topic": "AI Update"
     },
     {
-      "title": "OpenClaw Arrives on Android and iOS",
-      "body": "The free, open-source agentic program OpenClaw is now available on mobile platforms. The launch extends AI agent capabilities directly to smartphones.",
+      "title": "OpenClaw Launches on Android and iOS",
+      "body": "Free open-source agentic program OpenClaw is now available on mobile devices. The expansion brings advanced AI agents to smartphone users.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-30",
       "topic": "AI Update"
     },
     {
-      "title": "Ex-DeepMind Researchers Launch $500M EquiLibre",
-      "body": "Three former DeepMind researchers founded EquiLibre Technologies, now valued at $500M+. The Prague-based lab applies poker AI expertise to quantitative hedge fund trading.",
+      "title": "Ex-DeepMind Researchers Found $500M AI Lab",
+      "body": "Three former DeepMind researchers founded EquiLibre Technologies, valued at $500M+ while serving quant hedge funds. The Prague-based lab applies game theory AI expertise to financial applications.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-30",
       "topic": "AI Update"
     },
     {
-      "title": "Google Launches Nano Banana 2 Lite Image Generator",
-      "body": "Google released an updated, faster, and cheaper image generator for creators. The new Nano Banana 2 Lite improves accessibility for AI content production.",
+      "title": "Google Releases Nano Banana 2 Lite Image Generator",
+      "body": "Google launched faster and cheaper image generator Nano Banana 2 Lite for creators. The update improves accessibility for AI-generated content production.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-30",
       "topic": "AI Update"
     },
     {
-      "title": "Etched Hits $5B Valuation, $1B in Contracts",
-      "body": "AI chip competitor Etched reached $5B valuation with $1B in booked contracts. The startup positions itself as a viable alternative to Nvidia for inference systems.",
+      "title": "Nvidia Competitor Etched Hits $5B Valuation",
+      "body": "AI chip startup Etched reached $5B valuation with $1B in booked contracts for inference systems. The breakthrough challenges Nvidia's dominance in specialized AI hardware.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-30",
       "topic": "AI Update"
     },
     {
       "title": "Anthropic Launches Claude Sonnet 5 Model",
-      "body": "Claude Sonnet 5 delivers stronger agentic capabilities at lower pricing than Opus and Gemini Pro. The model emphasizes improved safety and cost-effectiveness for agent deployment.",
+      "body": "Claude Sonnet 5 delivers stronger agentic capabilities and lower pricing than previous models. Anthropic positions it as cost-effective alternative to Opus, GPT-5.5, and Gemini Pro.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-30",
       "topic": "AI Update"
     },
     {
-      "title": "Acti Embeds AI Agents in Smartphone Keyboards",
-      "body": "Startup Acti launched an AI-powered keyboard for iOS and Android with cross-app functionality. Users can create custom AI shortcuts using natural language inputs.",
+      "title": "Acti Brings AI Agents to Smartphone Keyboards",
+      "body": "Startup Acti embedded AI assistants directly into iOS and Android keyboards for cross-app functionality. Users can create custom AI shortcuts using natural language.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-30",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Releases Claude Science Workbench",
-      "body": "Claude Science provides scientists with a unified environment for computational research. The workbench eliminates the need to juggle multiple databases, pipelines, and tools.",
+      "title": "Anthropic Launches Claude Science Research Workbench",
+      "body": "Claude Science provides scientists unified environment for computational research without switching between tools. The workbench integrates databases, pipelines, and analysis in one platform.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-30",
       "topic": "AI Update"
     },
     {
       "title": "X Launches MCP Server for AI Developers",
-      "body": "X released a hosted MCP server to streamline AI application integration with its API. The move simplifies developer access to the platform's data and features.",
+      "body": "X released hosted MCP server enabling developers to integrate AI applications with platform APIs. The move simplifies AI tool connectivity to X's ecosystem.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Riverside Adds AI Newsletter Publishing Feature",
+      "body": "Podcast platform Riverside entered newsletter publishing by enabling AI-generated newsletters from recordings. The expansion broadens creator monetization and distribution options.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Amazon Launches $1B Frontier Deployment Organization",
+      "body": "Amazon created new $1B FDE org to embed engineers in companies for purpose-built AI agent deployments. The initiative matches OpenAI and Anthropic's enterprise strategies.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Proton Upgrades Lumo 2.0 Privacy AI Chatbot",
+      "body": "Proton's Lumo 2.0 privacy-focused chatbot launches this week with expanded capabilities. The upgrade strengthens Proton's position in privacy-respecting AI tools.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OKX Builds Marketplace for AI Agent Employment",
+      "body": "Crypto exchange OKX is creating marketplace combining payments, identity, and reputation for AI agents. The platform enables agents to autonomously hire and pay each other.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Vinton Cerf Retires as Google Internet Evangelist",
+      "body": "Internet co-creator Vinton Cerf steps down as Google's chief internet evangelist next week. His departure marks end of era for one of computing's founding figures.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-01",
       "topic": "AI Update"
     },
     {
-      "title": "Riverside Podcasting Platform Enters Newsletter Publishing",
-      "body": "Riverside now allows users to generate AI-powered newsletters from podcast recordings. The expansion combines audio and written content creation in one platform.",
+      "title": "TechCrunch Disrupt 2026 Builders Stage Returns",
+      "body": "TechCrunch Disrupt 2026 announces Builders Stage bringing 10,000+ founders, operators, and investors together. Early registration offers up to $330 savings on tickets.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30",
+      "publishedAt": "2026-07-01",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Launches $1B Frontier Deployment Engineering Organization",
-      "body": "Amazon created a new $1B FDE org to embed engineers within customer companies for agent deployment. The initiative mirrors OpenAI and Anthropic's enterprise strategies.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Proton Releases Lumo 2.0 Privacy-Focused AI Chatbot",
-      "body": "Proton's privacy-focused chatbot Lumo 2.0 launches this week with expanded capabilities. The upgrade maintains Proton's commitment to user privacy in AI interactions.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OKX Exchange Launches AI Agent Marketplace",
-      "body": "OKX developed a marketplace where AI agents can hire and pay each other. The platform combines payments, identity, and reputation systems for autonomous transactions.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30",
-      "topic": "AI Update"
-    },
-    {
-      "title": "High-Intensity AI Adopters Increase Headcount 10.2%",
-      "body": "New research shows companies heavily adopting AI grew headcount by 10.2%, including 12% entry-level growth. The findings challenge claims that AI eliminates junior-level positions.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Base44 Launches Own AI Model for Defensibility",
-      "body": "Wix-owned vibe-coding platform Base44 rolled out its proprietary AI model. The move reflects startup efforts to build defensibility beyond frontier model reliance.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Expands Free Gemini Personalized Image Generation",
-      "body": "Gemini's personalized AI image generation now available free to eligible US users. The feature creates images based on user interests and connected Google app data.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-29",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic and California Forge Claude Discount Deal",
-      "body": "Anthropic negotiated a deal allowing California state government to use Claude at 50% discount. The partnership strengthens Anthropic's position while creating federal-state friction.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-29",
-      "topic": "AI Update"
-    },
-    {
-      "title": "South Korea Commits $550B to Memory Chip Infrastructure",
-      "body": "South Korea's two largest memory chip makers pledged $550B+ to build new fabs. The investment addresses AI infrastructure demands and positions Korea as a tech powerhouse.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-29",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Trump drops restrictions on Anthropic's models",
-      "body": "The Trump administration has removed restrictions on Anthropic's Mythos and Fable model releases. This creates uncertainty across the AI industry about future regulatory guidance.",
+      "title": "Cloudflare Pushes AI Companies to Pay for Content",
+      "body": "Cloudflare is requiring AI companies to separate web crawlers used for search from those used for AI training by September 15, or face being blocked on publisher sites. This policy aims to ensure AI firms compensate publishers for content used in model training.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-01",
       "topic": "AI"
     },
     {
-      "title": "OpenClaw launches on Android and iOS",
-      "body": "The free open-source agentic program is now available on mobile platforms. It brings AI agent capabilities directly to smartphone users.",
+      "title": "Venice AI Reaches Unicorn Status with $65M Series A",
+      "body": "Privacy-first AI platform Venice AI has secured $65M in Series A funding while already achieving profitability with over $70M annualized revenue. The startup's rapid growth demonstrates strong market demand for privacy-conscious AI solutions.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01",
+      "topic": "AI"
+    },
+    {
+      "title": "Google's Gemini Spark Agent Now Available on Mac",
+      "body": "Google expanded its 24/7 agentic assistant Gemini Spark to Mac, adding real-time tracking and support for more applications. The move strengthens Google's agentic AI offerings across desktop platforms.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01",
+      "topic": "AI"
+    },
+    {
+      "title": "Meta Plans Cloud Business Selling AI Compute",
+      "body": "Meta is developing a cloud infrastructure business to sell access to AI compute power and models, directly competing with AWS, Google Cloud, and Microsoft Azure. The strategy mirrors SpaceX's approach of monetizing excess infrastructure capacity.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01",
+      "topic": "AI"
+    },
+    {
+      "title": "Trump Administration Lifts Anthropic Model Restrictions",
+      "body": "The Trump administration dropped restrictions on Anthropic's Mythos and Fable AI models, reflecting its unpredictable approach to AI policy. The erratic decisions leave companies uncertain about future regulatory requirements.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01",
+      "topic": "AI"
+    },
+    {
+      "title": "Wayve Launches $85M Employee Tender at $8.5B",
+      "body": "Autonomous driving AI company Wayve offered employees a tender at an $8.5B valuation, reflecting the growing trend of AI startups using this tool for talent retention. The move signals strong confidence in the company's valuation and future growth.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenClaw Open Source Agent Reaches Mobile Platforms",
+      "body": "The free open-source agentic program OpenClaw is now available on Android and iOS. The expansion brings AI agent capabilities directly to smartphone users.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "DeepMind trio builds $500M quant AI lab",
-      "body": "Three ex-DeepMind researchers founded EquiLibre Technologies, now valued at over $500 million. The Prague-based lab applies AI to quantitative hedge fund trading.",
+      "title": "Ex-DeepMind Poker AI Trio Builds $500M Quant Firm",
+      "body": "Three former DeepMind researchers founded EquiLibre Technologies, now valued at over $500M, applying AI poker expertise to quantitative hedge fund trading. The venture demonstrates successful commercialization of specialized AI research.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "Google launches Nano Banana 2 Lite image generator",
-      "body": "Google's new image generator is faster and cheaper than previous versions. It's designed to make AI content creation more accessible to creators.",
+      "title": "Google Launches Nano Banana 2 Lite Image Generator",
+      "body": "Google updated its image generator with Nano Banana 2 Lite, offering faster speeds and lower costs for creators. The improved efficiency makes AI content generation more accessible to broader audiences.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "Nvidia competitor Etched hits $5B valuation",
-      "body": "Etched, an AI chip maker competing with Nvidia, reached a $5 billion valuation with $1 billion in booked contracts. The inference-focused chip represents growing competition in AI hardware.",
+      "title": "Nvidia Rival Etched Hits $5B Valuation, $1B Sales",
+      "body": "AI chip competitor Etched reached a $5B valuation with $1B in contracted sales for its inference systems. The achievement signals strong market demand for Nvidia alternatives in AI hardware.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "Anthropic launches Claude Sonnet 5",
-      "body": "Claude Sonnet 5 offers stronger agentic capabilities at lower pricing than Opus and Gemini Pro. The model emphasizes improved safety features for autonomous AI agents.",
+      "title": "Anthropic Launches Claude Sonnet 5 for Agents",
+      "body": "Anthropic released Claude Sonnet 5, offering stronger agentic capabilities with improved safety and lower pricing than Opus and GPT-5.5. The model targets cost-conscious enterprises deploying AI agents.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "Acti brings AI agents to smartphone keyboards",
-      "body": "Acti's new iOS and Android keyboard integrates AI assistants directly into the typing experience. Users can create custom AI-powered shortcuts using natural language commands.",
+      "title": "Acti Integrates AI Agents into Smartphone Keyboard",
+      "body": "Acti launched an AI-powered keyboard for iOS and Android that works across apps and lets users create custom AI shortcuts using natural language. The startup positions the smartphone keyboard as the next frontier for AI assistants.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "Anthropic launches Claude Science research workbench",
-      "body": "Claude Science provides scientists with an integrated environment for computational research. The tool eliminates bouncing between databases, pipelines, and separate applications.",
+      "title": "Anthropic Launches Claude Science for Researchers",
+      "body": "Anthropic introduced Claude Science, a workbench designed to streamline computational research by consolidating databases, pipelines, and tools into one environment. The product mirrors Claude Code's success in supporting scientific workflows.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "X launches MCP server for AI developers",
-      "body": "X has released a hosted MCP server to simplify AI tool integration with its API. The move makes it easier for developers to build AI applications on the platform.",
+      "title": "X Launches MCP Server for AI Integration",
+      "body": "X released a hosted Model Context Protocol server, making it easier for developers to connect AI applications with the platform's API. The move democratizes AI access to X's data and features.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "Amazon launches $1B AI agents organization",
-      "body": "Amazon's new Frontier Development Establishment focuses on deploying purpose-built AI agents for customers. Engineers will embed within companies to ensure fast deployments and customer self-sufficiency.",
+      "title": "Riverside Enters Newsletter Publishing with AI",
+      "body": "Podcasting platform Riverside is expanding into newsletter publishing, allowing users to create newsletters from their recordings using AI. The feature adds value for creators managing multiple content formats.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "Proton launches Lumo 2.0 privacy chatbot",
-      "body": "Lumo 2.0 expands Proton's privacy-focused AI chatbot capabilities. The upgrade provides users with broader functionality while maintaining privacy protections.",
+      "title": "Amazon Launches $1B FDE Organization for AI",
+      "body": "Amazon created a new $1B Front-Door Experience organization to embed engineers within companies for deploying purpose-built AI agents. The move mirrors OpenAI and Anthropic's enterprise deployment strategies.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "OKX brings AI agent hiring marketplace",
-      "body": "OKX is combining payments, identity, and reputation systems for AI agents to hire and pay each other. The marketplace enables autonomous AI economic transactions.",
+      "title": "Proton's Lumo 2.0 Privacy AI Chatbot Upgrades",
+      "body": "Proton released Lumo 2.0, its privacy-focused AI chatbot, with expanded capabilities and functionality. The upgrade strengthens Proton's commitment to privacy-first AI tools.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "AI adoption increases entry-level job growth",
-      "body": "A new report finds companies with high-intensity AI adoption saw overall headcount increase 10.2%. Entry-level positions actually grew by 12% in these organizations, countering job-loss narratives.",
+      "title": "OKX Builds AI Agent Hiring and Payment Marketplace",
+      "body": "Crypto exchange OKX is creating a marketplace combining payments, identity, and reputation for AI agents to hire and pay each other. The platform explores autonomous economic systems powered by AI.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "Base44 launches proprietary AI model",
-      "body": "Wix-owned vibe-coding platform Base44 is rolling out its own AI model to improve defensibility. The startup aims to eventually outperform frontier models like GPT and Claude.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30",
+      "title": "Startup Works to Break LLM Groupthink Patterns",
+      "body": "A new startup is tackling groupthink in LLMs, where models like Claude and ChatGPT produce predictable outputs to identical prompts. The company aims to improve AI diversity and randomness in model responses.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-01",
       "topic": "AI"
     },
     {
-      "title": "Gemini personalized image generation goes free",
-      "body": "Google is expanding personalized AI image generation to eligible free Gemini users in the U.S. The feature creates images based on your interests and connected Google app data.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-29",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic and California partner on Claude pricing",
-      "body": "Anthropic has forged a deal allowing California government to use Claude at 50% discount. The partnership positions Anthropic closer to state institutions while federal relations remain strained.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-29",
-      "topic": "AI"
-    },
-    {
-      "title": "Claude Science supports scientific research workflows",
-      "body": "Anthropic announced Claude Science as a flagship product for researchers and pharmaceutical executives. The tool autonomously supports scientific research similarly to how Claude Code supports software engineering.",
+      "title": "Claude Science: Anthropic's Research Flagship Product",
+      "body": "Anthropic announced Claude Science as its newest flagship product, designed to support scientific research similarly to how Claude Code aids software engineering. The tool enables autonomous research capabilities across pharmaceutical and biotech sectors.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "AI agents are not true coworkers",
-      "body": "MIT Technology Review examines how companies market AI tools as 'coworkers' despite fundamental differences. The framing obscures what these systems actually are and their real capabilities.",
+      "title": "AI Agents Are Not Your 'Coworkers'",
+      "body": "Researchers caution against framing AI agents as workplace 'coworkers,' highlighting important distinctions in accountability and capability. The terminology debate reflects broader concerns about AI's actual role in enterprise environments.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-29",
       "topic": "AI"
     },
     {
-      "title": "Enterprise AI investment reaches inflection point",
-      "body": "Gartner declares 2026 an 'inflection year' for aligning AI projects with business objectives. Executives increasingly turn to agentic AI to drive measurable financial returns.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-29",
-      "topic": "AI"
-    },
-    {
-      "title": "Agriculture needs AI-ready data infrastructure",
-      "body": "AI is transforming agriculture with promising use cases for volatile fertilizer costs and weather challenges. Industry leaders must first establish proper data groundwork before investing in AI solutions.",
+      "title": "Agriculture Needs Better Data Infrastructure for AI",
+      "body": "While AI shows promise in agriculture for managing fertilizer costs and weather volatility, the industry lacks adequate data infrastructure for effective implementation. Industry leaders should prioritize data foundation work before major AI investments.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "Google's Nano Banana 2 Lite improves speed",
-      "body": "Google's latest image model iteration prioritizes speed and cost reduction over previous versions. The advancement makes AI image generation more practical for commercial applications.",
+      "title": "Major Tech Companies Converge in Secret R&D Hub",
+      "body": "Apple, Anthropic, Disney, Google, Meta, Microsoft, NVIDIA, and OpenAI all operate R&D hubs in a single city of just 400,000 people. The concentrated tech ecosystem rivals Silicon Valley's influence on AI research.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-30",
+      "topic": "AI"
+    },
+    {
+      "title": "Enterprise AI Investment Hits Inflection Point in 2026",
+      "body": "Gartner identifies 2026 as an 'inflection year' for organizations to align AI projects with strategic business objectives. Enterprise pressure to prove AI ROI is driving momentum in agentic AI adoption.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-29",
+      "topic": "AI"
+    },
+    {
+      "title": "Google's Nano Banana 2 Lite Image Model Launches",
+      "body": "Google released Nano Banana 2 Lite, its fastest and most cost-effective image generation model to date. The efficiency improvements expand AI content creation access to resource-constrained users.",
       "source": "Ars Technica",
       "publishedAt": "2026-06-30",
-      "topic": "AI"
-    },
-    {
-      "title": "South Korea invests $550B in AI chip infrastructure",
-      "body": "South Korea's largest memory chip makers are committing over $550 billion to expand production capacity. The investment positions the nation as a global AI tech powerhouse.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-29",
       "topic": "AI"
     }
   ]
