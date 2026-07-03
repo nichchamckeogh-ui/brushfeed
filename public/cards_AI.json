@@ -1,294 +1,266 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-07-02T18:18:04.060Z",
-  "cardCount": 41,
-  "aiUpdateCount": 17,
+  "generatedAt": "2026-07-03T06:51:58.570Z",
+  "cardCount": 37,
+  "aiUpdateCount": 16,
   "cards": [
     {
-      "title": "OpenAI Proposes 5% Equity Donation to US Wealth Fund",
-      "body": "CEO Sam Altman has proposed giving 5% of OpenAI's equity to a U.S. sovereign wealth fund, reviving discussions about public participation in AI boom gains.",
+      "title": "Zuckerberg: AI Progress Slower Than Expected",
+      "body": "Meta's CEO told staff that AI development efforts aren't advancing as quickly as anticipated. The comments reflect broader challenges in the AI industry's progress timeline.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-02",
       "topic": "AI Update"
     },
     {
-      "title": "Microsoft Launches AI Deployment Company with $2.5B",
-      "body": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group and $2.5 billion commitment.",
+      "title": "Meta Launches Pocket AI Gaming App",
+      "body": "Meta quietly released Pocket, an experimental app enabling users to generate and share interactive mini-games via text prompts. The launch represents Meta's continued push into AI-driven creative tools.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-02",
       "topic": "AI Update"
     },
     {
-      "title": "Indian Tech Tycoon Builds AI Microsoft Office Alternative",
-      "body": "Bhavin Turakhia is investing $30M of his own money into Neo, an AI-powered enterprise software platform taking on Microsoft Office and Google Apps.",
+      "title": "Anthropic Discusses Custom Chip with Samsung",
+      "body": "Anthropic is in talks with Samsung to develop a custom AI chip. The move follows OpenAI's announcement of its own custom chip partnership with Broadcom.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-02",
       "topic": "AI Update"
     },
     {
-      "title": "SpaceX Shows Investors Phone-Like AI Device Prototype",
-      "body": "SpaceX reportedly demonstrated a \"handset-like\" AI device to investors before going public, signaling potential expansion into wireless.",
+      "title": "OpenAI Proposes 5% Equity to Sovereign Fund",
+      "body": "Sam Altman has proposed donating 5% of OpenAI's equity to a U.S. sovereign wealth fund. The proposal aims to let the public share in AI boom financial gains.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-02",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Microsoft Launches AI Deployment Group",
+      "body": "Microsoft committed $2.5 billion to a new AI deployment division. The move positions Microsoft alongside Amazon, OpenAI, and Anthropic in infrastructure development.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-02",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Indian Entrepreneur Builds Office AI Alternative",
+      "body": "Bhavin Turakhia is investing $30M of his own capital into Neo, an AI platform competing with Microsoft Office and Google Apps. Neo is his fifth venture focused on enterprise software.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-02",
+      "topic": "AI Update"
+    },
+    {
+      "title": "SpaceX Shows AI Device Prototype to Investors",
+      "body": "SpaceX demonstrated a handset-like AI device prototype before going public. The device signals SpaceX's potential expansion into wireless infrastructure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-01",
       "topic": "AI Update"
     },
     {
-      "title": "Ashton Kutcher Launches New VC Firm with Morgan Beller",
-      "body": "Kutcher is leaving Sound Ventures to launch a new fund focused on AI infrastructure and energy powering AI companies.",
+      "title": "Ashton Kutcher Launches Infrastructure-Focused VC Firm",
+      "body": "Kutcher is leaving Sound Ventures to start a new fund with Morgan Beller focused on AI infrastructure and energy. The new fund targets the foundational layer powering AI companies.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-01",
       "topic": "AI Update"
     },
     {
-      "title": "Cloudflare Requires AI Companies Pay for Publisher Content",
-      "body": "Cloudflare is giving AI companies until September 15 to separate search crawlers from AI training crawlers, or risk being blocked on publisher sites.",
+      "title": "Cloudflare Pushes AI Companies to Pay Publishers",
+      "body": "Cloudflare requires AI companies to separate search and training crawlers by September 15 or face blocking on publisher sites. The policy aims to protect content creators from unpaid AI use.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-01",
       "topic": "AI Update"
     },
     {
-      "title": "Venice AI Reaches Unicorn Status with $65M Series A",
-      "body": "Privacy-first AI platform Venice AI achieved unicorn valuation while already profitable with over $70 million annualized run-rate revenue.",
+      "title": "Venice AI Reaches Unicorn Status at $65M Series A",
+      "body": "Venice AI achieved unicorn valuation with $65M Series A funding while maintaining profitability. The privacy-first platform generates over $70M annualized revenue.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-01",
       "topic": "AI Update"
     },
     {
       "title": "Google's Gemini Spark Now Available on Mac",
-      "body": "Google's 24/7 agentic assistant Gemini Spark expands to Mac with real-time tracking and support for more applications.",
+      "body": "Google launched Gemini Spark, its 24/7 agentic assistant, on Mac with new features. The update includes real-time tracking and expanded app support.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-01",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Developing Cloud Infrastructure Business for AI Compute",
-      "body": "Meta is building a cloud infrastructure business to sell AI compute power and models, competing directly with AWS, Google Cloud, and Azure.",
+      "title": "Meta Develops Cloud Infrastructure for AI Compute",
+      "body": "Meta is building a cloud infrastructure business to monetize excess AI compute capacity and models. The venture will compete directly with AWS, Google Cloud, and Azure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-01",
       "topic": "AI Update"
     },
     {
-      "title": "Trump Administration Drops Anthropic Model Restrictions",
-      "body": "The Trump administration lifted restrictions on Anthropic's Mythos and Fable models, reflecting erratic AI policy guidance across the industry.",
+      "title": "Trump Lifts Restrictions on Anthropic AI Models",
+      "body": "The Trump administration removed restrictions on Anthropic's Mythos and Fable models. The policy shift reflects the administration's unpredictable approach to AI regulation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-01",
       "topic": "AI Update"
+    },
+    {
+      "title": "Wayve Launches $85M Employee Tender Offer",
+      "body": "Wayve announced an $85M employee tender offer valuing the company at $8.5B. The move reflects a growing trend of AI startups using tenders for talent retention.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-01",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenClaw Released for Android and iOS",
+      "body": "OpenClaw, the free open-source agentic program, is now available on mobile platforms. The release expands access to the AI tool for smartphone users.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Ex-DeepMind Researchers Build $500M Quant AI Lab",
+      "body": "EquiLibre Technologies, founded by three former DeepMind researchers, is now valued over $500M. The Prague-based lab applies AI expertise to quantitative hedge fund strategies.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Mark Zuckerberg: AI Agents Slower Than Expected",
+      "body": "Meta's CEO told staff that AI development efforts are not progressing as quickly as anticipated. The remarks suggest internal concerns about the pace of AI advancement at the company.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-02",
+      "topic": "AI"
+    },
+    {
+      "title": "Meta Launches Pocket: AI-Powered Gaming App",
+      "body": "Meta quietly released Pocket, an experimental AI app enabling users to generate interactive mini-games using text prompts. The tool showcases Meta's push into generative AI applications.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-02",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic Discusses Custom AI Chip With Samsung",
+      "body": "Anthropic is in talks with Samsung about developing a custom AI chip, following OpenAI's announcement of its own chip partnership with Broadcom. The move reflects the AI industry's push toward specialized hardware.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-02",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI Proposes 5% Equity to US Sovereign Fund",
+      "body": "CEO Sam Altman has proposed donating 5% of OpenAI's equity to a U.S. sovereign wealth fund, allowing the public to share in AI boom gains. The move revives discussions about public ownership in major AI companies.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-02",
+      "topic": "AI"
+    },
+    {
+      "title": "Microsoft Launches AI Deployment Company",
+      "body": "Microsoft committed $2.5 billion to a new AI deployment group, joining Amazon, OpenAI, and Anthropic in building infrastructure for AI services. The move signals major cloud providers' investment in enterprise AI infrastructure.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-02",
+      "topic": "AI"
+    },
+    {
+      "title": "Indian Tech Tycoon Bets $30M on AI Office Alternative",
+      "body": "Bhavin Turakhia is investing $30 million of his own money to build Neo, an AI-powered alternative to Microsoft Office and Google Apps. The venture targets enterprise software with AI-first capabilities.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-02",
+      "topic": "AI"
+    },
+    {
+      "title": "SpaceX Shows AI Device Prototype to Investors",
+      "body": "SpaceX demonstrated a handset-like AI device to investors before going public, signaling interest in expanding into wireless. The device prototype suggests SpaceX may diversify beyond aerospace.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01",
+      "topic": "AI"
+    },
+    {
+      "title": "Ashton Kutcher Launches VC Firm for AI Infrastructure",
+      "body": "Kutcher and Morgan Beller are launching a new venture fund focusing on AI infrastructure and energy, moving away from Sound Ventures' AI lab focus. The shift reflects growing investor interest in the foundational layer powering AI.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01",
+      "topic": "AI"
+    },
+    {
+      "title": "Cloudflare Pushes AI Companies to Pay for Content",
+      "body": "Cloudflare gave AI companies until September 15 to separate web crawlers for search from those for AI training, or face being blocked on publisher sites. The policy aims to protect publisher content from unauthorized AI training.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01",
+      "topic": "AI"
+    },
+    {
+      "title": "Venice AI Reaches Unicorn Status With $65M Series A",
+      "body": "Privacy-focused AI platform Venice AI secured $65 million in Series A funding and is already profitable with $70M+ annualized revenue. The achievement highlights growing demand for privacy-first AI solutions.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01",
+      "topic": "AI"
+    },
+    {
+      "title": "Google's Gemini Spark Now Available on Mac",
+      "body": "Google's agentic assistant Gemini Spark launched on Mac with real-time tracking and expanded app support. The 24/7 assistant reflects Google's push toward AI agents for everyday productivity.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01",
+      "topic": "AI"
+    },
+    {
+      "title": "Meta Develops Cloud Business to Sell AI Compute",
+      "body": "Meta is building plans to sell access to AI compute power and models, competing against AWS, Google Cloud, and Azure. The move could turn Meta's excess AI infrastructure into a significant revenue stream.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01",
+      "topic": "AI"
+    },
+    {
+      "title": "Trump Lifts Restrictions on Anthropic AI Models",
+      "body": "The Trump administration dropped restrictions on Anthropic's Mythos and Fable models, reflecting its erratic AI policy approach. The decision leaves companies uncertain about future model release regulations.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01",
+      "topic": "AI"
     },
     {
       "title": "Wayve Launches $85M Employee Tender at $8.5B Valuation",
-      "body": "Autonomous vehicle company Wayve's employee tender offer reflects growing trend of AI startups using equity offerings for talent retention.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-01",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenClaw Now Available on Android and iOS",
-      "body": "The free open-source agentic program expands beyond desktop to mobile platforms.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Ex-DeepMind Researchers' EquiLibre Valued Above $500M",
-      "body": "Three former DeepMind researchers founded EquiLibre Technologies, a Prague-based AI lab now valued over $500 million, building AI for quant hedge funds.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Releases Faster, Cheaper Nano Banana 2 Lite",
-      "body": "Google's updated image generator prioritizes speed and cost efficiency, making AI content creation more accessible for creators.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nvidia Competitor Etched Hits $5B Valuation Milestone",
-      "body": "AI chip competitor Etched reached $5B valuation with $1 billion in booked contracts for its inference systems.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Launches Claude Sonnet 5 for Cheaper Agents",
-      "body": "Claude Sonnet 5 delivers stronger agentic capabilities and lower pricing, positioning it as a cost-effective alternative to Opus and Gemini Pro.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Acti Puts AI Agents Directly Into Smartphone Keyboard",
-      "body": "Startup Acti launches iOS and Android keyboard with AI assistants, enabling custom AI shortcuts across apps using natural language.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI proposes 5% equity donation to US wealth fund",
-      "body": "Sam Altman has proposed giving 5% of OpenAI's equity to a U.S. sovereign wealth fund. The move aims to let the public share in financial gains from the AI boom.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02",
-      "topic": "AI"
-    },
-    {
-      "title": "Microsoft launches AI deployment company with $2.5B",
-      "body": "Microsoft has launched its own AI deployment group, following similar moves by Amazon, OpenAI, and Anthropic. The company is committing $2.5 billion to the venture.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02",
-      "topic": "AI"
-    },
-    {
-      "title": "Indian tech tycoon builds AI alternative to Office",
-      "body": "Bhavin Turakhia is betting $30 million to build Neo, an AI-powered alternative to Microsoft Office and Google Apps. This is his fifth venture focused on enterprise software.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02",
-      "topic": "AI"
-    },
-    {
-      "title": "Cloudflare pushes AI companies to pay for content",
-      "body": "Cloudflare is requiring AI companies to separate web crawlers used for search from those used for AI training by September 15. Companies that don't comply risk being blocked on many publisher sites.",
+      "body": "Autonomous vehicle AI company Wayve offered employees a $85 million tender at $8.5B valuation. The trend of employee tenders among AI startups reflects competitive talent retention strategies.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-01",
       "topic": "AI"
     },
     {
-      "title": "Venice AI becomes unicorn with $65M Series A",
-      "body": "Privacy-first AI platform Venice AI has reached unicorn status with its Series A funding. The company is already profitable with over $70 million in annualized run-rate revenues.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-01",
-      "topic": "AI"
-    },
-    {
-      "title": "Google's Gemini Spark arrives on Mac with updates",
-      "body": "Google's 24/7 agentic assistant Gemini Spark is now available on Mac. Updates include real-time tracking and support for more applications.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-01",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta develops cloud infrastructure for AI compute",
-      "body": "Meta is building plans for a cloud infrastructure business selling AI compute power and models. The move would compete directly with Amazon Web Services, Google Cloud, and Microsoft Azure.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-01",
-      "topic": "AI"
-    },
-    {
-      "title": "Trump drops restrictions on Anthropic AI models",
-      "body": "The Trump administration has lifted restrictions on Anthropic's Mythos and Fable models. The erratic approach to AI policy has left companies unclear about future model release governance.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-01",
-      "topic": "AI"
-    },
-    {
-      "title": "Wayve launches $85M employee tender at $8.5B",
-      "body": "Wayve is offering an $85 million employee tender offer at an $8.5 billion valuation. The move reflects a growing trend of AI startups using tenders to attract and retain talent.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-01",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenClaw finally available on Android and iOS",
-      "body": "The free open-source agentic program OpenClaw has launched on mobile platforms. It's now accessible as both an Android and iOS application.",
+      "title": "OpenClaw Agent Now Available on Mobile",
+      "body": "OpenClaw, the free open-source agentic program, launched on Android and iOS. The mobile availability extends access to AI agents for smartphone users.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "DeepMind trio building poker AI now worth $500M",
-      "body": "Three ex-DeepMind researchers founded EquiLibre Technologies, an AI lab making money for quant hedge funds. The Prague-based company is now valued at over $500 million.",
+      "title": "Ex-DeepMind Trio Build $500M Quant AI Lab",
+      "body": "EquiLibre Technologies, founded by three former DeepMind researchers, is now valued over $500 million. The Prague-based AI lab built poker AI that now powers quantitative hedge fund strategies.",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "Google launches faster, cheaper image generator",
-      "body": "Google has updated its image generator with Nano Banana 2 Lite, making it faster and cheaper. The improvements make it more useful for creators producing AI content.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30",
-      "topic": "AI"
-    },
-    {
-      "title": "Nvidia competitor Etched hits $5B valuation",
-      "body": "Etched, an Nvidia AI chip competitor, has reached a $5 billion valuation. The company says it has already booked $1 billion in contracts for its inference systems.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic launches Claude Sonnet 5 for agents",
-      "body": "Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety. It positions itself as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30",
-      "topic": "AI"
-    },
-    {
-      "title": "Acti puts AI agents in smartphone keyboard",
-      "body": "Acti has integrated AI agents directly into a new iOS and Android keyboard. Users can create custom AI-powered shortcuts using natural language across all apps.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30",
-      "topic": "AI"
-    },
-    {
-      "title": "Achieving operational excellence with AI",
-      "body": "Frameworks like Lean Six Sigma and business process management are gaining new relevance with AI integration. AI is bringing structured clarity and statistical rigor to operational chaos.",
+      "title": "Teaching AI to Optimize Wind Turbine Operations",
+      "body": "AI is increasingly deployed in physical infrastructure management beyond consumer chatbots, including wind turbine optimization. Industrial AI applications prioritize operational continuity and safety.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-02",
       "topic": "AI"
     },
     {
-      "title": "Teaching AI to run turbines intelligently",
-      "body": "AI's most consequential use cases are unfolding in industrial settings far from consumer chatbots. In industries with critical infrastructure and safety needs, AI is transforming operations.",
+      "title": "Startup Tackles LLM Groupthink Problem With Diversity",
+      "body": "A new startup is addressing large language models' tendency toward groupthink by improving response diversity. The solution aims to break LLMs out of predictable answer patterns.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-02",
       "topic": "AI"
     },
     {
-      "title": "Startup tackles LLM groupthink problem",
-      "body": "A new startup is addressing the issue of large language models being stuck in predictable patterns. LLMs like ChatGPT, Claude, and Gemini consistently produce the same responses to identical prompts.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-02",
-      "topic": "AI"
-    },
-    {
-      "title": "LLMs trapped in groupthink; startup finds solution",
-      "body": "Chatbots consistently produce identical answers to the same prompts, demonstrating groupthink limitations. A new startup is working to break this predictable pattern in language models.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-01",
-      "topic": "AI"
-    },
-    {
-      "title": "Claude Science launched by Anthropic",
-      "body": "Anthropic announced Claude Science as a major new product supporting scientific research. Like Claude Code for software engineering, Claude Science can autonomously assist pharmaceutical and biotech researchers.",
+      "title": "Claude Science: Anthropic's Research-Focused AI",
+      "body": "Anthropic launched Claude Science, a flagship product designed to support scientific research alongside Claude Code for software engineering. The tool autonomously assists pharmaceutical and biotech researchers.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "AI agents are not your coworkers",
-      "body": "AI agents entering the workplace raise questions about their role and expectations. Unlike human colleagues, these AI systems have fundamentally different capabilities and limitations.",
+      "title": "Agriculture Industry Needs Better Data for AI",
+      "body": "AI is transforming agriculture, but industry leaders must establish data infrastructure before investing in AI solutions. The sector faces challenges with volatile costs and unpredictable weather.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-30",
       "topic": "AI"
     },
     {
-      "title": "Agriculture ready for AI despite data gaps",
-      "body": "AI is transforming agriculture's possibilities for managing fertilizer costs and unpredictable weather. Industry leaders must lay data groundwork before investing in AI solutions.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-30",
-      "topic": "AI"
-    },
-    {
-      "title": "Google's AI buildout drives 37% electricity surge",
-      "body": "Google's AI infrastructure expansion caused a 37% increase in electricity use in 2025. The company's growing computational demands are significantly impacting its energy consumption.",
+      "title": "Google's AI Buildout Increased Electricity Use 37%",
+      "body": "Google's electricity consumption surged 37% in 2025 due to AI infrastructure expansion and data center buildout. The dramatic increase highlights the significant energy demands of large-scale AI operations.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-02",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic AI models get global release after testing",
-      "body": "After safety testing efforts that spanned international discussions, Anthropic's AI models have received global release approval. The company's models are now available worldwide.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-07-01",
       "topic": "AI"
     }
   ]
