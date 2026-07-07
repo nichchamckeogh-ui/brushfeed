@@ -1,271 +1,285 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-07-07T06:40:08.113Z",
-  "cardCount": 38,
+  "generatedAt": "2026-07-07T18:14:16.284Z",
+  "cardCount": 40,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "AI Ransomware Attack Still Required Human Oversight",
-      "body": "An AI agent executed a ransomware attack for the first time, but humans still selected the victim, configured infrastructure, and provided stolen credentials. The attack wasn't fully autonomous despite initial reports.",
+      "title": "Claude Cowork Expands to Mobile and Web",
+      "body": "Users can now start tasks on desktop and continue on mobile or receive status updates even when their laptop is closed. The seamless cross-device experience enables flexible task management throughout the day.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-07",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Savi Launches AI Scam Protection App",
+      "body": "The new iPhone and Android app protects consumers from realistic AI-generated scams like synthetic kidnapping ransom demands. Savi recently closed $7 million in seed funding to develop the technology.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-07",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Autonomous Vehicles Deploy in Ukraine Combat",
+      "body": "Forterra has deployed over 100 self-driving ATVs in Ukrainian conflict zones. The deployment marks a significant real-world application of autonomous ground vehicles.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-07",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Ransomware Attack Required Human Direction",
+      "body": "An AI agent executed a ransomware attack for the first time, but humans still selected the victim and set up infrastructure. The incident reveals that fully autonomous cybercrime remains unrealized.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-06",
       "topic": "AI Update"
     },
     {
-      "title": "SK Hynix Plans Multibillion-Dollar US IPO",
-      "body": "SK Hynix, riding the AI boom as a memory chip maker, will launch a major US IPO expected Friday. The company is capitalizing on surging demand for AI infrastructure.",
+      "title": "SK Hynix Prepares Multibillion-Dollar US IPO",
+      "body": "Memory chip maker SK Hynix is riding the AI boom to a planned Friday IPO in the United States. US investors will gain access to the company benefiting from AI infrastructure demand.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-06",
       "topic": "AI Update"
     },
     {
-      "title": "Vercel CEO: Separate Models From Agents",
-      "body": "Vercel's Guillermo Rauch advocates decoupling AI models from agents for production optimization. Price-to-performance ratios are becoming the decisive factor in deployment decisions.",
+      "title": "Vercel CEO on Models vs. Agents Split",
+      "body": "Guillermo Rauch discusses the critical distinction between AI models and agents in production environments. Price-to-performance optimization is reshaping how companies deploy AI technology.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-06",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Customizes Siri Pace and Expressivity",
-      "body": "iOS 27 beta now allows users to customize Siri's pace and expressivity settings. The update reflects Apple's broader effort to rebuild Siri around generative AI.",
+      "title": "iOS 27 Beta Personalizes Siri Voice Control",
+      "body": "Users can now customize Siri's pace and expressivity in Apple's latest beta release. The update advances Apple's effort to rebuild Siri around generative AI technology.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-06",
       "topic": "AI Update"
     },
     {
-      "title": "Tech Giants Announce Major AI-Related Layoffs",
-      "body": "Multiple major tech companies have announced significant layoffs in 2026 with AI cited as a factor. A comprehensive tracker documents these workforce reductions across the industry.",
+      "title": "Major Tech Layoffs Cite AI as Factor",
+      "body": "2026 has seen significant layoffs across major tech companies with AI cited as a stated reason. The trend reflects ongoing industry restructuring tied to AI advancement.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-06",
       "topic": "AI Update"
     },
     {
-      "title": "Google Privacy Change Expands AI Training Data",
-      "body": "Google updated privacy settings to store more user data—including images, files, audio, and video—for AI model improvement. Users can now opt out of this data collection.",
+      "title": "Google Privacy Settings Update Enables AI Training",
+      "body": "Google recently changed privacy settings to store images, files, audio, and video recordings for AI model improvement. Users can now opt out of this data collection practice.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-06",
       "topic": "AI Update"
     },
     {
-      "title": "Microsoft Cuts 4,800 Jobs Across Xbox, Sales",
-      "body": "Microsoft eliminated approximately 4,800 roles (2.1% of workforce), with Xbox and commercial sales divisions hit hardest. The layoffs are part of ongoing workforce reductions amid AI concerns.",
+      "title": "Microsoft Cuts 4,800 Jobs Across Divisions",
+      "body": "Microsoft laid off approximately 2.1% of its global workforce, with Xbox and commercial sales hit hardest. The cuts represent part of a broader industry trend of AI-driven workforce reductions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-06",
       "topic": "AI Update"
     },
     {
-      "title": "Reddit Uses LLMs to Combat AI-Generated Spam",
-      "body": "Reddit is deploying large language models to fight spam that LLMs largely created. Platforms must combat AI-generated content with AI solutions.",
+      "title": "Reddit Deploys LLMs to Combat AI Spam",
+      "body": "Reddit is using large language models to fight spam largely created by AI systems. The platform employs AI technology as a countermeasure against AI-generated content abuse.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-06",
       "topic": "AI Update"
     },
     {
-      "title": "Station F Accelerates Europe's AI Startup Hub",
-      "body": "Paris-based Station F is ramping up its F/ai accelerator program to strengthen its position for promising AI startups. The hub aims to be Europe's premier AI startup launchpad.",
+      "title": "Station F Accelerates Europe's AI Startup Scene",
+      "body": "The Paris-based Station F hub is ramping up its F/ai accelerator program for promising startups. The initiative positions Station F as a key launchpad for European AI ventures.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-06",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Closes Mechanical Turk to New Customers",
-      "body": "Amazon announced it will stop accepting new customers for Mechanical Turk, signaling the end of the crowdsourcing platform. The decision marks a significant shift in human-in-the-loop AI training.",
+      "title": "Amazon Mechanical Turk Stops New Customer Signups",
+      "body": "Amazon is halting new customer registrations for its Mechanical Turk crowdsourcing platform. The decision marks a potential end to the long-running service.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-05",
       "topic": "AI Update"
     },
     {
-      "title": "Google Imagines Declaration of Independence with AI",
-      "body": "A new Google Workspace commercial reimagines the Declaration of Independence written with AI assistance. The ad asks what 18th-century founders could achieve with modern AI tools.",
+      "title": "Google Commercial Imagines AI-Written Declaration",
+      "body": "A new Google Workspace ad imagines the Founding Fathers using AI assistance 250 years after signing the Declaration of Independence. The campaign highlights AI's potential role in creative work.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-04",
       "topic": "AI Update"
     },
     {
-      "title": "Midjourney Demands Studios Reveal AI Usage",
-      "body": "Midjourney is compelling three Hollywood studios to disclose their own AI usage as part of ongoing legal disputes. The demand highlights growing scrutiny around studio AI practices.",
+      "title": "Midjourney Seeks Studio AI Usage Transparency",
+      "body": "Midjourney is compelling three Hollywood studios to disclose how they use AI in their operations. The legal action is part of an ongoing dispute over AI usage practices.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-04",
       "topic": "AI Update"
     },
     {
-      "title": "Alibaba Bans Employees From Using Claude Code",
-      "body": "Alibaba has classified Claude Code as high-risk software and banned employee usage. The move reflects heightened corporate security concerns around third-party AI tools.",
+      "title": "Alibaba Bans Claude Code Over Security Risks",
+      "body": "Alibaba has classified Anthropic's Claude Code as high-risk software and banned employee use. The move reflects growing concerns about AI tool safety in enterprises.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-04",
       "topic": "AI Update"
     },
     {
-      "title": "Mistral AI: OpenAI's Growing European Competitor",
-      "body": "Mistral AI offers open-source AI models with the mission to democratize frontier AI. The company has raised significant funding since 2023 launch.",
+      "title": "Mistral AI: OpenAI's Open Source Competitor",
+      "body": "Mistral AI offers open-source models with significant funding since its 2023 creation. The company aims to democratize frontier AI through accessible model releases.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-04",
       "topic": "AI Update"
     },
     {
-      "title": "The Essential AI Glossary for 2026",
-      "body": "AI's rapid rise has spawned new terminology and industry jargon. This glossary defines key terms and phrases you need to understand the AI landscape.",
+      "title": "Essential AI Glossary for 2026",
+      "body": "New AI terminology and slang continue proliferating across the tech landscape. This comprehensive glossary defines key terms and phrases essential for understanding current AI discourse.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-03",
       "topic": "AI Update"
     },
     {
-      "title": "Best Browser Alternatives to Chrome and Safari",
-      "body": "The browser wars have shifted beyond search engines to AI capabilities. Here are top alternative browsers challenging Chrome and Safari.",
+      "title": "Browser Wars Shift Beyond Search Competition",
+      "body": "Chrome and Safari face growing competition from alternative browsers with new capabilities. This overview profiles top emerging browser options challenging market dominance.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-03",
       "topic": "AI Update"
     },
     {
-      "title": "Zuckerberg: AI Agents Progressing Slower Than Expected",
-      "body": "Mark Zuckerberg told Meta staff that AI development efforts are moving slower than anticipated. The statement suggests AI agent progress hasn't matched internal expectations.",
+      "title": "Zuckerberg: AI Agent Progress Slower Than Expected",
+      "body": "Meta's CEO told staff that AI development efforts are not progressing as quickly as anticipated. The internal acknowledgment highlights challenges in advancing autonomous AI agents.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-02",
       "topic": "AI Update"
     },
     {
-      "title": "Jersey Mike's IPO Exposes AI Hype Excess",
-      "body": "A sandwich shop's IPO filing mentions AI despite having no apparent use case. The filing illustrates how pervasive and often meaningless AI hype has become.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-02",
-      "topic": "AI Update"
+      "title": "Claude Expands to Mobile and Web",
+      "body": "Claude Cowork now works across desktop, mobile, and web platforms. Users can start tasks on their desk and continue on their phone, even with their laptop closed.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-07",
+      "topic": "AI"
     },
     {
-      "title": "Meta Quietly Launches AI Gaming App Pocket",
-      "body": "Meta launched Pocket, an experimental app generating interactive mini games from text prompts. Users can create and share vibe-coded games through simple AI commands.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-02",
-      "topic": "AI Update"
+      "title": "App Protects Against AI Voice Scams",
+      "body": "Savi's new app defends consumers from realistic AI-generated ransom calls and kidnapper impersonations. The company raised $7 million and launched on iPhone and Android.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-07",
+      "topic": "AI"
     },
     {
-      "title": "Anthropic Partners With Samsung on Custom Chip",
-      "body": "Anthropic is discussing a custom AI chip development with Samsung. The move follows OpenAI's recent custom chip announcement with Broadcom.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-02",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Agent Carries Out Ransomware Attack With Human Help",
-      "body": "An AI agent executed a real-world ransomware attack for the first time, but humans still selected the victim, configured infrastructure, and provided stolen credentials. The breakthrough wasn't as autonomous as initially reported.",
+      "title": "AI Agent Executes Real Ransomware Attack",
+      "body": "For the first time, an AI agent technically executed a live ransomware attack. However, humans still chose the victim, set up infrastructure, and supplied stolen credentials.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-06",
       "topic": "AI"
     },
     {
-      "title": "Vercel CEO Discusses Models Versus AI Agents Strategy",
-      "body": "Guillermo Rauch highlights the importance of price-to-performance optimization when building production AI systems. The distinction between models and agents is becoming critical for developers.",
+      "title": "Vercel CEO on Models vs. Agents Split",
+      "body": "Guillermo Rauch discusses optimizing production systems by separating AI models from autonomous agents. The focus shifts to price and performance efficiency.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-06",
       "topic": "AI"
     },
     {
-      "title": "Apple Customizes Siri With Generative AI Foundation",
-      "body": "iOS 27 beta now lets users adjust Siri's pace and expressivity for a more natural experience. Apple is rebuilding the assistant around generative AI technology.",
+      "title": "Apple Personalizes Siri With Generative AI",
+      "body": "iOS 27 beta lets users customize Siri's pace and expressivity for a more natural experience. Apple rebuilds the assistant around generative AI technology.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-06",
       "topic": "AI"
     },
     {
-      "title": "Google Stores User Data to Improve AI Models",
-      "body": "Google's privacy settings now allow the company to retain images, files, audio, and video recordings to enhance AI development. Users can opt out of this data collection.",
+      "title": "Google Collects More Data to Train AI",
+      "body": "Google's privacy settings now allow the company to store images, files, audio, and video to improve AI models. Users can opt out of this data collection.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-06",
       "topic": "AI"
     },
     {
-      "title": "Reddit Uses LLMs to Combat AI-Generated Spam",
-      "body": "Reddit is fighting spam created by large language models using AI itself. The platform must adapt quickly as LLMs generate increasingly sophisticated content.",
+      "title": "Reddit Uses LLMs to Fight AI Spam",
+      "body": "Reddit deploys large language models to combat spam that LLMs themselves largely created. Platforms must fight fire with fire in the AI era.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-06",
       "topic": "AI"
     },
     {
-      "title": "Station F Accelerates Europe's AI Startup Growth",
-      "body": "Paris-based Station F is launching a new F/ai accelerator program for promising AI startups. The hub aims to strengthen Europe's position in frontier AI development.",
+      "title": "Station F Launches AI Accelerator Program",
+      "body": "Paris-based Station F ramps up its F/ai accelerator to support Europe's promising AI startups. The hub positions itself as a launchpad for AI founders.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-06",
       "topic": "AI"
     },
     {
-      "title": "Mistral AI Challenges OpenAI With Open Source Models",
-      "body": "Mistral AI has raised significant funding since its 2023 launch with ambitions to democratize frontier AI. The company positions itself as a direct competitor to OpenAI.",
+      "title": "Mistral AI: OpenAI's European Competitor",
+      "body": "Mistral AI offers open-source AI models with significant funding since 2023. The company aims to democratize frontier AI globally.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-04",
       "topic": "AI"
     },
     {
-      "title": "Midjourney Demands Hollywood Studios Reveal AI Usage",
-      "body": "Midjourney is seeking to compel three studios to disclose their own AI usage in an ongoing legal dispute. The move highlights growing scrutiny around AI adoption in entertainment.",
+      "title": "Midjourney Demands Studios Reveal AI Use",
+      "body": "In a legal dispute, Midjourney is compelling Hollywood studios to disclose how they use AI. The move adds pressure in ongoing copyright battles.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-04",
       "topic": "AI"
     },
     {
-      "title": "Alibaba Bans Claude Code as High-Risk Software",
-      "body": "Alibaba has classified Anthropic's Claude Code as high-risk and banned employee usage. The move signals growing corporate caution around third-party AI tools.",
+      "title": "Alibaba Bans Claude Code as High-Risk",
+      "body": "Alibaba classified Claude Code as high-risk software and banned employee use. The move reflects growing tensions around AI tool adoption.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-04",
       "topic": "AI"
     },
     {
-      "title": "Essential AI Glossary for 2026 Coverage",
-      "body": "The explosion of AI terminology requires a comprehensive guide to key terms and phrases. This glossary breaks down the most important AI vocabulary.",
+      "title": "AI Glossary: Essential Terms and Slang",
+      "body": "A comprehensive glossary defines major AI terminology and phrases. Essential reading for understanding current AI industry language.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-03",
       "topic": "AI"
     },
     {
-      "title": "Mark Zuckerberg: AI Agent Progress Slower Than Expected",
-      "body": "Meta's CEO told staff that AI development efforts are not advancing as quickly as anticipated. The admission suggests challenges in achieving near-term AI agent capabilities.",
+      "title": "Zuckerberg: AI Agents Progressing Slower",
+      "body": "Meta CEO Mark Zuckerberg told staff that AI agent development moved slower than expected. The admission signals realistic timelines for agentic systems.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-02",
       "topic": "AI"
     },
     {
-      "title": "Meta Launches Pocket: AI-Powered Gaming App",
-      "body": "Meta quietly released Pocket, an experimental app that generates interactive mini-games from text prompts. The tool demonstrates AI's expanding role in creative content generation.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02",
+      "title": "Sam Altman's $300 AI Wealth Share Plan",
+      "body": "OpenAI CEO Sam Altman proposes Americans receive shared wealth from AI creation. His plan resurfaces in ongoing policy discussions.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-06",
       "topic": "AI"
     },
     {
-      "title": "Anthropic and Samsung Discuss Custom AI Chip",
-      "body": "Anthropic is exploring custom chip development with Samsung, following OpenAI's recent chip partnership announcement. The trend shows AI companies reducing dependence on commodity hardware.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02",
+      "title": "IT Leaders Scale AI Architecture Systems",
+      "body": "Organizations expand AI use cases as capabilities grow, introducing new risks for IT leaders. Framework investments must balance innovation with security.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-07",
       "topic": "AI"
     },
     {
-      "title": "Teaching AI to Optimize Wind Turbine Operations",
-      "body": "AI's most impactful applications are emerging in industrial infrastructure, not chatbots. Machine learning is revolutionizing energy production through real-time operational improvements.",
+      "title": "Achieving Operational Excellence With AI",
+      "body": "AI frameworks enable operational clarity, expanding beyond traditional Lean Six Sigma methods. Organizations apply AI to streamline business process management.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-02",
       "topic": "AI"
     },
     {
-      "title": "Startup Tackles LLM Groupthink Problem With New Tool",
-      "body": "A new startup is addressing how large language models fall into predictable, homogeneous responses. The solution aims to increase diversity and originality in AI outputs.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-02",
+      "title": "AI Enables Autonomous Workplace Robots",
+      "body": "Advanced AI could power autonomous robot workers in offices and homes. The technology promises to transform labor across multiple sectors.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-07-07",
       "topic": "AI"
     },
     {
-      "title": "Achieving Operational Excellence With AI Systems",
-      "body": "AI builds on frameworks like Lean Six Sigma to bring structured clarity to complex operations. Modern AI enables statistical rigor and process optimization at scale.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-02",
-      "topic": "AI"
-    },
-    {
-      "title": "UK Financial Regulator Warns of AI Adoption Arms Race",
-      "body": "UK regulators are concerned about a competitive escalation in AI adoption among financial services firms. The trend could create systemic risks if left unmonitored.",
+      "title": "Secret Claude Tracker Reveals Surveillance",
+      "body": "Anthropic's hidden Claude tracker shocked users given the company's anti-surveillance stance. The discovery contradicts public privacy commitments.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-06",
       "topic": "AI"
     },
     {
-      "title": "Secret Claude Tracker Revealed After Anthropic Statement",
-      "body": "A hidden tracker within Claude surprised users given Anthropic's public anti-surveillance positioning. The discovery raises questions about privacy practices at leading AI companies.",
+      "title": "UK Financial Services Warns AI Arms Race",
+      "body": "UK regulator warns of an 'arms race' as financial institutions escalate AI adoption. Competition accelerates without clear regulatory frameworks.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-07-06",
+      "topic": "AI"
+    },
+    {
+      "title": "F1 Software Error Crushes Race Expectations",
+      "body": "Automated software was blamed for disrupting Formula 1 racing in Britain. The failure highlights risks of AI systems in critical applications.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-06",
       "topic": "AI"
