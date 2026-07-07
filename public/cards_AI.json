@@ -1,159 +1,180 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-07-06T18:34:29.559Z",
-  "cardCount": 39,
+  "generatedAt": "2026-07-07T06:40:08.113Z",
+  "cardCount": 38,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Google Lets You Opt Out of AI Training",
-      "body": "Google updated privacy settings to train AI on more user data by default. Users can now opt out of this data usage in their privacy settings.",
+      "title": "AI Ransomware Attack Still Required Human Oversight",
+      "body": "An AI agent executed a ransomware attack for the first time, but humans still selected the victim, configured infrastructure, and provided stolen credentials. The attack wasn't fully autonomous despite initial reports.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "SK Hynix Plans Multibillion-Dollar US IPO",
+      "body": "SK Hynix, riding the AI boom as a memory chip maker, will launch a major US IPO expected Friday. The company is capitalizing on surging demand for AI infrastructure.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Vercel CEO: Separate Models From Agents",
+      "body": "Vercel's Guillermo Rauch advocates decoupling AI models from agents for production optimization. Price-to-performance ratios are becoming the decisive factor in deployment decisions.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Apple Customizes Siri Pace and Expressivity",
+      "body": "iOS 27 beta now allows users to customize Siri's pace and expressivity settings. The update reflects Apple's broader effort to rebuild Siri around generative AI.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Tech Giants Announce Major AI-Related Layoffs",
+      "body": "Multiple major tech companies have announced significant layoffs in 2026 with AI cited as a factor. A comprehensive tracker documents these workforce reductions across the industry.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Privacy Change Expands AI Training Data",
+      "body": "Google updated privacy settings to store more user data—including images, files, audio, and video—for AI model improvement. Users can now opt out of this data collection.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-06",
       "topic": "AI Update"
     },
     {
       "title": "Microsoft Cuts 4,800 Jobs Across Xbox, Sales",
-      "body": "Microsoft laid off 2.1% of its global workforce, with Xbox and commercial sales hit hardest. The cuts fuel concerns about AI replacing human jobs.",
+      "body": "Microsoft eliminated approximately 4,800 roles (2.1% of workforce), with Xbox and commercial sales divisions hit hardest. The layoffs are part of ongoing workforce reductions amid AI concerns.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-06",
       "topic": "AI Update"
     },
     {
       "title": "Reddit Uses LLMs to Combat AI-Generated Spam",
-      "body": "Reddit is fighting AI spam with AI-powered solutions on its platform. The strategy addresses spam problems that LLMs themselves have largely created.",
+      "body": "Reddit is deploying large language models to fight spam that LLMs largely created. Platforms must combat AI-generated content with AI solutions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-06",
       "topic": "AI Update"
     },
     {
-      "title": "Station F Accelerates European AI Startup Growth",
-      "body": "Paris-based Station F launches new F/ai accelerator program for promising AI startups. The hub positions itself as a stepping stone for Europe's hottest AI ventures.",
+      "title": "Station F Accelerates Europe's AI Startup Hub",
+      "body": "Paris-based Station F is ramping up its F/ai accelerator program to strengthen its position for promising AI startups. The hub aims to be Europe's premier AI startup launchpad.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-06",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Stops Accepting New Mechanical Turk Customers",
-      "body": "Amazon's Mechanical Turk platform is closing to new customers. The move signals the end of an era for the crowdsourcing service.",
+      "title": "Amazon Closes Mechanical Turk to New Customers",
+      "body": "Amazon announced it will stop accepting new customers for Mechanical Turk, signaling the end of the crowdsourcing platform. The decision marks a significant shift in human-in-the-loop AI training.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-05",
       "topic": "AI Update"
     },
     {
-      "title": "Google Commercial Imagines AI-Written Declaration",
-      "body": "Google's new ad reimagines the Declaration of Independence written with Workspace AI assistance. The campaign asks what the Founding Fathers could accomplish with modern AI tools.",
+      "title": "Google Imagines Declaration of Independence with AI",
+      "body": "A new Google Workspace commercial reimagines the Declaration of Independence written with AI assistance. The ad asks what 18th-century founders could achieve with modern AI tools.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-04",
       "topic": "AI Update"
     },
     {
-      "title": "Midjourney Demands Studios Reveal AI Usage Details",
-      "body": "Midjourney seeks to compel three Hollywood studios to disclose how they use AI. The demand stems from an ongoing legal dispute with the studios.",
+      "title": "Midjourney Demands Studios Reveal AI Usage",
+      "body": "Midjourney is compelling three Hollywood studios to disclose their own AI usage as part of ongoing legal disputes. The demand highlights growing scrutiny around studio AI practices.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-04",
       "topic": "AI Update"
     },
     {
-      "title": "Alibaba Classifies Claude Code as High-Risk",
-      "body": "Alibaba has reportedly banned employees from using Anthropic's Claude Code. The company classified the tool as high-risk software.",
+      "title": "Alibaba Bans Employees From Using Claude Code",
+      "body": "Alibaba has classified Claude Code as high-risk software and banned employee usage. The move reflects heightened corporate security concerns around third-party AI tools.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-04",
       "topic": "AI Update"
     },
     {
-      "title": "Mistral AI: The OpenAI Competitor Explained",
-      "body": "Mistral AI offers open-source AI models with significant funding since 2023. The company aims to democratize frontier AI for everyone.",
+      "title": "Mistral AI: OpenAI's Growing European Competitor",
+      "body": "Mistral AI offers open-source AI models with the mission to democratize frontier AI. The company has raised significant funding since 2023 launch.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-04",
       "topic": "AI Update"
     },
     {
-      "title": "Essential AI Glossary for 2026",
-      "body": "A comprehensive guide to new AI terms and slang flooding the industry. The glossary covers the most important words and phrases to know.",
+      "title": "The Essential AI Glossary for 2026",
+      "body": "AI's rapid rise has spawned new terminology and industry jargon. This glossary defines key terms and phrases you need to understand the AI landscape.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-03",
       "topic": "AI Update"
     },
     {
-      "title": "Top Chrome and Safari Browser Alternatives",
-      "body": "An overview of leading alternative browsers challenging Chrome and Safari dominance. The comparison includes emerging privacy-focused and feature-rich options.",
+      "title": "Best Browser Alternatives to Chrome and Safari",
+      "body": "The browser wars have shifted beyond search engines to AI capabilities. Here are top alternative browsers challenging Chrome and Safari.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-03",
       "topic": "AI Update"
     },
     {
       "title": "Zuckerberg: AI Agents Progressing Slower Than Expected",
-      "body": "Meta's CEO told staff that AI development efforts are not advancing as quickly as anticipated. The admission highlights slower-than-hoped progress on AI agents.",
+      "body": "Mark Zuckerberg told Meta staff that AI development efforts are moving slower than anticipated. The statement suggests AI agent progress hasn't matched internal expectations.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-02",
       "topic": "AI Update"
     },
     {
-      "title": "Jersey Mike's IPO Shows AI Hype Peak",
-      "body": "Jersey Mike's sandwich shop included AI mentions in its IPO documents despite minimal relevance. The filing illustrates how pervasive AI marketing has become.",
+      "title": "Jersey Mike's IPO Exposes AI Hype Excess",
+      "body": "A sandwich shop's IPO filing mentions AI despite having no apparent use case. The filing illustrates how pervasive and often meaningless AI hype has become.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-02",
       "topic": "AI Update"
     },
     {
       "title": "Meta Quietly Launches AI Gaming App Pocket",
-      "body": "Meta released Pocket, an experimental app that generates interactive mini games from text prompts. Users can create and share AI-powered games directly.",
+      "body": "Meta launched Pocket, an experimental app generating interactive mini games from text prompts. Users can create and share vibe-coded games through simple AI commands.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-02",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Discusses Custom Chip with Samsung",
-      "body": "Anthropic is in talks with Samsung about developing a custom AI chip. The move follows OpenAI's recent chip announcement with Broadcom.",
+      "title": "Anthropic Partners With Samsung on Custom Chip",
+      "body": "Anthropic is discussing a custom AI chip development with Samsung. The move follows OpenAI's recent custom chip announcement with Broadcom.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-02",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Proposes Public Equity Share Plan",
-      "body": "Sam Altman proposed donating 5% of OpenAI's equity to a U.S. sovereign wealth fund. The proposal would let the public share AI boom gains.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-02",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Microsoft Launches AI Deployment Unit",
-      "body": "Microsoft committed $2.5 billion to a new AI deployment division. The move mirrors similar initiatives from Amazon, OpenAI, and Anthropic.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-02",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenClaw Script Automates Dating Outreach",
-      "body": "Ben Guez built an automated dating script using OpenClaw and Claude Code. The tool reportedly generates many international dating prospects via Instagram.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-02",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Indian Entrepreneur Bets $30M on AI Office Suite",
-      "body": "Bhavin Turakhia is building Neo, an AI alternative to Microsoft Office and Google Apps. The startup targets enterprise software with AI-powered features.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-02",
-      "topic": "AI Update"
-    },
-    {
-      "title": "SpaceX Shows AI Handheld Device Prototype",
-      "body": "SpaceX reportedly demonstrated a phone-like AI device to investors before going public. The prototype suggests SpaceX may expand into wireless technology.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-01",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Training AI on Your Data Without Permission",
-      "body": "Google changed its privacy settings to train AI on more user data. Learn how to opt out of this practice.",
+      "title": "AI Agent Carries Out Ransomware Attack With Human Help",
+      "body": "An AI agent executed a real-world ransomware attack for the first time, but humans still selected the victim, configured infrastructure, and provided stolen credentials. The breakthrough wasn't as autonomous as initially reported.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-06",
       "topic": "AI"
     },
     {
-      "title": "Reddit Uses LLMs to Fight AI-Generated Spam",
-      "body": "Reddit is deploying large language models to combat spam that LLMs themselves helped create. The platform fights fire with fire in the AI era.",
+      "title": "Vercel CEO Discusses Models Versus AI Agents Strategy",
+      "body": "Guillermo Rauch highlights the importance of price-to-performance optimization when building production AI systems. The distinction between models and agents is becoming critical for developers.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-06",
+      "topic": "AI"
+    },
+    {
+      "title": "Apple Customizes Siri With Generative AI Foundation",
+      "body": "iOS 27 beta now lets users adjust Siri's pace and expressivity for a more natural experience. Apple is rebuilding the assistant around generative AI technology.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-06",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Stores User Data to Improve AI Models",
+      "body": "Google's privacy settings now allow the company to retain images, files, audio, and video recordings to enhance AI development. Users can opt out of this data collection.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-06",
+      "topic": "AI"
+    },
+    {
+      "title": "Reddit Uses LLMs to Combat AI-Generated Spam",
+      "body": "Reddit is fighting spam created by large language models using AI itself. The platform must adapt quickly as LLMs generate increasingly sophisticated content.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-06",
       "topic": "AI"
@@ -166,115 +187,87 @@
       "topic": "AI"
     },
     {
-      "title": "Mistral AI: OpenAI's Growing French Competitor",
-      "body": "Mistral AI offers open-source AI models with ambitious funding since 2023. The startup aims to democratize frontier AI for everyone.",
+      "title": "Mistral AI Challenges OpenAI With Open Source Models",
+      "body": "Mistral AI has raised significant funding since its 2023 launch with ambitions to democratize frontier AI. The company positions itself as a direct competitor to OpenAI.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-04",
       "topic": "AI"
     },
     {
-      "title": "AI Glossary: Essential Terms for 2026",
-      "body": "The AI boom has flooded the market with new terminology and jargon. This guide defines the most important AI words and phrases you'll encounter.",
+      "title": "Midjourney Demands Hollywood Studios Reveal AI Usage",
+      "body": "Midjourney is seeking to compel three studios to disclose their own AI usage in an ongoing legal dispute. The move highlights growing scrutiny around AI adoption in entertainment.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-04",
+      "topic": "AI"
+    },
+    {
+      "title": "Alibaba Bans Claude Code as High-Risk Software",
+      "body": "Alibaba has classified Anthropic's Claude Code as high-risk and banned employee usage. The move signals growing corporate caution around third-party AI tools.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-04",
+      "topic": "AI"
+    },
+    {
+      "title": "Essential AI Glossary for 2026 Coverage",
+      "body": "The explosion of AI terminology requires a comprehensive guide to key terms and phrases. This glossary breaks down the most important AI vocabulary.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-03",
       "topic": "AI"
     },
     {
-      "title": "Zuckerberg: AI Agents Progressing Slower Than Expected",
-      "body": "Meta's CEO told staff that AI development efforts aren't advancing as quickly as anticipated. The company faces delays in AI agent rollout.",
+      "title": "Mark Zuckerberg: AI Agent Progress Slower Than Expected",
+      "body": "Meta's CEO told staff that AI development efforts are not advancing as quickly as anticipated. The admission suggests challenges in achieving near-term AI agent capabilities.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-02",
       "topic": "AI"
     },
     {
-      "title": "Meta Launches AI Game Generator Pocket App",
-      "body": "Meta quietly released Pocket, an experimental AI app generating interactive mini-games from text prompts. Users can share their AI-created games with others.",
+      "title": "Meta Launches Pocket: AI-Powered Gaming App",
+      "body": "Meta quietly released Pocket, an experimental app that generates interactive mini-games from text prompts. The tool demonstrates AI's expanding role in creative content generation.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-02",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Partners With Samsung on Custom AI Chip",
-      "body": "Anthropic is developing a custom AI chip with Samsung, joining the trend of major AI companies building their own hardware. This follows OpenAI's recent chip announcement.",
+      "title": "Anthropic and Samsung Discuss Custom AI Chip",
+      "body": "Anthropic is exploring custom chip development with Samsung, following OpenAI's recent chip partnership announcement. The trend shows AI companies reducing dependence on commodity hardware.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-02",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Proposes Public Equity Stake in Company",
-      "body": "Sam Altman suggested giving 5% of OpenAI's equity to a U.S. sovereign wealth fund. The proposal would let the public share in AI wealth creation.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02",
-      "topic": "AI"
-    },
-    {
-      "title": "Microsoft Launches AI Deployment Company",
-      "body": "Microsoft committed $2.5 billion to a new AI deployment group, joining Amazon and OpenAI in the infrastructure race. The company aims to accelerate enterprise AI adoption.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02",
-      "topic": "AI"
-    },
-    {
-      "title": "Indian Tech Billionaire Builds AI Office Alternative",
-      "body": "Bhavin Turakhia is investing $30 million of his own money into Neo, an AI-powered alternative to Microsoft Office and Google Workspace. His new venture targets the enterprise software market.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02",
-      "topic": "AI"
-    },
-    {
-      "title": "SpaceX Shows AI Device Prototype to Investors",
-      "body": "SpaceX reportedly demonstrated a handset-like AI device to investors before going public. The prototype signals SpaceX's interest in expanding into wireless communications.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-01",
-      "topic": "AI"
-    },
-    {
-      "title": "Achieving Operational Excellence With AI",
-      "body": "AI is transforming how companies approach operational efficiency beyond consumer chatbots. Modern frameworks combine machine learning with traditional business process management.",
+      "title": "Teaching AI to Optimize Wind Turbine Operations",
+      "body": "AI's most impactful applications are emerging in industrial infrastructure, not chatbots. Machine learning is revolutionizing energy production through real-time operational improvements.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-02",
       "topic": "AI"
     },
     {
-      "title": "Teaching AI to Run Power Turbines",
-      "body": "AI is moving beyond chatbots into critical infrastructure management like wind turbines. Machine learning optimizes safety and operational continuity in physical systems.",
+      "title": "Startup Tackles LLM Groupthink Problem With New Tool",
+      "body": "A new startup is addressing how large language models fall into predictable, homogeneous responses. The solution aims to increase diversity and originality in AI outputs.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-02",
       "topic": "AI"
     },
     {
-      "title": "Startup Tackles LLM Groupthink Problem",
-      "body": "Large language models suffer from conformist outputs that lack diversity in thinking. A new startup is developing solutions to break AI systems out of groupthink patterns.",
+      "title": "Achieving Operational Excellence With AI Systems",
+      "body": "AI builds on frameworks like Lean Six Sigma to bring structured clarity to complex operations. Modern AI enables statistical rigor and process optimization at scale.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-02",
       "topic": "AI"
     },
     {
-      "title": "UK Regulator Warns of AI Arms Race in Finance",
-      "body": "Financial regulators flag an accelerating competition to deploy AI in financial services. The trend raises concerns about systemic risks and market stability.",
+      "title": "UK Financial Regulator Warns of AI Adoption Arms Race",
+      "body": "UK regulators are concerned about a competitive escalation in AI adoption among financial services firms. The trend could create systemic risks if left unmonitored.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-06",
       "topic": "AI"
     },
     {
-      "title": "Anthropic's Secret Claude Tracker Revealed",
-      "body": "Users discovered Anthropic deployed tracking mechanisms on Claude despite anti-surveillance rhetoric. The revelation contradicts the company's privacy-focused positioning.",
+      "title": "Secret Claude Tracker Revealed After Anthropic Statement",
+      "body": "A hidden tracker within Claude surprised users given Anthropic's public anti-surveillance positioning. The discovery raises questions about privacy practices at leading AI companies.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-06",
-      "topic": "AI"
-    },
-    {
-      "title": "Midjourney Demands Hollywood Studios Disclose AI Use",
-      "body": "Midjourney is suing three Hollywood studios and seeking disclosure of their AI usage practices. The legal action is part of an ongoing dispute over AI training data.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-04",
-      "topic": "AI"
-    },
-    {
-      "title": "Alibaba Classifies Claude Code as High-Risk",
-      "body": "Alibaba reportedly banned employees from using Anthropic's Claude Code tool. The Chinese tech giant views the AI coding assistant as a security concern.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-04",
       "topic": "AI"
     }
   ]
