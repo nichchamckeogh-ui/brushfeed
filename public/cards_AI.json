@@ -1,301 +1,315 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-07-08T18:36:36.342Z",
-  "cardCount": 42,
+  "generatedAt": "2026-07-09T06:43:33.326Z",
+  "cardCount": 44,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Google Photos Launches AI Video Remix Tool",
-      "body": "Google Photos introduces Video Remix, an AI feature that applies cinematic relighting, swaps backgrounds, and adds artistic styles to videos. The tool enhances dark clips and enables creative video editing directly in the app.",
+      "title": "Lovable Seeks $13.2B Valuation in New Funding",
+      "body": "The AI startup is reportedly in talks to double its valuation through a $300 million round led by Menlo Ventures. The funding would bring Lovable to a $13.2 billion valuation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-08",
       "topic": "AI Update"
     },
     {
-      "title": "Video Games Better Training Data Than Internet",
-      "body": "A CEO argues that video game data surpasses internet data for achieving AGI, as models like ChatGPT excel at text but struggle with spatial and temporal reasoning. Games provide superior training for understanding how objects move through space.",
+      "title": "Google's Deepfake Detector Debunks McConnell Hoax",
+      "body": "Google's AI system identified a fabricated image showing Senator Mitch McConnell in distress as an AI-generated deepfake. The detection demonstrates growing capability to combat election-related misinformation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-08",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Adds Privacy Safeguard to AI Glasses",
-      "body": "Meta implements new safeguards to prevent secret recording with its AI glasses. The update conflicts with reports of the company expanding personal data collection for AI products.",
+      "title": "SpaceX Releases Grok 4.5 AI Model",
+      "body": "Elon Musk's company launched Grok 4.5, an 'Opus-class model' positioning itself as cheaper and more efficient. The release offers a competitive alternative to leading AI models from other labs.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-08",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Releases Advanced Voice Models",
-      "body": "OpenAI launches new voice models enabling simultaneous speaking and listening for natural conversations. The feature supports live translation and more intuitive voice interactions.",
+      "title": "General Intuition Bets Gaming Data Powers Robotics AI",
+      "body": "The startup is leveraging millions of hours of video game data to train foundation models for physical AI systems. The approach aims to enable smarter robots with minimal real-world training data.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-08",
       "topic": "AI Update"
     },
     {
-      "title": "Prime Intellect Raises $130M Series A",
-      "body": "Prime Intellect secures $130M Series A funding to help enterprises build proprietary AI agents. The startup aims to reduce organizational reliance on frontier AI labs.",
+      "title": "Google Photos Introduces AI Video Remix Tool",
+      "body": "The new feature applies cinematic relighting, background replacement, and artistic styles to video clips. Google Photos users can now enhance video content directly within the app.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-08",
       "topic": "AI Update"
     },
     {
-      "title": "AI Startups Growing at Record Speeds",
-      "body": "Fast-growing AI startups are accelerating revenue growth at unprecedented rates. The sector continues to attract capital and talent at scale.",
+      "title": "Video Games Over Internet for AGI Training",
+      "body": "General Intuition's CEO argues that large language models lack spatial-temporal understanding needed for AGI. Gaming data provides better training material than text-based internet data for physical reasoning.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-08",
       "topic": "AI Update"
     },
     {
-      "title": "Gaming Data Key to AGI Development",
-      "body": "A Bezos-backed startup argues gaming data is essential for AGI, as LLMs lack spatial-temporal reasoning. Video games provide superior training compared to internet text.",
+      "title": "Meta Adds Recording Safeguard to AI Glasses",
+      "body": "The company implemented new protections to prevent secret recording with its AI glasses. The move contrasts with Meta's expanding data collection practices across AI products.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-08",
       "topic": "AI Update"
     },
     {
-      "title": "Former OpenAI Exec Joins Stoke Space",
-      "body": "Kevin Weil, ex-OpenAI executive, joins the board of reusable rocket company Stoke Space. His appointment signals growing Silicon Valley interest in space technology.",
+      "title": "OpenAI Launches New Voice Models for Live Conversations",
+      "body": "The updated voice mode enables simultaneous speaking and listening capabilities. The technology supports live translation and more natural real-time interactions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-08",
       "topic": "AI Update"
     },
     {
-      "title": "ZML Releases Free AI Inference Software",
-      "body": "French AI startup ZML, backed by Turing Award winner Yann LeCun, releases ZML/LLMD to reduce inference costs. The free software optimizes AI performance across multiple chips.",
+      "title": "Prime Intellect Raises $130M for Enterprise AI Agents",
+      "body": "The 2024-founded startup secured Series A funding to help organizations build proprietary AI agent systems. Prime Intellect aims to reduce enterprise dependence on frontier AI labs.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Fast-Growing AI Startups Accelerating Revenue Growth",
+      "body": "Multiple AI startups are demonstrating accelerating growth rates in revenue generation. The trend highlights increasing momentum in the AI startup ecosystem.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Bezos-Backed Startup Leverages Gaming Data for AGI",
+      "body": "General Intuition uses gaming data to address LLM limitations in spatial-temporal reasoning. The approach differs from traditional large language model training methodologies.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Former OpenAI Executive Joins Stoke Space Board",
+      "body": "Kevin Weil, previously at OpenAI, took a board position at rocket reuse company Stoke Space. The move signals growing tech industry interest in reusable rocket technology.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "French Startup ZML Releases Free AI Inference Software",
+      "body": "ZML, endorsed by Turing Award winner Yann LeCun, released ZML/LLMD to reduce AI inference costs. The software optimizes performance across multiple AI chip architectures.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-08",
       "topic": "AI Update"
     },
     {
       "title": "SambaNova Raises $1B at $11B Valuation",
-      "body": "AI chip maker SambaNova reaches $11B valuation in new funding, just months after raising a mega round. The company's rapid growth surpasses prior Intel acquisition rumors.",
+      "body": "The AI chip maker completed another mega-round just five months after previous funding. The valuation jump comes amid speculation of potential acquisition interest.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-08",
       "topic": "AI Update"
     },
     {
       "title": "Meta Launches Muse Image Generator",
-      "body": "Meta releases Muse Image, a new AI image generator for advertising and creative applications. Users express concerns about unauthorized use of their photos in training.",
+      "body": "The new image generation model supports advertising, decoration, and creator opportunities. Users are raising concerns about the use of their photos in training data.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-07",
       "topic": "AI Update"
     },
     {
-      "title": "Open Source AI Growth Doesn't Hurt Anthropic",
-      "body": "Open source models and frontier labs capture different phases of the same AI lifecycle. Anthropic's success remains unimpacted by open source competition.",
+      "title": "Open Source AI Success Not Hurting Anthropic",
+      "body": "Open source models and frontier labs appear to operate in complementary lifecycle phases. Competition between open and closed approaches hasn't eroded Anthropic's market position.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-07",
       "topic": "AI Update"
     },
     {
-      "title": "Microsoft Cuts AI Spending With Own Models",
-      "body": "Microsoft joins industry trends by reducing AI spending and relying more on proprietary models. The shift reflects broader cost optimization across Silicon Valley.",
+      "title": "Microsoft Cuts AI Spending With Proprietary Models",
+      "body": "The tech giant is reducing reliance on external AI services by scaling its own models. Microsoft joins other Silicon Valley companies in cost-cutting AI initiatives.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-07",
       "topic": "AI Update"
     },
     {
-      "title": "Discord Admits AI Moderation Bug Bans Users",
-      "body": "Discord confirms an AI moderation error wrongfully banned users over harmless images since May. The company fixed the bug after an additional 200 weekend bans.",
+      "title": "Discord's AI Moderation Bug Wrongfully Banned Users",
+      "body": "The company confirmed that a moderation error affected accounts since May, with 200 additional users banned over the weekend. Discord identified and resolved the issue affecting harmless image detection.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-07",
       "topic": "AI Update"
     },
     {
       "title": "Claude Cowork Expands to Mobile and Web",
-      "body": "Anthropic's Claude Cowork now supports mobile and web platforms for seamless task continuity. Users can start work on desktop, check updates on phones, and continue later.",
+      "body": "Users can now start AI-assisted tasks on desktop and monitor progress across mobile and web platforms. The cross-device functionality enables continued workflow even when laptops are closed.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-07",
       "topic": "AI Update"
     },
     {
-      "title": "Savi App Protects Against AI Voice Scams",
-      "body": "Savi raises $7M seed funding to combat realistic AI scams including deepfake kidnapping demands. The app launches Tuesday for iPhone and Android.",
+      "title": "Savi Launches App to Detect AI Voice Scams",
+      "body": "The startup raised $7 million in seed funding to protect consumers from realistic AI-generated kidnapping hoaxes. The app launches Tuesday on iPhone and Android platforms.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-07",
       "topic": "AI Update"
     },
     {
-      "title": "American Autonomous Vehicles Fight in Ukraine",
-      "body": "Forterra deploys over 100 self-driving ATVs in Ukrainian conflict zones. The deployment marks significant adoption of autonomous ground vehicles in active combat.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-07",
-      "topic": "AI Update"
-    },
-    {
-      "title": "First AI Ransomware Attack Required Humans",
-      "body": "An AI agent executed a real ransomware attack's technical phase, but humans chose the victim and supplied credentials. The attack wasn't fully autonomous despite initial reports.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "SK Hynix Eyes US IPO Amid AI Boom",
-      "body": "Memory maker SK Hynix plans a multibillion-dollar US IPO Friday, capitalizing on AI-driven demand. The company rides the semiconductor boom to major market expansion.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Vercel CEO Discusses Model-Agent Separation",
-      "body": "Vercel's Guillermo Rauch emphasizes price-performance optimization in separating AI models from agents. Production deployment requires rethinking how models and agents interact.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Photos Adds AI Video Remix Tool",
-      "body": "Google's new AI feature applies cinematic relighting, swaps backgrounds, and adds artistic styles to videos. The tool enhances video content creation with intelligent visual transformations.",
+      "title": "Lovable in talks to double valuation to $13.2B",
+      "body": "The AI startup is reportedly raising a $300 million round led by Menlo Ventures. This would nearly double Lovable's valuation in a competitive AI funding landscape.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-08",
       "topic": "AI"
     },
     {
-      "title": "Video Games Better Training Data Than Internet",
-      "body": "A CEO argues that gaming data surpasses internet text for achieving AGI. Large language models like ChatGPT excel at text but struggle understanding spatial and temporal movement.",
+      "title": "Google's deepfake detector debunks McConnell hoax",
+      "body": "Google's AI system identified an AI-generated image falsely depicting Senator Mitch McConnell in distress. The technology successfully prevented misinformation from spreading.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-08",
       "topic": "AI"
     },
     {
-      "title": "Meta AI Glasses Get New Privacy Safeguard",
-      "body": "Meta is adding protections to prevent secret recording with its AI glasses. The update arrives amid concerns about the company's expanding personal data collection for AI.",
+      "title": "SpaceX releases Grok 4.5 as Opus-class model",
+      "body": "Elon Musk's company unveiled the latest version of Grok, positioning it as a cheaper, more efficient alternative to competing AI models. The release continues the arms race among frontier AI labs.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-08",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Releases Natural Voice Conversation Models",
-      "body": "OpenAI's new voice mode enables simultaneous speaking and listening for live translation. The advancement supports real-time conversational AI interactions.",
+      "title": "General Intuition bets on video game data for robotics AI",
+      "body": "The startup is using millions of hours of video game footage to train foundation models for physical AI. This approach could enable smarter robots with minimal real-world training data.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-08",
       "topic": "AI"
     },
     {
-      "title": "Prime Intellect Raises $130M for Enterprise AI",
-      "body": "Prime Intellect secured Series A funding to help organizations build their own agentic AI systems. The startup aims to reduce enterprise dependency on frontier AI labs.",
+      "title": "Google Photos launches AI video remixing tool",
+      "body": "The new feature uses AI to apply cinematic effects, swap backgrounds, and add artistic styles to videos. Users can brighten dark footage or enhance clips with new visual treatments.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-08",
       "topic": "AI"
     },
     {
-      "title": "Fast-Growing AI Startups Accelerate Revenue Growth",
-      "body": "Several AI startups are experiencing unprecedented revenue acceleration. The sector shows increasingly rapid growth trajectories across multiple ventures.",
+      "title": "Video games hold key to achieving AGI",
+      "body": "Industry leaders argue that large language models like ChatGPT lack spatial reasoning skills needed for artificial general intelligence. Video game data offers superior training for understanding physical movement and time.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-08",
       "topic": "AI"
     },
     {
-      "title": "ZML Releases Free AI Inference Acceleration Software",
-      "body": "French AI startup ZML released ZML/LLMD to reduce AI inference costs across various chips. The software was endorsed by Turing Award winner Yann LeCun.",
+      "title": "Meta adds safeguards to AI glasses while expanding data collection",
+      "body": "Meta introduced new protections to prevent secret recording with its AI glasses. The update contrasts with the company's broader strategy of expanding personal data usage for AI products.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-08",
       "topic": "AI"
     },
     {
-      "title": "SambaNova Raises $1B at $11B Valuation",
-      "body": "AI chip maker SambaNova achieved an $11 billion valuation in its latest funding round. The raise comes months after Intel reportedly considered acquiring the company.",
+      "title": "OpenAI releases voice models for live conversations",
+      "body": "The new voice mode can speak and listen simultaneously, enabling real-time translation capabilities. This represents a significant advancement in conversational AI technology.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-08",
       "topic": "AI"
     },
     {
-      "title": "Meta Launches Muse Image AI Generator",
-      "body": "Meta released Muse Image for generating creative content in advertising and decoration. Users have raised concerns about the model's use of their photos.",
+      "title": "Prime Intellect raises $130M to democratize AI agent building",
+      "body": "The Series A funding will help enterprises build their own agentic systems without relying on frontier AI labs. Prime Intellect aims to reduce dependence on OpenAI and similar companies.",
       "source": "TechCrunch",
-      "publishedAt": "2026-07-07",
+      "publishedAt": "2026-07-08",
       "topic": "AI"
     },
     {
-      "title": "Open Source AI Growth Not Hurting Anthropic",
-      "body": "Open source AI models and frontier labs capture different phases of the AI lifecycle. Competition isn't eroding Anthropic's market position.",
+      "title": "AI startups accelerate revenue growth rates",
+      "body": "A cohort of fast-growing AI companies is expanding revenue at increasingly rapid rates. The trend reflects strong enterprise demand for AI solutions.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-08",
+      "topic": "AI"
+    },
+    {
+      "title": "ZML releases free inference software for AI cost reduction",
+      "body": "The French AI startup endorsed by Turing Award winner Yann LeCun released ZML/LLMD to optimize AI inference across multiple chip types. The tool could significantly lower operational costs for AI deployment.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-08",
+      "topic": "AI"
+    },
+    {
+      "title": "SambaNova raises $1B at $11B valuation",
+      "body": "The AI chip maker secured mega-round funding just 5 months after its previous investment. The valuation increase comes amid intense competition in the AI infrastructure space.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-08",
+      "topic": "AI"
+    },
+    {
+      "title": "Meta launches Muse Image generator amid privacy concerns",
+      "body": "The new AI image generator has multiple use cases including advertising and creative applications. Users are already pushing back over Meta's use of their photos in training.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-07",
       "topic": "AI"
     },
     {
-      "title": "Microsoft Cuts AI Costs With Own Models",
-      "body": "Microsoft joined other Silicon Valley giants in reducing AI spending. The company is increasingly relying on its proprietary models.",
+      "title": "Open source AI doesn't hurt Anthropic yet",
+      "body": "Open source models and frontier labs like Anthropic are capturing different phases of the AI product lifecycle. Competition hasn't yet cannibalized revenue for premium AI providers.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-07",
       "topic": "AI"
     },
     {
-      "title": "Discord AI Moderation Bug Wrongfully Bans Users",
-      "body": "Discord's AI moderation incorrectly banned users over harmless images since May. The company fixed the bug after identifying 200 wrongful bans.",
+      "title": "Microsoft cuts AI spending by relying on own models",
+      "body": "The tech giant is reducing its dependence on external AI providers and building more in-house capabilities. The shift reflects broader industry trends toward cost optimization in AI spending.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-07",
       "topic": "AI"
     },
     {
-      "title": "Claude Cowork Expands to Mobile and Web",
-      "body": "Claude's AI collaboration tool now works seamlessly across desktop and mobile. Users can start tasks on one device and finish on another.",
+      "title": "Discord's AI moderation bug wrongfully bans users",
+      "body": "A flawed AI moderation system banned users over harmless images since May 2026. Discord identified and fixed the issue after 200 additional users were incorrectly banned.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-07",
       "topic": "AI"
     },
     {
-      "title": "Savi Protects Consumers From AI Voice Scams",
-      "body": "Savi raised $7 million to combat realistic AI-generated ransom scams. The app launches on iPhone and Android this week.",
+      "title": "Claude Cowork expands to mobile and web platforms",
+      "body": "Users can now start AI tasks on desktop and track progress across devices seamlessly. The expansion makes Anthropic's AI assistant more accessible in multi-device workflows.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-07",
       "topic": "AI"
     },
     {
-      "title": "AI-Run Ransomware Attack Still Needed Humans",
-      "body": "An AI agent executed a ransomware attack technically, but humans selected the victim and supplied credentials. The attack demonstrates partial AI autonomy in cybercrime.",
+      "title": "Savi app protects consumers from AI-powered scams",
+      "body": "The startup raised $7 million in seed funding to combat realistic AI scams including deepfake ransom calls. The app launches on iPhone and Android to detect AI-generated threats.",
       "source": "TechCrunch",
-      "publishedAt": "2026-07-06",
+      "publishedAt": "2026-07-07",
       "topic": "AI"
     },
     {
-      "title": "SK Hynix IPO Rides AI Memory Boom Wave",
-      "body": "SK Hynix is experiencing explosive growth driven by AI demand for memory chips. The South Korean company's multi-billion dollar U.S. IPO is imminent.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-06",
-      "topic": "AI"
-    },
-    {
-      "title": "Vercel CEO Discusses AI Models vs Agents Split",
-      "body": "Vercel's CEO highlights the importance of optimizing AI models and agents separately for production. Price and performance considerations drive this architectural approach.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-06",
-      "topic": "AI"
-    },
-    {
-      "title": "Treasury Warns on AI, OpenAI Wealth Sharing",
-      "body": "Sam Altman's proposal for Americans to share AI-generated wealth resurfaces in policy discussions. Treasury officials are examining the implications.",
+      "title": "Sam Altman's OpenAI wealth-sharing plan resurfaces",
+      "body": "Altman's proposal for Americans to share AI-generated wealth is back in the spotlight. The Financial Times recently covered the ongoing discussion about AI's economic benefits.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-07",
       "topic": "AI"
     },
     {
-      "title": "IT Leaders Must Scale AI Architecture Foundations",
-      "body": "Organizations are expanding AI use cases and moving toward agentic systems. IT leaders face challenges scaling infrastructure while managing emerging risks.",
+      "title": "IT leaders navigate AI architecture scaling challenges",
+      "body": "Rapid AI capability advances and the shift toward agentic systems require new organizational investments. IT leaders face uncertainty about which AI infrastructure decisions will remain valuable.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-07",
       "topic": "AI"
     },
     {
-      "title": "Android Bench Updated With New LLM Tests",
-      "body": "Google updated Android Bench to include new language model benchmarks. Gemini still lags behind competing AI models in performance.",
+      "title": "Ivy League professor uses in-person final to catch AI cheating",
+      "body": "A suspicious professor required students to complete exams on campus instead of remotely. Test scores dropped 50% in-person, suggesting widespread AI usage in remote assignments.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-08",
       "topic": "AI"
     },
     {
-      "title": "Hackers Exploit Popular AI Tools for Botnets",
-      "body": "Nine of the most popular AI tools can be exploited to build massive botnets. The discovery reveals significant security vulnerabilities in AI platforms.",
+      "title": "Man used Grok to generate child sexual abuse material",
+      "body": "A lawsuit alleges the defendant created 7,000 illegal images using SpaceX's AI model Grok. The case highlights growing misuse of generative AI tools for illegal purposes.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-08",
       "topic": "AI"
     },
     {
-      "title": "China's DeepSeek Plans Domestic AI Chip Production",
-      "body": "Facing U.S. export controls, DeepSeek is developing its own semiconductor chips. The move aims to maintain AI development capabilities independently.",
+      "title": "Google updates Android Bench with new LLMs",
+      "body": "Google's benchmarking tool now tests more large language models. Notably, Google's Gemini continues to underperform compared to competing models in various metrics.",
       "source": "Ars Technica",
-      "publishedAt": "2026-07-07",
+      "publishedAt": "2026-07-08",
+      "topic": "AI"
+    },
+    {
+      "title": "Hackers use popular AI tools to assemble botnets",
+      "body": "Security researchers found that 9 of the most widely-used AI platforms can be exploited to create massive botnet networks. The vulnerability reveals significant security gaps in frontier AI systems.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-07-08",
       "topic": "AI"
     }
   ]
