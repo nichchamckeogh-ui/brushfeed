@@ -1,301 +1,280 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-07-09T18:42:36.768Z",
-  "cardCount": 42,
-  "aiUpdateCount": 20,
+  "generatedAt": "2026-07-10T06:28:41.032Z",
+  "cardCount": 39,
+  "aiUpdateCount": 19,
   "cards": [
     {
-      "title": "Google Discloses AI-Generated Ads",
-      "body": "Google will now indicate when advertisers use generative AI tools to create or edit ads. This new transparency feature helps users identify AI-generated advertising content.",
+      "title": "OpenAI's GPT-5.6 Powers Microsoft Copilot 365",
+      "body": "OpenAI announced that its new GPT-5.6 model family will continue powering Microsoft's workplace and productivity apps. The partnership continues despite recent leadership changes at OpenAI.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI's No. 2 Executive Fidji Simo Steps Down",
+      "body": "Fidji Simo has departed her full-time role as OpenAI's No. 2 after extended medical leave. The departure creates a leadership gap as OpenAI pursues an IPO and competes with Anthropic.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "Gradium Raises $100M Seed Round",
-      "body": "Paris-based AI voice startup Gradium announced a major seed extension round backed by Nvidia. The ElevenLabs competitor is expanding its voice AI capabilities.",
+      "title": "OpenAI Launches GPT-5.6 Model Family",
+      "body": "OpenAI unveiled its latest model family, GPT-5.6, with improvements across cybersecurity and other domains. The new models represent the company's continued advancement in AI capabilities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "Government AI Safety Review Unclear",
-      "body": "The specifics of government dialogue with OpenAI and Anthropic on frontier model safety remain murky. Questions persist about how agencies approved these model releases.",
+      "title": "AI Agent Startup Lyzr Raises $100M Using Own AI",
+      "body": "Lyzr used its own AI agent to manage a $100 million fundraising round, demonstrating real-world product viability. The startup builds enterprise AI agents for business automation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "Opt Out of Meta's AI Image Generator",
-      "body": "Meta's AI image generator uses public Instagram photos by default unless users opt out. Here's how to prevent your photos from being used.",
+      "title": "OpenAI Shutters Atlas Browser, Pivots to Desktop",
+      "body": "OpenAI is discontinuing its AI-powered browser after less than a year. Agentic browsing features are being integrated into the desktop app and a Chrome extension instead.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "Meta AI Chips Enter Production Phase",
-      "body": "Meta's custom AI chips will begin production in September. The company designed them modularly to adapt as AI needs rapidly evolve.",
+      "title": "Elon Musk Reassures Anthropic on Model Hosting",
+      "body": "Musk promised not to 'cut off' Anthropic while hosting its models, with $40 billion in revenue at stake. The guarantee aims to build trust as Anthropic considers infrastructure partnerships.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia Faces Compute Marketplace Competition",
-      "body": "Nvidia created the valuable compute market but now faces intense competition. Simpler technologies and less flashy companies are gaining market share.",
+      "title": "Meta Launches Muse Spark 1.1 AI Coding Tool",
+      "body": "Meta entered the AI coding market with Muse Spark 1.1, designed to handle large agentic workloads and code migrations. The tool targets enterprises automating complex development tasks.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic's Claude Reflects on AI Adoption",
-      "body": "Claude's new Reflect dashboard visualizes user AI usage patterns. The feature subtly reinforces how dependent daily work has become on Anthropic's chatbot.",
+      "title": "New York Times Accuses OpenAI of Evidence Hiding",
+      "body": "Publishers claim OpenAI concealed tools and datasets identifying copyrighted content in ChatGPT outputs. The allegation escalates the ongoing copyright litigation with a sanctions motion.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "Three AI IPOs Eclipse 25 Years of Exits",
-      "body": "Anthropic, OpenAI, and SpaceX IPOs will generate more value than all U.S. VC-backed exits since 2000. This represents unprecedented AI company valuations.",
+      "title": "Google Requires AI Disclosure in Ads",
+      "body": "Google expanded AI disclosure requirements beyond elections to all ads using synthetic content. Publishers must now transparently label AI-generated or digitally altered creative materials.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
+    },
+    {
+      "title": "Gradium Raises $100M Seed for AI Voice Tech",
+      "body": "Paris-based Gradium secured $100 million in seed funding backed by Nvidia to expand to the Bay Area. The company is positioning itself at the center of the global AI ecosystem.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Government Safety Review Process for AI Unclear",
+      "body": "Details remain vague about how government agencies evaluated frontier AI models before release. Transparency around OpenAI and Anthropic safety dialogues with regulators is still limited.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Instagram Users Can Opt Out of AI Training",
+      "body": "Meta's Muse Image allows users to generate AI images using public Instagram photos without explicit consent. Users can now control whether their public photos are used for AI image generation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta's Custom AI Chips Begin Production September",
+      "body": "Meta announced production launch for its new AI chips starting September. The modular design approach anticipates rapid AI evolution and changing computational needs.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nvidia Faces Competition in Compute Marketplace",
+      "body": "Nvidia created a valuable compute market but now faces competition from rivals and simpler technologies. The company's dominance is being challenged by emerging players in the marketplace.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic's Claude Reflect Dashboard Analyzed",
+      "body": "Claude's new Reflect dashboard visualizes AI usage patterns while subtly increasing user dependency. The feature reinforces how integral Anthropic's chatbot has become to daily workflows.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Three AI IPOs Dwarf 25 Years Tech Exits",
+      "body": "Anthropic, OpenAI, and SpaceX IPOs are projected to exceed all U.S. VC-backed exits since 2000. The AI boom is generating unprecedented valuation and wealth creation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Ollama Raises $65M, Reaches 9M Users",
+      "body": "Benchmark-backed Ollama achieved nearly 9 million users and 176,000 GitHub stars helping developers run AI locally. The open-source tool has amassed significant developer adoption and community support.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Character.AI Launches Original Productions With Chat",
+      "body": "Character.AI expanded into original microdrama productions where users can chat and roleplay with characters. The platform leverages its core technology for interactive entertainment experiences.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nandan Nilekani Exits GP Role, Launches Fund",
+      "body": "Nilekani stepped down as general partner at Fundamentum while remaining anchor investor. The firm launched a $200 million third fund targeting AI and fintech startups in India.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI's GPT-5.6 Powers Microsoft Copilot 365",
+      "body": "OpenAI's new model family will continue powering Microsoft's workplace productivity suite despite breakup speculation. The partnership reinforces OpenAI's position in enterprise applications.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-10",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI's No. 2 Executive Steps Down",
+      "body": "Fidji Simo is leaving her full-time role after extended medical leave. The departure creates leadership uncertainty as OpenAI pursues an IPO and competes with Anthropic.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI Launches GPT-5.6 Model Family",
+      "body": "The latest models promise improvements in cybersecurity and other critical areas. OpenAI continues expanding its competitive advantage in AI capabilities.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Agent Startup Raises $100M Using AI",
+      "body": "Lyzr used its own AI agent to conduct its entire $100 million fundraise round. The self-execution demonstrates the practical value of the company's enterprise AI product.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI Shuts Down Atlas Browser",
+      "body": "OpenAI is discontinuing its AI-powered browser after less than a year. Agentic browsing features are migrating to its desktop app and Chrome extension.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
+    },
+    {
+      "title": "Meta Launches Muse Spark 1.1 for Coding",
+      "body": "Meta's new AI model handles large agentic workloads, bug fixes, and code migrations for enterprises. The tool competes in the crowded AI coding assistance market.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
+    },
+    {
+      "title": "New York Times Escalates OpenAI Copyright Case",
+      "body": "Publishers claim OpenAI hid tools and datasets identifying copyrighted journalism in ChatGPT outputs. The motion for sanctions escalates the high-stakes copyright litigation.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Requires AI Disclosure in Ads",
+      "body": "Google now mandates disclosure when ads contain AI-generated or digitally altered synthetic content. The policy previously applied only to election advertising.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
+    },
+    {
+      "title": "Gradium AI Raises $100M Seed Round",
+      "body": "Nvidia-backed voice AI startup Gradium secured $100 million to open a Bay Area office. The Paris-based company is competing for top AI talent globally.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
+    },
+    {
+      "title": "Meta's AI Chips Begin Production September",
+      "body": "Meta is taking a modular approach to custom AI chip design for flexibility. The strategy anticipates rapid changes in AI requirements during production.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic's Claude Reflect Dashboard Launches",
+      "body": "The new feature visualizes AI usage patterns while subtly promoting Claude's integration into daily work. Anthropic uses behavioral psychology to reinforce user dependency.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
+    },
+    {
+      "title": "AI IPOs Set to Exceed 25 Years of Tech",
+      "body": "Anthropic, OpenAI, and SpaceX IPOs are projected to generate more value than all US VC-backed exits since 2000. Three major AI companies are reshaping the investment landscape.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
     },
     {
       "title": "Ollama Raises $65M, Hits 9M Users",
-      "body": "Benchmark-backed Ollama reached nearly 9 million users by enabling developers to run AI locally on PCs. The open-source tool has amassed 176,000 GitHub stars.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Character.AI Launches Interactive Microdrama Series",
-      "body": "Character.AI entered content production with shows users can interact with in real-time. Viewers can chat with characters, ask questions, and roleplay storylines.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Fundamentum Launches $200M Third Fund",
-      "body": "Nandan Nilekani stepped back from his GP role as Fundamentum expands leadership. The fund targets AI and fintech startups across India.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Lovable Seeks $13.2B Valuation Doubling",
-      "body": "AI development platform Lovable is in talks to double its valuation to $13.2 billion. The $300 million round is reportedly led by Menlo Ventures.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Deepfake Detector Debunks McConnell Hoax",
-      "body": "Google's deepfake detection system identified an AI-generated image of Senator Mitch McConnell. The fabricated hospital image was successfully debunked using the technology.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "SpaceX Releases Grok 4.5 Model",
-      "body": "SpaceX AI released Grok 4.5, an 'Opus-class' model according to Elon Musk. The model promises cheaper, more efficient performance than competing AI systems.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "General Intuition Bets on Robotics AI",
-      "body": "General Intuition believes robotics is approaching its 'ChatGPT moment' using video game training data. The startup aims to build smarter robots with minimal real-world data.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Photos Adds AI Video Remix",
-      "body": "Google Photos launched an AI 'Video Remix' tool for cinematic editing. Features include relighting, background swaps, and artistic style application to videos.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Video Games Better Than Internet Training Data",
-      "body": "A CEO argues video game data outperforms internet data for AGI training. Large language models excel at text but struggle with spatial reasoning.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta AI Glasses Privacy Contradiction Revealed",
-      "body": "Meta added safeguards to prevent secret recording with AI glasses but expands personal data collection. The company's privacy approach contradicts its safety messaging.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Releases Advanced Voice Models",
-      "body": "OpenAI unveiled new voice models supporting simultaneous speaking and listening. The dual-function capability enables real-time translation and natural conversations.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Prime Intellect Raises $130M Series A",
-      "body": "Prime Intellect secured $130 million to help enterprises build custom AI agents. The startup enables organizations to train agentic systems independently from frontier labs.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Discloses AI-Generated Ads",
-      "body": "Google is adding a new feature to indicate when advertisers use generative AI tools to create or edit ads. This transparency measure aims to help users understand which ads are AI-generated.",
+      "body": "The open-source AI developer tool amassed 176,000 GitHub stars enabling local LLM execution. Benchmark's backing fuels growth in accessible AI development.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
-      "title": "Gradium Raises $100M Seed Round",
-      "body": "Paris-based AI voice startup Gradium announced a massive seed extension backed by Nvidia. The company competes directly with ElevenLabs in the voice AI space.",
+      "title": "Character.AI Launches Interactive Productions",
+      "body": "Users can chat with and roleplay as characters from Character.AI's new shows. The platform leverages its chatbot core for entertainment storytelling.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
-      "title": "Government AI Safety Oversight Questioned",
-      "body": "The exact nature of government oversight on frontier AI models remains unclear. Questions linger about how OpenAI and Anthropic coordinate safety reviews with regulators.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta AI Image Generator Privacy Controls",
-      "body": "Meta's new AI image generator uses public Instagram photos by default. Users can now opt out to prevent their photos from training the system.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta Custom AI Chips Enter Production",
-      "body": "Meta's custom AI chips will begin production in September with a modular design approach. The company anticipates its AI needs will evolve rapidly during chip development.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic Claude Reflect Dashboard Launches",
-      "body": "Anthropic unveiled Claude's Reflect dashboard showing how users interact with the AI chatbot. The feature subtly reinforces daily reliance on Claude for work tasks.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Giants Poised for Massive IPOs",
-      "body": "Anthropic, OpenAI, and SpaceX IPOs are expected to generate more value than all US VC-backed exits since 2000. Three companies alone could reshape startup valuations.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Ollama Raises $65M, Hits 9M Users",
-      "body": "Open-source AI tool Ollama secured $65M funding backed by Benchmark. The platform helps developers easily run AI models on personal computers.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Character.AI Creates Interactive Productions",
-      "body": "Character.AI launched original microdrama productions where users can chat with characters. The platform lets viewers roleplay different storylines within shows.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Google's Deepfake Detector Debunks Hoax",
-      "body": "Google's deepfake detection system identified a fabricated image of Senator Mitch McConnell as AI-generated. The tool helped expose the misleading image circulating online.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-08",
-      "topic": "AI"
-    },
-    {
-      "title": "SpaceX Releases Grok 4.5 Model",
-      "body": "SpaceX AI released Grok 4.5, described by Elon Musk as an 'Opus-class model.' The system promises cheaper and more efficient performance than competing AI models.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-08",
-      "topic": "AI"
-    },
-    {
-      "title": "Video Games Train Robotics Foundation Models",
-      "body": "General Intuition is using millions of hours of video game data to train physical AI foundation models. The approach could reduce reliance on real-world robot data collection.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-08",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Photos Adds Video Remix Tool",
-      "body": "Google Photos launched a new AI 'Video Remix' feature with cinematic relighting and artistic style options. The tool can brighten dark clips and swap backgrounds automatically.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-08",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI Releases New Voice Models",
-      "body": "OpenAI launched new voice models enabling simultaneous speaking and listening for live conversations. The advancement unlocks real-time translation capabilities.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-08",
-      "topic": "AI"
-    },
-    {
-      "title": "Prime Intellect Raises $130M Series A",
-      "body": "Prime Intellect secured $130M to help enterprises build custom AI agents. The 2024-founded startup enables organizations to train agentic systems independently.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-08",
-      "topic": "AI"
-    },
-    {
-      "title": "Lovable Doubles Valuation to $13.2B",
-      "body": "AI startup Lovable is in talks to raise $300 million led by Menlo Ventures. The round would double the company's valuation significantly.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-08",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Scaling Architecture Foundations Discussed",
-      "body": "IT leaders must plan AI architecture investments as agentic systems expand organizational use cases. Rapid AI evolution introduces both opportunities and risks for enterprise deployment.",
+      "title": "Anthropic Discovers Hidden LLM Processing Spaces",
+      "body": "Anthropic developed a technique revealing internal LLM operations during reasoning and task execution. The findings range from mundane computational patterns to concerning behaviors.",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-07-07",
+      "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
-      "title": "Sam Altman's $300 Stake Proposal",
-      "body": "Sam Altman continues promoting his plan for Americans to share in AI-generated wealth. OpenAI's CEO argues citizens deserve stakes in AI prosperity.",
+      "title": "Sam Altman Pitches AI Wealth Sharing Plan",
+      "body": "OpenAI's CEO renewed his proposal for Americans to share in AI-generated wealth creation. The $300 per-family stake concept resurfaced in policy discussions.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-06",
       "topic": "AI"
     },
     {
-      "title": "Ivy League Prof Suspects AI Cheating",
-      "body": "A professor ordered an in-person final exam after suspecting widespread AI cheating in class. Test scores dropped 50% when students took the exam without AI access.",
+      "title": "OpenAI Develops Collaborative Work Assistant",
+      "body": "OpenAI's new tool works alongside users to enhance productivity rather than replace work. The approach emphasizes human-AI collaboration over full automation.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
+    },
+    {
+      "title": "Ivy League Prof Suspects AI Cheating on Exams",
+      "body": "An in-person final exam requirement caused exam scores to drop 50% after suspected AI cheating. The dramatic gap revealed potential academic integrity issues with remote testing.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-08",
       "topic": "AI"
     },
     {
-      "title": "Lawsuit: Grok Used for Illegal Images",
-      "body": "A man allegedly used Grok to generate over 7,000 sexual images of his stepdaughter. The case raises questions about AI safety guardrails and content generation.",
+      "title": "Man Allegedly Used Grok to Create Abuse Images",
+      "body": "A lawsuit claims an individual used Elon Musk's Grok AI to generate approximately 7,000 sexual abuse images. The incident raises serious concerns about AI safety guardrails.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-08",
       "topic": "AI"
     },
     {
-      "title": "Google Updates Android Bench LLMs",
-      "body": "Google updated Android Bench with new large language model tests. Gemini still trails behind competing AI models in benchmark performance.",
+      "title": "OpenAI May Have Undermined Copyright Defense",
+      "body": "OpenAI potentially made strategic errors in its copyright litigation with news organizations. The misstep could prove fatal to the company's legal position.",
       "source": "Ars Technica",
-      "publishedAt": "2026-07-08",
-      "topic": "AI"
-    },
-    {
-      "title": "Hackers Exploit AI Tools for Botnets",
-      "body": "Nine popular AI tools can be exploited by hackers to assemble massive botnets. The vulnerability demonstrates security risks in widely-used AI platforms.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-07-08",
+      "publishedAt": "2026-07-09",
       "topic": "AI"
     }
   ]
