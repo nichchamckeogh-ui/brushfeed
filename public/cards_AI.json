@@ -1,265 +1,272 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-07-11T06:20:51.509Z",
-  "cardCount": 37,
-  "aiUpdateCount": 20,
+  "generatedAt": "2026-07-11T18:04:11.501Z",
+  "cardCount": 38,
+  "aiUpdateCount": 18,
   "cards": [
     {
-      "title": "Meta Removes Controversial AI Instagram Feature",
-      "body": "Meta discontinued an AI feature that referenced public Instagram content after user backlash. The company acknowledged the feature \"missed the mark\" despite intentions to provide creative control.",
+      "title": "OpenAI Expands ChatGPT for Family Users",
+      "body": "OpenAI is hiring a dedicated product manager to build ChatGPT experiences for families, caregivers, and older adults. The move signals the company's push to deepen household penetration beyond individual users.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta Removes Controversial Instagram AI Feature",
+      "body": "Meta has discontinued its AI image referencing feature on Instagram after user backlash. The company acknowledged the feature \"missed the mark\" despite intentions to provide creative control.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-10",
       "topic": "AI Update"
     },
     {
       "title": "Apple Sues OpenAI Over Trade Secrets",
-      "body": "Apple filed a lawsuit against OpenAI alleging trade secret theft directed by senior leadership. The suit names a longtime former employee as a key figure in the alleged misconduct.",
+      "body": "Apple has filed a lawsuit alleging OpenAI engaged in misconduct directed by senior leadership, including a former Apple employee. The dispute involves alleged trade secret theft.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-10",
       "topic": "AI Update"
     },
     {
-      "title": "Open Source AI Boom Accelerates Industry",
-      "body": "Hugging Face CEO reports open source AI is thriving, with the platform now used by roughly half the Fortune 500. The company has evolved into a GitHub-like hub for sharing models and datasets.",
+      "title": "Open Source AI Boom Accelerates Growth",
+      "body": "Hugging Face CEO Clem Delangue reports open source AI is thriving, with the platform now used by roughly half the Fortune 500. The company has become a GitHub-equivalent for AI model and dataset sharing.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-10",
       "topic": "AI Update"
     },
     {
-      "title": "SK Hynix Completes Record US IPO",
-      "body": "SK Hynix raised $26.5 billion in the largest foreign IPO in US history, marking a watershed moment for AI chip demand. The company and Samsung face pressure to build new US manufacturing facilities.",
+      "title": "SK Hynix Closes Record Foreign IPO",
+      "body": "SK Hynix raised $26.5 billion in the largest foreign IPO in U.S. history, marking the AI chip boom's biggest Wall Street moment. U.S. officials are urging the company to build domestic manufacturing facilities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-10",
       "topic": "AI Update"
     },
     {
-      "title": "Companies Stop Renting AI, Embrace Open Source",
-      "body": "Enterprise adoption of open source AI models is accelerating as companies seek ownership alternatives to proprietary solutions. Hugging Face reports Fortune 500 firms are increasingly downloading and deploying their own models.",
+      "title": "OpenAI's GPT-5.6 Powers Microsoft Copilot",
+      "body": "OpenAI announced GPT-5.6 will be the preferred model for Microsoft Copilot 365 across workplace and productivity apps. The partnership underscores continued collaboration despite IPO speculation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-10",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI GPT-5.6 Powers Microsoft Copilot 365",
-      "body": "OpenAI announced that GPT-5.6 serves as the preferred model for Microsoft Copilot 365 across workplace and productivity apps. The partnership continues despite ongoing speculation about potential company separation.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI's Number Two Executive Steps Down",
-      "body": "Fidji Simo is stepping down from her full-time No. 2 role after extended medical leave. The departure creates a leadership gap as OpenAI pursues an IPO and competes with Anthropic.",
+      "title": "OpenAI's No. 2 Executive Steps Down",
+      "body": "Fidji Simo is stepping down from her full-time role as OpenAI's No. 2 after extended medical leave. The departure creates leadership uncertainty as the company pursues an IPO and competes with Anthropic.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
       "title": "OpenAI Launches GPT-5.6 Model Family",
-      "body": "OpenAI released a new family of models featuring GPT-5.6 with improvements across cybersecurity and other domains. The release strengthens the company's competitive positioning in enterprise AI markets.",
+      "body": "OpenAI released its new GPT-5.6 family of models with improvements across cybersecurity and other domains. The launch strengthens the company's competitive position in the enterprise market.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "AI Startup Uses Agent for $100M Fundraise",
-      "body": "Lyzr leveraged its own AI agent to successfully raise a $100 million funding round. The achievement serves as real-world validation of the company's enterprise AI agent technology.",
+      "title": "AI Agent Startup Raises $100M Autonomously",
+      "body": "Lyzr, an enterprise AI agent startup, used its own AI agent to raise a $100 million funding round. The self-directed fundraise demonstrates the practical capabilities of agentic AI systems.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
       "title": "OpenAI Shuts Down Atlas Browser",
-      "body": "OpenAI is sunsetting its AI-powered Atlas browser after less than a year in operation. The company is migrating agentic browsing features to its desktop app and Chrome extension.",
+      "body": "OpenAI is discontinuing Atlas, its AI-powered browser, less than a year after launch. The company is migrating agentic browsing features to its desktop app and Chrome extension instead.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "Musk Promises Not to Cut Anthropic",
-      "body": "Elon Musk praised AI startup Mythos/Fable and assured Anthropic it won't be \"cut off\" from his hosting services. The statement addresses concerns about leveraging $40 billion in potential revenue.",
+      "title": "Musk Pledges Support for Anthropic Models",
+      "body": "Elon Musk praised Mythos and Fable, promising not to restrict Anthropic's model hosting. The reassurance addresses concerns about leveraging his infrastructure for competing AI companies.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "AI ROI Debate Intensifies With Bigger Stakes",
-      "body": "The question of AI return on investment has returned to center stage with even larger financial implications. The debate carries significant consequences for enterprise and investor decision-making.",
+      "title": "Meta Launches Muse Spark AI Coding Tool",
+      "body": "Meta entered the AI coding space with Muse Spark 1.1, focusing on handling large agentic workloads and code migrations. The tool targets enterprises increasingly relying on AI for automation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Launches Muse Spark 1.1 for Coding",
-      "body": "Meta entered the competitive AI coding market with Muse Spark 1.1, emphasizing handling large workloads and bug fixes. The tool targets enterprise automation needs like code migrations and complex refactoring.",
+      "title": "New York Times Alleges OpenAI Evidence Hidden",
+      "body": "The New York Times says OpenAI concealed tools and datasets identifying copyrighted journalism in ChatGPT outputs. The accusation escalates the copyright lawsuit with a new motion for sanctions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "NYT Alleges OpenAI Hid Copyright Evidence",
-      "body": "The New York Times filed a sanctions motion claiming OpenAI concealed tools and datasets identifying copyrighted journalism in ChatGPT. News publishers escalated their copyright infringement lawsuit with the new filing.",
+      "title": "Google Requires AI Ad Disclosure Labels",
+      "body": "Google will now mandate disclosure when ads contain AI-generated or digitally altered content. The policy expands previous election-only disclosure requirements across all ad categories.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "Google Mandates AI Disclosure in Ads",
-      "body": "Google will now require disclosure when ads contain AI-generated or digitally altered content. The requirement expands previous disclosure rules that applied only to election advertisements.",
+      "title": "Gradium Raises $100M Backed by Nvidia",
+      "body": "Paris-based AI voice startup Gradium closed a $100 million seed round with Nvidia backing. The funding will support a new Bay Area office to compete for top AI talent.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "Gradium Raises $100M Seed Backed by Nvidia",
-      "body": "Paris-based AI voice startup Gradium secured $100 million in seed funding led by Nvidia. The company plans to expand to the Bay Area to compete for engineering talent.",
+      "title": "Government Safety Review Process Remains Opaque",
+      "body": "Details about how government evaluated OpenAI's frontier models for safe release remain unclear. The regulatory approval process between authorities and AI companies lacks public transparency.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "Government Frontier Model Safety Approval Unclear",
-      "body": "The process by which government agencies approved OpenAI and Anthropic's frontier models remains largely opaque. Exactly what dialogue occurred between regulators and AI companies remains undisclosed.",
+      "title": "Instagram Users Can Opt Out of AI Training",
+      "body": "Instagram users can now prevent Meta's AI from using their public photos for image generation. The control addresses privacy concerns following the Muse Image feature backlash.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "Stop Meta's AI From Using Your Photos",
-      "body": "Meta's Muse Image feature allows users to generate AI images using photos from public Instagram accounts. Users can limit this by making their profiles private or adjusting content settings.",
+      "title": "Meta's Custom AI Chips Begin Production",
+      "body": "Meta's internally-designed AI chips will enter production in September with a modular architecture. The flexible design anticipates evolving needs as AI technology rapidly advances.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "Meta AI Chips Enter Production in September",
-      "body": "Meta's custom AI chips will begin manufacturing in September using a modular design approach. The company anticipates rapid AI evolution will necessitate flexible hardware architecture.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09",
-      "topic": "AI Update"
+      "title": "OpenAI Targets Families With ChatGPT Product",
+      "body": "OpenAI is hiring a dedicated product manager to build ChatGPT experiences for families, caregivers, and older adults. The move signals the company's expansion beyond enterprise and individual users.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-11",
+      "topic": "AI"
     },
     {
-      "title": "Nvidia Becomes Victim of Own Success",
-      "body": "Nvidia created a thriving compute marketplace but now faces intense competition from the ecosystem it enabled. Simpler technologies and less innovative competitors increasingly capture computing market value.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta Removes Controversial AI Feature on Instagram",
-      "body": "Meta discontinued its AI tool that referenced public Instagram content after user backlash. The company acknowledged the feature missed the mark and is no longer available.",
+      "title": "Meta Removes AI Feature From Instagram",
+      "body": "Meta has discontinued a controversial AI feature that generated images using public Instagram photos after user backlash. The company acknowledged the feature missed the mark despite good intentions.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-10",
       "topic": "AI"
     },
     {
-      "title": "Apple Sues OpenAI Over Trade Secret Theft",
-      "body": "Apple alleges OpenAI misappropriated trade secrets with direction from senior leadership, including a former employee. The lawsuit marks escalating tensions between major tech companies over AI development practices.",
+      "title": "Apple Sues OpenAI Over Trade Secrets",
+      "body": "Apple alleges OpenAI engaged in misconduct directed by senior leadership, including a former employee. The lawsuit represents a rare legal confrontation between major AI players.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-10",
       "topic": "AI"
     },
     {
-      "title": "Open Source AI Booming, Says Hugging Face CEO",
-      "body": "Hugging Face has become a GitHub for AI, where roughly half the Fortune 500 now access shared models and datasets. CEO Clem Delangue sees open source as increasingly critical to the AI landscape.",
+      "title": "Hugging Face: Open Source AI is Booming",
+      "body": "Hugging Face has become the GitHub for AI, enabling builders to share and download open models and datasets. The platform is now used by roughly half the Fortune 500.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-10",
       "topic": "AI"
     },
     {
-      "title": "OpenAI's GPT-5.6 Powers Microsoft Copilot 365",
-      "body": "OpenAI's latest model family will continue serving as the backbone for Microsoft's workplace productivity applications. The partnership solidifies despite ongoing industry speculation about potential company separations.",
+      "title": "SK Hynix IPO Capitalizes on AI Chip Boom",
+      "body": "SK Hynix raised $26.5B in the biggest foreign IPO in US history, fueled by AI demand. The company is now being urged to build new U.S. semiconductor manufacturing facilities.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-10",
       "topic": "AI"
     },
     {
-      "title": "Fidji Simo Steps Down from OpenAI Leadership",
-      "body": "OpenAI's No. 2 executive is leaving her full-time role after extended medical leave. The departure creates a leadership gap as the company pursues an IPO and competes with Anthropic.",
+      "title": "GPT 5.6 Powers Microsoft Copilot 365",
+      "body": "OpenAI announced GPT 5.6 as the preferred model for Microsoft's Copilot 365 productivity suite. The partnership deepens integration of OpenAI's latest models into enterprise workflows.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-10",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI's No. 2 Executive Steps Down",
+      "body": "Fidji Simo is stepping down from her full-time role as OpenAI's No. 2 after extended medical leave. The departure creates a leadership gap as OpenAI pursues an IPO and competes with Anthropic.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
       "title": "OpenAI Launches GPT-5.6 Model Family",
-      "body": "The new model family delivers improvements across multiple domains, including cybersecurity capabilities. OpenAI continues advancing its flagship model lineup for enterprise and consumer applications.",
+      "body": "OpenAI's latest model family delivers improvements across multiple areas including cybersecurity and enterprise applications. The release marks another step in the company's rapid iteration cycle.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
-      "title": "AI Agent Startup Raises $100M Using Its Own AI",
-      "body": "Lyzr used its own AI agent to manage a $100 million funding round, demonstrating the technology's enterprise readiness. The approach serves as real-world proof that AI agents can handle complex business operations.",
+      "title": "AI Agent Startup Raises $100M Using AI",
+      "body": "Lyzr used its own AI agent to run a $100 million fundraising round, demonstrating the technology's real-world effectiveness. The achievement validates the startup's core product offering.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Shuts Down AI Browser, Pivots Features",
-      "body": "OpenAI is discontinuing its AI-powered browser after less than a year but moving agentic browsing to its desktop app and Chrome extension. The shift reflects the company's focus on AI agent capabilities across platforms.",
+      "title": "OpenAI Shuts Down AI Browser Atlas",
+      "body": "OpenAI is sunsetting its AI-powered browser after less than a year but will integrate agentic browsing features into its desktop app and Chrome extension. The pivot reflects refined product strategy.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
-      "title": "Meta Enters AI Coding Battle with Muse Spark",
-      "body": "Meta's latest tool handles large agentic workloads, bug fixes, and code migrations for enterprises. The release positions Meta as a competitor in the rapidly growing AI coding assistant market.",
+      "title": "Elon Musk Pledges Support for Anthropic",
+      "body": "Musk promised not to cut off Anthropic if it hosts models on his infrastructure, addressing trust concerns. With $40 billion in revenue at stake, the commitment matters significantly.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
-      "title": "New York Times Accuses OpenAI of Hidden Evidence",
-      "body": "The Times alleges OpenAI concealed tools and datasets that could identify copyrighted journalism in ChatGPT outputs. News publishers escalate their copyright lawsuit with a new sanctions motion.",
+      "title": "AI ROI Debate Reaches $3 Trillion",
+      "body": "The discussion around AI return on investment has intensified with stakes now in the trillions. Questions persist about whether AI investments will deliver promised returns.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
-      "title": "Google Requires AI Disclosure for Ads",
-      "body": "Google now mandates disclosure when ads contain AI-generated or synthetically altered content. The policy expands beyond election ads to cover all advertising categories.",
+      "title": "Meta Launches Muse Spark 1.1 AI Coder",
+      "body": "Meta's AI coding tool Muse Spark 1.1 handles large agentic workloads, bug fixes, and code migrations. The release positions Meta as a competitor in the crowded AI coding market.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
-      "title": "Gradium Raises $100M in Nvidia-Backed Seed Round",
-      "body": "The Paris-based AI voice startup secured major funding backed by Nvidia to expand to Silicon Valley. Gradium aims to compete in the competitive AI audio generation market.",
+      "title": "NYT Alleges OpenAI Hid Evidence in Trial",
+      "body": "News publishers claim OpenAI concealed tools and datasets that could identify copyrighted journalism in ChatGPT. The motion for sanctions escalates the ongoing copyright dispute.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
-      "title": "Meta's New AI Chips Enter Production September",
-      "body": "Meta is taking a modular design approach to anticipate rapid AI evolution. The chips will support the company's expanding AI capabilities across products and services.",
+      "title": "Google Requires AI Disclosure in Ads",
+      "body": "Google will now require advertisers to disclose when ads use AI-generated or digitally altered content. The policy extends existing transparency rules for election ads to all synthetic media.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Reveals Claude's Hidden Internal Workings",
-      "body": "Anthropic developed a technique exposing what happens inside Claude as it processes tasks and answers questions. The breakthrough provides unprecedented visibility into how large language models actually reason.",
+      "title": "Paris AI Voice Startup Gradium Raises $100M",
+      "body": "Gradium, backed by Nvidia, raised $100 million in seed funding to expand voice AI capabilities. The company plans to open a Bay Area office to compete for top talent.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
+    },
+    {
+      "title": "Government Oversight of AI Model Releases Unclear",
+      "body": "Details remain murky about how government regulators evaluated OpenAI's frontier models for safety. The lack of transparency raises questions about AI governance processes.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
+    },
+    {
+      "title": "Stop Meta's AI From Using Your Photos",
+      "body": "Meta's Muse Image tool generates AI pictures using photos from public Instagram accounts without explicit consent. Users can adjust privacy settings to prevent their images from being used.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
+    },
+    {
+      "title": "Meta's Custom AI Chips Launch in September",
+      "body": "Meta is adopting a modular chip design approach to accommodate rapid AI evolution. Production begins in September as the company reduces dependence on external chip suppliers.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic Reveals Claude's Inner Workings",
+      "body": "Anthropic developed a tool that provides unprecedented insight into how Claude processes concepts and answers questions. The findings range from mundane to unsettling about large language model reasoning.",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-07-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Sam Altman's $300 AI Wealth-Sharing Proposal Returns",
-      "body": "Altman's plan for Americans to share in AI-generated wealth is back in the spotlight. The proposal resurfaces amid ongoing debates about AI's economic impact and distribution.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-07",
-      "topic": "AI"
-    },
-    {
-      "title": "IT Leaders Navigate AI Architecture Scaling Challenges",
-      "body": "Organizations are expanding AI use cases and moving toward agentic systems while managing emerging risks. IT leaders must balance rapid capability growth with infrastructure investment decisions.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-07",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI Wants AI That Works With and For You",
-      "body": "OpenAI is developing AI tools designed for collaborative human-AI work partnerships. The approach aims to augment rather than replace human capability in professional contexts.",
-      "source": "Ars Technica",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     }
