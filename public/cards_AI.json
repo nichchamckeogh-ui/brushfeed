@@ -1,287 +1,259 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-07-13T18:09:30.350Z",
-  "cardCount": 40,
-  "aiUpdateCount": 18,
+  "generatedAt": "2026-07-14T06:56:19.705Z",
+  "cardCount": 36,
+  "aiUpdateCount": 19,
   "cards": [
     {
-      "title": "OpenAI Launches GPT-5.6 Model Family",
-      "body": "OpenAI introduced its new GPT-5.6 model family with improvements across cybersecurity and other areas. The models will continue powering Microsoft's Copilot 365 suite.",
+      "title": "Tech Giants Racing to Capitalize on AI Moment",
+      "body": "Successful tech companies are reinvesting aggressively in AI, driven by fear of missing the industry's defining moment. The push reflects both competitive pressure and the potential for significant financial gains.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09",
+      "publishedAt": "2026-07-14",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Launches Rupee Pricing for India",
-      "body": "Claude users in India can now access Indian rupee-denominated subscription plans. India has become Anthropic's biggest market after the US.",
+      "title": "Uber Expanding Beyond Rides with AI Integration",
+      "body": "Uber's CPO discusses the company's financial-services ambitions, its AV Labs data operation, and deepening ties with Waymo. AI is beginning to appear in ways riders and drivers will directly experience.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14",
+      "topic": "AI Update"
+    },
+    {
+      "title": "PixVerse Video Generation Startup Hits $2B Valuation",
+      "body": "The video-generation startup raised $439 million to expand its world model offerings. The funding enables geographic expansion and product development.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nous Research Hermes Agent Raises $75M Series",
+      "body": "The hermes agent maker is raising at least $75 million at a $1.5B valuation. Robot Ventures is leading, with significant participation from USV and other prominent investors.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-13",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Removes Controversial Instagram AI Feature",
-      "body": "Meta discontinued an AI feature that referenced public Instagram content after user backlash. The company acknowledged the feature 'missed the mark' in its implementation.",
+      "title": "Nadella Warns Companies on Proprietary AI Models",
+      "body": "Microsoft's CEO has issued a stark warning about proprietary AI model vendors acting as potential Trojan horses. The concern is gaining traction among AI enthusiasts in Silicon Valley.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Apple Sues OpenAI for Alleged Trade Secrets",
+      "body": "Apple's lawsuit against OpenAI includes allegations ranging from unauthorized system access to suspicious hiring practices. The complaint details claims that job candidates were asked to bring Apple hardware to interviews.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Altman Challenges Musk on Space Data Center Claims",
+      "body": "In response to Musk's accusations, OpenAI's CEO criticized space datacenters as a short-term bet to public investors. The exchange highlights tension between industry leaders over infrastructure strategies.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Launches Localized Claude Pricing for India",
+      "body": "Claude users in India can now access subscription plans denominated in Indian rupees. India represents Anthropic's second-largest market after the United States.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Waze Integrates Gemini AI Features and Customization",
+      "body": "Google is expanding Gemini integration across Waze with new AI-powered navigation features. The update positions Waze to better compete with Apple Maps.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Targets Families with ChatGPT Product Manager",
+      "body": "OpenAI is hiring a dedicated product manager to develop ChatGPT experiences for families, caregivers, and older adults. The move reflects the company's strategy to deepen household penetration.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta Removes AI Feature After User Backlash",
+      "body": "Meta's controversial AI feature on Instagram that referenced public content has been removed. The company acknowledged the feature missed the mark based on user feedback.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-10",
       "topic": "AI Update"
     },
     {
-      "title": "Google Integrates Gemini into Waze",
-      "body": "Waze is adding new AI-powered features powered by Google's Gemini assistant. The integration reflects Google's broader push to embed Gemini across products.",
+      "title": "Apple Files Trade Secret Lawsuit Against OpenAI",
+      "body": "Apple alleges OpenAI leadership directed misconduct related to trade secret theft. The lawsuit marks escalating tensions between tech giants over AI development practices.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-13",
+      "publishedAt": "2026-07-10",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Shutters AI Browser Atlas",
-      "body": "OpenAI is discontinuing its Atlas AI browser after less than a year. Agentic browsing features are moving to the desktop app and Chrome extension.",
+      "title": "Open Source AI Boom Driven by Hugging Face Growth",
+      "body": "Hugging Face has become the GitHub of AI, where roughly half of Fortune 500 companies now share and download open models and datasets. CEO Clem Delangue reports unprecedented momentum in open source AI adoption.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "SK Hynix IPO Sets Record for Foreign Investment",
+      "body": "SK Hynix raised $26.5 billion in the largest foreign IPO in U.S. history. The AI chip boom milestone comes as policymakers urge the company to build U.S. manufacturing facilities.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Companies Moving Away from Renting AI Models",
+      "body": "Hugging Face CEO Delangue reports companies are increasingly building proprietary AI systems rather than relying on vendor models. The shift reflects growing preference for open source and customized solutions.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI GPT-5.6 Powers Microsoft Copilot 365",
+      "body": "OpenAI's new model family will continue to power Microsoft's workplace and productivity applications. The partnership reaffirms commitment between the companies despite recent speculation about separation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Executive Fidji Simo Steps Down",
+      "body": "OpenAI's No. 2 executive Fidji Simo is stepping down following an extended medical leave. The departure creates a leadership vacancy as the company pursues IPO plans and competes with Anthropic.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09",
       "topic": "AI Update"
     },
     {
-      "title": "ChatGPT Expands Focus on Family Users",
-      "body": "OpenAI is hiring a dedicated product manager for family and household experiences. The role will focus on caregivers and older adults using ChatGPT.",
+      "title": "OpenAI Releases GPT-5.6 Model Family",
+      "body": "OpenAI's latest model family delivers improvements in cybersecurity and multiple performance areas. The release strengthens the company's competitive position in enterprise AI.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-11",
+      "publishedAt": "2026-07-09",
       "topic": "AI Update"
+    },
+    {
+      "title": "AI Agent Startup Lyzr Raises $100M with AI Agent",
+      "body": "Lyzr used its own AI agent to conduct its $100 million fundraising round. The autonomous approach serves as proof-of-concept that the company's enterprise agent product works effectively.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "PixVerse Raises $439M for Video Generation",
+      "body": "Video-generation startup PixVerse exceeded a $2B valuation in its latest funding round. The company plans to expand its world model offerings and reach new geographic markets.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-14",
+      "topic": "AI"
+    },
+    {
+      "title": "Nous Research Fundraising at $1.5B Valuation",
+      "body": "Hermes agent maker Nous Research is raising at least $75 million led by Robot Ventures. The funding includes significant participation from USV and other prominent investors.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-13",
+      "topic": "AI"
+    },
+    {
+      "title": "Nadella Warns Companies on Proprietary AI Models",
+      "body": "Microsoft's Satya Nadella issued a warning about risks of relying on proprietary AI models from major labs. The concern centers on potential vendor lock-in and dependency issues.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-13",
+      "topic": "AI"
     },
     {
       "title": "Apple Sues OpenAI Over Trade Secrets",
-      "body": "Apple filed a lawsuit alleging OpenAI misappropriated trade secrets with direction from senior leadership. A longtime Apple former employee is also implicated in the allegations.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "SK Hynix Achieves Record US IPO",
-      "body": "SK Hynix raised $26.5 billion in the largest foreign IPO in US history. The AI chip boom milestone comes amid calls for new US manufacturing facilities.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Lyzr AI Agent Raises $100M Using AI",
-      "body": "Lyzr used its own AI agent to manage its $100 million fundraising round. The successful deployment demonstrates practical enterprise AI agent capabilities.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta Launches Muse Spark 1.1 Coding AI",
-      "body": "Meta entered AI coding with Muse Spark 1.1, designed for large agentic workloads and bug fixes. The tool targets enterprises seeking code migration automation.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI's No. 2 Executive Steps Down",
-      "body": "Fidji Simo departed from her Chief Operating Officer role after extended medical leave. Her exit creates leadership challenges as OpenAI pursues an IPO.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Hugging Face: Open Source AI Booming",
-      "body": "Hugging Face CEO Clem Delangue reports open source AI momentum, with the platform used by roughly half of Fortune 500. Companies are increasingly moving away from renting proprietary models.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "New York Times: OpenAI Hid Evidence",
-      "body": "Publishers allege OpenAI concealed tools and datasets that identify copyrighted content in ChatGPT outputs. The motion for sanctions escalates the ongoing copyright lawsuit.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Requires AI Disclosure in Ads",
-      "body": "Google expanded AI disclosure requirements beyond election ads to all synthetically created content. Advertisers must now reveal when AI generated or altered ad creative.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Musk Praises Anthropic's AI Ambitions",
-      "body": "Elon Musk endorsed Anthropic's Mythos and Fable models while pledging not to 'cut off' the company. The commitment addresses concerns about Anthropic hosting models on his infrastructure.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Altman Fires Back at Musk Over AI",
-      "body": "Sam Altman responded to Musk's scammer accusations by criticizing OpenAI's rival's space datacenter strategy. Altman claimed Musk was misleading public investors on short-term infrastructure promises.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI ROI Question Reaches $3 Trillion",
-      "body": "The AI return-on-investment debate has intensified with significantly larger financial stakes. The discussion carries major consequences for enterprise AI adoption strategies.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Exploring Alignment in User-Centered AI",
-      "body": "The industry debates what total user-aligned AI actually means in practice. Ethical implications extend to controversial scenarios across different application domains.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Sam Altman Responds to Musk's Space Datacenter Criticism",
-      "body": "Altman fired back at Musk's accusations of being a scammer, claiming Musk is the one selling public market investors on short-term space datacenters. The exchange highlights ongoing tensions between the two tech leaders.",
+      "body": "Apple filed a trade secrets lawsuit against OpenAI alleging unauthorized access to Apple systems. The complaint includes allegations about employees and job candidates.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-13",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Localizes Claude Pricing for India Market",
-      "body": "Claude users in India can now subscribe using Indian rupee-denominated plans. This marks Anthropic's effort to expand beyond the US, its largest market.",
+      "title": "Anthropic Localizes Claude Pricing for India",
+      "body": "Claude users in India now see Indian rupee-denominated subscription plans. India has become Anthropic's second-largest market after the US.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-13",
       "topic": "AI"
     },
     {
-      "title": "Google's Gemini Powers New Waze AI Features",
-      "body": "Waze is integrating Google's Gemini AI assistant into its navigation app with new AI-powered features and customization options. The move reflects Google's broader strategy to embed Gemini across its product suite.",
+      "title": "Waze Integrates Google's Gemini AI Assistant",
+      "body": "Waze adds new AI-powered features powered by Google's Gemini to enhance navigation. The integration reflects Google's broader strategy to embed Gemini across products.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-13",
       "topic": "AI"
     },
     {
-      "title": "ChatGPT Hires Product Manager for Family Features",
-      "body": "OpenAI is hiring a dedicated product manager to build ChatGPT experiences for families, caregivers, and older adults. The expansion signals OpenAI's push to deepen household adoption.",
+      "title": "ChatGPT Targets Families and Older Adults",
+      "body": "OpenAI is hiring a dedicated product manager to build ChatGPT experiences for families, caregivers, and older adults. The expansion signals the company's household-focused growth strategy.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-11",
       "topic": "AI"
     },
     {
-      "title": "Meta Removes Controversial AI Feature on Instagram",
-      "body": "Meta removed an AI feature that generated content based on users' public posts after significant backlash. The company acknowledged the feature missed the mark with users.",
+      "title": "Meta Removes Controversial Instagram AI Feature",
+      "body": "Meta removed an AI feature that referenced public Instagram content after user backlash. The company acknowledged the tool didn't meet user expectations.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-10",
       "topic": "AI"
     },
     {
-      "title": "Apple Sues OpenAI Over Trade Secret Theft",
-      "body": "Apple alleges OpenAI misappropriated trade secrets, with misconduct allegedly directed by senior leadership including a former employee. The lawsuit marks another legal challenge for OpenAI.",
+      "title": "Hugging Face CEO: Companies Done Renting AI",
+      "body": "Hugging Face has become a GitHub-like platform for open-source AI, used by roughly half of Fortune 500 companies. CEO Clem Delangue says the open-source AI boom is transforming how enterprises adopt AI.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-10",
       "topic": "AI"
     },
     {
-      "title": "Hugging Face CEO: Open Source AI Is Booming",
-      "body": "Hugging Face has grown into a GitHub-like platform for AI where developers share models and datasets, now used by roughly half the Fortune 500. CEO Clem Delangue says open source AI matters more than ever.",
+      "title": "OpenAI's GPT-5.6 Powers Microsoft Copilot 365",
+      "body": "OpenAI's new model family continues powering Microsoft's workplace productivity suite. The partnership reaffirms their collaboration amid speculation about potential separation.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-10",
       "topic": "AI"
     },
     {
-      "title": "SK Hynix's Record IPO Fuels AI Chip Boom",
-      "body": "SK Hynix raised $26.5 billion in the biggest foreign IPO in US history, marking a major Wall Street moment for the AI chip sector. The company is now being urged to build new US manufacturing facilities.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-10",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI's GPT-5.6 Becomes Preferred Microsoft Copilot Model",
-      "body": "OpenAI's new family of models will continue powering Microsoft's suite of workplace and productivity apps. The partnership underscores continued integration despite breakup speculation.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-10",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI's No. 2 Executive Fidji Simo Steps Down",
-      "body": "Fidji Simo is departing her full-time role as OpenAI's No. 2 after extended medical leave. The departure creates a leadership gap amid the company's IPO plans and competition with Anthropic.",
+      "title": "OpenAI No. 2 Executive Fidji Simo Steps Down",
+      "body": "Fidji Simo is stepping down from her role as OpenAI's No. 2 after extended medical leave. The departure creates a leadership gap as OpenAI pursues an IPO and competes with Anthropic.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Launches GPT-5.6 Model Family",
-      "body": "OpenAI's latest model family promises improvements across multiple areas including cybersecurity capabilities. The release represents the company's continued evolution of its core AI technology.",
+      "title": "OpenAI Launches New GPT-5.6 Model Family",
+      "body": "OpenAI released its latest model family with improvements across cybersecurity and other areas. The new models represent incremental advances in the company's AI capabilities.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
-      "title": "AI Agent Startup Lyzr Raises $100M Using Its Own Agent",
-      "body": "Lyzr used its own AI agent to autonomously conduct a $100 million fundraising round. The feat demonstrates the practical viability of agentic AI systems for complex business tasks.",
+      "title": "AI Agent Startup Lyzr Raises $100M Autonomously",
+      "body": "Lyzr, an enterprise AI agent builder, used its own AI agent to run its entire $100M fundraise. The approach served as practical proof of the product's enterprise effectiveness.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Shutters Atlas Browser After One Year",
-      "body": "OpenAI is discontinuing its AI-powered Atlas browser but moving some agentic browsing features to its desktop app and Chrome extension. The pivot suggests a shift in strategy for AI-powered web interaction.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Musk Vows Not to Cut Off Anthropic's Access",
-      "body": "Elon Musk praised Anthropic's Mythos/Fable and promised not to restrict the company's access to his hosting infrastructure. With $40 billion in revenue at stake, Musk is reassuring Anthropic about partnership stability.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta Enters AI Coding Market with Muse Spark 1.1",
-      "body": "Meta's AI coding tool Spark handles large agentic workloads, fixes bugs, and automates code migrations for enterprises. The release intensifies competition in the rapidly growing AI coding assistant space.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09",
-      "topic": "AI"
-    },
-    {
-      "title": "New York Times Accuses OpenAI of Hidden Evidence",
-      "body": "The New York Times alleges OpenAI concealed tools and datasets that could identify copyrighted journalism in ChatGPT outputs. Publishers are escalating their copyright lawsuit with a new motion for sanctions.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Requires AI Disclosure in Ads",
-      "body": "Google will now mandate disclosure of AI-generated or digitally altered content in advertisements beyond just election ads. The policy addresses growing concerns about synthetic media and consumer transparency.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic Unveils Hidden Space in Claude's Thinking",
-      "body": "Anthropic developed a technique revealing how Claude's internal representations work when solving problems, finding both mundane and unsettling patterns. The research offers the clearest view yet into large language model reasoning.",
+      "title": "Anthropic Discovers Hidden Space in Claude's Reasoning",
+      "body": "Anthropic developed a technique revealing how large language models reason internally about concepts. The discovery ranges from mundane patterns to potentially unnerving behaviors.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-09",
       "topic": "AI"
     },
     {
-      "title": "Anthropic's Latest Discovery About AI Reasoning",
-      "body": "Anthropic, valued at nearly $1 trillion, published research uncovering strange behaviors in how AI models think through concepts. The findings add to the company's reputation for publishing innovative AI research.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-13",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Defenders Embrace Prompt Injection Attacks",
-      "body": "Security researchers are exploring how defenders can leverage prompt injection techniques to protect AI systems. The approach represents a counterintuitive strategy in AI security.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-07-13",
-      "topic": "AI"
-    },
-    {
-      "title": "World Models: Promise and Limitations",
-      "body": "AI world models offer potential for simulating complex environments but face significant practical limits. The technology represents an emerging frontier in AI research and development.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-07-13",
-      "topic": "AI"
-    },
-    {
-      "title": "Quantum Error Correction Enables Processor Recalibration",
-      "body": "Quantum processors can now continuously recalibrate themselves using advanced error correction techniques. The breakthrough addresses a critical challenge in making quantum computing more practical.",
-      "source": "Ars Technica",
+      "title": "SK Hynix IPO Fuels AI Chip Boom",
+      "body": "SK Hynix raised $26.5B in the largest foreign IPO in US history. The massive capital raise signals explosive growth in AI chip demand and manufacturing.",
+      "source": "TechCrunch",
       "publishedAt": "2026-07-10",
+      "topic": "AI"
+    },
+    {
+      "title": "World Models Promise and Limits Explored",
+      "body": "World models represent AI's push toward simulating environments, with significant promise and limitations. The technology enables better AI training but faces scalability challenges.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-07-13",
+      "topic": "AI"
+    },
+    {
+      "title": "Defenders Embrace Prompt Injection Techniques",
+      "body": "Security researchers are now using prompt injection techniques defensively against AI attacks. The approach flips adversarial tactics to protect against emerging AI security threats.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-07-13",
       "topic": "AI"
     }
   ]
