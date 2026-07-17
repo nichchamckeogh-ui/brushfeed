@@ -1,278 +1,243 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-07-17T06:10:12.787Z",
-  "cardCount": 39,
-  "aiUpdateCount": 17,
+  "generatedAt": "2026-07-17T18:24:11.137Z",
+  "cardCount": 34,
+  "aiUpdateCount": 16,
   "cards": [
     {
-      "title": "Google Vids Adds AI Avatars for Personal Videos",
-      "body": "Google is adding personalized AI avatars to Vids, letting users create videos starring digital versions of themselves. The feature integrates Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+      "title": "Apple sues OpenAI over trade secrets and hiring",
+      "body": "Apple filed a trade secrets lawsuit against OpenAI, alleging misconduct by leadership including the chief hardware officer. The complaint claims over 400 former Apple employees now work at OpenAI.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Patreon blocks AI scraping bots with Cloudflare",
+      "body": "Patreon is actively blocking bots that train AI models on creator content without permission. The shift moves beyond passive robots.txt files to aggressive bot blocking.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "GPU financiers pivot to inference chips in deals",
+      "body": "A $400 million chip-backed loan signals the next wave of AI infrastructure financing. The deal reflects growing focus on inference optimization beyond training hardware.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Vids adds personalized AI avatar features",
+      "body": "Google is launching personalized AI avatars in Vids, letting users create videos starring digital versions of themselves. The update integrates Gemini Omni-powered tools for video generation and editing.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-16",
       "topic": "AI Update"
     },
     {
-      "title": "Roblox Launches AI Game-Creation Feature",
-      "body": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt. The AI-powered tool is now available in the mobile app.",
+      "title": "Roblox launches AI game creation in mobile app",
+      "body": "Roblox's new 'Build' feature generates basic games from single text prompts. The tool democratizes game creation for mobile users.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-16",
       "topic": "AI Update"
     },
     {
-      "title": "Google AI Mode Now Links to Apps",
-      "body": "Google is expanding AI Mode beyond answering questions to complete tasks across regularly-used apps. The update marks a shift toward agentic AI capabilities.",
+      "title": "Google AI Mode now links to select apps",
+      "body": "Google is expanding AI Mode beyond Q&A to complete tasks across user apps. The update enables AI agents to interact with external services directly.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-16",
       "topic": "AI Update"
     },
     {
-      "title": "DoorDash Opens Command-Line Ordering Beta",
-      "body": "DoorDash's dd-cli tool lets developers and AI agents search stores, build carts, and place orders from the terminal. The beta signals software designed for AI agents, not just humans.",
+      "title": "DoorDash opens command-line ordering tool beta",
+      "body": "DoorDash's dd-cli lets developers and AI agents order food from the terminal. The move signals a shift toward AI-first software interfaces.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-16",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Releases First Hardware Product",
-      "body": "OpenAI launched its first hardware offering this week, including a ChatGPT-branded basketball. The release marks the company's expansion beyond software.",
+      "title": "OpenAI releases ChatGPT basketball hardware",
+      "body": "OpenAI launched its first hardware product this week, including a ChatGPT-branded basketball. The release marks an unusual expansion beyond software.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-16",
       "topic": "AI Update"
     },
     {
-      "title": "Ex-DeepMind Researcher Raises $300M Pre-Seed",
-      "body": "Andrew Dai, who helped build influential AI systems including ChatGPT-related research, raised $300M at pre-seed valuation. He believes visual AI is a major frontier in artificial intelligence.",
+      "title": "Former DeepMind researcher raises at $300M valuation",
+      "body": "Andrew Dai, who worked on systems informing ChatGPT, raised funding at a $300M pre-seed valuation. His startup is focused on visual AI as the next frontier.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-16",
       "topic": "AI Update"
     },
     {
-      "title": "AMI Labs CEO Dismisses AGI and Superintelligence",
-      "body": "Alexandre LeBrun, CEO of Yann LeCun's world model startup AMI Labs, rejects industry terminology around \"superintelligence.\" His stance diverges from the AI industry's prevailing narrative.",
+      "title": "AMI Labs CEO dismisses AGI and superintelligence claims",
+      "body": "Alexandre LeBrun, CEO of Yann LeCun's world model startup, rejects 'AGI' and 'superintelligence' terminology. He argues the industry is chasing poorly-defined goals.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-16",
       "topic": "AI Update"
     },
     {
-      "title": "Moonshot's Kimi 3 Targets Anthropic Opus",
-      "body": "Moonshot's upcoming Kimi K3 is expected to be China's largest open AI model with 2-3 trillion parameters. The release aims to close the gap with Anthropic's Opus 4.8.",
+      "title": "Moonshot's Kimi 3 to rival Anthropic Opus",
+      "body": "Kimi K3 will be China's largest open AI model with 2-3 trillion parameters. The release aims to close the gap with leading Western models.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-16",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Intelligence Approved in China",
-      "body": "Apple secured approval to launch Apple Intelligence in China through partnerships with Alibaba and Baidu. The deal marks a critical step for Apple's AI strategy in a key market.",
+      "title": "Apple Intelligence launches in China via Alibaba, Baidu",
+      "body": "Apple secured deals with Alibaba and Baidu to power Apple Intelligence in China. The move follows months of negotiations for the key market.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-16",
       "topic": "AI Update"
     },
     {
-      "title": "Applied Computing Raises $20M Series A",
-      "body": "Applied Computing raised a $20M Series A to build a foundation AI model for oil, gas, and petrochemical industries. The model aims to optimize entire plant operations.",
+      "title": "Applied Computing raises $20M for oil-gas AI",
+      "body": "Applied Computing secured Series A funding to build foundation AI models for oil, gas, and petrochemical industries. The model aims to optimize entire plant operations.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-16",
       "topic": "AI Update"
     },
     {
-      "title": "Microsoft Trains Salespeople Against Rivals",
-      "body": "Microsoft is instructing salespeople to position its in-house AI models as more efficient and cost-effective than OpenAI and Anthropic competitors. The strategy reflects intensifying competition in enterprise AI.",
+      "title": "Microsoft trains sales on model cost advantages",
+      "body": "Microsoft is coaching salespeople to position its AI models as more efficient alternatives to OpenAI and Anthropic. The strategy emphasizes cost-effectiveness of in-house solutions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-15",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Releases $230 Coding Keyboard",
-      "body": "OpenAI released a light-up keyboard designed for its agentic coding app Codex amid legal battles with Apple. The hardware release continues OpenAI's expansion into physical products.",
+      "title": "OpenAI releases $230 light-up keyboard for Codex",
+      "body": "OpenAI launched a programmable light-up keyboard designed for its Codex agentic coding application. The release comes amid its legal battles with Apple.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-15",
       "topic": "AI Update"
     },
     {
-      "title": "Thinking Machines Releases Inkling Model",
-      "body": "Thinking Machines launched Inkling, its first open model, challenging one-size-fits-all AI approaches. The release provides proof of the company's infrastructure work over the past year and a half.",
+      "title": "Thinking Machines debuts Inkling open model",
+      "body": "Thinking Machines released Inkling, its first public open model after 18 months of stealth development. The release challenges one-size-fits-all AI approaches.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-15",
       "topic": "AI Update"
     },
     {
-      "title": "Suno Hacked, YouTube Scraping Revealed",
-      "body": "A hacker using employee credentials accessed Suno's source code, revealing the AI music generator scraped YouTube for decades of audio training data. The breach raises ongoing questions about AI training practices.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15",
-      "topic": "AI Update"
+      "title": "Apple's Lawsuit Threatens OpenAI's IPO Plans",
+      "body": "Apple filed a trade secrets lawsuit against OpenAI, alleging misconduct by leadership and claiming over 400 former Apple employees work there. The timing could significantly disrupt OpenAI's planned public offering.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-17",
+      "topic": "AI"
     },
     {
-      "title": "Whatnot Acquires Shaped for Recommendations",
-      "body": "Livestream shopping platform Whatnot acquired AI startup Shaped to power real-time recommendations and personalized discovery. The deal strengthens Whatnot's features as it expands product categories.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15",
-      "topic": "AI Update"
+      "title": "Patreon Actively Blocks AI Scraping Bots",
+      "body": "Patreon partnered with Cloudflare to block AI bots from scraping creator content for model training. The shift moves beyond passive robots.txt blocks to active defense mechanisms.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-17",
+      "topic": "AI"
     },
     {
-      "title": "Microsoft Patches Record 570 Vulnerabilities",
-      "body": "Microsoft's Patch Tuesday addressed a record 570 security vulnerabilities across its product line, with AI playing a key role in discovery. The milestone reflects AI's growing security applications.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Launches Ode Joint Venture",
-      "body": "Ode with Anthropic, backed by Anthropic, Blackstone, and Goldman Sachs, embeds forward-deployed engineers in enterprises. The joint venture bets that small AI teams can replace large consulting armies.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Vids Adds AI Avatars for Personalized Videos",
-      "body": "Google is launching personalized AI avatars in Vids that let users create videos starring digital versions of themselves. The feature integrates Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+      "title": "Google Vids Adds Personalized AI Avatars",
+      "body": "Google now lets users star in their own AI-generated videos using digital avatars. The feature integrates Gemini Omni tools for video generation and editing from text prompts.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-16",
       "topic": "AI"
     },
     {
-      "title": "Roblox Launches AI Game-Creation Feature",
-      "body": "Roblox's new \"Build\" feature enables users to generate basic games using a single text prompt. The tool democratizes game creation for its mobile app users.",
+      "title": "Roblox Launches Text-Prompt Game Creation",
+      "body": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt. The AI-powered tool democratizes game creation for mobile app users.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-16",
       "topic": "AI"
     },
     {
       "title": "Google AI Mode Expands to App Integration",
-      "body": "Google is expanding AI Mode beyond answering questions to complete tasks across regularly-used apps. The update enables direct app interaction and automation through AI.",
+      "body": "Google's AI Mode now links and interacts with select apps beyond just answering questions. Users can complete tasks across their regularly-used applications.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-16",
       "topic": "AI"
     },
     {
-      "title": "DoorDash Launches Command-Line Tool for AI Agents",
-      "body": "DoorDash opened a limited beta of dd-cli, a command-line tool that lets AI agents and developers search stores, build carts, and place orders. The move marks a shift toward software designed specifically for AI agents.",
+      "title": "DoorDash Command-Line Tool for AI Agents",
+      "body": "DoorDash launched dd-cli, a beta command-line tool enabling AI agents to search stores, build carts, and place orders. The move signals software designed specifically for AI automation.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-16",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Hardware: ChatGPT Basketball and Beyond",
-      "body": "OpenAI released its first piece of hardware this week, including an unexpected ChatGPT basketball. The launch signals the company's expansion beyond software into physical products.",
+      "title": "DeepMind Researcher Raises $300M Pre-Seed",
+      "body": "Former DeepMind researcher Andrew Dai raised funding at $300M valuation before product launch, leveraging AI research that informed ChatGPT development. He believes visual AI represents the next frontier.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-16",
       "topic": "AI"
     },
     {
-      "title": "DeepMind Researcher Raises $300M for Visual AI",
-      "body": "Andrew Dai, a former DeepMind researcher, raised funding at a $300M pre-seed valuation for visual AI research. Drawing on decade-long experience building influential AI systems including ChatGPT precursors, he positions visual AI as the next major frontier.",
+      "title": "AMI Labs CEO Rejects AGI Terminology",
+      "body": "Alexandre LeBrun, CEO of Yann LeCun's world model startup AMI Labs, dismisses the term \"superintelligence\" despite industry hype. He takes a different philosophical stance on AI advancement.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-16",
       "topic": "AI"
     },
     {
-      "title": "AMI Labs CEO Rejects 'AGI' and 'Superintelligence' Language",
-      "body": "Alexandre LeBrun, CEO of Yann LeCun's world model startup AMI Labs, dismisses the terminology surrounding superintelligence. While the AI industry chases AGI claims, LeBrun takes a different approach to advancement.",
+      "title": "Moonshot's Kimi 3 to Challenge Anthropic",
+      "body": "China's Moonshot is launching Kimi 3, expected to be the largest open-source Chinese AI model with 2-3 trillion parameters. The model aims to close performance gaps with Anthropic's Opus 4.8.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-16",
       "topic": "AI"
     },
     {
-      "title": "Moonshot's Kimi 3 Targets Anthropic Competition",
-      "body": "Moonshot's upcoming Kimi K3 is expected to be China's largest open AI model with 2-3 trillion parameters. The model aims to close the gap with Anthropic's Opus 4.8.",
+      "title": "Apple Intelligence Launches in China",
+      "body": "Apple approved Apple Intelligence for Chinese launch through partnerships with Alibaba and Baidu. The deal marks significant progress for Apple's AI strategy in a major market.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-16",
       "topic": "AI"
     },
     {
-      "title": "Apple Intelligence Launches in China via Alibaba, Baidu",
-      "body": "Apple secured approval to launch Apple Intelligence in China with partnerships from Alibaba and Baidu. The deal marks a critical milestone for Apple's AI ambitions in a key market.",
+      "title": "Foundation AI Model for Oil Industry",
+      "body": "Applied Computing raised $20M Series A to build a foundation AI model for oil, gas, and petrochemical operators. The model targets entire industrial plant optimization.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-16",
       "topic": "AI"
     },
     {
-      "title": "Applied Computing Raises $20M for Industrial AI",
-      "body": "Applied Computing raised a $20M Series A to build a foundation AI model for oil, gas, and petrochemical industries. The model aims to provide comprehensive plant-wide AI optimization.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-16",
-      "topic": "AI"
-    },
-    {
-      "title": "Microsoft Trains Sales Teams Against OpenAI, Anthropic",
-      "body": "Microsoft is training salespeople to promote its in-house AI models as more efficient and cost-effective alternatives. The strategy positions Microsoft's models against OpenAI and Anthropic offerings.",
+      "title": "Microsoft Trains Sales Team on AI",
+      "body": "Microsoft is training salespeople to emphasize its in-house AI models as more efficient and cost-effective alternatives. The strategy positions Microsoft against OpenAI and Anthropic offerings.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-15",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Releases $230 Keyboard for Codex Coding AI",
-      "body": "OpenAI launched a light-up keyboard designed to pair with its agentic coding app Codex. The hardware release comes amid legal battles with Apple over trade theft allegations.",
+      "title": "OpenAI Releases $230 Keyboard for Codex",
+      "body": "OpenAI launched a light-up keyboard designed for its agentic coding app Codex amid ongoing legal battles with Apple. The hardware release continues OpenAI's diversification.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-15",
       "topic": "AI"
     },
     {
-      "title": "Thinking Machines Launches Inkling Open AI Model",
-      "body": "Thinking Machines released Inkling, its first public open model after 18 months building AI infrastructure privately. The launch challenges one-size-fits-all AI approaches with specialized alternatives.",
+      "title": "Thinking Machines Releases Inkling Model",
+      "body": "Thinking Machines launched Inkling, its first open AI model, challenging one-size-fits-all approaches to AI development. The release marks the company's debut after 18 months of building infrastructure.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-15",
       "topic": "AI"
     },
     {
-      "title": "Hack Reveals Suno AI Music Generator Scraped YouTube",
-      "body": "A hacker accessed Suno's source code using employee credentials, revealing how the AI music generator scraped decades of YouTube audio for training. The disclosure raises fresh questions about AI training data practices.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15",
-      "topic": "AI"
-    },
-    {
-      "title": "Whatnot Acquires Shaped for AI Recommendations",
-      "body": "Whatnot acquired AI startup Shaped, a machine learning company specializing in real-time recommendations and search. The acquisition will enhance livestream shopping personalization and discovery features.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15",
-      "topic": "AI"
-    },
-    {
-      "title": "Microsoft Patches Record 570 Vulnerabilities with AI",
-      "body": "Microsoft's Patch Tuesday resolved a record 570 security vulnerabilities across its product line, credited to AI discovery capabilities. The AI-assisted security improvements demonstrate practical enterprise applications.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15",
-      "topic": "AI"
-    },
-    {
-      "title": "Ode with Anthropic: AI Consultancy Joint Venture",
-      "body": "Anthropic launched Ode with Anthropic, a joint venture embedding forward-deployed engineers in enterprise firms. Backed by Anthropic, Blackstone, Goldman Sachs and others, it bets on AI services replacing traditional consulting armies.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI Builds GPT-Red, LLM Super-Hacker for Safety",
-      "body": "OpenAI built GPT-Red, an LLM super-hacker designed as a sparring partner to boost model defenses against cyberattacks. Training GPT-5.6 against GPT-Red significantly improved its security resilience.",
+      "title": "OpenAI Builds GPT-Red AI Security Tool",
+      "body": "OpenAI created GPT-Red, an LLM designed to act as a \"super-hacker\" sparring partner for security testing. Training GPT-5.6 against GPT-Red enhanced its defenses against cyberattacks.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-15",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Discovers Hidden Space in Claude AI",
-      "body": "Anthropic found a hidden space within Claude where the AI puzzles over complex concepts, offering the clearest glimpse yet into model inner workings. The discovery advances understanding of how AI systems process information.",
+      "title": "Anthropic Discovers Claude's Inner Workings",
+      "body": "Anthropic, valued at nearly $1 trillion, published research revealing new insights into how Claude operates internally. The discovery advances understanding of AI model interpretability.",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-07-10",
+      "publishedAt": "2026-07-13",
       "topic": "AI"
     },
     {
-      "title": "EU Forces Google to Share Search Data for AI",
-      "body": "The EU officially mandated that Google share search data and open up AI capabilities on Android. The regulatory decision represents a major shift in antitrust enforcement for AI systems.",
+      "title": "xAI Sued Over Grok CSAM Generation",
+      "body": "xAI is facing lawsuits from users regarding Grok's ability to generate child sexual abuse material. The company moved to legal action after denying the capability.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-16",
       "topic": "AI"
     },
     {
-      "title": "xAI Sued Over Grok's CSAM Generation Capabilities",
-      "body": "xAI is suing users after being unable to deny that its Grok AI model generates child sexual abuse material. The legal action marks an unusual response to AI safety concerns.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-07-16",
-      "topic": "AI"
-    },
-    {
-      "title": "Linus Torvalds on AI Coding in Linux Kernel",
-      "body": "Linus Torvalds told critics of AI-assisted coding in Linux to \"fork it or just walk away.\" His stance reflects growing AI integration in open-source development despite concerns.",
+      "title": "Linus Torvalds Defends AI Coding in Linux",
+      "body": "Linus Torvalds told AI critics to \"fork it\" or leave the Linux project. His stance supports integrating AI tools into Linux development despite skepticism.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-16",
       "topic": "AI"
