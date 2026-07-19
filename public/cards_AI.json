@@ -1,215 +1,257 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-07-19T06:46:09.672Z",
-  "cardCount": 30,
-  "aiUpdateCount": 10,
+  "generatedAt": "2026-07-19T18:31:21.675Z",
+  "cardCount": 36,
+  "aiUpdateCount": 19,
   "cards": [
     {
+      "title": "Christopher Nolan Warns AI Is a Trojan Horse",
+      "body": "The 'Odyssey' director compares AI to the famous Greek deception, suggesting hidden risks within. \"Everybody knows the Greeks are inside,\" he cautions.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nonprofit Current AI Builds Inclusive Global AI Web",
+      "body": "Current AI, a nonprofit, is developing AI infrastructure that serves all cultures equally across devices and chat platforms. The project aims to democratize AI access worldwide.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-19",
+      "topic": "AI Update"
+    },
+    {
       "title": "Moonshot AI Releases New Kimi Model Version",
-      "body": "Chinese company Moonshot AI released a new version of its Kimi model this week. The release has prompted discussion about AI development approaches in China.",
+      "body": "The Chinese company unveiled an updated Kimi model this week, sparking debate about global AI development. Concerns about competitive AI systems have intensified discussions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-18",
       "topic": "AI Update"
     },
     {
-      "title": "Databricks Hits $188B Valuation Milestone",
-      "body": "Databricks reached a $188 billion valuation, extending its position as a leader in AI infrastructure. The company has published research on cost savings from open weight AI models for coding.",
+      "title": "VC Neil Rimer Predicts AI Wealth Redistribution",
+      "body": "Index Ventures co-founder argues historic AI-generated wealth must be redistributed, voluntarily or otherwise. The prediction signals growing pressure on tech industry inequality.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-18",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Vertu Luxury AI Agent Costs $6,880",
+      "body": "Vertu's premium foldable device includes an AI agent, but real-world performance questions remain. Battery life, security, and workflow integration all face scrutiny.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-17",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Files Trade Secrets Lawsuit Against OpenAI",
-      "body": "Apple filed a trade secrets lawsuit against OpenAI, alleging a pattern of misconduct involving its chief hardware officer. The complaint claims over 400 former Apple employees now work at OpenAI.",
+      "title": "Databricks Reaches $188 Billion Valuation",
+      "body": "The data company has repositioned itself as an AI leader with published research on cost savings from open-weight models. Databricks extends its dominance in AI infrastructure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-17",
       "topic": "AI Update"
     },
     {
-      "title": "Patreon Blocks AI Scraping Bots With Cloudflare",
-      "body": "Patreon is strengthening defenses against AI scraping by partnering with Cloudflare to block unauthorized bots. The move marks a shift from passive robots.txt to active bot blocking.",
+      "title": "Zoom Meeting Transcription Raises Privacy Concerns",
+      "body": "As every conversation gets transcribed and summarized, questions emerge about who actually reads all this data. The practice highlights AI's surveillance implications.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-17",
       "topic": "AI Update"
     },
     {
-      "title": "Agility Robotics Opens Digit Training Center",
-      "body": "Agility Robotics is opening a new training center for its Digit robots in Fremont, California. The facility positions the company as a competitor in the robotics space.",
+      "title": "Agility Robotics Opens Fremont Training Center",
+      "body": "Agility is establishing a new training facility for its Digit robots in Tesla's backyard. The move signals expansion into core robotics manufacturing markets.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Memory Demand Slows India Smartphone Market",
+      "body": "India's smartphone slowdown reveals how AI is reshaping consumer electronics demand and pricing. The boom fundamentally alters corporate strategy across the region.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Apple Sues OpenAI Over Trade Secrets",
+      "body": "Apple filed a major trade secrets lawsuit against OpenAI, alleging misconduct involving its chief hardware officer. The complaint claims over 400 Apple employees now work at OpenAI.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Patreon Blocks AI Bots From Scraping Content",
+      "body": "Patreon partnered with Cloudflare to actively block AI training bots instead of relying solely on robots.txt. The move strengthens creator protections against unauthorized model training.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Apple's Lawsuit Disrupts OpenAI's IPO Plans",
+      "body": "The timing of Apple's trade secrets lawsuit couldn't be worse for OpenAI's public offering prospects. Legal uncertainty now clouds the company's near-term trajectory.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "GPU Financiers Pivot to $400M Inference Chips",
+      "body": "A $400 million chip-backed loan signals the next wave of AI infrastructure investment shifting toward inference. The deal highlights changing capital priorities in AI.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-17",
       "topic": "AI Update"
     },
     {
       "title": "Google Vids Adds Personalized AI Avatars",
-      "body": "Google is adding personalized AI avatars to Vids, letting users create videos starring digital versions of themselves. The feature includes Gemini Omni-powered tools for video generation and editing.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google AI Mode Expands With App Integration",
-      "body": "Google's AI Mode now links and interacts with select apps, expanding beyond question-answering into task completion. Users can complete actions across apps they use regularly.",
+      "body": "Google is launching personalized AI avatars in Vids that let users star in their own videos. Gemini Omni-powered tools generate and edit videos from prompts.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-16",
       "topic": "AI Update"
     },
     {
       "title": "Roblox Launches AI Game-Creation Feature",
-      "body": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt. The tool is available in the mobile app.",
+      "body": "Roblox's new \"Build\" feature generates basic games from a single text prompt on mobile. The tool democratizes game creation for non-technical users.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-16",
       "topic": "AI Update"
     },
     {
-      "title": "DoorDash Launches Command-Line Tool Beta",
-      "body": "DoorDash opened a limited beta of dd-cli, a command-line tool for developers and AI agents to search stores and place orders. The move represents software designed for AI agents, not just humans.",
+      "title": "Google AI Mode Links and Interacts With Apps",
+      "body": "Google expanded AI Mode to complete tasks across frequently-used applications beyond simple Q&A. The update positions AI assistants as active workflow agents.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-16",
       "topic": "AI Update"
     },
     {
-      "title": "Moonshot Kimi 3 Expected to Challenge Anthropic",
-      "body": "Moonshot's upcoming Kimi K3 is expected to be the largest open AI model from China, with 2-3 trillion parameters. The model aims to close the gap with Anthropic's Opus 4.8.",
+      "title": "DoorDash Opens Command-Line Ordering Tool",
+      "body": "DoorDash launched dd-cli, letting developers and AI agents order food from the terminal. The beta marks infrastructure designed specifically for AI agents.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-16",
       "topic": "AI Update"
     },
     {
-      "title": "Kimi: Threat or menace?",
-      "body": "Chinese company Moonshot AI released a new version of its Kimi model this week, sparking concerns about advanced AI capabilities from China. The release highlights the intensifying global competition in large language models.",
+      "title": "OpenAI Releases Hardware Including ChatGPT Basketball",
+      "body": "OpenAI launched its first hardware product this week, including an unexpected ChatGPT-branded basketball. The merchandising move signals brand expansion beyond software.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Former DeepMind Researcher Raises at $300M Pre-Seed",
+      "body": "Andrew Dai, who helped build influential AI systems including ChatGPT research, raised $300M before launching a product. He believes visual AI represents the next major frontier.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Christopher Nolan Warns AI is a 'Trojan Horse'",
+      "body": "Director Christopher Nolan compared AI to the Trojan horse, cautioning that the technology contains hidden risks. His comments reflect growing concerns about AI's potential consequences.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Nonprofit Current AI Builds Inclusive Global AI Web",
+      "body": "Current AI, a nonprofit organization, is developing AI infrastructure designed to be free and accessible to all cultures and communities. The project has made progress across devices and AI chat platforms.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Moonshot AI Releases New Kimi Model in China",
+      "body": "Chinese company Moonshot AI released an updated version of its Kimi model this week. The release has sparked discussions about competitive AI development outside Western markets.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-18",
       "topic": "AI"
     },
     {
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "body": "Index Ventures co-founder Neil Rimer predicts the historic wealth generated by AI in Silicon Valley will face redistribution, voluntarily or involuntarily. The venture capitalist sees a shift coming in how AI's financial benefits are distributed.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Databricks hits $188B valuation, AI's favorite second act",
-      "body": "Databricks has successfully repositioned itself as an AI company while publishing research on cost savings from open weight AI models for coding. The valuation extends its dominance in the data and AI infrastructure space.",
+      "title": "Databricks Reaches $188B Valuation as AI Leader",
+      "body": "Databricks has solidified its position as one of AI's most valued companies after pivoting its identity toward the AI boom. The company has published research on cost savings from open-weight AI models for coding.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-17",
       "topic": "AI"
     },
     {
-      "title": "AI-driven memory crunch jolts India's smartphone market",
-      "body": "India's smartphone slowdown reflects how the AI boom is reshaping consumer electronics, from pricing to corporate strategy. The market shift highlights the broader impact of AI adoption on hardware demand.",
+      "title": "Apple Files Trade Secrets Lawsuit Against OpenAI",
+      "body": "Apple sued OpenAI alleging misconduct and claiming over 400 former Apple employees now work there. The lawsuit comes at a critical time as OpenAI pursues IPO plans.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-17",
       "topic": "AI"
     },
     {
-      "title": "Apple's big lawsuit could disrupt OpenAI's IPO",
-      "body": "Apple filed a trade secrets lawsuit against OpenAI, alleging misconduct reaching OpenAI's chief hardware officer and claiming over 400 former Apple employees now work there. The timing poses significant challenges to OpenAI's IPO plans.",
+      "title": "Patreon Actively Blocks AI Scraping Bots",
+      "body": "Patreon partnered with Cloudflare to block bots that scrape creator content for AI model training without permission. This marks a shift from passive robots.txt defenses to active blocking technology.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-17",
       "topic": "AI"
     },
     {
-      "title": "Patreon stops asking AI bots, starts blocking them",
-      "body": "Patreon is strengthening defenses against AI scraping by partnering with Cloudflare to actively block bots that train AI models on creators' content without permission. The shift marks moving beyond passive robots.txt to active AI bot blocking.",
+      "title": "AI Infrastructure Moves to Inference Chip Financing",
+      "body": "A $400 million chip-backed loan signals the next wave of AI infrastructure investment focused on inference chips. The deal reflects shifting priorities in AI hardware financing away from GPUs alone.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-17",
       "topic": "AI"
     },
     {
-      "title": "GPU financiers turn to inference chips in $400M deal",
-      "body": "A $400 million chip-backed loan signals the next wave of AI infrastructure investments shifting toward inference capabilities. The deal reflects growing market focus on AI model deployment efficiency.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-17",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Vids adds personalized AI avatars for videos",
-      "body": "Google is expanding Vids with personalized AI avatars letting users create videos starring digital versions of themselves. Gemini Omni-powered tools now generate and edit videos from prompts and reference images.",
+      "title": "Google Vids Adds Personalized AI Avatar Features",
+      "body": "Google expanded Vids with AI avatars that let users create videos starring digital versions of themselves. Gemini Omni-powered tools also enable video generation and editing from text prompts.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-16",
       "topic": "AI"
     },
     {
-      "title": "Roblox launches AI-powered game-creation feature",
-      "body": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt through AI. The mobile app integration democratizes game creation for non-technical users.",
+      "title": "Roblox Launches AI Game Creation on Mobile",
+      "body": "Roblox introduced a \"Build\" feature enabling users to generate basic games using a single text prompt. The tool democratizes game creation within the platform.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-16",
       "topic": "AI"
     },
     {
-      "title": "Google's AI Mode links and interacts with apps",
-      "body": "Google expanded AI Mode beyond answering questions into completing tasks across regularly-used apps. The update positions AI as a task automation tool rather than just a conversational assistant.",
+      "title": "Google AI Mode Expands to Task Automation",
+      "body": "Google extended its AI Mode to complete tasks across apps beyond just answering questions. The update marks AI's move into practical workflow automation.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-16",
       "topic": "AI"
     },
     {
-      "title": "DoorDash opens command-line beta for AI agents",
-      "body": "DoorDash launched dd-cli, a command-line tool letting developers and AI agents search stores, build carts, and place orders from the terminal. The move signals software increasingly designed for AI agents alongside human users.",
+      "title": "DoorDash CLI Enables AI Agent Ordering",
+      "body": "DoorDash opened a beta for dd-cli, a command-line tool letting developers and AI agents search stores and place orders. The tool represents software designed specifically for AI agent interactions.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-16",
       "topic": "AI"
     },
     {
-      "title": "DeepMind researcher raises $300M pre-seed valuation",
-      "body": "Andrew Dai, former DeepMind researcher who helped build influential AI systems including ChatGPT research, is launching a visual AI startup. He believes visual AI represents one of the next major frontiers in artificial intelligence.",
+      "title": "Former DeepMind Researcher Launches AI Startup",
+      "body": "Andrew Dai, who contributed to AI systems including research informing ChatGPT, raised funding at a $300M pre-seed valuation. He believes visual AI represents the next frontier in artificial intelligence.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-16",
       "topic": "AI"
     },
     {
-      "title": "AMI Labs CEO rejects AGI and superintelligence language",
-      "body": "Alexandre LeBrun, CEO of Yann LeCun's world model startup AMI Labs, dismisses the term \"superintelligence\" amid industry hype. He advocates for more grounded language around AI capabilities.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-16",
-      "topic": "AI"
-    },
-    {
-      "title": "Moonshot's Kimi 3 expected to rival Anthropic Opus",
-      "body": "Moonshot's upcoming Kimi K3 will be China's largest open AI model, with parameters between 2-3 trillion. The release signals closing the gap with leading Western AI models like Anthropic's Opus 4.8.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-16",
-      "topic": "AI"
-    },
-    {
-      "title": "Meet GPT-Red: OpenAI's LLM super-hacker",
-      "body": "OpenAI built GPT-Red, an LLM super-hacker that acts as a sparring partner to boost model defenses against cyberattacks. Training GPT-5.6 against it made the model more resistant to adversarial threats.",
+      "title": "OpenAI Releases GPT-Red AI Security Tool",
+      "body": "OpenAI developed GPT-Red, an LLM designed as a cyber adversary to test and improve model defenses against attacks. The tool helped strengthen GPT-5.6's security capabilities.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-15",
       "topic": "AI"
     },
     {
-      "title": "Anthropic's latest AI discovery reveals inner workings",
-      "body": "Anthropic announced a new discovery into how AI models work, publishing research that provides insights into model behavior. The finding contributes to the world's most valuable AI company's reputation for groundbreaking research.",
+      "title": "Anthropic Discovers New Window Into Claude's Thinking",
+      "body": "Anthropic announced a breakthrough discovering new insights into how its AI model Claude processes information. The research adds to understanding of AI model interpretability.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-13",
       "topic": "AI"
     },
     {
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "body": "AI's potential to streamline healthcare's prior authorization process is mixed with risks of bias and errors. The technology could either improve patient outcomes or introduce new healthcare barriers.",
+      "title": "AI May Fix or Worsen Prior Authorization Problem",
+      "body": "AI deployment in healthcare's prior authorization system could simplify or complicate the approval process. The outcome depends on how healthcare systems implement the technology.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-18",
       "topic": "AI"
     },
     {
-      "title": "San Francisco orders removal of nudify apps",
-      "body": "San Francisco ordered Apple and Google to remove AI-powered nudify apps from their app stores. The action targets deepfake technology that generates non-consensual intimate images.",
+      "title": "San Francisco Orders Removal of Nudify Apps",
+      "body": "San Francisco directed Apple and Google to remove AI-powered nudification apps from their app stores. The action targets tools that use AI to create non-consensual intimate images.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-17",
       "topic": "AI"
     },
     {
-      "title": "EU forces Google to share search and AI data",
-      "body": "The EU officially mandated Google share search data and open AI capabilities on Android. The ruling represents major regulatory action against the tech giant's competitive practices.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-07-16",
-      "topic": "AI"
-    },
-    {
-      "title": "xAI sues users over Grok's CSAM generation",
-      "body": "xAI initiated legal action against users after acknowledging Grok generates child sexual abuse material. The lawsuit marks an unusual response to addressing AI safety failures.",
+      "title": "EU Forces Google to Share Search Data and AI",
+      "body": "The EU mandated that Google share search data and open up its AI technology on Android. The ruling represents significant regulatory pressure on major AI companies.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-16",
       "topic": "AI"
