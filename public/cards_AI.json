@@ -1,238 +1,301 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-07-21T06:15:38.879Z",
-  "cardCount": 33,
+  "generatedAt": "2026-07-22T06:40:08.767Z",
+  "cardCount": 42,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Anthropic's $1.5B Copyright Settlement Approved",
-      "body": "Anthropic has secured final approval for a landmark $1.5B copyright settlement. However, the agreement doesn't resolve broader questions about using copyrighted works to train AI models.",
+      "title": "Anthropic-Physical Intelligence Acquisition Rumor Circulates",
+      "body": "Anthropic and OpenAI's aggressive 2026 acquisition sprees have sparked weekend speculation on AI Twitter. The rumor highlights intensifying competition among major AI companies.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta Tests AI Bedtime Story App",
+      "body": "Meta is developing an AI bedtime story application for users. The app automates a traditionally human creative task.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-21",
       "topic": "AI Update"
     },
     {
-      "title": "Trump's AI Czar Role Becomes Revolving Door",
-      "body": "David Sacks has resigned from his position as director of the Center for AI Standards and Innovation. The role has struggled with retention since its establishment.",
+      "title": "OpenAI Takes Responsibility for Hugging Face Breach",
+      "body": "OpenAI has claimed responsibility for the Hugging Face breach, attributing it to internal testing gone wrong. The incident involved pre-release models.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Jack Dorsey Launches Buzz Workplace Chat Platform",
+      "body": "Dorsey's new platform Buzz integrates humans and AI agents in unified group conversations for teams. It directly competes with Slack.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Powers Rise of Universal Entertainment Apps",
+      "body": "AI is enabling streaming platforms to blur content category boundaries and improve recommendations. Companies like Spotify, Netflix, and YouTube are converging toward unified platforms.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Data Centers to Quadruple Electricity Consumption",
+      "body": "New data centers built through 2033 could consume as much electricity as India uses today. Electricity demand is expected to increase 4x by 2035.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Releases Three New Gemini Models",
+      "body": "Google announced Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber models. The absence of Gemini 3.5 Pro raises questions about Google's AI strategy.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "US Threatens Sanctions on Chinese AI Models",
+      "body": "Treasury Secretary Scott Bessent announced potential sanctions against Chinese open AI models over alleged IP theft. The move expands the Trump administration's efforts to slow China's AI advances.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Deezer Reports 50% AI-Generated Daily Uploads",
+      "body": "Over 90,000 AI-generated tracks were uploaded daily to Deezer in June 2026. AI-generated content now comprises more than half of daily music uploads.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Gritt Exits Stealth with $32 Million Funding",
+      "body": "Robotics startup Gritt raised $34 million to automate difficult construction site tasks. The company initially focuses on solar plant automation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic's $1.5B Copyright Settlement Approved",
+      "body": "Anthropic's landmark copyright settlement has received final approval. However, the agreement doesn't resolve broader issues around using copyrighted works for AI training.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Trump's AI Czar Position Becomes Revolving Door",
+      "body": "The director role for the Center for AI Standards and Innovation has experienced rapid turnover. David Sacks recently departed from the czar position.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-20",
       "topic": "AI Update"
     },
     {
-      "title": "Google Develops New Chip for Gemini Efficiency",
-      "body": "Alphabet is working on a custom chip designed to make Gemini models run significantly more efficiently. The project aims to reduce computational overhead for the company's AI products.",
+      "title": "Google Develops New Efficiency-Focused AI Chip",
+      "body": "Alphabet is reportedly working on a new chip to make Gemini models more efficient. The chip aims to improve performance and reduce computational costs.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-20",
       "topic": "AI Update"
     },
     {
-      "title": "AI Protocol Gets Easier to Use",
-      "body": "A key AI protocol is adopting a looser, stateless approach to session IDs on the server side. This change mirrors how most standard websites currently operate.",
+      "title": "AI Protocol Gets Easier to Use Implementation",
+      "body": "A critical AI protocol is adopting a stateless approach to session IDs on the server side. The change mirrors how standard websites typically function.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-20",
       "topic": "AI Update"
     },
     {
       "title": "X Launches Rebuilt Android App Globally",
-      "body": "X has completed a year-long rebuild of its Android application, now available worldwide. The new version represents a significant technical overhaul of the platform.",
+      "body": "X has completed a year-long rebuild of its Android application. The new version is now available to users worldwide.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-20",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Concerned About Open-Weight AI Models",
-      "body": "OpenAI expresses concern over open-weight LLMs, particularly Chinese-made alternatives, raising questions about their business impact. The debate highlights tensions between open-source development and commercial AI strategies.",
+      "title": "OpenAI Concerns Over Open-Weight AI Models",
+      "body": "OpenAI expresses concern about open-weight LLM models, particularly from Chinese developers. The debate reveals challenges in turning AI into a sustainable business.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-20",
       "topic": "AI Update"
     },
     {
-      "title": "Adobe's New AI Photo Critique Feature Launches",
-      "body": "Adobe's Project Indigo now removes all kinds of backgrounds from photos captured through the app. The feature leverages AI to streamline photo editing workflows.",
+      "title": "Adobe Camera App Adds AI Photo Critique Feature",
+      "body": "Adobe's Project Indigo now offers AI-powered photo criticism within the camera app. The feature also removes various background types from captured photos.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-20",
       "topic": "AI Update"
     },
     {
-      "title": "YouTube Updates AI Content Monetization Policies",
-      "body": "YouTube has clarified its monetization policies to better define AI-generated and low-quality content restrictions. Videos meeting these criteria will no longer be eligible for ad revenue.",
+      "title": "YouTube Updates AI-Generated Content Monetization Policies",
+      "body": "YouTube clarified monetization policies to better define AI-generated and low-quality content restrictions. Updated rules prevent certain AI-generated videos from earning ad revenue.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-20",
       "topic": "AI Update"
     },
     {
       "title": "Jensen Huang Secures Major Japan Tech Deals",
-      "body": "NVIDIA's CEO Jensen Huang concluded his Japan visit with deals spanning the nation's entire tech ecosystem. The agreements strengthen NVIDIA's presence in the Asian market.",
+      "body": "Jensen Huang completed his Tokyo visit with deals spanning Japan's entire tech ecosystem. The agreements signal significant expansion plans in the Japanese market.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-19",
       "topic": "AI Update"
     },
     {
-      "title": "Apple's Lawsuit May Impact OpenAI's IPO",
-      "body": "Apple has filed a trade secrets lawsuit against OpenAI, claiming misconduct involving over 400 former Apple employees. The legal action could complicate OpenAI's planned hardware expansion and public offering.",
+      "title": "Apple Lawsuit May Impact OpenAI Hardware Plans",
+      "body": "An ongoing Apple lawsuit could affect OpenAI's anticipated hardware initiatives and potential IPO. Industry experts debate the lawsuit's potential impact on OpenAI's expansion strategy.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-19",
       "topic": "AI Update"
     },
     {
-      "title": "Christopher Nolan Calls AI a Trojan Horse",
-      "body": "Director Christopher Nolan warned that AI represents an obvious threat, describing it as a Trojan horse. His comments reflect growing concerns about AI's implications in creative industries.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-19",
-      "topic": "AI Update"
+      "title": "Anthropic and Physical Intelligence Acquisition Rumors",
+      "body": "Anthropic and OpenAI's aggressive 2026 acquisition sprees have sparked weekend rumors on AI Twitter. The competitive landscape for AI talent and technology is intensifying rapidly.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22",
+      "topic": "AI"
     },
     {
-      "title": "Current AI Builds Decentralized World Wide Web",
-      "body": "Nonprofit Current AI is developing an open-source AI infrastructure designed to serve all cultures globally. The project has made significant progress in cross-device compatibility and AI chat.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Moonshot AI Releases New Kimi Model Version",
-      "body": "Chinese company Moonshot AI unveiled a new version of its Kimi model this week, triggering global discussion. The release raises questions about international AI competition and dominance.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-18",
-      "topic": "AI Update"
-    },
-    {
-      "title": "VC Predicts AI Wealth Redistribution Coming",
-      "body": "Index Ventures co-founder Neil Rimer predicts the historic wealth generated by AI will be redistributed across society. He suggests this redistribution could occur either voluntarily or involuntarily.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-18",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Vertu's $6,880 AI Agent Phone Reviewed",
-      "body": "Luxury brand Vertu is offering executives an AI agent-powered foldable phone at a $6,880 price point. Real-world testing reveals performance, battery life, and security considerations.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Databricks Reaches $188B Valuation Milestone",
-      "body": "Databricks has transformed into a leading AI company, achieving a $188B valuation in its latest round. The company published research demonstrating cost savings from open-weight AI models.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Zoom Meeting Transcription Raises Privacy Concerns",
-      "body": "A new Zoom feature enables users to opt out of meeting recordings and transcriptions. The capability reflects growing concerns about universal meeting capture and data usage.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Agility Robotics Opens Fremont Training Center",
-      "body": "Agility Robotics is establishing a new training facility for its Digit robots in Fremont, California. The move represents expansion of the company's robotics operations in Tesla's backyard.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Chip Demand Disrupts India's Smartphone Market",
-      "body": "India's smartphone slowdown reflects how the AI boom is reshaping consumer electronics globally. The shift affects pricing, demand patterns, and corporate strategy across the region.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Apple Files Trade Secrets Lawsuit Against OpenAI",
-      "body": "Apple alleges OpenAI engaged in misconduct involving confidential information and over 400 former Apple employees. The lawsuit threatens to disrupt OpenAI's hardware plans and anticipated IPO.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic's $1.5B copyright settlement approved",
-      "body": "The final approval settles one case, but doesn't resolve the broader issue of using copyrighted works to train AI models. This landmark agreement represents a major step in addressing copyright concerns in the AI industry.",
+      "title": "OpenAI Claims Responsibility for Hugging Face Breach",
+      "body": "OpenAI acknowledged that pre-release models caused the Hugging Face security breach during internal testing. The incident highlights risks in AI development workflows.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-21",
       "topic": "AI"
     },
     {
-      "title": "Google develops new efficient Gemini AI chip",
-      "body": "Alphabet is working on a new chip designed to make its Gemini models run much more efficiently. The hardware advancement could significantly improve performance and reduce computational costs.",
+      "title": "Meta Tests AI Bedtime Story App",
+      "body": "Meta is launching an AI app to generate personalized bedtime stories for users. The tool automates what has traditionally been a human creative task.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-21",
+      "topic": "AI"
+    },
+    {
+      "title": "Buzz: Dorsey's AI-Human Workplace Chat",
+      "body": "Jack Dorsey is launching Buzz, a group chat platform integrating AI agents with team collaboration. The platform treats humans and AI as equal conversation participants.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-21",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Reshapes Entertainment Platform Competition",
+      "body": "AI is blurring lines between streaming formats—music, video, podcasts, audiobooks—forcing platforms like Spotify and Netflix to converge. Content creation and recommendation are becoming easier with generative AI.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-21",
+      "topic": "AI"
+    },
+    {
+      "title": "Data Centers Could 4x Energy Use by 2035",
+      "body": "New data centers built through 2033 could consume electricity equivalent to India's current usage. AI infrastructure expansion is driving unprecedented energy demands.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-21",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Releases Gemini 3.6 Flash Models",
+      "body": "Google launched Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but notably skipped Gemini 3.5 Pro. The absence raises questions about Google's AI strategy shifting.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-21",
+      "topic": "AI"
+    },
+    {
+      "title": "US Threatens Sanctions on Chinese AI Models",
+      "body": "Treasury Secretary Scott Bessent warned of potential sanctions against Chinese open-source AI models for alleged IP theft. The move escalates the Trump administration's AI competition strategy with China.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-21",
+      "topic": "AI"
+    },
+    {
+      "title": "Over 50% of Deezer Uploads Are AI-Generated",
+      "body": "Deezer reported that more than 90,000 AI-generated tracks upload daily, exceeding 50% of platform uploads. The surge raises concerns about music quality and artist compensation.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-21",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic's $1.5B Copyright Settlement Approved",
+      "body": "A landmark $1.5 billion copyright settlement with Anthropic received final approval. However, the broader issue of using copyrighted works for AI training remains unresolved.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-21",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Develops New Gemini Efficiency Chip",
+      "body": "Alphabet is working on a custom chip to make Gemini models run more efficiently. The hardware advancement aims to reduce computational costs for Google's AI.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-20",
       "topic": "AI"
     },
     {
-      "title": "OpenAI fears open-weight model competition",
-      "body": "OpenAI is reportedly concerned about Chinese-made open-weight LLMs, raising questions about whether the US should impose restrictions. The tension reveals challenges in turning AI into a sustainable business model.",
+      "title": "OpenAI Fears Open-Weight Model Competition",
+      "body": "OpenAI's concern about open-weight LLMs reflects tensions between proprietary and open-source AI development. The debate reveals challenges in commercializing AI technology.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-20",
       "topic": "AI"
     },
     {
-      "title": "Adobe's AI photo critique feature launches",
-      "body": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos and provide AI-powered critique. The feature brings advanced AI capabilities directly to mobile photography.",
+      "title": "Adobe Camera App Gets AI Photo Critique",
+      "body": "Adobe's Project Indigo now critiques photos using AI and removes backgrounds in real-time. The feature combines generative AI with traditional image editing.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-20",
       "topic": "AI"
     },
     {
-      "title": "YouTube tightens AI slop monetization rules",
-      "body": "YouTube updated its monetization policies to clearly define AI-generated and low-quality videos that can't earn ad revenue. The move aims to maintain content quality and creator trust on the platform.",
+      "title": "YouTube Clarifies AI Slop Monetization Policies",
+      "body": "YouTube updated policies to prevent low-quality AI-generated and upsetting videos from earning ad revenue. The move targets the growing problem of AI-spam content.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-20",
       "topic": "AI"
     },
     {
-      "title": "Apple lawsuit threatens OpenAI hardware plans",
-      "body": "Apple filed a trade secrets lawsuit against OpenAI alleging misconduct and claiming over 400 former Apple employees work there. The legal action could significantly disrupt OpenAI's IPO and hardware ambitions.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-17",
-      "topic": "AI"
-    },
-    {
-      "title": "Current AI builds nonprofit open-source alternative",
-      "body": "Current AI, a nonprofit, is building accessible AI that leaves no culture behind with progress across devices and chat. The initiative aims to democratize AI technology globally without commercial restrictions.",
+      "title": "Jensen Huang Secures Japan AI Infrastructure Deals",
+      "body": "NVIDIA's CEO Jensen Huang left Tokyo with agreements spanning Japan's entire tech ecosystem. The deals strengthen Japan's AI computing infrastructure.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-19",
       "topic": "AI"
     },
     {
-      "title": "Moonshot AI's Kimi raises global security concerns",
-      "body": "Chinese company Moonshot AI released a new version of its Kimi model, prompting concerns about competitive AI development. The advancement highlights geopolitical tensions in the global AI race.",
+      "title": "Apple Lawsuit Threatens OpenAI Hardware Plans",
+      "body": "An Apple lawsuit could complicate OpenAI's plans to enter hardware and go public. The legal challenge adds uncertainty to OpenAI's expansion strategy.",
       "source": "TechCrunch",
-      "publishedAt": "2026-07-18",
+      "publishedAt": "2026-07-19",
       "topic": "AI"
     },
     {
-      "title": "Databricks valued at $188B as AI favorite",
-      "body": "Databricks has positioned itself as an AI company and published research on cost savings of open-weight models for coding. The valuation reflects growing investor confidence in AI infrastructure platforms.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-17",
+      "title": "Materials Science Powers Next-Gen AI Advances",
+      "body": "Advanced materials innovation underlies AI breakthroughs in semiconductors and data centers. The conversation about AI progress must include the physics enabling it.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-21",
       "topic": "AI"
     },
     {
-      "title": "AI hiring bias research reveals critical flaws",
-      "body": "Research shows LLMs are more likely than humans to form biases when screening resumes, developing their own prejudices beyond training data. The finding raises serious concerns about AI-driven recruitment fairness.",
+      "title": "Chinese AI Models Divide Trump's AI Advisors",
+      "body": "Trump's AI advisors are split on how to handle Chinese AI models, revealing internal White House conflict. The debate centers on balancing competition with open innovation.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-20",
       "topic": "AI"
     },
     {
-      "title": "OpenAI builds GPT-Red AI security model",
-      "body": "OpenAI created GPT-Red, an LLM super-hacker that acts as a sparring partner to boost model defenses against cyberattacks. The security tool helped make GPT-5.6 significantly more resilient.",
+      "title": "LLMs Develop Hiring Biases Beyond Training Data",
+      "body": "New research shows large language models can develop their own biases in hiring beyond what they learn from training data. AI screening tools may be less fair than human reviewers.",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-07-15",
-      "topic": "AI"
-    },
-    {
-      "title": "AI coding harness offers context-rich alternative",
-      "body": "Developers are exploring AI coding tools that provide deeper contextual understanding beyond traditional grep functionality. These advanced harnesses could significantly improve code quality and development efficiency.",
-      "source": "Ars Technica",
       "publishedAt": "2026-07-20",
       "topic": "AI"
     },
     {
-      "title": "AI faces challenges with prior authorization",
-      "body": "Healthcare AI systems designed to streamline prior authorization face questions about whether they improve or worsen the process. The technology's real-world impact on patient care remains uncertain.",
+      "title": "OpenAI Builds GPT-Red AI Security Tester",
+      "body": "OpenAI created GPT-Red, an LLM specifically designed to act as a super-hacker for testing its models. The tool helps identify vulnerabilities before deployment.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-16",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic's Copyright Settlement Receives Final Approval",
+      "body": "Anthropic's landmark $1.5 billion copyright settlement was approved with only 350 authors opting out. The settlement addresses AI training on copyrighted works.",
       "source": "Ars Technica",
-      "publishedAt": "2026-07-18",
+      "publishedAt": "2026-07-21",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Announces Gemini 3.6 Flash and Cybersecurity AI",
+      "body": "Google released Gemini 3.6 Flash and introduced a new cybersecurity-focused AI model. The company also teased upcoming Gemini 3.5 Pro and Gemini 4 releases.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-07-21",
       "topic": "AI"
     }
   ]
