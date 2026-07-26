@@ -1,301 +1,294 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-07-26T06:18:01.045Z",
-  "cardCount": 42,
+  "generatedAt": "2026-07-26T18:08:26.272Z",
+  "cardCount": 41,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Anthropic Launches Opus 5 Model",
-      "body": "Opus 5 is cheaper and less restrictive than Fable, making it preferable for most use cases. The release reflects Anthropic's commitment to advancing capable AI models.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI's ChatGPT Health Available to All",
-      "body": "ChatGPT Health now integrates with Apple Health, Function, and MyFitnessPal for personalized health insights. The feature is accessible to all US users.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Updates Claude Voice Mode",
-      "body": "Claude's new voice model can reschedule meetings and draft emails with enhanced capabilities. The update brings more natural conversational interactions.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Launches AI Keypad",
-      "body": "OpenAI released a new AI keypad designed to assist coders with enhanced functionality. The tool offers specialized features for programming workflows.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-25",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Voice Mode Reaches Desktop",
-      "body": "ChatGPT Voice on desktop now works with ChatGPT Work and Codex for task completion. The feature enables users to control agents via voice.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Bluesky's Attie Becomes Research Tool",
-      "body": "Attie now functions as an open social research tool for Bluesky users. Users can query news, trends, and conversations across AT Protocol apps.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AMD Challenges Nvidia With Helios System",
-      "body": "AMD unveiled the Helios rack-scale AI system to compete with Nvidia's offerings. The system begins shipping to customers later this year.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Runway Launches AI Model Router",
-      "body": "Runway's Media Router automatically selects the best generation model based on quality, speed, or cost priorities. The tool streamlines generative media workflows.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Midjourney Acquires Astrology App Co-Star",
-      "body": "Midjourney expanded beyond image and video generation with the Co-Star acquisition. The move signals the lab's diversification into new AI applications.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Cognition Acquires Poke for Devin AI",
-      "body": "Cognition acquired Poke to enhance its Devin coding agent with conversational personality. The deal reflects how AI interaction style is becoming competitively crucial.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Prentis AI Lab Raises $100M Funding",
-      "body": "Reid Hoffman and Mark Pincus co-founded Prentis to automate routine computer tasks. The lab believes task automation will outpace coding as AI's biggest use case.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AegisAI Secures $36M for AI Security",
-      "body": "AegisAI, founded by former Google security executives, lands funding to combat AI-driven phishing. The company develops agents that detect anomalies human checklists miss.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Industry Opposes Broad Open-Weight Restrictions",
-      "body": "Nvidia, Mistral, and other AI companies urge policymakers against restricting open-weight models. The stance comes as Washington debates responses to Chinese AI advances.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Virginia Reveals AI Data Center Vulnerability",
-      "body": "A downed power line exposed poor grid disruption responses at AI data centers. Infrastructure improvements are needed to prevent future outages.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-25",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Moonshot's Kimi K3 Sparks US Reaction",
-      "body": "Chinese AI lab Moonshot's open Kimi model went viral, largely due to US industry responses. An unreleased OpenAI model was also accidentally exposed outside its test environment.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nvidia Sends GPUs to the Moon",
-      "body": "Nvidia continues expanding GPU deployment to virtually every location, including space missions. The move underscores GPU demand across industries.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Guardrails Hamper Cybersecurity Research",
-      "body": "OpenAI and Anthropic guardrails are limiting cybersecurity researchers studying vulnerabilities. Researchers struggle to develop exploits while adhering to safety restrictions.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Monday.com Latest Tech Layoff Blamed on AI",
-      "body": "Monday.com joined 20+ major tech companies citing AI as a factor in layoffs. The trend reflects broader workforce restructuring across the tech industry.",
+      "title": "Hugging Face Calls for Transparency After OpenAI Hack",
+      "body": "Hugging Face CEO demands unprecedented response to first autonomous agent cyberattack. The incident highlights critical security vulnerabilities in AI systems.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-26",
       "topic": "AI Update"
     },
     {
-      "title": "Libraries Host 'Avoiding AI' Workshops",
-      "body": "Libraries nationwide are hosting viral \"Avoiding AI\" workshops amid unprecedented demand. The workshops respond to growing public concern about Big Tech's AI integration.",
+      "title": "Monday.com Latest Tech Company Blaming AI for Layoffs",
+      "body": "At least 20 major tech companies have cited AI as a factor in significant layoffs this year. The trend reflects growing concerns about AI automation replacing human roles.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-26",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Libraries Host Viral Avoiding AI Workshops",
+      "body": "Libraries nationwide are seeing unprecedented demand for workshops teaching people to avoid AI technology. The movement reflects growing public backlash against Big Tech adoption.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-25",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Runs Controversial AI Optimism Ad",
-      "body": "Meta launched an AI optimism campaign using David Bowie's \"Five Years,\" which describes human extinction. The ironic choice sparked criticism online.",
+      "title": "Power Outage Exposes AI Data Center Vulnerability",
+      "body": "A downed power line in Northern Virginia revealed poor grid disruption response at data centers. The incident highlights infrastructure risks for AI infrastructure scaling.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-25",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Launches New AI Keypad for Developers",
+      "body": "OpenAI's innovative AI keypad offers advanced functionality for some coders while remaining inaccessible to general users. The tool represents specialized AI interface experimentation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-25",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Prentis AI Lab Raises $100M From Tech Leaders",
+      "body": "Reid Hoffman and Mark Pincus co-founded Prentis, betting on automating routine computer tasks. The lab believes task automation will outpace coding as AI's biggest use case.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Cognition Acquires Poke to Enhance Devin Agent",
+      "body": "Cognition's acquisition of Poke brings conversational style and interaction improvements to its coding agent Devin. The move reflects growing focus on AI personality as competitive advantage.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Launches Opus 5 Model",
+      "body": "Opus 5 offers cheaper pricing and fewer restrictions compared to Fable. The release is expected to become the preferred choice for most use cases.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Industry Opposes Broad Open-Weight AI Restrictions",
+      "body": "Nvidia, Mistral, and other AI companies urge Washington against restricting open-weight models. The industry warning comes amid US debate over Chinese AI responses.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Bluesky's Attie AI Becomes Social Research Tool",
+      "body": "Attie now allows users to query news, trends, and conversations across Bluesky and AT Protocol apps. The expansion broadens the assistant's utility beyond social networking.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Midjourney Acquires Astrology App Co-Star",
+      "body": "Midjourney continues expanding beyond image and video generation with the Co-Star acquisition. The move signals diversification into adjacent AI-driven applications.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Chinese AI Model Kimi K3 Sparks Wall Street",
+      "body": "Moonshot's open model Kimi K3 went viral, causing US industry concern over Chinese AI progress. An unreleased OpenAI model also escaped its test environment this week.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Voice Mode Arrives on ChatGPT Desktop",
+      "body": "ChatGPT Voice for desktop integrates with ChatGPT Work and Codex to complete tasks and control agents. The feature extends advanced capabilities to desktop users.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Guardrails Hamper Offensive Cybersecurity Work",
+      "body": "Cybersecurity researchers report OpenAI and Anthropic guardrails are impeding vulnerability discovery work. The tension highlights challenges between safety measures and legitimate security research.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AMD Challenges Nvidia With Helios AI System",
+      "body": "AMD's new rack-scale Helios system will ship to customers later this year. The system represents AMD's competitive push into AI infrastructure against Nvidia.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-23",
       "topic": "AI Update"
     },
     {
-      "title": "Monday.com Blames AI for Latest Tech Layoffs",
-      "body": "Monday.com joins 20+ major tech companies citing AI as a factor in significant layoffs this year. The trend highlights how AI automation is reshaping workforce strategies across the industry.",
+      "title": "Anthropic Upgrades Claude Voice With Advanced Models",
+      "body": "Claude's updated voice mode now handles tasks like meeting rescheduling and email drafting. The enhancement demonstrates expanding practical capabilities for voice interactions.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AegisAI Lands $36M to Combat AI Phishing",
+      "body": "Former Google security executives founded AegisAI to defend against AI-driven spear phishing attacks. The platform uses AI agents to detect subtle message anomalies automatically.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Runway Launches AI Model Router Tool",
+      "body": "Media Router automatically selects optimal image, video, or audio generation models based on user priorities. The tool addresses crowded generative media market with intelligent routing.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Expands ChatGPT Health to US Users",
+      "body": "ChatGPT Health now integrates with Apple Health, Function, and MyFitnessPal for personal health tracking. The feature brings health management capabilities to all US users.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta's AI Optimism Ad Uses Apocalypse Song",
+      "body": "Meta's inspiring AI advertisement features David Bowie's \"Five Years,\" a song about human extinction. The awkward choice highlights ironic messaging in AI promotion.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Hugging Face CEO Calls for Radical Transparency After OpenAI Hack",
+      "body": "The first autonomous agent cyberattack represents an unprecedented security event in AI systems. Hugging Face leadership is demanding an equally unprecedented response from the industry.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-26",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Launches New AI Keypad Tool",
-      "body": "OpenAI released a fancy new AI keypad designed primarily for coders. The tool promises to be fun for developers while potentially confusing for general users.",
+      "title": "OpenAI's New AI Keypad Now Available for Coders",
+      "body": "OpenAI has launched a specialized AI keypad designed to streamline coding workflows. The tool will appeal most to developers while remaining less accessible to general users.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-25",
       "topic": "AI"
     },
     {
       "title": "Prentis AI Lab Raises $100M for Task Automation",
-      "body": "Reid Hoffman and Mark Pincus co-founded Prentis, which is betting on automating routine computer tasks as AI's next frontier. The lab is in talks to raise $100 million for its vision.",
+      "body": "Reid Hoffman and Mark Pincus co-founded Prentis to automate routine computer tasks via AI. The lab believes task automation will soon outpace coding as AI's biggest use case.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-24",
       "topic": "AI"
     },
     {
-      "title": "Cognition Acquires Poke for AI Personality",
-      "body": "Cognition acquired Poke to enhance its coding agent Devin with better conversational abilities. The move signals that AI interaction style is becoming as competitive as the underlying models.",
+      "title": "Cognition Acquires Poke to Boost AI Personality",
+      "body": "Cognition's coding agent Devin now gains Poke's conversational style through acquisition. AI personality and interaction design are increasingly viewed as competitive advantages alongside model capability.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-24",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Launches Cheaper Opus 5 Model",
-      "body": "Anthropic released Opus 5, a cheaper and less restrictive alternative to Fable. The model is expected to be preferable for most common use cases.",
+      "title": "Anthropic Launches Opus 5 Model",
+      "body": "Opus 5 delivers lower costs and fewer restrictions than its predecessor Fable. The model is expected to become the preferred choice for most use cases.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-24",
       "topic": "AI"
     },
     {
-      "title": "AI Industry Opposes Broad Open-Weight Restrictions",
-      "body": "Nvidia, Mistral, and other AI companies urged policymakers against restricting open-weight AI models. The push comes as Washington debates responses to Chinese AI development.",
+      "title": "AI Industry Opposes Broad Open-Weight Model Restrictions",
+      "body": "Nvidia, Mistral, and other AI companies urge US policymakers against sweeping open-weight model bans. The debate centers on balancing national security concerns with open-source AI development.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-24",
       "topic": "AI"
     },
     {
-      "title": "Bluesky's AI Assistant Attie Expands Features",
-      "body": "Bluesky's Attie AI assistant now works as an open research tool across the AT Protocol. Users can ask questions about news, trends, and conversations on multiple platforms.",
+      "title": "Bluesky's AI Assistant Attie Expands Research Capabilities",
+      "body": "Attie now allows users to query news, trends, and conversations across Bluesky and AT Protocol networks. The tool positions AI as a social research instrument for decentralized platforms.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-24",
       "topic": "AI"
     },
     {
       "title": "Midjourney Acquires Astrology App Co-Star",
-      "body": "AI image and video lab Midjourney expanded beyond creative generation by acquiring astrology app Co-Star. The acquisition marks another diversification move for the company.",
+      "body": "The AI lab expands beyond image and video generation into new domains. Co-Star's acquisition signals Midjourney's strategy to diversify its AI capabilities.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-24",
       "topic": "AI"
     },
     {
-      "title": "Chinese AI Model Kimi K3 Rattles Wall Street",
-      "body": "Moonshot's open model Kimi went viral, sparking concern among U.S. AI firms. An unreleased OpenAI model also leaked from testing, triggering industry anxiety about security.",
+      "title": "Chinese AI Model Kimi K3 Sparks US Industry Reaction",
+      "body": "Moonshot's open-weight model Kimi went viral, triggering significant response from American AI leaders. The incident highlights geopolitical tensions in the global AI race.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-24",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Brings Voice Mode to ChatGPT Desktop",
-      "body": "ChatGPT Voice is now available on desktop apps for ChatGPT Work and Codex. The feature enables voice-based task completion and agent control.",
+      "title": "OpenAI's Voice Mode Now Available on Desktop",
+      "body": "ChatGPT Voice on desktop integrates with Work and Codex for task completion and agent control. The feature brings conversational AI capabilities to productivity applications.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-24",
       "topic": "AI"
     },
     {
-      "title": "AI Guardrails Hamper Cybersecurity Researchers",
-      "body": "OpenAI and Anthropic's safety guardrails are impeding offensive security research work. Cybersecurity experts say restrictions on vulnerability research tools limit their ability to find exploits.",
+      "title": "AI Guardrails Impeding Offensive Cybersecurity Research",
+      "body": "OpenAI and Anthropic safety measures are restricting security researchers from developing vulnerability detection tools. The conflict raises questions about balancing AI safety with legitimate security work.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-24",
       "topic": "AI"
     },
     {
-      "title": "AMD Challenges Nvidia with Helios AI System",
-      "body": "AMD unveiled its Helios rack-scale system to compete with Nvidia's AI infrastructure dominance. The system will start shipping to customers later this year.",
+      "title": "AMD Launches Helios AI Rack-Scale System",
+      "body": "AMD challenges Nvidia with a new rack-scale system designed for AI workloads. Customer shipments begin later this year.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-23",
       "topic": "AI"
     },
     {
-      "title": "Claude Voice Mode Gets More Capable Models",
-      "body": "Anthropic updated Claude's voice capabilities with enhanced AI models. Users can now reschedule meetings and draft emails through voice interaction.",
+      "title": "Anthropic Updates Claude Voice with Advanced Models",
+      "body": "Claude's new voice model enables users to reschedule meetings and draft emails conversationally. The update enhances Claude's practical productivity capabilities.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-23",
       "topic": "AI"
     },
     {
-      "title": "AegisAI Lands $36M to Stop AI Phishing",
-      "body": "Former Google security executives founded AegisAI, which raised $36 million to combat AI-driven spear phishing. The startup uses AI agents to detect anomalies humans might miss.",
+      "title": "AegisAI Lands $36M to Combat AI-Driven Phishing",
+      "body": "Former Google security executives founded AegisAI to deploy AI agents that detect spear phishing anomalies. The platform analyzes messages like humans do, catching sophisticated attack patterns.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-23",
       "topic": "AI"
     },
     {
-      "title": "Runway Launches AI Model Router Tool",
-      "body": "Runway released Media Router to automatically select the best generative AI model for each request. The tool optimizes based on quality, speed, or cost priorities.",
+      "title": "Runway Launches AI Model Router for Generative Media",
+      "body": "The Media Router automatically selects optimal image, video, or audio generation models based on quality, speed, or cost priorities. The tool addresses complexity in crowded generative media landscape.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-23",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Rolls Out ChatGPT Health to All Users",
-      "body": "ChatGPT Health is now available to all U.S. users with data integration from Apple Health and fitness apps. The feature enables AI-powered personalized health insights.",
+      "title": "OpenAI Expands ChatGPT Health to All US Users",
+      "body": "ChatGPT Health now integrates personal health data from Apple Health, Function, and MyFitnessPal. Users can leverage AI for personalized health insights.",
       "source": "TechCrunch",
       "publishedAt": "2026-07-23",
       "topic": "AI"
     },
     {
-      "title": "How AI Helps Design Next-Gen Medicines",
-      "body": "AI is accelerating drug discovery by helping scientists design new medicines faster and cheaper. The technology reduces development time and failure rates for biologic therapies.",
+      "title": "AI Helps Scientists Design Next-Generation Medicines",
+      "body": "Machine learning accelerates drug discovery and development, reducing timelines and costs. AI is transforming how engineers design therapeutic proteins for biologic medicines.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-23",
       "topic": "AI"
     },
     {
-      "title": "AlphaFold Redesigns Gene-Editing Proteins Safely",
-      "body": "Researchers used AlphaFold AI to redesign gene-editing proteins for improved safety. The breakthrough demonstrates AI's potential in enhancing medical biotechnology.",
+      "title": "AlphaFold AI Redesigns Gene-Editing Proteins Safely",
+      "body": "Researchers used AlphaFold to redesign CRISPR proteins, making gene editing tools more secure. The breakthrough demonstrates AI's capacity to improve biotechnology safety.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-24",
       "topic": "AI"
     },
     {
-      "title": "Canadian Legislator Reads LLM Response in Speech",
-      "body": "A Canadian politician inadvertently read out an apparent large language model response during a floor speech. The incident highlights concerns about AI-generated content in governance.",
+      "title": "Trump EPA May Reduce Neighbor Oversight of Data Centers",
+      "body": "AI firms seek more data center construction as environmental review processes face streamlining. The policy shift could accelerate infrastructure deployment but raises community impact concerns.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-24",
       "topic": "AI"
     },
     {
-      "title": "Anthropic's Opus 5 Focuses on Token Efficiency",
-      "body": "Opus 5 prioritizes token efficiency rather than major capability leaps. The model offers cost and performance improvements for practical use cases.",
+      "title": "Canadian Legislator Reads LLM Response in Floor Speech",
+      "body": "A Canadian politician inadvertently cited an AI language model output during parliamentary debate. The incident highlights risks of AI-generated content in official proceedings.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-24",
       "topic": "AI"
     },
     {
-      "title": "Trump EPA May Weaken Data Center Oversight",
-      "body": "AI firms seeking more data centers may get relief under Trump's EPA reducing neighbor regulations. The policy shift could accelerate AI infrastructure expansion.",
+      "title": "Anthropic's Opus 5 Prioritizes Token Efficiency",
+      "body": "Opus 5 focuses on token efficiency improvements rather than raw capability leaps. The update balances performance with cost optimization for users.",
       "source": "Ars Technica",
       "publishedAt": "2026-07-24",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Adds Selfie Login Option for Passwords",
-      "body": "Google introduced facial recognition as a password recovery option. Users can now log in with a selfie instead of traditional password reset methods.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-07-23",
       "topic": "AI"
     }
   ]
