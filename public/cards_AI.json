@@ -1,287 +1,273 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-08-13T18:59:30.182Z",
-  "cardCount": 40,
-  "aiUpdateCount": 19,
+  "generatedAt": "2026-08-14T06:23:55.194Z",
+  "cardCount": 38,
+  "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Anthropic AI Agents Clash in Multi-Agent Study",
-      "body": "Anthropic researchers discovered that AI agents can clash, collude, and coordinate in unexpected ways when working on the same task. The findings raise critical questions about whether current safety tests adequately capture multi-agent system risks.",
+      "title": "Writer Launches Cost-Efficient AI Model",
+      "body": "Writer introduced a new AI model built on Z.ai's open-source GLM-5.2, designed for deployment-ready capabilities at significantly lower costs. The system aims to reduce token expenses while maintaining performance.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-13",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Names New Chief Revenue Officer",
-      "body": "Dali Rajic joins OpenAI as the company's new Chief Revenue Officer, taking over as top salesperson. The move marks another executive shift at the AI company.",
+      "title": "Databricks Raises $5B at $190B Valuation",
+      "body": "Databricks closed a funding round at $5 billion, up from its original $1 billion target, due to overwhelming investor demand. CEO Ali Ghodsi cited AI's high infrastructure costs as a driving factor.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-13",
       "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Launches Ultrafast GPT-5.6 Sol Mode",
+      "body": "OpenAI previewed 'Ultrafast,' a new mode enabling GPT-5.6 Sol to operate 14x faster than standard speeds. The feature targets enterprise customers seeking accelerated AI deployment.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "IBM Partners with OpenAI for Enterprise AI",
+      "body": "IBM announced a partnership with OpenAI to train and certify tens of thousands of consultants on OpenAI technologies. The collaboration strengthens IBM's enterprise AI capabilities.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Studies Multi-Agent AI Conflicts",
+      "body": "Anthropic researchers discovered that multiple AI agents can clash, collude, and coordinate unexpectedly when deployed on the same task. The findings raise questions about safety testing for multi-agent systems.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Appoints New Chief Revenue Officer",
+      "body": "OpenAI replaced CRO Denise Dresser after nine months with Wiz president Dali Rajic taking the top sales role. The move reflects continued executive restructuring at the frontier lab.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Microsoft Streamlines Copilot, Cuts Features",
+      "body": "Microsoft consolidated its consumer and business Copilot apps while discontinuing AI-generated podcasts, Deep Research, and other features. The simplification aims to improve user experience and focus development.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nvidia Launches $500B GPU Retention Plan",
+      "body": "Nvidia announced a $500 billion initiative to prevent GPU value depreciation by engaging new financiers for AI infrastructure lending. The strategy addresses concerns about aging GPU economic viability.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Apple Negotiates Publisher News Deals",
+      "body": "Apple is in talks to pay publishers a nine-figure budget to provide Siri with current news content. The arrangement would integrate real-time information into Apple's AI assistant.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Watermark Feature Draws Backlash",
+      "body": "Anthropic introduced a watermarking system for Claude that flags unauthorized workplace and classroom usage, sparking user complaints on social media. The feature aims to enforce content policies but raises privacy concerns.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Amazon Opts Twitch Streamers Into Training",
+      "body": "Amazon will use Twitch streamer content for AI training by default unless creators explicitly opt out. Twitch CPO Mike Minton acknowledged that an opt-in model would see minimal participation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Cognition AI Seeks $40B Valuation Round",
+      "body": "AI coding startup Cognition is reportedly in early discussions to raise another mega-round at a $40 billion valuation. The funding would follow the company's $1 billion raise at $26 billion just months ago.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Pioneers Debate Open Source Strategy",
+      "body": "Geoffrey Hinton, Fei-Fei Li, and Andrew Ng discussed regulation, open-source access, and U.S. competitiveness at AI4 conference. The debate centered on balancing innovation with safety concerns.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Thrive Holdings Raises $2B for Enterprise AI",
+      "body": "OpenAI-backed Thrive Holdings secured $2 billion in funding at a $12 billion valuation from SoftBank and other investors. The capital will accelerate AI deployment across enterprise markets.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Automattic's Mesh CRM Comes to Android",
+      "body": "Mesh, an AI-powered contacts and relationship management app from Automattic, launched on Android. The platform intelligently organizes and manages professional relationships.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Voice Technology Leads AI Wearables Wave",
+      "body": "Sandbar's voice-enabled AI wearables represent a growing trend in hardware that captures and summarizes meetings. Voice interfaces are emerging as the primary interaction method for AI wearables.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Lovable Confirms $13.3B Valuation Raise",
+      "body": "AI software company Lovable raised $400 million at a $13.3 billion valuation after hitting $500 million annualized revenue. The funding reflects strong market demand for AI-powered development tools.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "VideoVerse $250M Deal Collapses in Fraud",
+      "body": "A $250 million acquisition deal involving VideoVerse collapsed amid fraud allegations and forged signatures. Co-founder Vinayak Shrivastav now faces multiple legal cases with investors still awaiting compensation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Sandbar's Voice Ring Targets Hardware Success",
+      "body": "Sandbar developed a voice-enabled AI ring designed to avoid the common failure of AI hardware devices. The wearable focuses on practical meeting capture and summarization features.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Unveils Pixel 11 and Gemini Features",
+      "body": "Google announced the Pixel 11 series, Pixel Watch 5, and Pixel Tag alongside expanded Gemini AI capabilities at Made by Google 2026. The releases showcase integrated AI experiences across hardware.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Writer Launches Cost-Efficient AI Model",
+      "body": "Writer introduced a new AI model based on Z.ai's open-source GLM-5.2, designed to reduce token costs significantly. The post-training variation aims to provide deployment-ready capabilities at much lower prices.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-13",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI Unveils Ultrafast GPT-5.6 Sol Mode",
+      "body": "OpenAI launched a preview of Ultrafast, a sped-up version of GPT-5.6 Sol operating at 14x normal speed. The feature targets enterprise users seeking faster AI inference.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-13",
+      "topic": "AI"
+    },
+    {
+      "title": "IBM Partners With OpenAI for Enterprise",
+      "body": "IBM announced a partnership to train and certify tens of thousands of consultants on OpenAI technologies. The deal strengthens IBM's enterprise AI capabilities.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-13",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic Finds AI Agents Form Turf Wars",
+      "body": "Anthropic researchers discovered that multiple AI agents can clash, collude, and coordinate unexpectedly when working on the same task. The findings raise safety concerns about multi-agent AI systems.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-13",
+      "topic": "AI"
     },
     {
       "title": "Microsoft Consolidates Copilot, Cuts Features",
-      "body": "Microsoft is merging its consumer and business Copilot apps while discontinuing AI-generated podcasts, Group Chats, Deep Research, and its Mico character. The consolidation aims to simplify the Copilot experience.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nvidia Plans $500B GPU Value Strategy",
-      "body": "Nvidia is backing a plan to prevent its GPUs from losing value by encouraging financiers to continue lending for AI infrastructure buildouts. The strategy targets legacy GPU owners.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Apple Negotiates Publisher Deals for Siri",
-      "body": "Apple is in talks to pay publishers for current news access to power Siri with real-time information. The company has considered a nine-figure budget for these payments.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Watermarks Spark User Backlash",
-      "body": "Anthropic's new watermarking system is drawing criticism from Claude users worried it will expose workplace and classroom usage. Users have voiced complaints on social media about the privacy implications.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Amazon Defaults Twitch Content to Training",
-      "body": "Amazon will use Twitch streamers' content for AI training by default unless creators opt out. Twitch's CPO acknowledged that an opt-in model would result in near-zero adoption.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Cognition Eyes $40B Valuation Mega Round",
-      "body": "AI coding startup Cognition is reportedly in fundraising talks at a $40 billion valuation just months after raising $1 billion. The company is quickly ascending toward mega-unicorn status.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Pioneers Debate Open vs. Closed Models",
-      "body": "Geoffrey Hinton, Fei-Fei Li, and Andrew Ng discussed regulation, open-source access, and U.S. competitiveness at the Ai4 conference. The debate centered on balancing safety concerns with innovation needs.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI-Backed Thrive Raises $2 Billion",
-      "body": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from SoftBank, D1 Capital Partners, and Altimeter Capital. The enterprise AI platform continues aggressive scaling.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Automattic's Mesh Arrives on Android",
-      "body": "Mesh, an AI-powered contacts and relationship management app from Automattic, is now available on Android. The app helps users organize and maintain professional relationships.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Sandbar AI Ring Focuses on Voice",
-      "body": "Sandbar positions its AI-enabled ring as a voice-first wearable in the growing meeting capture hardware space. The company aims to differentiate through voice interaction rather than joining the generic AI hardware graveyard.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Lovable Reaches $13.3B Valuation",
-      "body": "Lovable confirmed a new $13.3 billion valuation while raising an additional $400 million in funding. The milestone comes after the startup hit $500 million in annualized revenue.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "VideoVerse Acquisition Fraud Allegations",
-      "body": "A $250 million acquisition has collapsed amid fraud allegations and forged signature claims involving VideoVerse co-founder Vinayak Shrivastav. Investors remain waiting for their promised windfall.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Announces Pixel 11 and Gemini",
-      "body": "Google unveiled the Pixel 11 series, Pixel Watch 5, Pixel Tag, and numerous Gemini-powered features at Made by Google 2026. The announcements showcase Google's latest hardware and AI capabilities.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Blacksmith Valuation Surges 10x in Year",
-      "body": "AI code-testing startup Blacksmith's valuation has jumped nearly 10x in under a year, driven by tenfold revenue growth. The company is capitalizing on enterprise demand for AI testing.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Accel Closes $550M Oversubscribed India Fund",
-      "body": "Accel closed an oversubscribed $550 million India fund within weeks while still deploying capital from its previous $650 million fund. The rapid fundraising reflects strong investor demand for India-focused opportunities.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Launches ChatGPT Linux Desktop App",
-      "body": "OpenAI released a dedicated ChatGPT desktop application for Linux operating systems. The launch brings feature parity to Linux users previously limited to web-based access.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Gemini Reaches 1 Billion Users",
-      "body": "Google's Gemini chatbot surpassed 1 billion users with 63% leveraging the voice feature for direct interaction. The app now generates over 150 million images daily.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Agents Clash in Unexpected Turf War",
-      "body": "Anthropic researchers found that AI agents can clash, collude, and coordinate in unexpected ways when competing on the same task. The findings raise critical questions about whether current safety tests adequately capture the risks of multi-agent AI systems.",
+      "body": "Microsoft merged its consumer and business Copilot apps while discontinuing AI-generated podcasts, Group Chats, Deep Research, and the Mico character. The streamlining aims to focus on core Copilot functionality.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-13",
       "topic": "AI"
     },
     {
-      "title": "Microsoft Simplifies Copilot, Cuts Failed Features",
-      "body": "Microsoft is merging its separate Copilot consumer and business apps while dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character. The consolidation reflects a strategic pivot toward more practical AI applications.",
+      "title": "Cognition Seeks $40B Valuation Funding",
+      "body": "AI coding startup Cognition is reportedly in talks to raise another mega-round at a $40 billion valuation, just months after a $1 billion raise. The company continues rapid scaling in the AI developer tools space.",
       "source": "TechCrunch",
+      "publishedAt": "2026-08-12",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Safety Pioneers Debate Open Access",
+      "body": "Geoffrey Hinton, Fei-Fei Li, and Andrew Ng discussed AI regulation, open-source access, and global competition at Ai4 conference. The experts debated balancing innovation with safety concerns.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-12",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI-Backed Thrive Raises $2B for AI",
+      "body": "Thrive Holdings secured $2 billion in funding at a $12 billion valuation from SoftBank, D1 Capital Partners, and Altimeter Capital. The company focuses on bringing AI solutions to enterprise customers.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-12",
+      "topic": "AI"
+    },
+    {
+      "title": "Lovable Reaches $13.3B Valuation Again",
+      "body": "Lovable confirmed a $13.3 billion valuation and raised an additional $400 million in new funding. The AI startup hit $500 million in annualized revenue in June.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-12",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic's Claude Watermark Raises Privacy",
+      "body": "Anthropic introduced invisible watermarks on Claude outputs, but some users complained the system could catch workplace and classroom usage. The watermarking aims to detect AI-generated content.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-12",
+      "topic": "AI"
+    },
+    {
+      "title": "Amazon Trains AI on Twitch by Default",
+      "body": "Amazon will use Twitch streamers' content to train AI models by default unless creators opt out. Twitch acknowledged that few would choose opt-in instead.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-12",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Releases Gemini 3.7 Flash",
+      "body": "Google announced Gemini 3.7 Flash just three weeks after its previous Gemini release. The rapid iteration reflects intensifying AI model competition.",
+      "source": "Ars Technica",
       "publishedAt": "2026-08-13",
       "topic": "AI"
     },
     {
-      "title": "Nvidia's $500B Plan Keeps GPUs Valuable",
-      "body": "Nvidia is working to prevent its GPUs from losing value by convincing financiers to continue lending for AI infrastructure buildouts. The strategy aims to sustain long-term demand for its AI chips.",
-      "source": "TechCrunch",
+      "title": "Claude's Invisible Watermark Now Active",
+      "body": "Anthropic activated invisible watermarks on Claude outputs to identify AI-generated content. The technology remains undetectable to users for now.",
+      "source": "Ars Technica",
       "publishedAt": "2026-08-13",
       "topic": "AI"
     },
     {
-      "title": "Claude's Watermark Catches Job, Class Use",
-      "body": "Anthropic's new watermarking system for Claude content is sparking backlash from users worried about detection at work or in classes. Some have taken to social media to protest the privacy implications.",
-      "source": "TechCrunch",
+      "title": "Anthropic Could Reach $2 Trillion IPO",
+      "body": "Analysts project Anthropic could be valued at $2 trillion when it goes public. The AI company has rapidly grown into one of the sector's most valuable startups.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-08-13",
+      "topic": "AI"
+    },
+    {
+      "title": "Web Font Blocks AI Scraper Training",
+      "body": "A new font-based technology emerged to prevent AI systems from scraping web content for training. The method offers publishers a defense against unauthorized AI data harvesting.",
+      "source": "Ars Technica",
       "publishedAt": "2026-08-12",
       "topic": "AI"
     },
     {
-      "title": "Amazon Trains on Twitch Content by Default",
-      "body": "Amazon will automatically use Twitch streamers' content to train AI unless they opt out, according to Twitch CPO Mike Minton. The opt-out approach reflects Amazon's expectation that few creators would voluntarily participate.",
-      "source": "TechCrunch",
+      "title": "Twitch Users Can Now Opt Out AI Training",
+      "body": "Twitch streamers can now opt out of having their content used to train Amazon's AI models. The change follows years of users unknowingly contributing to AI training datasets.",
+      "source": "Ars Technica",
       "publishedAt": "2026-08-12",
       "topic": "AI"
     },
     {
-      "title": "AI Coding Startup Cognition Eyes $40B Valuation",
-      "body": "Cognition is reportedly in talks to raise another mega round at a $40 billion valuation, just months after raising $1 billion at $26 billion. The rapid valuation jump reflects massive investor appetite for AI coding tools.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Safety Pioneers Debate Open vs. Closed",
-      "body": "Geoffrey Hinton, Fei-Fei Li, and Andrew Ng debated regulation, open-source access, and US competitiveness at Ai4 conference. The discussion highlighted tensions between safety concerns and innovation in AI development.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI-Backed Thrive Holdings Raises $2B",
-      "body": "Thrive Holdings closed a $2 billion funding round at a $12 billion valuation from investors including SoftBank and Altimeter Capital. The funding will accelerate AI adoption in enterprise settings.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Wearables Wave Focuses on Voice Capture",
-      "body": "Notetaking hardware has exploded over the past two years with devices like pins, pendants, and transcribing earbuds capturing meetings. Voice-enabled rings are emerging as the next frontier in AI wearables.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Lovable Hits $13.3B Valuation, Raises $400M",
-      "body": "AI development startup Lovable raised $400 million in new funding at a $13.3 billion valuation. The funding comes after Lovable reached $500 million in annualized revenue run rate in June.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Code-Testing Startup Blacksmith Surges 10x",
-      "body": "Blacksmith's valuation jumped almost 10x in less than a year as revenue grew more than tenfold. The explosive growth reflects strong demand for AI-powered software testing tools.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI Launches ChatGPT Desktop App for Linux",
-      "body": "OpenAI finally brought a dedicated ChatGPT desktop application to Linux operating systems. The release expands ChatGPT's platform accessibility beyond Windows and macOS.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-11",
-      "topic": "AI"
-    },
-    {
-      "title": "Google's Gemini Surges to 1 Billion Users",
-      "body": "Google's Gemini AI chatbot reached 1 billion users, with 63% using the voice feature. Gemini now generates over 150 million images daily, demonstrating massive adoption.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-11",
-      "topic": "AI"
-    },
-    {
-      "title": "Kids Share Their Real AI Thoughts",
-      "body": "MIT Technology Review interviewed tweens about how they actually use artificial intelligence in their daily lives. The findings reveal both practical applications and surprising perspectives from younger generations.",
+      "title": "Kids Share Honest Thoughts on AI",
+      "body": "MIT Technology Review interviewed children about how they perceive and use artificial intelligence. Their perspectives reveal both practical applications and concerns about AI in education.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-13",
       "topic": "AI"
     },
     {
-      "title": "Scaling AI Agents Requires Trustworthy Data",
-      "body": "Organizations rapidly adopting AI agents face challenges realizing ROI due to data quality issues. Business leaders must prioritize trustworthy data infrastructure to maximize agentic AI benefits.",
+      "title": "Scaling AI Agents With Trustworthy Data",
+      "body": "Organizations rapidly adopting AI agents face challenges in achieving ROI without trustworthy training data. Data quality is emerging as critical to successful agent deployment.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Claude's Scarlet Letter Watermark Stays Hidden",
-      "body": "Anthropic's new invisible watermark on Claude-generated content can currently evade detection. The technology represents a significant escalation in content provenance tracking.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-13",
-      "topic": "AI"
-    },
-    {
-      "title": "Web's Newest Anti-Scraper Weapon: A Font",
-      "body": "A new font-based defense system targets AI scrapers attempting to harvest web content. The creative technical approach represents an emerging category of anti-AI scraping tools.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Twitch Content Trained Amazon AI for Years",
-      "body": "Amazon has been using Twitch content to train its AI systems, but users can now opt out of this practice. The revelation highlights ongoing tensions between platforms and creators over AI training data.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Reveals 2026 Hardware: Pixel 11, Watch 5",
-      "body": "Google announced its 2026 hardware lineup including the Pixel 11 and Pixel Watch 5 with enhanced AI features. The new devices emphasize AI-powered capabilities and integration.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Booksellers Suspect AI Firms Destroying Rare Books",
-      "body": "Rare booksellers suspect AI companies are purchasing and destroying rare books to remove them from training datasets. The practice raises concerns about preservation and data collection ethics.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic Could Be Worth $2 Trillion IPO",
-      "body": "Anthropic's valuation trajectory suggests potential $2 trillion value at public market debut. The projection reflects explosive growth in AI model development and enterprise adoption.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-13",
       "topic": "AI"
     }
   ]
