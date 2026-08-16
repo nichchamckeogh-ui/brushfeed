@@ -1,292 +1,285 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-08-16T06:37:17.245Z",
-  "cardCount": 41,
+  "generatedAt": "2026-08-16T18:32:54.635Z",
+  "cardCount": 40,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "OpenAI Launches Ultrafast Mode for GPT-5.6 Sol",
-      "body": "OpenAI introduced 'Ultrafast,' a new mode that accelerates GPT-5.6 Sol to 14x normal speed. The preview aims to attract enterprise users seeking faster inference.",
+      "title": "Anthropic CEO Addresses AI Trust Crisis",
+      "body": "Dario Amodei pushes back against claims he's been overly pessimistic about AI. He argues the real issue is a fundamental crisis of trust in AI systems.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Launches GPT-5.6 Sol Ultrafast Mode",
+      "body": "OpenAI introduced 'Ultrafast,' a new mode making GPT-5.6 Sol work 14x faster. The preview aims to attract enterprise users seeking speed without sacrificing capability.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-13",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Details Claude's New Watermarking System",
-      "body": "Anthropic shared details on how Claude's watermarks will function and their implications. The system includes both visible and invisible benchmarks for identifying AI-generated content.",
+      "title": "Anthropic Details Claude Watermarking System",
+      "body": "Anthropic shared specifics on how Claude's new watermarks will function and their limitations. The system aims to identify AI-generated content while raising concerns about usability.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-15",
       "topic": "AI Update"
     },
     {
-      "title": "SpaceX Officially Acquires AI Coding Startup Cursor",
-      "body": "SpaceX has completed its acquisition of Cursor, an AI coding startup. Cursor is now officially part of SpaceX's operations.",
+      "title": "SpaceX Officially Acquires Cursor",
+      "body": "AI coding startup Cursor is now part of SpaceX. The acquisition marks SpaceX's expansion into AI-powered developer tools.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-15",
       "topic": "AI Update"
     },
     {
-      "title": "Google Allows Removal of Visible AI Generation Watermarks",
-      "body": "Google now permits users to disable visible watermarks on AI-generated images. Invisible benchmarks remain active for tracking AI-generated files.",
+      "title": "Google Allows Removal of Visible Watermarks",
+      "body": "Google now permits users to remove visible watermarks from AI-generated images. Invisible benchmarks remain to track AI-generated files.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-14",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Releases Glimmer Open-Weight AI Model",
-      "body": "Meta released Glimmer, an open-weight model anyone can download and run locally. This contrasts with Muse Spark, Meta's more powerful API-locked model.",
+      "title": "Meta Releases Open-Weight AI Model Glimmer",
+      "body": "Meta launched Glimmer, an open-weight model anyone can download and run locally. This contrasts with Muse Spark, Meta's more powerful proprietary model.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-14",
       "topic": "AI Update"
     },
     {
-      "title": "Kog Claims GPUs Suited for Agentic AI Workflows",
-      "body": "French startup Kog challenges the notion that GPUs are poorly suited for agentic workflows. The company aims to squeeze more inference performance from GPU hardware.",
+      "title": "Kog Optimizes GPU Inference for AI Agents",
+      "body": "French startup Kog argues GPUs are better suited for agentic workflows than commonly believed. The company focuses on squeezing more efficiency from GPU inference.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-14",
       "topic": "AI Update"
     },
     {
-      "title": "Natural Gas Prices May Triple for AI Data Centers",
-      "body": "A new forecast suggests natural gas prices could triple in parts of the U.S. This could impose massive power bills on hyperscalers running AI operations.",
+      "title": "Natural Gas Prices Could Triple for Hyperscalers",
+      "body": "Rising natural gas prices may force AI data centers to absorb massive power bills. Hyperscalers' recent shift toward natural gas could prove costly.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-14",
       "topic": "AI Update"
     },
     {
-      "title": "Writer Introduces Cost-Efficient AI Model Variant",
-      "body": "Writer unveiled a new AI model built on Z.ai's open-source GLM-5.2. The system offers deployment-ready capabilities at significantly lower token costs.",
+      "title": "Writer Launches Cost-Efficient AI Model",
+      "body": "Writer introduced a new model built on GLM-5.2 to reduce deployment costs. The system offers production-ready capabilities at significantly lower token expenses.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-13",
       "topic": "AI Update"
     },
     {
       "title": "Databricks Raises $5B at $190B Valuation",
-      "body": "Databricks secured $5 billion in funding at a $190 billion valuation, exceeding initial expectations. CEO Ali Ghodsi attributed the success to overwhelming investor demand.",
+      "body": "Databricks secured $5B in funding after investor demand exceeded its initial $1B goal. The company settled at a $190B valuation, with Ali Ghodsi citing AI's high costs.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-13",
       "topic": "AI Update"
+    },
+    {
+      "title": "IBM Partners with OpenAI for Enterprise",
+      "body": "IBM will train and certify tens of thousands of consultants on OpenAI technologies. The partnership strengthens IBM's enterprise AI offerings.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic AI Agents Stage Turf War",
+      "body": "Anthropic researchers discovered that AI agents can clash, collude, and coordinate unexpectedly. The finding raises questions about whether current safety tests adequately measure multi-agent risks.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Names New Chief Revenue Officer",
+      "body": "OpenAI replaced Denise Dresser as CRO after nine months, hiring Wiz's Dali Rajic. The leadership change continues OpenAI's executive restructuring.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Microsoft Consolidates Copilot, Cuts Features",
+      "body": "Microsoft merged its consumer and business Copilot apps while discontinuing AI podcasts, Deep Research, and other features. The move simplifies Copilot's feature set.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nvidia's $500B Plan Keeps GPUs Valuable",
+      "body": "Nvidia announced a strategy to maintain GPU value by engaging financiers in AI infrastructure lending. The approach addresses concerns about aging GPU depreciation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Apple Considers Nine-Figure News Publisher Deal",
+      "body": "Apple is negotiating with publishers to provide current news to Siri. The company has budgeted potentially hundreds of millions for the payments.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Claude Users Object to Watermark Detection",
+      "body": "Some Claude users are upset that Anthropic's watermarks will catch workplace and classroom usage. The complaint highlights privacy concerns around AI content identification.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Amazon Defaults to Training on Twitch Content",
+      "body": "Amazon will train models on Twitch streamers' content unless creators opt out. Twitch CPO Mike Minton acknowledged an opt-in approach would be rejected.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Grok Misused to Generate Child Abuse Material",
+      "body": "A woman claimed her stepfather used Grok to transform a childhood photo into explicit imagery. The case highlights urgent concerns about AI image generation misuse.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-15",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta's 'Open' AI Strategy Questioned",
+      "body": "Meta's release of open-weight Glimmer contrasts with its proprietary Muse Spark model and related business deals. The mixed approach raises questions about Zuckerberg's commitment to openness.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic CEO Pushes Back on AI Trust Crisis",
+      "body": "Dario Amodei defends Anthropic against criticism of painting an overly pessimistic picture of AI. He argues the skepticism is fundamentally about trust in the technology.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-16",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic Details Claude's New Watermarking System",
+      "body": "Anthropic is sharing specifics on how Claude will watermark AI-generated content. The system raises questions about invisibility and implications for code generation.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-15",
+      "topic": "AI"
+    },
+    {
+      "title": "SpaceX Officially Acquires Cursor AI Coding Startup",
+      "body": "The AI coding startup Cursor is now part of SpaceX following an official close of acquisition. The deal marks SpaceX's expansion into AI development tools.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-15",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Lets Users Remove Visible AI Generation Watermarks",
+      "body": "Google now allows users to turn off visible watermarks on AI-generated images. Invisible benchmarks remain active to identify AI-generated files.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-14",
+      "topic": "AI"
+    },
+    {
+      "title": "Meta Releases Open-Weight Glimmer AI Model",
+      "body": "Meta released Glimmer, an open-weight AI model anyone can download and run locally. The release contrasts with Muse Spark, Meta's more powerful proprietary model.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-14",
+      "topic": "AI"
+    },
+    {
+      "title": "Kog Optimizes GPU Inference for AI Agents",
+      "body": "French startup Kog challenges the notion that GPUs are poorly suited for agentic AI workflows. The company is working to squeeze more inference efficiency from existing hardware.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-14",
+      "topic": "AI"
+    },
+    {
+      "title": "Natural Gas Prices Could Cripple AI Data Centers",
+      "body": "Hyperscalers may face massive bills if natural gas prices triple as some forecasts predict. Rising energy costs could significantly impact AI infrastructure spending.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-14",
+      "topic": "AI"
+    },
+    {
+      "title": "Writer Launches Cost-Efficient AI Model Variation",
+      "body": "Writer introduced a new AI model built on GLM-5.2 to reduce token costs for deployment. The system offers production-ready capabilities at lower price points.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-13",
+      "topic": "AI"
+    },
+    {
+      "title": "Databricks Raises $5B at $190B Valuation",
+      "body": "Databricks settled on $5B funding after investors pushed for higher valuations, securing $190B company value. CEO Ali Ghodsi cited AI's high costs as a driver of fundraising needs.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-13",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI Introduces Ultrafast GPT-5.6 Sol Mode",
+      "body": "OpenAI is previewing 'Ultrafast,' a sped-up version of GPT-5.6 Sol running 14x faster. The mode targets enterprise users seeking better performance.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-13",
+      "topic": "AI"
     },
     {
       "title": "IBM Partners with OpenAI for Enterprise AI",
-      "body": "IBM announced a partnership with OpenAI to advance enterprise AI adoption. IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies.",
-      "source": "TechCrunch AI",
+      "body": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies. The partnership bolsters both companies' enterprise AI initiatives.",
+      "source": "TechCrunch",
       "publishedAt": "2026-08-13",
-      "topic": "AI Update"
+      "topic": "AI"
     },
     {
-      "title": "Anthropic Studies Multi-Agent AI Conflicts",
-      "body": "Anthropic researchers found AI agents can clash, collude, and coordinate unexpectedly. The findings raise questions about whether current safety tests adequately assess multi-agent risks.",
-      "source": "TechCrunch AI",
+      "title": "Anthropic AI Agents Clash in Multi-Agent Test",
+      "body": "Anthropic researchers found AI agents can unexpectedly clash, collude, and coordinate with each other. The findings raise safety concerns about multi-agent AI systems.",
+      "source": "TechCrunch",
       "publishedAt": "2026-08-13",
-      "topic": "AI Update"
+      "topic": "AI"
     },
     {
       "title": "OpenAI Appoints New Chief Revenue Officer",
-      "body": "OpenAI replaced CRO Denise Dresser after nine months with Dali Rajic from Wiz. Rajic takes over as the frontier lab's top sales executive.",
-      "source": "TechCrunch AI",
+      "body": "OpenAI replaced CRO Denise Dresser after nine months, hiring Wiz's Dali Rajic. The move continues executive restructuring at the AI laboratory.",
+      "source": "TechCrunch",
       "publishedAt": "2026-08-13",
-      "topic": "AI Update"
+      "topic": "AI"
     },
     {
-      "title": "Microsoft Consolidates Copilot Apps and Cuts Features",
-      "body": "Microsoft merged its consumer and business Copilot apps into one platform. The company discontinued AI podcasts, Group Chats, Deep Research, and Mico character.",
-      "source": "TechCrunch AI",
+      "title": "Microsoft Kills Flop AI Features, Consolidates Copilot",
+      "body": "Microsoft is merging consumer and business Copilot apps and discontinuing AI-generated podcasts and Deep Research. The company is streamlining its AI assistant strategy.",
+      "source": "TechCrunch",
       "publishedAt": "2026-08-13",
-      "topic": "AI Update"
+      "topic": "AI"
     },
     {
-      "title": "Nvidia's $500B Plan to Preserve GPU Value",
-      "body": "Nvidia launched a $500 billion plan to prevent GPU depreciation through financing innovation. The strategy aims to help financiers continue supporting AI infrastructure buildouts.",
-      "source": "TechCrunch AI",
+      "title": "Nvidia's $500B Financing Plan Extends GPU Lifespan",
+      "body": "Nvidia is pushing financial innovation to prevent GPUs from losing value over time. The strategy helps convince financiers to continue funding AI infrastructure buildouts.",
+      "source": "TechCrunch",
       "publishedAt": "2026-08-13",
-      "topic": "AI Update"
+      "topic": "AI"
     },
     {
-      "title": "Apple Negotiates Nine-Figure News Licensing Deal",
-      "body": "Apple is in talks to pay publishers for Siri's access to current news. The tech giant has considered a nine-figure budget for the payments.",
-      "source": "TechCrunch AI",
+      "title": "Apple Negotiates Nine-Figure Deal for Siri News",
+      "body": "Apple is in talks to pay publishers for current news content to provide Siri. The nine-figure budget would enhance Siri's AI capabilities with real-time information.",
+      "source": "TechCrunch",
       "publishedAt": "2026-08-13",
-      "topic": "AI Update"
+      "topic": "AI"
     },
     {
-      "title": "Anthropic Watermarks Create Workplace Compliance Issues",
-      "body": "Some Claude users complained that Anthropic's watermarking system will flag workplace and classroom usage. Users have taken to social media to voice their concerns.",
-      "source": "TechCrunch AI",
+      "title": "Claude Users Worry About Watermark Exposure",
+      "body": "Some Claude users are upset that Anthropic's watermarking system could expose their workplace or classroom use of AI. Social media complaints suggest the feature has privacy implications.",
+      "source": "TechCrunch",
       "publishedAt": "2026-08-12",
-      "topic": "AI Update"
+      "topic": "AI"
     },
     {
       "title": "Amazon Trains on Twitch Content by Default",
-      "body": "Amazon will use Twitch streamers' content for training unless creators opt out. Twitch CPO Mike Minton acknowledged an opt-in approach would see minimal participation.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Cognition Eyes $40B Valuation for Next Round",
-      "body": "AI coding startup Cognition is reportedly in talks to raise at a $40 billion valuation. This comes months after a $1 billion raise at $26 billion valuation.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Woman Claims Grok Enabled Explicit Image Generation",
-      "body": "A woman alleged her stepfather used Grok to transform childhood photos into explicit imagery. She criticized AI tools for 'turning everyday life into child sexual abuse.'",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta's Open AI and $250M Deal Fallout",
-      "body": "Meta released Glimmer alongside Mark Zuckerberg's letter on AI democratization. The move contrasts with the company's more restricted Muse Spark offering.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-14",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Woman claims Grok used to create explicit imagery",
-      "body": "A woman alleges her stepfather used AI tools to transform childhood photos into child sexual abuse material. She argues that AI is \"taking everyday life and turning it into child sexual abuse.\"",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-15",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic details Claude's new watermarking system",
-      "body": "Anthropic is implementing watermarks to identify Claude-generated content. The company must address concerns about whether visible watermarks can be removed through editing and how this affects code generation.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-15",
-      "topic": "AI"
-    },
-    {
-      "title": "SpaceX officially acquires AI coding startup Cursor",
-      "body": "SpaceX has completed its acquisition of Cursor, an AI coding startup. The deal integrates advanced AI development capabilities into SpaceX's operations.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-15",
-      "topic": "AI"
-    },
-    {
-      "title": "Google lets users remove visible AI generation watermarks",
-      "body": "Google is allowing users to disable visible watermarks on AI-generated images while keeping invisible watermarks for identification. The invisible benchmarks help identify AI-generated files even when visible ones are removed.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-14",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta releases Glimmer, open-weight AI model",
-      "body": "Meta launched Glimmer, an open-weight AI model anyone can download and run locally. The release contrasts with Muse Spark, Meta's more powerful proprietary model locked behind company APIs.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-14",
-      "topic": "AI"
-    },
-    {
-      "title": "Kog optimizes GPU inference for agentic workflows",
-      "body": "French startup Kog challenges the notion that GPUs are poorly suited for agentic AI workflows. The company is developing methods to squeeze more inference performance from existing GPU infrastructure.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-14",
-      "topic": "AI"
-    },
-    {
-      "title": "Natural gas prices could spike for AI data centers",
-      "body": "A new forecast suggests natural gas prices could triple in parts of the US, threatening hyperscalers' AI infrastructure costs. This economic pressure could significantly impact the economics of powering massive AI data centers.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-14",
-      "topic": "AI"
-    },
-    {
-      "title": "Writer launches cost-effective AI model GLM-5.2",
-      "body": "Writer introduced a new AI model built on Z.ai's open-source GLM-5.2, designed to reduce token costs. The deployment-ready system aims to provide enterprise capabilities at significantly lower prices.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-13",
-      "topic": "AI"
-    },
-    {
-      "title": "Databricks raises $5B at $190B valuation",
-      "body": "Databricks secured $5 billion in funding at a $190 billion valuation despite initially seeking $1 billion. Investor demand was so high that CEO Ali Ghodsi accepted more capital than planned, citing AI's cost intensity.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-13",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI launches Ultrafast GPT-5.6 Sol preview",
-      "body": "OpenAI introduced Ultrafast mode, making GPT-5.6 Sol run 14x faster than standard versions. The speed-optimized release targets enterprise users seeking performance improvements.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-13",
-      "topic": "AI"
-    },
-    {
-      "title": "IBM partners with OpenAI for enterprise AI",
-      "body": "IBM announced a partnership with OpenAI to train and certify tens of thousands of consultants. The deal bolsters IBM's enterprise AI capabilities and service offerings.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-13",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic's AI agents spark turf war in tests",
-      "body": "Anthropic researchers discovered that multiple AI agents can clash, collude, and coordinate unexpectedly when tasked with the same objective. The findings raise critical questions about whether current safety tests adequately capture multi-agent system risks.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-13",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI replaces CRO amid executive shake-up",
-      "body": "OpenAI hired Dali Rajic, Wiz's president and COO, as chief revenue officer, replacing Denise Dresser after nine months. The leadership change reflects continued restructuring at the AI frontier lab.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-13",
-      "topic": "AI"
-    },
-    {
-      "title": "Microsoft consolidates Copilot apps, drops AI features",
-      "body": "Microsoft is merging consumer and business Copilot apps while discontinuing AI-generated podcasts, Group Chats, and Deep Research. The company is streamlining its AI assistant strategy.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-13",
-      "topic": "AI"
-    },
-    {
-      "title": "Nvidia plans $500B financing scheme for GPUs",
-      "body": "Nvidia is developing a plan to maintain GPU value through financing partnerships with lenders. The strategy aims to sustain AI buildout investments and prevent hardware depreciation.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-13",
-      "topic": "AI"
-    },
-    {
-      "title": "Claude watermark users fear workplace detection",
-      "body": "Some Claude users are protesting Anthropic's new watermarking system, concerned it will reveal professional or academic use. The watermarks could expose users leveraging Claude at their jobs or in classes.",
+      "body": "Amazon will use Twitch streamers' content for AI training unless creators opt out. Twitch's CPO acknowledged that opt-in would result in zero participation.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-12",
       "topic": "AI"
     },
     {
-      "title": "Amazon trains on Twitch streamer content by default",
-      "body": "Amazon will automatically include Twitch streamer content in AI training unless creators opt out. Twitch CPO Mike Minton acknowledged that opt-in would result in zero participation.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Cognition raises at $40B valuation in mega round",
-      "body": "AI coding startup Cognition is reportedly in talks for another funding round at a $40 billion valuation. The mega round would come just months after a $1 billion raise at $26 billion.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Kids share honest perspectives on AI tools",
-      "body": "MIT Technology Review interviewed children about their views and use of artificial intelligence. The kids offered candid insights into how AI is integrated into their daily learning and creativity.",
+      "title": "Kids Share Honest Thoughts on AI Usage",
+      "body": "MIT Technology Review spoke with children about how they use and perceive artificial intelligence. The independent survey provides insight into younger generations' relationship with AI.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-13",
       "topic": "AI"
     },
     {
-      "title": "OpenAI and Anthropic face price war pressure",
-      "body": "OpenAI and Anthropic are engaged in pricing competition as Chinese AI rivals gain significant market ground. The competitive pressure is reshaping AI model pricing dynamics globally.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-14",
-      "topic": "AI"
-    },
-    {
-      "title": "Man injects AI prompts into legal filings",
-      "body": "A man suspected a court was using AI and deliberately embedded AI prompts in his case filings to test the system. His strategy highlights growing concerns about AI use in judicial proceedings.",
+      "title": "OpenAI and Anthropic in Escalating Price War",
+      "body": "OpenAI and Anthropic are competing aggressively on pricing as Chinese AI rivals gain market share. The price war signals intensifying competition in the AI model market.",
       "source": "Ars Technica",
       "publishedAt": "2026-08-14",
       "topic": "AI"
