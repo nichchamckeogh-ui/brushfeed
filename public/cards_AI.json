@@ -1,278 +1,299 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-08-18T18:19:38.722Z",
-  "cardCount": 39,
+  "generatedAt": "2026-08-19T06:44:51.656Z",
+  "cardCount": 42,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "OpenAI Institutes New Safeguards After Breach",
-      "body": "OpenAI has implemented enhanced monitoring during model development and strengthened alignment and security measures in post-training processes. The move follows a Hugging Face security incident.",
+      "title": "Cursor Launches GitHub Rival Code-Hosting Platform",
+      "body": "Cursor, the AI Code Editor, is launching a new code-hosting platform to compete with GitHub. The move capitalizes on developer frustration with GitHub's current offerings.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-18",
       "topic": "AI Update"
     },
     {
-      "title": "Etched's Valuation Doubles to $21B",
-      "body": "Jane Street deployed Etched's first AI cluster system and was so impressed it led another massive funding round. The startup's valuation has doubled in one month.",
+      "title": "OpenAI Institutes New Safeguards After Breach",
+      "body": "Following the Hugging Face breach, OpenAI has implemented enhanced monitoring during model development. New emphasis on alignment and security measures strengthens post-training processes.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-18",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Etched's Valuation Doubles to $21 Billion",
+      "body": "Jane Street deployed Etched's first AI cluster system and led a massive follow-up funding round. The startup's valuation doubled in just one month.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-18",
       "topic": "AI Update"
     },
     {
       "title": "Apple's Camera AirPods Address Privacy Concerns",
-      "body": "Apple's leaked camera-equipped AirPods prevent users from recording photos and videos, avoiding privacy pitfalls of other AI wearables. The design prioritizes user privacy over functionality.",
+      "body": "Apple's leaked camera-equipped AirPods include privacy safeguards preventing users from recording photos and videos. The design aims to avoid privacy pitfalls of other AI wearables.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-18",
       "topic": "AI Update"
     },
     {
-      "title": "Warp Launches AI Software Factory Infrastructure",
-      "body": "Warp introduced Warp Factories, a new system designed to simplify building AI software factories. The infrastructure aims to make AI development accessible out-of-the-box.",
+      "title": "Warp Introduces AI Software Factory Infrastructure",
+      "body": "Warp Factories simplifies building AI software factories with out-of-the-box infrastructure. The new system makes AI development setup accessible and efficient.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-18",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Launches ChatGPT for Teens",
-      "body": "The new teen-focused ChatGPT includes age-appropriate safety measures and parental controls to prevent harmful content exposure. It also includes learning tools to discourage homework cheating.",
+      "title": "OpenAI Launches ChatGPT Version for Teens",
+      "body": "ChatGPT for Teens includes age-appropriate safety measures and parental controls. The platform includes learning tools to prevent harmful content exposure and academic cheating.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-18",
       "topic": "AI Update"
     },
     {
       "title": "Perplexity Gains Millions of Users in India",
-      "body": "Perplexity's India revenue rose 60% after an Airtel partnership ended for new users. The free AI offer significantly expanded the platform's user base.",
+      "body": "Perplexity's free AI offering through Airtel boosted India revenue by 60%. User base expanded significantly even after the promotional period ended.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-18",
       "topic": "AI Update"
     },
     {
       "title": "Anthropic's Annualized Revenue Surges to $65B",
-      "body": "The model maker added $18 billion in annualized revenue in just two months. Anthropic continues rapid expansion in the AI market.",
+      "body": "Anthropic added $18 billion in annualized revenue within two months. The model maker's rapid revenue growth demonstrates strong market demand.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-17",
       "topic": "AI Update"
     },
     {
-      "title": "Relay AI Automation Startup Shuts Down",
-      "body": "AI automation startup Relay is closing, with staff joining Google's Chrome team. The founder hinted at ambitious plans for AI integration in Chrome.",
+      "title": "Relay Shuts Down, Staff Joins Google Chrome",
+      "body": "AI automation startup Relay is shutting down its operations. Founder Jacob Bank and team will join Google's Chrome division for AI integration.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-17",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Destroying Rare Books to Train AI",
-      "body": "Amazon is using rare texts for LLM training, as these books contain unique data unavailable online. The practice raises concerns about preservation of rare literary works.",
+      "title": "Amazon Destroys Rare Texts to Train AI",
+      "body": "Amazon is destroying rare books to gather data for LLM training. Rare texts offer training value unavailable in standard online sources.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-17",
       "topic": "AI Update"
     },
     {
       "title": "Groq Raises $350M, Pivots to Neocloud",
-      "body": "The former AI chipmaker raised $350 million at a $3.5 billion valuation as it transitions to neocloud services. Groq is expanding its Nvidia-powered data center operations.",
+      "body": "Groq raised $350 million at a $3.5 billion valuation to shift from AI chips to neocloud services. The company is expanding its Nvidia-powered data center presence.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-17",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia Invests $1.5B in SoftBank Data Center",
-      "body": "Nvidia's investment in SoftBank's data center developer will power an OpenAI infrastructure project. The move guarantees Nvidia chips in a major AI facility.",
+      "title": "Nvidia Invests $1.5B in OpenAI Data Center",
+      "body": "Nvidia is investing $1.5 billion in SoftBank's data center developer supporting OpenAI. The investment guarantees Nvidia chips will power OpenAI's data centers.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-17",
       "topic": "AI Update"
     },
     {
-      "title": "Wispr Raises $280M at $2B Valuation",
-      "body": "The voice AI company raised funds to expand beyond dictation into meetings and note-taking. Wispr recently launched new tools to capture meeting insights.",
+      "title": "Wispr Raises $280M at $2 Billion Valuation",
+      "body": "Wispr secured $280 million funding to expand beyond dictation services. The company is entering new markets including meeting transcription with its note-taker tool.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-17",
       "topic": "AI Update"
     },
     {
-      "title": "Stripe Reportedly Acquires OpenRouter for $7B+",
-      "body": "OpenRouter's CEO positioned the startup as 'Stripe for AI' in recent discussions. The acquisition would significantly expand Stripe's AI infrastructure capabilities.",
+      "title": "Stripe to Acquire OpenRouter for $7 Billion",
+      "body": "Stripe is reportedly acquiring AI gateway startup OpenRouter for over $7 billion. OpenRouter's CEO described the company as 'Stripe for AI.'",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-16",
       "topic": "AI Update"
     },
     {
-      "title": "Skepticism Grows Around Zuckerberg's AI Vision",
-      "body": "Industry observers are questioning Mark Zuckerberg's ambitious AI future predictions. The latest Equity podcast discusses why adoption may lag expectations.",
+      "title": "Consumers Skeptical of Zuckerberg's AI Vision",
+      "body": "Recent discussions examine why many aren't buying Mark Zuckerberg's AI future narrative. Consumer skepticism may hinder Meta's AI strategy adoption.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-16",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic CEO Addresses AI Backlash as Trust Crisis",
-      "body": "Dario Amodei describes current AI skepticism as fundamentally a trust problem. He pushes back against claims of being overly pessimistic about AI.",
+      "title": "Anthropic CEO Addresses AI Trust Crisis",
+      "body": "Dario Amodei pushes back against claims he paints overly pessimistic AI pictures. He frames growing backlash as fundamentally a crisis of trust.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-16",
       "topic": "AI Update"
     },
     {
-      "title": "Woman Claims Grok Used for Child Exploitation",
-      "body": "A woman alleges her stepfather used Grok to transform a childhood photo into explicit imagery. The incident highlights risks of generative AI misuse for abuse.",
+      "title": "Woman Claims Grok Enabled Abuse Material Creation",
+      "body": "A woman alleges her stepfather used Grok to transform childhood photos into explicit imagery. The incident raises concerns about AI tools enabling child sexual abuse.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-15",
       "topic": "AI Update"
     },
     {
       "title": "Anthropic Details Claude's New Watermarking System",
-      "body": "Anthropic revealed how Claude's new watermarks will identify AI-generated content. The system includes both visible and invisible watermarks to prevent tampering.",
+      "body": "Anthropic reveals how Claude's watermarks will function to identify AI-generated content. Details address editing resistance and code-generation implications.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-15",
       "topic": "AI Update"
     },
     {
       "title": "SpaceX Officially Closes Cursor Acquisition",
-      "body": "AI coding startup Cursor is now part of SpaceX following the official acquisition close. The deal integrates AI coding tools into SpaceX's operations.",
+      "body": "AI coding startup Cursor is now officially part of SpaceX. The acquisition integrates advanced coding tools into SpaceX operations.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-15",
       "topic": "AI Update"
     },
     {
-      "title": "How to Check if Your AI Account Was Hacked",
-      "body": "A security guide explains how to detect compromised accounts on popular AI platforms. Users should regularly check for unauthorized access and suspicious activity.",
+      "title": "Guide: Check if AI Accounts Were Hacked",
+      "body": "Learn how to verify if hackers compromised your popular AI platform accounts. The guide covers security checks across major AI services.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-15",
       "topic": "AI Update"
     },
     {
-      "title": "Google Allows Users to Remove AI Generation Watermarks",
-      "body": "Google now permits users to disable visible watermarks on AI-generated images. Invisible benchmarks remain to identify AI-created files regardless of settings.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-14",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Institutes New Safeguards After Breach",
-      "body": "OpenAI has implemented enhanced monitoring during model development and strengthened alignment and security measures in post-training processes. The safeguards aim to prevent future security incidents similar to the Hugging Face breach.",
+      "title": "Cursor launches GitHub rival with AI coding focus",
+      "body": "Cursor, an AI Code Editor startup, is launching a new code-hosting platform to compete with GitHub. The move capitalizes on developer frustration with GitHub's current offerings.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-18",
       "topic": "AI"
     },
     {
-      "title": "Etched's Valuation Doubles to $21B",
-      "body": "Jane Street deployed Etched's AI cluster system and was so impressed it led a massive funding round. The valuation surge reflects strong investor confidence in the startup's specialized AI infrastructure.",
+      "title": "OpenAI strengthens safeguards after security breach",
+      "body": "Following a Hugging Face breach, OpenAI implemented enhanced monitoring during model development and post-training processes. The new safeguards emphasize alignment and security throughout the AI pipeline.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-18",
       "topic": "AI"
     },
     {
-      "title": "Warp Launches AI Software Factory System",
-      "body": "Warp introduced Warp Factories, a new infrastructure system designed to simplify AI software development. The platform aims to make building AI software factories accessible out-of-the-box.",
+      "title": "Etched's valuation doubles to $21 billion",
+      "body": "Jane Street deployed Etched's AI cluster system and was so impressed it led a massive funding round. The validation demonstrates strong enterprise demand for specialized AI infrastructure.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-18",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Launches ChatGPT for Teens",
-      "body": "The new teen-focused version includes age-appropriate safety measures, parental controls, and learning tools to prevent harmful content exposure. It also discourages students from using AI to cheat on homework.",
+      "title": "Apple's camera AirPods dodge privacy concerns",
+      "body": "Apple's leaked camera-equipped AirPods include built-in safeguards preventing photo and video recording. The design choice addresses privacy fears often associated with AI wearables.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-18",
       "topic": "AI"
     },
     {
-      "title": "Perplexity Gains Millions in India Users",
-      "body": "Perplexity's India revenue surged 60% after an Airtel partnership ended, demonstrating strong user retention. Downloads declined but revenue growth suggests high user engagement and monetization.",
+      "title": "Warp launches AI software factory infrastructure",
+      "body": "Warp Factories simplifies building AI development infrastructure from scratch. The new system aims to democratize access to tools needed for AI software production.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-18",
       "topic": "AI"
     },
     {
-      "title": "Anthropic's Revenue Surges to $65B Annualized",
-      "body": "The AI model maker added $18 billion in annualized revenue in just two months. The explosive growth underscores massive demand for Anthropic's Claude AI services.",
+      "title": "OpenAI releases age-appropriate ChatGPT for teens",
+      "body": "ChatGPT for Teens includes safety filters, parental controls, and learning tools to prevent harmful content exposure. The platform addresses teen safety years after teens began using the original ChatGPT.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-18",
+      "topic": "AI"
+    },
+    {
+      "title": "Perplexity gains millions of users in India",
+      "body": "A partnership with Airtel boosted Perplexity's India revenue by 60% even after the free offer ended. The expansion demonstrates strong demand for AI search alternatives in emerging markets.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-18",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic's annualized revenue surges to $65B",
+      "body": "The AI model maker added $18 billion in annualized revenue in just two months. This explosive growth reflects increasing enterprise adoption of Claude AI services.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-17",
       "topic": "AI"
     },
     {
-      "title": "Relay Shuts Down; Staff Joins Google",
-      "body": "AI automation startup Relay has closed as its team joins Google's Chrome division. The move signals Google's commitment to integrating AI capabilities into its browser platform.",
+      "title": "AI startup Relay shuts down, joins Google",
+      "body": "Relay's team is integrating into Google's Chrome division to work on AI-powered browsing features. The acquisition signals Google's push to embed AI capabilities directly into Chrome.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-17",
       "topic": "AI"
     },
     {
-      "title": "Amazon Destroying Rare Books to Train AI",
-      "body": "Rare books are being pulped to source training data for large language models, since most internet content is already exhausted. The practice raises concerns about preservation of irreplaceable literary works.",
+      "title": "Amazon destroys rare books to train AI",
+      "body": "Rare texts are highly valuable for LLM training since models have exhausted publicly available data. Amazon's acquisition and destruction of rare books raises questions about AI training ethics.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-17",
       "topic": "AI"
     },
     {
-      "title": "Groq Pivots to Neocloud, Raises $350M",
-      "body": "The former AI chipmaker raised $350 million at a $3.5 billion valuation to shift toward a neocloud business model. Groq is expanding its data center footprint with Nvidia-powered infrastructure.",
+      "title": "Groq pivots to neocloud with $350M raise",
+      "body": "The former AI chipmaker raised $350 million at a $3.5 billion valuation to shift toward cloud services. Groq is expanding its Nvidia-powered data center infrastructure.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-17",
       "topic": "AI"
     },
     {
-      "title": "Nvidia Invests $1.5B in OpenAI Project",
-      "body": "Nvidia's investment in SoftBank's data center developer ensures its chips power an OpenAI infrastructure project. The deal strengthens Nvidia's position as the dominant AI chip supplier.",
+      "title": "Nvidia invests $1.5B in OpenAI data center",
+      "body": "Nvidia's investment guarantees its chips will power a new OpenAI data center through SoftBank's infrastructure partner. The deal strengthens Nvidia's position in the AI hardware market.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-17",
       "topic": "AI"
     },
     {
-      "title": "Wispr Raises $280M to Expand AI Services",
-      "body": "The speech AI startup secured $280 million at a $2 billion valuation to expand beyond dictation. New offerings include AI-powered meeting transcription and note-taking tools.",
+      "title": "Wispr raises $280M, expands beyond dictation",
+      "body": "The speech AI startup reached a $2 billion valuation and launched a new AI note-taker for meetings. Wispr is diversifying beyond dictation into broader enterprise productivity tools.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-17",
       "topic": "AI"
     },
     {
-      "title": "Stripe to Acquire OpenRouter for $7B+",
-      "body": "Stripe is reportedly acquiring the AI gateway startup OpenRouter in a deal worth over $7 billion. OpenRouter's CEO has positioned the startup as \"Stripe for AI.\"",
+      "title": "Stripe to acquire AI gateway OpenRouter",
+      "body": "Stripe is reportedly acquiring OpenRouter, an AI API platform, for over $7 billion. OpenRouter's CEO has positioned the startup as the Stripe equivalent for AI services.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-16",
       "topic": "AI"
     },
     {
-      "title": "Anthropic CEO: AI Backlash Is Trust Crisis",
-      "body": "Dario Amodei addressed criticism that he's been overly pessimistic about AI's risks and benefits. He frames the current backlash as fundamentally rooted in a crisis of public trust.",
+      "title": "Anthropic CEO addresses AI backlash crisis",
+      "body": "Dario Amodei argues the AI skepticism represents a fundamental crisis of trust rather than actual danger. He pushes back against characterizations of his leadership as overly pessimistic.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-16",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Details Claude's New Watermarks",
-      "body": "Anthropic released technical details about how Claude will implement invisible watermarks to identify AI-generated content. The watermarks are designed to survive editing and work across code and media.",
+      "title": "AI used to create child abuse material from photo",
+      "body": "A woman claims her stepfather used Grok to transform a childhood photo into explicit imagery. The case highlights serious risks of generative AI tools being misused to create CSAM.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-15",
       "topic": "AI"
     },
     {
-      "title": "SpaceX Closes Cursor AI Acquisition",
-      "body": "AI coding startup Cursor is now officially part of SpaceX following the completion of the acquisition. The deal strengthens SpaceX's capabilities in software development and automation.",
+      "title": "Anthropic details Claude's new watermarking system",
+      "body": "Anthropic revealed specifics about how it will watermark Claude outputs to prevent misuse. The company is exploring how watermarks resist editing and affect different content types including code.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-15",
       "topic": "AI"
     },
     {
-      "title": "Google Allows Users to Remove AI Watermarks",
-      "body": "Google now permits users to turn off visible watermarks on AI-generated images. Invisible benchmarks used to identify AI-generated files remain unaffected by this setting.",
+      "title": "SpaceX officially closes Cursor acquisition",
+      "body": "AI coding startup Cursor is now officially part of SpaceX. The acquisition integrates advanced AI coding capabilities into SpaceX's development operations.",
       "source": "TechCrunch",
-      "publishedAt": "2026-08-14",
+      "publishedAt": "2026-08-15",
       "topic": "AI"
     },
     {
-      "title": "We Don't Know How People Use AI",
-      "body": "AI researchers question the reliability of usage data published by companies like Anthropic and OpenAI. No independent verification exists to corroborate the metrics these companies voluntarily disclose.",
+      "title": "How to check if your AI account was hacked",
+      "body": "Security breaches across AI platforms have made account verification essential. A new guide helps users check if hackers compromised their accounts on popular AI services.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-15",
+      "topic": "AI"
+    },
+    {
+      "title": "We don't know how people actually use AI",
+      "body": "AI companies like Anthropic and OpenAI only release usage data they choose to share publicly. Researchers say there's no independent verification of how users actually interact with AI products.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-18",
       "topic": "AI"
     },
     {
-      "title": "AI's Self-Improvement May Take Longer",
-      "body": "The AI industry's bold promise of rapid recursive self-improvement may not materialize as quickly as predicted. Current LLM capabilities in code writing and optimization don't yet enable the explosive progress some forecast.",
+      "title": "AI's recursive self-improvement may arrive slowly",
+      "body": "The AI industry promotes bold claims about AI improving itself with minimal human oversight. However, researchers suggest explosive self-improvement may arrive much slower than current forecasts predict.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-18",
       "topic": "AI"
     },
     {
-      "title": "Microsoft Copilot Hacked via Secret Input",
-      "body": "Researchers discovered a vulnerability that allowed hackers to exploit Microsoft Copilot through hidden inputs. The security flaw reveals gaps in current AI chatbot defense mechanisms.",
+      "title": "Microsoft Copilot reveals secret jailbreak input",
+      "body": "Security researchers discovered hidden prompts that allowed hackers to bypass Microsoft Copilot's safety guardrails. The vulnerability demonstrates risks of sophisticated prompt injection attacks.",
       "source": "Ars Technica",
       "publishedAt": "2026-08-18",
       "topic": "AI"
