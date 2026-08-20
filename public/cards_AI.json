@@ -1,287 +1,301 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-08-19T18:23:16.342Z",
-  "cardCount": 40,
+  "generatedAt": "2026-08-20T06:50:20.461Z",
+  "cardCount": 42,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Startup Pricing AI Compute Costs for Wall Street",
-      "body": "AI infrastructure spending exceeds hundreds of billions annually, with compute becoming the largest expense for AI builders. A new startup is helping Wall Street quantify and price these AI compute costs.",
+      "title": "Stripe Acquires OpenRouter for AI Infrastructure",
+      "body": "Stripe has acquired OpenRouter, a startup that routes prompts between different AI models. The payments giant claims the move addresses \"the singularity,\" but the real motivation lies in infrastructure capabilities for enterprise AI.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "TerraPower Nuclear Reactor Powers AI Data Centers",
-      "body": "TerraPower's nuclear power plant offers strategic advantages for data center partnerships. The technology positions the company competitively in powering energy-intensive AI infrastructure.",
+      "title": "OpenAI Launches Enterprise Privacy Protections",
+      "body": "OpenAI is competing with Anthropic over who can provide the best privacy protections for enterprise customer data. The initiative reflects growing demand for secure AI solutions in corporate settings.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Cognition Denies SpaceX Acquisition Reports",
+      "body": "SpaceX reportedly attempted to acquire AI coding startup Cognition as it races to compete with OpenAI and Anthropic. SpaceX has already acquired Cursor, signaling aggressive expansion in enterprise AI.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Consumer Adoption of AI Faces Skepticism",
+      "body": "Despite increased availability, consumers remain wary of AI technology. Silicon Valley is discovering that widespread adoption doesn't necessarily translate to user acceptance.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Integrates Gemini into Search Features",
+      "body": "Google has launched new AI study tools combining Search and Gemini for students. The move positions Gemini as a competitive alternative to OpenAI's educational offerings.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Revokes Researcher Cyber Program Access",
+      "body": "OpenAI revoked access to its Trusted Access for Cyber program, which provided trusted security researchers with advanced models. The program aimed to accelerate vulnerability reporting and patching.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Startup Valuates AI Compute Pricing",
+      "body": "A new startup is helping Wall Street price AI compute costs, a critical metric as data center spending reaches hundreds of billions annually. Compute has become the primary cost driver for AI product development.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "TerraPower Powers AI Data Centers Strategically",
+      "body": "TerraPower's nuclear reactor offers a competitive advantage for powering AI data centers with clean, reliable energy. The technology positions the company favorably in securing major infrastructure deals.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
       "title": "Amazon Makes Alexa+ Free on Fire TV",
-      "body": "Amazon is automatically upgrading all compatible Fire TV users to its AI-powered Alexa+ assistant for free. Prime subscription is no longer required to access the enhanced AI features.",
+      "body": "Amazon is automatically upgrading all Fire TV users to its AI-powered Alexa+ assistant without requiring Prime membership. The move democratizes access to advanced AI assistant features.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "Calendly Launches AI Meeting Scheduling Assistant",
-      "body": "Calendly released Callie, a new AI-powered meeting scheduling assistant. The tool joins a growing market of meeting note-taking and coordination products.",
+      "title": "Calendly Launches AI Meeting Assistant Callie",
+      "body": "Calendly has released Callie, an AI-powered meeting scheduling assistant. The product extends Calendly's suite of AI-enhanced productivity tools.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "Startup Claims Data Is Key to Cancer Cure",
-      "body": "A new AI startup argues that quality data, not just computational power, is essential for AI-driven cancer research. The company is addressing gaps in training data availability.",
+      "title": "Data Quality Critical for Cancer AI Solutions",
+      "body": "A startup argues that AI won't cure cancer without access to high-quality training data. The company emphasizes data infrastructure as the key bottleneck in medical AI advancement.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "Relativity Networks Raises $22M for Faster Fiber",
-      "body": "Relativity Networks secured $22 million to deploy hollow-core fiber technology in data centers. The technology transmits data 30% faster than conventional fiber infrastructure.",
+      "title": "Relativity Networks Accelerates Data Center Fiber",
+      "body": "Relativity Networks raised $22 million for hollow-core fiber technology enabling 30% faster data transmission. The innovation addresses critical speed needs for AI infrastructure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "Cursor Launches Code-Hosting Platform Rival GitHub",
-      "body": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to compete with GitHub. The move capitalizes on developer frustration with existing platforms.",
+      "title": "Cursor Launches GitHub Rival Code Hosting",
+      "body": "Cursor, the AI Code Editor startup, launched a new code-hosting platform to compete with GitHub. The move capitalizes on developer frustration with incumbent platforms.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-18",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Institutes New Model Safety Safeguards",
-      "body": "Following a Hugging Face breach, OpenAI strengthened safeguards including enhanced development monitoring and post-training alignment measures. Security improvements focus on model vulnerability prevention.",
+      "title": "OpenAI Strengthens Safeguards Post-Breach",
+      "body": "Following the Hugging Face breach, OpenAI implemented new safeguards including enhanced development monitoring and stronger post-training alignment practices. The measures focus on security and model reliability.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-18",
       "topic": "AI Update"
     },
     {
       "title": "Etched's Valuation Doubles to $21 Billion",
-      "body": "Jane Street deployed Etched's first AI cluster system and was impressed enough to lead another major funding round. The valuation doubled within a month based on strong performance.",
+      "body": "Etched's valuation doubled to $21 billion in one month after Jane Street successfully installed its AI cluster system. The impressive results led Jane Street to lead another major funding round.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-18",
       "topic": "AI Update"
     },
     {
       "title": "Apple's Camera AirPods Address Privacy Concerns",
-      "body": "Apple's leaked camera-equipped AirPods may prevent users from recording photos and videos to avoid privacy issues. The design choice differs from other camera-equipped AI wearables.",
+      "body": "Apple's leaked camera-equipped AirPods may mitigate privacy concerns by preventing users from recording photos and videos. The design prevents common privacy pitfalls of other AI wearables.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-18",
       "topic": "AI Update"
-    },
-    {
-      "title": "Warp Launches Infrastructure for AI Software Factories",
-      "body": "Warp introduced Warp Factories, a new infrastructure system simplifying AI software factory development. The platform makes building AI development environments accessible out-of-the-box.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-18",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Launches ChatGPT Specifically for Teens",
-      "body": "ChatGPT for Teens includes age-appropriate safety measures and parental controls to protect younger users. The platform includes learning tools designed to prevent homework cheating.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-18",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Perplexity's Free India Offer Drives User Growth",
-      "body": "Perplexity's India revenue surged 60% after its Airtel free offer ended for new users. The strategy successfully converted free users into paid subscribers despite declining downloads.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-18",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic's Annualized Revenue Surges to $65B",
-      "body": "Anthropic added $18 billion in annualized revenue in just two months, reaching $65 billion total. The dramatic growth reflects surging enterprise demand for Claude AI models.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Automation Startup Relay Shuts Down, Joins Google",
-      "body": "Relay's entire staff is joining Google's Chrome team to work on AI integration. The founder plans ambitious AI features within Chrome for productivity improvements.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Amazon Destroys Rare Books to Train AI Models",
-      "body": "Amazon is destroying rare texts to use for training large language models. Rare books provide valuable training data since LLMs have already exhausted public internet content.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Groq Raises $350M, Pivots to Neocloud Business",
-      "body": "Groq raised $350 million at a $3.5 billion valuation as it pivots from AI chips to neocloud services. The company is expanding its Nvidia-powered data center footprint.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nvidia Invests $1.5B in OpenAI Data Center Developer",
-      "body": "Nvidia's $1.5 billion investment in SoftBank's data center developer guarantees chip placement in OpenAI infrastructure. The deal secures Nvidia's chips powering a major AI data center project.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Wispr Raises $280M at $2B Valuation",
-      "body": "Wispr raised $280 million at a $2 billion valuation to expand beyond dictation services. The company recently launched a new AI meeting note-taker tool.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Stripe Reportedly Acquires OpenRouter for $7B+",
-      "body": "Stripe is acquiring AI gateway startup OpenRouter in a deal valued above $7 billion. The acquisition positions Stripe as the payment infrastructure layer for AI services.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Wall Street Prices AI Compute Costs",
-      "body": "A new startup is helping financial firms quantify AI infrastructure spending, which has become the dominant cost for AI product builders. With hundreds of billions annually flowing to data centers and GPUs, transparent pricing models are critical.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-19",
-      "topic": "AI"
-    },
-    {
-      "title": "Nuclear Power Fuels AI Data Centers",
-      "body": "TerraPower's advanced nuclear reactor offers a strategic advantage for powering data center operations. The technology positions the company competitively for major AI infrastructure deals.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-19",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI Institutes New Model Safeguards",
-      "body": "Following a security breach, OpenAI enhanced monitoring during model development and strengthened alignment protocols. The safeguards emphasize security improvements throughout the post-training phase.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Etched's Valuation Doubles to $21B",
-      "body": "Jane Street's deployment of Etched's AI cluster system impressed investors enough to trigger another massive funding round. The valuation jump reflects strong market confidence in the startup's infrastructure technology.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-18",
-      "topic": "AI"
     },
     {
       "title": "Warp Launches AI Software Factory System",
-      "body": "Warp Factories simplifies building AI software infrastructure with out-of-the-box tools. The new system is designed to streamline AI development workflows.",
-      "source": "TechCrunch",
+      "body": "Warp introduced Warp Factories, an infrastructure system simplifying AI software development workflows. The platform aims to make building AI systems as accessible as possible.",
+      "source": "TechCrunch AI",
       "publishedAt": "2026-08-18",
-      "topic": "AI"
+      "topic": "AI Update"
     },
     {
       "title": "OpenAI Releases ChatGPT for Teens",
-      "body": "ChatGPT for Teens includes age-appropriate safety measures and parental controls to prevent harmful content exposure. The tool discourages AI misuse for academic cheating.",
+      "body": "OpenAI launched ChatGPT for Teens with age-appropriate safety measures and parental controls. The offering includes learning tools designed to prevent academic dishonesty and harmful content exposure.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-18",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Perplexity Gains Millions of Users in India",
+      "body": "Perplexity's India revenue surged 60% following its free offer partnership with Airtel, even as new downloads declined. The initiative demonstrated strong market demand in emerging markets.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-18",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic's Revenue Reaches $65 Billion Annualized",
+      "body": "Anthropic added $18 billion in annualized revenue in just two months, reaching a total of $65 billion. The rapid growth reflects surging enterprise demand for its AI models.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Stripe acquires OpenRouter for AI model routing",
+      "body": "Stripe has acquired OpenRouter, a startup that routes prompts between different AI models. The payments giant claims it's about preparing for the \"singularity,\" but the real motivation is more immediate and practical.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-19",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI and Anthropic battle over data privacy",
+      "body": "OpenAI and Anthropic are competing to offer the best privacy protections for enterprise customer data. The competition reflects growing concerns about data security in AI applications.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-19",
+      "topic": "AI"
+    },
+    {
+      "title": "SpaceX pursues AI coding startup Cognition",
+      "body": "SpaceX was reportedly in talks to acquire AI coding startup Cognition as it races to build enterprise AI capabilities. SpaceX has already acquired Cursor, signaling aggressive competition with OpenAI and Anthropic.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-19",
+      "topic": "AI"
+    },
+    {
+      "title": "AI adoption faces consumer skepticism hurdle",
+      "body": "Despite becoming harder to avoid, consumers are growing increasingly wary of AI technology. Silicon Valley is discovering that widespread adoption doesn't automatically lead to acceptance.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Google launches Gemini study tools for students",
+      "body": "Google is integrating new AI study features into Search and Gemini to attract student users. The launch represents Google's latest effort to compete with OpenAI in the education market.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-19",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI revokes researcher access to cyber program",
+      "body": "OpenAI revoked researchers' access to its Trusted Access for Cyber program, which provided improved models for identifying security vulnerabilities. The program aimed to accelerate bug reporting and patching.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Startup brings pricing transparency to AI compute",
+      "body": "A new startup is helping Wall Street price AI compute costs as spending on data centers and GPUs reaches hundreds of billions annually. Compute has become the single biggest expense for AI companies.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-19",
+      "topic": "AI"
+    },
+    {
+      "title": "TerraPower's nuclear reactor powers AI data centers",
+      "body": "TerraPower's nuclear power plant offers strategic advantages for powering AI data centers compared to competitors. The technology positions the company as a key player in AI infrastructure.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Amazon makes Alexa+ free on Fire TV devices",
+      "body": "Amazon is automatically upgrading all Fire TV users to its AI-powered Alexa+ assistant for free, regardless of Prime subscription status. The move expands access to Amazon's advanced AI assistant.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Calendly launches AI meeting scheduling assistant",
+      "body": "Calendly has released Callie, an AI-powered meeting scheduling assistant. The tool represents the company's expansion into AI-driven productivity features.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Startup tackles AI's cancer research data problem",
+      "body": "A new startup argues that quality data, not AI models alone, is essential for using AI to cure cancer. The company is addressing a critical bottleneck in medical AI development.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Cursor launches code-hosting rival to GitHub",
+      "body": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to compete with GitHub. The move capitalizes on developer frustration with existing platforms.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-18",
       "topic": "AI"
     },
     {
-      "title": "Perplexity Grows Indian User Base",
-      "body": "Perplexity's India revenue jumped 60% after concluding a free promotional offer through Airtel. The AI search platform gained millions of new users despite download declines.",
+      "title": "OpenAI tightens safeguards after Hugging Face breach",
+      "body": "OpenAI has instituted new safeguards including enhanced monitoring during model development and greater focus on alignment and security. The measures follow a breach at Hugging Face.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-18",
       "topic": "AI"
     },
     {
-      "title": "Anthropic's Revenue Reaches $65B Annualized",
-      "body": "The AI model maker added $18 billion in annualized revenue within two months. Anthropic's rapid growth reflects surging demand for advanced language models.",
+      "title": "Etched's valuation doubles to $21 billion",
+      "body": "Etched's valuation doubled to $21B in one month after Jane Street deployed the startup's first AI cluster system. The impressive performance prompted Jane Street to lead a massive follow-up round.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-18",
+      "topic": "AI"
+    },
+    {
+      "title": "Apple's camera AirPods include privacy safeguards",
+      "body": "Apple's leaked camera-equipped AirPods may avoid privacy concerns by preventing users from recording photos and videos. The design choice addresses potential misuse of AI wearables.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-18",
+      "topic": "AI"
+    },
+    {
+      "title": "Warp launches AI software factory infrastructure",
+      "body": "Warp introduced Warp Factories, a new infrastructure system designed to simplify building AI software factories. The platform aims to democratize AI development for developers.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-18",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI launches ChatGPT for teenagers",
+      "body": "OpenAI has released ChatGPT for Teens with age-appropriate safety measures, parental controls, and learning tools. The version aims to steer teenagers away from harmful content and academic cheating.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-18",
+      "topic": "AI"
+    },
+    {
+      "title": "Perplexity gains millions of users in India",
+      "body": "Perplexity's free AI offer through Airtel in India resulted in millions of additional users, with revenue rising 60% even after the promotion ended. The strategy proved effective for market penetration.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-18",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic's annualized revenue surges to $65B",
+      "body": "Anthropic added $18 billion in annualized revenue in just two months, reaching a total of $65B. The dramatic growth reflects surging demand for the AI model maker's products.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-17",
       "topic": "AI"
     },
     {
-      "title": "Google Acquires AI Automation Startup Relay",
-      "body": "Relay's team is joining Google's Chrome division to integrate AI automation capabilities. The acquisition signals Google's push to embed AI tools in its browser.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-17",
-      "topic": "AI"
-    },
-    {
-      "title": "Amazon Destroys Rare Books to Train AI",
-      "body": "Amazon is acquiring and destroying rare texts to improve LLM training datasets. Rare books offer valuable training material unavailable online.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-17",
-      "topic": "AI"
-    },
-    {
-      "title": "Groq Raises $350M, Pivots to Neocloud",
-      "body": "The former AI chipmaker is transitioning to a neocloud business model at $3.5B valuation. Groq is expanding its data center footprint with Nvidia-powered infrastructure.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-17",
-      "topic": "AI"
-    },
-    {
-      "title": "Nvidia Invests $1.5B in OpenAI Partner",
-      "body": "Nvidia's investment in SoftBank's data center developer guarantees AI chip placement in OpenAI infrastructure. The move secures long-term demand for Nvidia's processors.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-17",
-      "topic": "AI"
-    },
-    {
-      "title": "Wispr Raises $280M for AI Expansion",
-      "body": "The AI voice platform raised funding at $2B valuation to expand beyond dictation services. Wispr is launching new products including meeting note-taking tools.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-17",
-      "topic": "AI"
-    },
-    {
-      "title": "Stripe Reportedly Acquires OpenRouter",
-      "body": "Stripe is acquiring the AI gateway startup OpenRouter for over $7 billion. The deal positions Stripe to become the payment infrastructure for AI services.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-16",
-      "topic": "AI"
-    },
-    {
-      "title": "AI's Self-Improvement Progress Slows",
-      "body": "The industry's promise of rapid recursive self-improvement in AI may not materialize as quickly as expected. Current LLMs can write code and optimize chips, but full autonomy remains uncertain.",
+      "title": "AI's self-improvement promises face skepticism",
+      "body": "The AI industry's bold promise that AI will soon improve itself may not materialize as quickly as expected. Researchers question whether recursive self-improvement will happen without human oversight.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-18",
       "topic": "AI"
     },
     {
-      "title": "Limited Transparency in AI Usage Data",
-      "body": "Anthropic and OpenAI publish selective usage reports without independent verification. Researchers lack access to complete data on how people actually use AI products.",
+      "title": "Real AI usage data remains largely opaque",
+      "body": "AI companies like Anthropic and OpenAI publish usage reports, but only release data they choose to share. Researchers note there's no independent source to verify these claims.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-18",
       "topic": "AI"
     },
     {
-      "title": "Microsoft Copilot Hacked via Secret Input",
-      "body": "Researchers discovered a hidden input vulnerability that allowed hackers to bypass Microsoft Copilot's security measures. The flaw reveals potential weaknesses in AI system safeguards.",
-      "source": "Ars Technica",
+      "title": "AI recursive self-improvement slower than predicted",
+      "body": "The AI industry's boldest promise—that AI will soon improve itself with minimal human oversight—may take longer than forecasted. LLMs can write code and generate synthetic training data, but recursive improvement has limits.",
+      "source": "MIT Technology Review",
       "publishedAt": "2026-08-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta Runs Ads for Nudify App",
-      "body": "Meta's advertising platform promoted an application designed to create non-consensual intimate images. The incident highlights risks of AI misuse on social media platforms.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-19",
-      "topic": "AI"
-    },
-    {
-      "title": "Cursor Launches GitHub Rival Platform",
-      "body": "Cursor, the AI code editor, is launching a code-hosting platform to compete with GitHub. The move reflects growing developer interest in AI-native development tools.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Amazon Makes Alexa+ Free on Fire TV",
-      "body": "Amazon's AI-powered Alexa+ assistant is now free on all compatible Fire TV devices without Prime required. The expansion democratizes access to advanced AI features.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-19",
       "topic": "AI"
     }
   ]
