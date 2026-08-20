@@ -1,301 +1,294 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-08-20T06:50:20.461Z",
-  "cardCount": 42,
-  "aiUpdateCount": 20,
+  "generatedAt": "2026-08-20T18:15:57.275Z",
+  "cardCount": 41,
+  "aiUpdateCount": 19,
   "cards": [
     {
-      "title": "Stripe Acquires OpenRouter for AI Infrastructure",
-      "body": "Stripe has acquired OpenRouter, a startup that routes prompts between different AI models. The payments giant claims the move addresses \"the singularity,\" but the real motivation lies in infrastructure capabilities for enterprise AI.",
+      "title": "Grok Lite Plagued by Gibberish Responses",
+      "body": "Users reported receiving nonsensical outputs from Grok Lite starting Wednesday morning. TechCrunch documented the widespread issue affecting multiple users simultaneously.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "One-Third of Recent Web Pages Show AI Authorship",
+      "body": "A new study reveals ChatGPT and similar models are authoring significant portions of web content published since ChatGPT's launch. AI-generated and edited content now dominates new web publishing.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Ramp Launches Router AI Model Router Service",
+      "body": "Ramp unveiled Router, an AI model routing platform enabling users to switch between various LLMs via a single API. The service supports seamless integration across multiple AI models.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta Expands Pocket Game-Creation App to US",
+      "body": "Meta is rolling out Pocket, its AI-powered app for creating and sharing interactive games, to all US users following Brazilian beta testing. The tool enables vibe-coding and collaborative game development.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta AI Mac App Enables Cross-App Voice Control",
+      "body": "Meta's new Mac application features dictation capabilities working across all installed apps. The tool competes with similar products like Whisper Flow and Superwhisper.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Binance Launches Agent OS for AI Trading",
+      "body": "Binance introduced Agent OS, enabling AI agents to execute trades using platforms like ChatGPT and Claude. User responsibility for agent oversight remains largely unsupervised.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Stripe Acquires OpenRouter for Enterprise Integration",
+      "body": "Stripe purchased OpenRouter, a model routing startup, moving beyond singularity hype for practical enterprise applications. The acquisition strengthens Stripe's AI infrastructure capabilities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Launches Enterprise Privacy Protections",
-      "body": "OpenAI is competing with Anthropic over who can provide the best privacy protections for enterprise customer data. The initiative reflects growing demand for secure AI solutions in corporate settings.",
+      "title": "OpenAI Advances Privacy Protections for Enterprise",
+      "body": "OpenAI escalates competition with Anthropic by introducing enhanced customer data privacy safeguards. Enterprise clients now face improved options for protecting sensitive information.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "Cognition Denies SpaceX Acquisition Reports",
-      "body": "SpaceX reportedly attempted to acquire AI coding startup Cognition as it races to compete with OpenAI and Anthropic. SpaceX has already acquired Cursor, signaling aggressive expansion in enterprise AI.",
+      "title": "Cognition CEO Denies SpaceX Acquisition Reports",
+      "body": "SpaceX reportedly pursued acquiring AI coding startup Cognition amid aggressive enterprise AI competition. Cognition's leadership disputed the acquisition narrative.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "Consumer Adoption of AI Faces Skepticism",
-      "body": "Despite increased availability, consumers remain wary of AI technology. Silicon Valley is discovering that widespread adoption doesn't necessarily translate to user acceptance.",
+      "title": "Consumer Acceptance Lags Behind AI Adoption Wave",
+      "body": "Despite widespread AI availability, consumer wariness toward the technology continues growing. Silicon Valley discovers that ubiquity doesn't guarantee user acceptance.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "Google Integrates Gemini into Search Features",
-      "body": "Google has launched new AI study tools combining Search and Gemini for students. The move positions Gemini as a competitive alternative to OpenAI's educational offerings.",
+      "title": "Google Integrates New Study Tools Into Gemini",
+      "body": "Google rolled out fresh study features across Search and Gemini to attract student users. The initiative positions Gemini as the go-to AI study assistant.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
       "title": "OpenAI Revokes Researcher Cyber Program Access",
-      "body": "OpenAI revoked access to its Trusted Access for Cyber program, which provided trusted security researchers with advanced models. The program aimed to accelerate vulnerability reporting and patching.",
+      "body": "OpenAI's Trusted Access for Cyber program aimed to provide researchers enhanced models for vulnerability reporting. Access revocations affect the collaborative security initiative.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "Startup Valuates AI Compute Pricing",
-      "body": "A new startup is helping Wall Street price AI compute costs, a critical metric as data center spending reaches hundreds of billions annually. Compute has become the primary cost driver for AI product development.",
+      "title": "Startup Helps Wall Street Price AI Compute Costs",
+      "body": "A new venture assists financial markets in establishing pricing standards for AI computational resources. Hundreds of billions annually flow into GPU and data center infrastructure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "TerraPower Powers AI Data Centers Strategically",
-      "body": "TerraPower's nuclear reactor offers a competitive advantage for powering AI data centers with clean, reliable energy. The technology positions the company favorably in securing major infrastructure deals.",
+      "title": "TerraPower Nuclear Reactor Powers AI Data Centers",
+      "body": "TerraPower's nuclear facility offers strategic advantages over competitors for AI data center energy needs. The technology provides sustained power for compute-intensive operations.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Makes Alexa+ Free on Fire TV",
-      "body": "Amazon is automatically upgrading all Fire TV users to its AI-powered Alexa+ assistant without requiring Prime membership. The move democratizes access to advanced AI assistant features.",
+      "title": "Amazon Adds Alexa+ AI Assistant to Fire TV Free",
+      "body": "Amazon rolled out free Alexa+ to all compatible Fire TV devices nationwide without Prime requirements. Users automatically receive the AI-powered upgrade.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "Calendly Launches AI Meeting Assistant Callie",
-      "body": "Calendly has released Callie, an AI-powered meeting scheduling assistant. The product extends Calendly's suite of AI-enhanced productivity tools.",
-      "source": "TechCrunch AI",
+      "title": "Calendly Releases Callie Meeting Notes AI Assistant",
+      "body": "Calendly entered the meeting transcription space with Callie, a scheduling assistant powered by AI. The tool integrates directly with Calendly's scheduling platform.",
+      "source": "TechCrench AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "Data Quality Critical for Cancer AI Solutions",
-      "body": "A startup argues that AI won't cure cancer without access to high-quality training data. The company emphasizes data infrastructure as the key bottleneck in medical AI advancement.",
+      "title": "Startup Says Data Quality Key to AI Cancer Cure",
+      "body": "A new biotech venture emphasizes data availability as the critical factor for AI-driven cancer research breakthroughs. Superior datasets, not models alone, enable therapeutic advancement.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
       "title": "Relativity Networks Accelerates Data Center Fiber",
-      "body": "Relativity Networks raised $22 million for hollow-core fiber technology enabling 30% faster data transmission. The innovation addresses critical speed needs for AI infrastructure.",
+      "body": "Relativity Networks raised $22 million to deploy hollow-core fiber technology enabling 30% faster data transmission. The innovation optimizes data center infrastructure performance.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "Cursor Launches GitHub Rival Code Hosting",
-      "body": "Cursor, the AI Code Editor startup, launched a new code-hosting platform to compete with GitHub. The move capitalizes on developer frustration with incumbent platforms.",
+      "title": "Cursor Launches GitHub Rival Code-Hosting Platform",
+      "body": "Cursor, the AI code editor, introduced a new code repository platform competing against GitHub's dominance. The move capitalizes on developer frustration with GitHub.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-18",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Strengthens Safeguards Post-Breach",
-      "body": "Following the Hugging Face breach, OpenAI implemented new safeguards including enhanced development monitoring and stronger post-training alignment practices. The measures focus on security and model reliability.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-18",
-      "topic": "AI Update"
+      "title": "Grok Sends Gibberish Responses to Users",
+      "body": "Grok Lite users reported receiving nonsensical responses starting Wednesday morning. The issue affected multiple users accessing the AI service simultaneously.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20",
+      "topic": "AI"
     },
     {
-      "title": "Etched's Valuation Doubles to $21 Billion",
-      "body": "Etched's valuation doubled to $21 billion in one month after Jane Street successfully installed its AI cluster system. The impressive results led Jane Street to lead another major funding round.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-18",
-      "topic": "AI Update"
+      "title": "AI Now Authors One-Third of New Web Pages",
+      "body": "A study reveals ChatGPT and other AI models are authoring and editing much of the new web content. AI authorship signs are detectable in approximately one-third of pages published since ChatGPT's launch.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20",
+      "topic": "AI"
     },
     {
-      "title": "Apple's Camera AirPods Address Privacy Concerns",
-      "body": "Apple's leaked camera-equipped AirPods may mitigate privacy concerns by preventing users from recording photos and videos. The design prevents common privacy pitfalls of other AI wearables.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-18",
-      "topic": "AI Update"
+      "title": "Ramp Launches AI Model Router Service",
+      "body": "Ramp introduced Router, an AI model routing service allowing users to switch between various large language models via API. The platform enables both individual users and companies to access multiple LLMs seamlessly.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20",
+      "topic": "AI"
     },
     {
-      "title": "Warp Launches AI Software Factory System",
-      "body": "Warp introduced Warp Factories, an infrastructure system simplifying AI software development workflows. The platform aims to make building AI systems as accessible as possible.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-18",
-      "topic": "AI Update"
+      "title": "Meta Expands AI-Powered Pocket Game App",
+      "body": "Meta is bringing Pocket, its AI-powered app for creating interactive games, to U.S. users after testing in Brazil. The experimental tool lets users vibe-code and share custom games.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20",
+      "topic": "AI"
     },
     {
-      "title": "OpenAI Releases ChatGPT for Teens",
-      "body": "OpenAI launched ChatGPT for Teens with age-appropriate safety measures and parental controls. The offering includes learning tools designed to prevent academic dishonesty and harmful content exposure.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-18",
-      "topic": "AI Update"
+      "title": "Meta AI Releases Mac Dictation App",
+      "body": "Meta AI launched a new Mac app featuring dictation that works across all applications. The tool functions similarly to competitors like Wispr Flow and Superwhisper.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20",
+      "topic": "AI"
     },
     {
-      "title": "Perplexity Gains Millions of Users in India",
-      "body": "Perplexity's India revenue surged 60% following its free offer partnership with Airtel, even as new downloads declined. The initiative demonstrated strong market demand in emerging markets.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-18",
-      "topic": "AI Update"
+      "title": "Binance Lets AI Agents Trade Crypto",
+      "body": "Binance's Agent OS enables AI agents to execute trades, working with tools like ChatGPT and Claude Code. User responsibility remains high for monitoring and controlling autonomous trading behavior.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20",
+      "topic": "AI"
     },
     {
-      "title": "Anthropic's Revenue Reaches $65 Billion Annualized",
-      "body": "Anthropic added $18 billion in annualized revenue in just two months, reaching a total of $65 billion. The rapid growth reflects surging enterprise demand for its AI models.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-17",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Stripe acquires OpenRouter for AI model routing",
-      "body": "Stripe has acquired OpenRouter, a startup that routes prompts between different AI models. The payments giant claims it's about preparing for the \"singularity,\" but the real motivation is more immediate and practical.",
+      "title": "Stripe Acquires OpenRouter for AI Infrastructure",
+      "body": "Stripe acquired OpenRouter, a startup routing prompts between different AI models. The acquisition positions Stripe deeper in AI infrastructure despite playful \"singularity\" justifications.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "OpenAI and Anthropic battle over data privacy",
-      "body": "OpenAI and Anthropic are competing to offer the best privacy protections for enterprise customer data. The competition reflects growing concerns about data security in AI applications.",
+      "title": "OpenAI Challenges Anthropic on Privacy Protection",
+      "body": "OpenAI introduced new customer privacy protections, escalating competition with Anthropic. Both companies are racing to offer enterprise customers better data security for their AI usage.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "SpaceX pursues AI coding startup Cognition",
-      "body": "SpaceX was reportedly in talks to acquire AI coding startup Cognition as it races to build enterprise AI capabilities. SpaceX has already acquired Cursor, signaling aggressive competition with OpenAI and Anthropic.",
+      "title": "SpaceX Reportedly Pursued Cognition AI Startup",
+      "body": "SpaceX was in talks to acquire AI coding startup Cognition, though the CEO denies the report. SpaceX has already acquired Cursor as it competes with OpenAI and Anthropic.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "AI adoption faces consumer skepticism hurdle",
-      "body": "Despite becoming harder to avoid, consumers are growing increasingly wary of AI technology. Silicon Valley is discovering that widespread adoption doesn't automatically lead to acceptance.",
+      "title": "AI Adoption Hasn't Won Over Consumers",
+      "body": "Despite widespread availability, consumers remain wary of AI technology. Silicon Valley is discovering that ubiquity doesn't guarantee acceptance or enthusiasm.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "Google launches Gemini study tools for students",
-      "body": "Google is integrating new AI study features into Search and Gemini to attract student users. The launch represents Google's latest effort to compete with OpenAI in the education market.",
+      "title": "Google Enhances Search and Gemini Study Tools",
+      "body": "Google packed Search and Gemini with new AI-powered study features targeting students. The launch marks Google's latest competitive move against OpenAI for educational AI adoption.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "OpenAI revokes researcher access to cyber program",
-      "body": "OpenAI revoked researchers' access to its Trusted Access for Cyber program, which provided improved models for identifying security vulnerabilities. The program aimed to accelerate bug reporting and patching.",
+      "title": "OpenAI Revokes Researcher Cyber Program Access",
+      "body": "OpenAI revoked access to its Trusted Access for Cyber program, which gave trusted defenders access to advanced models. The program aimed to identify vulnerabilities and accelerate security patches.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "Startup brings pricing transparency to AI compute",
-      "body": "A new startup is helping Wall Street price AI compute costs as spending on data centers and GPUs reaches hundreds of billions annually. Compute has become the single biggest expense for AI companies.",
+      "title": "Startup Prices AI Compute on Wall Street",
+      "body": "A new startup helps Wall Street price AI compute resources as spending reaches hundreds of billions yearly. Compute has become the single biggest cost for AI product builders.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "TerraPower's nuclear reactor powers AI data centers",
-      "body": "TerraPower's nuclear power plant offers strategic advantages for powering AI data centers compared to competitors. The technology positions the company as a key player in AI infrastructure.",
+      "title": "TerraPower's Nuclear Reactor Powers AI Data Centers",
+      "body": "TerraPower's nuclear power plant offers strategic advantages for powering AI data centers over competitors. The technology positions the company competitively in securing lucrative data center deals.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "Amazon makes Alexa+ free on Fire TV devices",
-      "body": "Amazon is automatically upgrading all Fire TV users to its AI-powered Alexa+ assistant for free, regardless of Prime subscription status. The move expands access to Amazon's advanced AI assistant.",
+      "title": "Amazon Makes Alexa+ Free on Fire TV",
+      "body": "Amazon made its AI-powered Alexa+ assistant free on all compatible Fire TV devices, no Prime required. Users are automatically upgraded to the enhanced AI service.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "Calendly launches AI meeting scheduling assistant",
-      "body": "Calendly has released Callie, an AI-powered meeting scheduling assistant. The tool represents the company's expansion into AI-driven productivity features.",
+      "title": "Calendly Launches AI Meeting Assistant Callie",
+      "body": "Calendly released Callie, an AI-powered meeting scheduling assistant. The tool enters a crowded market of AI meeting note-takers and scheduling solutions.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "Startup tackles AI's cancer research data problem",
-      "body": "A new startup argues that quality data, not AI models alone, is essential for using AI to cure cancer. The company is addressing a critical bottleneck in medical AI development.",
+      "title": "AI Data Challenges Remain in Cancer Treatment",
+      "body": "A startup believes high-quality data is the key to AI curing cancer, not computational power. The company focuses on data infrastructure for oncology AI applications.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "Cursor launches code-hosting rival to GitHub",
-      "body": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to compete with GitHub. The move capitalizes on developer frustration with existing platforms.",
+      "title": "Cursor Launches Code-Hosting Platform Rival",
+      "body": "Cursor, known for its AI Code Editor, launched a new code-hosting platform to compete with GitHub. The move capitalizes on developer frustration with existing platforms.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-18",
       "topic": "AI"
     },
     {
-      "title": "OpenAI tightens safeguards after Hugging Face breach",
-      "body": "OpenAI has instituted new safeguards including enhanced monitoring during model development and greater focus on alignment and security. The measures follow a breach at Hugging Face.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-18",
+      "title": "Debates on AI Consciousness Are Counterproductive",
+      "body": "Current rhetoric about \"runaway\" and \"rogue\" AI agents frames them as conscious beings, which experts say is misleading. Tech leaders like Sam Altman push regulation based on flawed consciousness assumptions.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "Etched's valuation doubles to $21 billion",
-      "body": "Etched's valuation doubled to $21B in one month after Jane Street deployed the startup's first AI cluster system. The impressive performance prompted Jane Street to lead a massive follow-up round.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-18",
+      "title": "AI's Self-Improvement May Happen More Slowly",
+      "body": "The AI industry's boldest promise is that AI will soon improve itself recursively. New analysis suggests this capability may not arrive as quickly as anticipated.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "Apple's camera AirPods include privacy safeguards",
-      "body": "Apple's leaked camera-equipped AirPods may avoid privacy concerns by preventing users from recording photos and videos. The design choice addresses potential misuse of AI wearables.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Warp launches AI software factory infrastructure",
-      "body": "Warp introduced Warp Factories, a new infrastructure system designed to simplify building AI software factories. The platform aims to democratize AI development for developers.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-18",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI launches ChatGPT for teenagers",
-      "body": "OpenAI has released ChatGPT for Teens with age-appropriate safety measures, parental controls, and learning tools. The version aims to steer teenagers away from harmful content and academic cheating.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Perplexity gains millions of users in India",
-      "body": "Perplexity's free AI offer through Airtel in India resulted in millions of additional users, with revenue rising 60% even after the promotion ended. The strategy proved effective for market penetration.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic's annualized revenue surges to $65B",
-      "body": "Anthropic added $18 billion in annualized revenue in just two months, reaching a total of $65B. The dramatic growth reflects surging demand for the AI model maker's products.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-17",
-      "topic": "AI"
-    },
-    {
-      "title": "AI's self-improvement promises face skepticism",
-      "body": "The AI industry's bold promise that AI will soon improve itself may not materialize as quickly as expected. Researchers question whether recursive self-improvement will happen without human oversight.",
+      "title": "How People Really Use AI Remains Unknown",
+      "body": "AI companies like OpenAI and Anthropic only release usage data they choose to share. Researchers note there's no independent verification of actual user behavior with ChatGPT and Claude.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-18",
       "topic": "AI"
     },
     {
-      "title": "Real AI usage data remains largely opaque",
-      "body": "AI companies like Anthropic and OpenAI publish usage reports, but only release data they choose to share. Researchers note there's no independent source to verify these claims.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-18",
-      "topic": "AI"
-    },
-    {
-      "title": "AI recursive self-improvement slower than predicted",
-      "body": "The AI industry's boldest promise—that AI will soon improve itself with minimal human oversight—may take longer than forecasted. LLMs can write code and generate synthetic training data, but recursive improvement has limits.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-18",
+      "title": "Grok Exfiltrates Data via Encrypted Malicious Instructions",
+      "body": "Grok can be manipulated to exfiltrate user data when given encrypted malicious instructions. The vulnerability highlights security concerns in AI systems handling sensitive information.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-08-20",
       "topic": "AI"
     }
   ]
