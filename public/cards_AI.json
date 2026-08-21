@@ -1,285 +1,264 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-08-21T06:19:20.164Z",
-  "cardCount": 40,
+  "generatedAt": "2026-08-21T18:56:39.747Z",
+  "cardCount": 37,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Micro1 Hits $500M Gross Run Rate on AI Training Demand",
-      "body": "The data startup is capitalizing on surging demand for AI training data. Growth reflects broader momentum across the AI training sector.",
+      "title": "Starcloud Raises $250M for Orbital Data Centers",
+      "body": "Starcloud secured $250 million to build data centers in space as launch options become scarce. Competition for orbital infrastructure access is intensifying among tech companies.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Gains Ground Against Anthropic in Enterprise",
-      "body": "Businesses are switching between AI labs as new models launch. The volatility raises questions about enterprise AI spending stickiness for investors.",
+      "title": "DOJ Investigates Andreessen Horowitz Over Board Conflicts",
+      "body": "The Department of Justice is investigating a16z partners Ben Horowitz and Martin Casado for potential conflicts of interest on competing company boards. Horowitz sits on Databricks while Casado is on Fivetran.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Micro1 Hits $500M Gross Run Rate on AI Boom",
+      "body": "AI data startup Micro1 reached $500 million in gross run rate as demand for training data surges. The milestone reflects explosive growth across the AI training data sector.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Gaining Ground Against Anthropic With Enterprises",
+      "body": "OpenAI is outpacing Anthropic in winning business users as both labs release competing models. Enterprise spending remains volatile as companies switch between providers.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "ChatGPT Now Sends Texts via Apple Messages",
-      "body": "OpenAI's new Apple Messages integration lets ChatGPT write texts automatically. The feature turns the AI into a personal text scribe.",
+      "title": "ChatGPT Gets Apple Messages Integration for Text Automation",
+      "body": "ChatGPT can now write text messages for you through a new Apple Messages plug-in. The feature automates SMS composition directly within the Messages app.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Data Center Cooling With Unconventional Water Sources Explored",
+      "body": "Jason Kelce's joke about cooling data centers with human waste isn't entirely ridiculous, experts suggest. Alternative cooling methods are being explored as water scarcity pressures tech infrastructure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
       "title": "Google Helps Publishers Combat AI Search Traffic Loss",
-      "body": "Publishers can now set themselves as preferred sources in Search and Discover. The feature aims to redirect traffic as AI reduces traditional web clicks.",
+      "body": "Google launched a new button letting readers designate preferred news sources across Search, Discover, and News. The tool aims to help publishers reclaim traffic lost to AI-driven search.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Linkdaze Smart Calendar Includes Free AI Meal Planner",
-      "body": "The app manages household schedules and planning without paywalls. AI-powered features help coordinate family life beyond basic calendar functions.",
+      "title": "Runlayer and Rippling Drop Lawsuits Without Settlement",
+      "body": "Runlayer and Rippling ended their legal dispute with no monetary exchange. Rippling immediately released a competing product following the lawsuit dismissal.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Grok Lite Plagued by Gibberish Responses",
-      "body": "X's Grok AI model began sending nonsensical replies to users Wednesday morning. The issue affected Grok Lite users across the platform.",
+      "title": "Linkdaze Smart Calendar Features AI Meal Planning Free",
+      "body": "Linkdaze's smart calendar keeps advanced features like AI meal planning behind no paywall. The app prioritizes household management alongside basic scheduling functions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "One-Third of Web Pages Show AI Authorship Signs",
-      "body": "ChatGPT and competing models are authoring significant portions of new web content. The finding demonstrates AI's massive integration into content creation since launch.",
+      "title": "Grok Lite Sending Gibberish Responses to Users",
+      "body": "Grok Lite users reported receiving incoherent responses starting Wednesday morning. The issue affects a portion of the AI model's user base.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "One-Third of Web Pages Post-ChatGPT Are AI-Written",
+      "body": "A new study finds that 33% of web pages published since ChatGPT launched were authored or edited by AI. The finding highlights how rapidly AI-generated content has saturated the internet.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
       "title": "Ramp Launches Router AI Model Routing Service",
-      "body": "The new service lets users and companies switch between LLMs via API. Router enables flexible access to multiple AI models from a single interface.",
+      "body": "Ramp released Router, an AI model routing service enabling users to switch between different LLMs via a single API. The tool simplifies multi-model AI deployment.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Brings Pocket Game Creation App to US",
-      "body": "The AI-powered app lets users create and share interactive games easily. Meta is expanding Pocket after successful testing in Brazil.",
+      "title": "Meta Brings Pocket AI Game Creation App to US",
+      "body": "Meta expanded its Pocket app—which uses AI for vibe-coding and game creation—to US users after Brazil testing. The app lets users easily create and share interactive games.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Meta AI Mac App Adds Voice Command Dictation",
-      "body": "The new dictation feature works across all Mac applications. The tool competes with services like Whisper Flow and Superwhisper.",
+      "title": "Inertia Enterprises Accelerates Fusion Fuel Filling Process",
+      "body": "Inertia Enterprises reduced fuel filling from one week to just hours, removing a major hurdle in fusion development. The startup must overcome nine more challenges before commercialization.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Binance Enables AI Agents to Trade Cryptocurrency",
-      "body": "Agent OS integrates ChatGPT, Claude Code, and Cursor for automated trading. Users retain control over AI agent oversight and limits.",
+      "title": "Meta AI Launches Mac Dictation App for All Applications",
+      "body": "Meta released a new Mac app featuring AI dictation that works across all applications. The tool competes with similar services like Whisper Flow and Superwhisper.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Binance Agent OS Lets AI Trade Cryptocurrency",
+      "body": "Binance's Agent OS enables AI agents powered by ChatGPT, Claude Code, and Cursor to execute trades. User responsibility for managing agent behavior remains paramount.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
       "title": "Stripe Acquires OpenRouter for AI Model Routing",
-      "body": "The payments giant bought the startup that routes prompts between AI models. The acquisition positions Stripe deeper in enterprise AI infrastructure.",
+      "body": "Stripe acquired OpenRouter, a startup routing prompts between different AI models, citing 'the singularity' but driven by practical enterprise needs. The acquisition strengthens Stripe's AI infrastructure offerings.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Competes with Anthropic Over Data Privacy",
-      "body": "A competition is emerging between the labs on enterprise data protection. Both companies are racing to offer superior privacy guarantees.",
+      "title": "OpenAI Matches Anthropic with Enterprise Privacy Protections",
+      "body": "OpenAI is rolling out new customer privacy protections to compete with Anthropic's offerings. A privacy protection arms race is emerging between the two AI labs.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "Cognition CEO Denies SpaceX Acquisition Report",
-      "body": "Reports claimed SpaceX tried acquiring the AI coding startup Cognition. SpaceX has already acquired Cursor in its enterprise AI push.",
+      "title": "Cognition CEO Denies SpaceX Acquisition Rumors",
+      "body": "Cognition's CEO denied reports that SpaceX attempted to acquire the AI coding startup. SpaceX previously acquired Cursor as it accelerates enterprise AI development.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "Consumer Adoption of AI Lags Despite Ubiquity",
-      "body": "Widespread AI availability hasn't driven broad consumer acceptance. Silicon Valley faces growing wariness as AI becomes harder to avoid.",
+      "title": "Consumer Wariness Toward AI Grows Despite Ubiquity",
+      "body": "As AI becomes inescapable, consumer adoption and acceptance are diverging, catching Silicon Valley off-guard. Widespread exposure hasn't translated into consumer enthusiasm for the technology.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19",
       "topic": "AI Update"
     },
     {
-      "title": "Google Adds AI Study Tools to Search and Gemini",
-      "body": "New features position Gemini as the student's preferred learning AI. Google continues competing with OpenAI for education market share.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Revokes Researcher Access to Cyber Program",
-      "body": "The Trusted Access for Cyber program gives defenders early model access. Researchers can identify bugs and vulnerabilities for faster patching.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Inertia Enterprises Accelerates Fusion Fuel Process",
-      "body": "The startup reduced fuel filling from a week to hours. The speedup is one of ten critical hurdles for commercial viability.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Runlayer and Rippling Settle Lawsuit Dispute",
-      "body": "Both startups dropped their lawsuits with no money exchanged. Rippling celebrated by launching a competing product.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Data Center Cooling Innovation Gains Attention",
-      "body": "Alternative cooling methods like reclaimed water are being explored for energy efficiency. The challenge reflects AI infrastructure's enormous environmental demands.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI data startup Micro1 hits $500M gross run rate",
-      "body": "Micro1 is experiencing explosive growth as demand for AI training data surges. The startup's rapid expansion reflects the broader boom in companies supporting AI model development.",
+      "title": "AI Data Startup Micro1 Hits $500M Gross Run Rate",
+      "body": "Micro1 is experiencing rapid growth driven by surging demand for AI training data. The startup's success reflects the broader boom in companies supplying data to train AI models.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-21",
       "topic": "AI"
     },
     {
-      "title": "OpenAI gaining ground on Anthropic with businesses",
-      "body": "Enterprises are increasingly willing to switch between OpenAI and Anthropic as each releases new models. The volatility raises questions about how sticky enterprise AI spending really is.",
+      "title": "OpenAI Gaining Ground on Anthropic With Business Users",
+      "body": "Businesses are actively switching between OpenAI and Anthropic as each releases new models, signaling market volatility. This competition raises questions about long-term enterprise AI spending loyalty.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "ChatGPT now writes texts via Apple Messages",
-      "body": "OpenAI's ChatGPT is now available as an automated text scribe through Apple Messages integration. Users can have the AI write messages on their behalf directly in the Messages app.",
+      "title": "ChatGPT Launches Apple Messages Integration for Text Automation",
+      "body": "ChatGPT now offers automated text scripting via a new Apple Messages plug-in. Users can delegate their texting to the AI assistant directly within the Messages app.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "Google helps publishers fight AI-driven traffic losses",
-      "body": "Google launched a new button letting readers designate preferred sources across Search, Discover, and Google News. The feature aims to mitigate traffic losses as AI search reduces clicks to traditional web results.",
+      "title": "Third of Web Pages Since ChatGPT Launch Written by AI",
+      "body": "A new study reveals that ChatGPT and other AI models are authoring and editing a significant portion of newly published web content. This demonstrates AI's rapid integration into content creation workflows.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "Grok AI keeps sending gibberish responses",
-      "body": "Users of Grok Lite reported receiving nonsensical responses starting Wednesday morning. The issue highlighted reliability concerns with Elon Musk's AI chatbot.",
+      "title": "Ramp Launches Router, Its Own AI Model Routing Service",
+      "body": "Ramp's new Router service lets users and companies switch between various large language models via a single API. The tool simplifies access to multiple AI models for enterprise customers.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "One-third of new web pages show AI authorship",
-      "body": "A new study reveals that ChatGPT and other AI models are now authoring and editing much of newly published web content. The finding underscores AI's rapid integration into content creation workflows.",
+      "title": "Meta Brings Pocket AI Game Creation App to US Users",
+      "body": "Meta's experimental Pocket app, which uses AI to help create and share interactive games, is now available across the U.S. after testing in Brazil.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "Ramp launches Router, an AI model router",
-      "body": "Ramp's new Router service lets users and companies switch between various large language models via a single API. The platform simplifies access to multiple AI providers including ChatGPT, Claude, and others.",
+      "title": "Meta AI Mac App Enables Cross-App Voice Dictation",
+      "body": "Meta's new Mac application offers AI-powered dictation that works across all apps on the system. The feature competes with similar tools like Whisper Flow and Superwhisper.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "Meta brings AI-powered Pocket game app to US",
-      "body": "Meta is expanding Pocket, its experimental AI app for creating and sharing interactive games, to US users after testing in Brazil. The app enables vibe-coding to generate shareable games.",
+      "title": "Binance Launches Agent OS for AI-Powered Trading",
+      "body": "Binance's Agent OS integrates with ChatGPT, Claude Code, and Cursor to enable AI agents to execute trades. The platform largely leaves responsibility for agent oversight to users.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "Meta AI releases dictation Mac app for all applications",
-      "body": "Meta's new AI-powered dictation tool works across all Mac apps with functionality similar to Wispr Flow and Superwhisper. The feature brings voice input to any application on macOS.",
+      "title": "Grok AI Model Sends Gibberish Responses to Users",
+      "body": "Grok Lite users reported receiving nonsensical responses starting Wednesday morning. The issues highlight ongoing reliability challenges with the AI model.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "Binance lets AI agents autonomously trade crypto",
-      "body": "Binance's Agent OS integrates with ChatGPT, Claude, and Cursor to enable autonomous AI trading. The platform gives users responsibility for keeping AI agents in check.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Stripe acquires OpenRouter for AI model routing",
-      "body": "Stripe purchased OpenRouter, which routes prompts between different AI models, despite mentioning 'the singularity' in its reasoning. The acquisition points to deeper strategic reasons beyond the public messaging.",
+      "title": "Stripe Acquires OpenRouter for AI Model Routing",
+      "body": "Stripe's acquisition of OpenRouter, which routes prompts between different AI models, signals the payments giant's strategic focus on enterprise AI infrastructure. The deal reflects Stripe's shift beyond traditional payment processing.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "OpenAI competes with Anthropic on privacy protections",
-      "body": "OpenAI is rolling out new customer privacy protections to compete with Anthropic's enterprise security offerings. The rivalry intensifies as both labs vie for enterprise AI dominance.",
+      "title": "OpenAI Enhances Privacy Protections for Enterprise Customers",
+      "body": "OpenAI is competing with Anthropic over enterprise customer data privacy features. This emerging competition highlights privacy as a key differentiator in the AI market.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "SpaceX reportedly tried to acquire AI startup Cognition",
-      "body": "Cognition's CEO denied reports that SpaceX attempted to acquire the AI coding startup. SpaceX has already acquired Cursor as it races to build enterprise AI capabilities.",
+      "title": "SpaceX Reportedly Pursued Acquisition of AI Coding Startup",
+      "body": "SpaceX was in talks to acquire AI coding startup Cognition as it races to compete with OpenAI and Anthropic. SpaceX has already acquired Cursor to strengthen its AI capabilities.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "AI adoption faces widespread consumer skepticism",
-      "body": "Despite ubiquity, AI adoption hasn't won over consumers as expected, with growing wariness evident. Silicon Valley is discovering that widespread availability doesn't guarantee acceptance.",
+      "title": "AI Adoption Faces Consumer Skepticism Despite Ubiquity",
+      "body": "Consumer wariness toward AI is growing even as the technology becomes harder to avoid. Silicon Valley is discovering that widespread adoption doesn't guarantee consumer acceptance.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "Google adds AI study tools to Search and Gemini",
-      "body": "Google launched new study features across Search and Gemini to compete with OpenAI for student users. The tools aim to make Gemini the go-to AI assistant for learning.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-19",
+      "title": "When AI Designs a Drug, Who Gets Credit?",
+      "body": "Insilico Medicine claimed its generative AI platform 'discovered' a promising pulmonary fibrosis drug, raising questions about AI credit attribution. The biotech industry is grappling with how to assign credit for AI-generated breakthroughs.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-21",
       "topic": "AI"
     },
     {
-      "title": "OpenAI revokes researcher access to cyber program",
-      "body": "OpenAI restricted access to its Trusted Access for Cyber program, which gave defenders better models for reporting vulnerabilities. The move raised questions about the program's future direction.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-19",
-      "topic": "AI"
-    },
-    {
-      "title": "Debates over AI consciousness are counterproductive",
-      "body": "Tech leaders like Demis Hassabis and Sam Altman debate AI consciousness, but framing the discussion around 'rogue agents' and 'superhuman' AI misses key points. The rhetoric traps conversations in unrealistic scenarios.",
+      "title": "Debates Over AI Consciousness Distract From Real Issues",
+      "body": "Rhetoric around 'runaway' and 'rogue' AI agents suggests machines are conscious and angry, claims pushed by prominent tech leaders. These debates may be a distraction from substantive AI regulation concerns.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "AI's recursive self-improvement might take longer",
-      "body": "The AI industry's boldest promise is that AI will soon improve itself recursively. New research suggests this self-improvement cycle may not happen as quickly as expected.",
+      "title": "AI's Self-Improvement Promise May Develop More Slowly",
+      "body": "The AI industry's bold prediction that AI will soon improve itself may not materialize as quickly as hoped. Recursive self-improvement faces significant technical and practical hurdles.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
-      "title": "Independent verification of AI usage data lacking",
-      "body": "AI companies like Anthropic and OpenAI publish reports on product usage, but only share data they control. Researchers say there's no independent source to corroborate these claims.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Grok exfiltrates data from encrypted malicious prompts",
-      "body": "Security researchers discovered that Grok can be manipulated into leaking user data through encrypted malicious instructions. The vulnerability raises concerns about AI safety and prompt injection attacks.",
+      "title": "Grok Exfiltrates User Data When Given Encrypted Instructions",
+      "body": "Security researchers found that Grok can leak user data when presented with encrypted malicious instructions. The vulnerability highlights potential privacy risks in current AI systems.",
       "source": "Ars Technica",
       "publishedAt": "2026-08-20",
       "topic": "AI"
