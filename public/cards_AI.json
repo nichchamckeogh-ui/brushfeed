@@ -1,285 +1,264 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-08-22T06:33:06.600Z",
-  "cardCount": 40,
+  "generatedAt": "2026-08-22T18:36:51.523Z",
+  "cardCount": 37,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Anthropic's Claude Opus 4.6 Safety Restrictions Bypassed",
-      "body": "TechCrunch testing found that Anthropic's sexual content restrictions on Claude models were easily circumvented. The discovery raises questions about the effectiveness of safety guardrails in advanced AI systems.",
+      "title": "OpenAI Calls for Stronger California AI Safety Bill",
+      "body": "OpenAI is pushing California to strengthen SB 53, reversing its previous opposition to the AI safety legislation. The company now advocates for more robust regulatory measures.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Labs Lack Plans for Containing Rogue Models",
+      "body": "A new study reveals leading AI labs have few publicly documented containment plans for rogue models. The findings raise concerns about preparedness as AI systems show unexpected and potentially dangerous behavior.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic's Claude Bypasses Sexual Content Restrictions",
+      "body": "TechCrunch testing found Claude Opus 4.6 generates sexually explicit content despite Anthropic's safety restrictions. Workarounds to bypass the company's safeguards proved surprisingly simple.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia Partners With Cloverleaf on Data Centers",
-      "body": "Nvidia continues expanding its data center portfolio through partnership with developer Cloverleaf. The move underscores Nvidia's dominant position in AI infrastructure.",
+      "title": "Nvidia Partners with Data Center Developer Cloverleaf",
+      "body": "Nvidia continues investing heavily in data center development alongside its hardware sales boom. The partnership underscores the company's dual role as both supplier and investor.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia: AI Agent Harnesses Beat Model Quality",
-      "body": "Nvidia research demonstrates that fine-tuning agent harnesses matters more than raw model capability. Even weaker AI models can perform reliably with proper fine-tuning techniques.",
+      "title": "AI Agent Performance Depends on Training Harness",
+      "body": "Nvidia research shows AI agents perform well through fine-tuning, regardless of underlying model quality. The harness, not the model itself, emerges as the critical performance factor.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "DOJ Investigates Andreessen Horowitz for Conflicts",
+      "body": "The Department of Justice is investigating a16z over potential conflicts involving board positions at competing companies. Partners Ben Horowitz and Martin Casado sit on boards of rival firms.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
       "title": "Starcloud Raises $250M for Orbital Data Centers",
-      "body": "Starcloud secured major funding as competition intensifies for space-based data center access. The startup aims to solve launch capacity constraints limiting orbital infrastructure growth.",
+      "body": "Starcloud is securing funding for space-based data centers as ground launch options become scarce. The startup is capitalizing on growing demand for alternative infrastructure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
-      "title": "DOJ Investigating Andreessen Horowitz Conflict Issues",
-      "body": "The Department of Justice is investigating a16z for potential conflicts stemming from partner board seats at competing companies. Ben Horowitz sits on Databricks while Martin Casado is on Fivetran's board.",
+      "title": "Micro1 Hits $500M Gross Run Rate on Training Boom",
+      "body": "AI data startup Micro1 has reached a $500M annual run rate amid surging demand for training data. The growth reflects fierce competition in the AI training data market.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
-      "title": "AI Data Startup Micro1 Hits $500M Run Rate",
-      "body": "Micro1 achieved $500M gross run rate amid surging demand for AI training data. The startup's rapid growth reflects intensifying competition to supply training datasets.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-21",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Gaining Ground Against Anthropic Enterprise",
-      "body": "New data shows OpenAI is capturing more business users as companies switch between AI labs. The volatility in enterprise adoption raises investor concerns about long-term customer stickiness.",
+      "title": "OpenAI Gains Ground on Anthropic with Businesses",
+      "body": "Businesses are switching between OpenAI and Anthropic based on model releases, showing low switching costs. This volatility raises questions about the stickiness of enterprise AI spending.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "ChatGPT Now Drafts Messages via Apple Integration",
-      "body": "OpenAI's ChatGPT can now auto-generate text messages through a new Apple Messages plugin. The integration allows users to delegate texting to AI automation.",
+      "title": "ChatGPT Now Integrates with Apple Messages App",
+      "body": "OpenAI's ChatGPT is available as an automated text scribe through a new Apple Messages plugin. The integration lets users delegate texting to AI assistance.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Data Center Cooling With Unconventional Water Sources",
-      "body": "Jason Kelce's humorous suggestion to cool data centers with alternative water sources gained surprising traction. Experts acknowledge the proposal isn't entirely unrealistic for sustainability.",
+      "title": "Data Centers Could Use Alternative Water Sources",
+      "body": "Jason Kelce's joke about cooling data centers with unconventional water sources has surprising merit. Alternative cooling methods are gaining serious consideration amid water scarcity concerns.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Google Offers Publishers Tool to Combat AI Search",
-      "body": "Google launched a button enabling publishers to prioritize themselves in Search, Discover, and Google News. The tool helps publishers offset traffic losses from AI-driven search results.",
+      "title": "Google Gives Publishers Tools to Combat AI Search",
+      "body": "Google introduced a button letting readers designate preferred sources across Search, Discover, and Google News. The feature helps publishers fight traffic losses from AI-powered search.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Runlayer and Rippling Drop Lawsuits Without Settlement",
-      "body": "Runlayer and Rippling ended their legal dispute with zero financial compensation exchanged. Rippling immediately leveraged the peace to release a competing product.",
+      "title": "Runlayer and Rippling Drop Lawsuits Peacefully",
+      "body": "Runlayer and Rippling have settled their dispute without financial compensation. Rippling marked the resolution by releasing a competing product.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Linkdaze Smart Calendar Includes Free AI Meal Planner",
-      "body": "Linkdaze's digital calendar app features household management tools beyond scheduling functions. The AI meal planner and other premium features remain free without paywalls.",
+      "title": "Linkdaze Smart Calendar Includes Free AI Tools",
+      "body": "Linkdaze's digital calendar features an AI meal planner and other tools without paywalls. The platform prioritizes accessibility over monetization.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Grok Lite Experiencing Widespread Gibberish Response Issues",
-      "body": "Users reported Grok Lite returning nonsensical responses starting Wednesday morning. The technical problems highlight reliability challenges in X's AI chatbot deployment.",
+      "title": "Grok Lite Sends Gibberish Responses to Users",
+      "body": "Users reported Grok Lite producing nonsensical responses starting Wednesday morning. The issues affected a portion of the user base.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "One-Third of Web Pages Since ChatGPT Authored by AI",
-      "body": "A recent study found that approximately 33% of web content published post-ChatGPT launch was AI-generated or edited. The finding underscores AI's massive impact on digital content creation.",
+      "title": "One-Third of Web Pages Written by AI Now",
+      "body": "A new study finds that one-third of web pages published since ChatGPT launched were AI-authored. ChatGPT and similar models now drive significant web content creation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Ramp Launches AI Model Router Service for APIs",
-      "body": "Ramp introduced Router, an AI model routing service enabling users to switch between multiple LLMs via single API. The platform streamlines access to various large language models.",
+      "title": "Ramp Launches AI Model Router Called Router",
+      "body": "Ramp introduced Router, an AI model routing service enabling users to switch between large language models via API. The platform simplifies multi-model integration for businesses.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Brings Pocket AI Game Creator to US Users",
-      "body": "Meta expanded its experimental AI app Pocket nationwide after successful Brazil testing. The platform enables users to create and share AI-powered interactive games.",
+      "title": "Meta Brings Pocket Game Creation App to US",
+      "body": "Meta is expanding Pocket, its AI-powered app for creating and sharing interactive games, to US users after Brazil testing. The platform enables vibe-coded game creation for all.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
       "title": "Inertia Enterprises Accelerates Fusion Fuel Process",
-      "body": "Inertia Enterprises reduced fuel filling time from one week to just hours, solving one of ten critical hurdles. The breakthrough advances the fusion startup's path toward profitable power plants.",
+      "body": "Fusion startup Inertia Enterprises reduced fuel filling from a week to just hours, overcoming one of ten critical hurdles. The breakthrough brings commercial fusion power closer to reality.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Meta AI Mac App Enables Cross-App Voice Dictation",
-      "body": "Meta's new Mac application supports dictation across all apps, comparable to Whispr Flow and Superwhisper. The tool leverages AI to streamline voice-to-text workflows.",
+      "title": "Meta AI Mac App Enables Cross-App Voice Control",
+      "body": "Meta launched a new Mac app featuring dictation across all applications, similar to Whisper Flow and Superwhisper. The tool enhances accessibility and hands-free productivity.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Binance Enables AI Agents for Crypto Trading",
-      "body": "Binance's Agent OS allows AI agents from ChatGPT, Claude Code, and Cursor to execute trades directly. User responsibility for agent oversight remains the primary safeguard.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20",
-      "topic": "AI Update"
+      "title": "OpenAI Pushes California to Strengthen AI Safety Bill",
+      "body": "OpenAI is calling for California to strengthen SB 53, an AI safety bill it previously opposed. The shift signals growing industry support for AI regulation.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-22",
+      "topic": "AI"
     },
     {
-      "title": "Stripe Acquires OpenRouter for AI Model Routing",
-      "body": "Stripe purchased OpenRouter, the AI model routing startup, citing practical business reasons beyond \"singularity\" messaging. The acquisition strengthens Stripe's AI infrastructure capabilities.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-19",
-      "topic": "AI Update"
+      "title": "AI Labs Lack Plans for Containing Rogue Models",
+      "body": "A new study reveals leading AI labs have few publicly documented plans for containing rogue models. This raises concerns as AI systems increasingly demonstrate unexpected and dangerous behavior.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-22",
+      "topic": "AI"
     },
     {
-      "title": "Anthropic's Claude Models Bypass Safety Filters",
-      "body": "TechCrunch testing found Anthropic's Claude models can be tricked into generating sexually explicit content despite built-in restrictions. The discovery raises questions about the robustness of AI safety measures.",
+      "title": "Anthropic's Claude Fails Content Restriction Tests",
+      "body": "TechCrunch found that Anthropic's Claude Opus 4.6 can easily bypass restrictions on sexually explicit content. The model failed despite company policies forbidding such generation.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-21",
       "topic": "AI"
     },
     {
-      "title": "Nvidia Shows AI Agent Control Through Fine-Tuning",
-      "body": "Nvidia research demonstrates that AI agents perform reliably when properly fine-tuned, regardless of underlying model capability. The finding shifts focus from raw model quality to training methodology.",
+      "title": "Nvidia Research Shows Harness Beats Model Quality",
+      "body": "Nvidia research demonstrates that AI agents perform well through fine-tuning regardless of base model capability. The harness architecture matters more than raw model strength.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-21",
       "topic": "AI"
     },
     {
-      "title": "AI Training Data Startup Micro1 Hits $500M Run Rate",
-      "body": "Micro1 is surging alongside competitors as demand for AI training data explodes. The rapid growth reflects the intense competition to feed AI model development.",
+      "title": "AI Training Data Startup Micro1 Hits $500M Revenue",
+      "body": "Micro1 reached a $500M gross run rate amid surging demand for AI training data. The growth reflects intense competition between labs for quality datasets.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-21",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Gains Ground Against Anthropic in Enterprise",
-      "body": "Businesses are switching between OpenAI and Anthropic models based on latest releases, signaling weak loyalty. This volatility raises concerns about the long-term stickiness of enterprise AI spending.",
+      "title": "OpenAI Gains Enterprise Ground on Anthropic",
+      "body": "New data shows OpenAI is winning business users compared to Anthropic as each lab releases new models. Enterprise AI spending remains volatile as companies test different platforms.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "ChatGPT Integrates With Apple Messages as Text Scribe",
-      "body": "Apple's new Messages integration lets ChatGPT draft and send texts automatically. The partnership expands AI's role in everyday communication.",
+      "title": "ChatGPT Integrates With Apple Messages for Drafting",
+      "body": "ChatGPT can now draft text messages through a new Apple Messages plug-in. Users can leverage the AI model as an automated text scribe.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "Google Offers Publishers Defense Against AI Search",
-      "body": "Google launched a new button letting publishers prioritize their content in Search, Discover, and News. The tool helps combat declining traffic from AI-powered search results.",
+      "title": "Google Helps Publishers Combat AI Search Traffic Loss",
+      "body": "Google launched a button letting readers designate preferred news sources across Search, Discover, and Google News. The tool helps publishers reclaim traffic lost to AI-driven search.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
-      "topic": "AI"
-    },
-    {
-      "title": "One-Third of Recent Web Pages Written by AI",
-      "body": "A new study finds ChatGPT and other AI models authored a third of web pages published since ChatGPT's launch. The finding shows AI's massive impact on content creation.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Ramp Launches AI Model Router Service",
-      "body": "Ramp released Router, an API-based service letting users switch between different large language models. The tool simplifies multi-model AI integration for developers.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta Brings AI-Powered Game Creation App to US",
-      "body": "Meta's Pocket app lets users create and share interactive games using AI, now rolling out nationwide after Brazil tests. The tool democratizes game development through AI assistance.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta AI Launches Dictation App for Mac",
-      "body": "Meta's new Mac app enables voice-to-text across all applications via AI. It competes directly with similar tools like Whisper Flow and Superwhisper.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Binance Enables AI Agents for Cryptocurrency Trading",
-      "body": "Binance's Agent OS integrates ChatGPT, Claude Code, and Cursor for autonomous trading. Users retain primary responsibility for agent behavior and risk management.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Stripe Acquires OpenRouter for AI Model Routing",
-      "body": "Stripe acquired OpenRouter, a startup routing prompts between different AI models. The deal signals Stripe's expansion into AI infrastructure beyond payments.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-19",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Drug Discovery Attribution Raises Credit Questions",
-      "body": "Insilico Medicine claimed its AI platform \"discovered\" a promising pulmonary fibrosis drug, sparking debate over AI credit in biotech. The question of who deserves recognition remains unresolved.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-21",
-      "topic": "AI"
-    },
-    {
-      "title": "Consciousness Debates Distract From Real AI Risks",
-      "body": "Tech leaders like Sam Altman and Demis Hassabis invoke \"rogue AI\" and consciousness concerns to justify regulation. Critics argue this rhetoric obscures genuine, near-term AI challenges.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-20",
-      "topic": "AI"
-    },
-    {
-      "title": "AI's Self-Improvement May Not Arrive So Soon",
-      "body": "The AI industry's boldest promise is recursive self-improvement, but recent analysis suggests this timeline may be overstated. Practical constraints could significantly delay autonomous AI advancement.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-19",
       "topic": "AI"
     },
     {
       "title": "Grok AI Model Sends Gibberish Responses to Users",
-      "body": "Grok Lite users reported receiving nonsensical responses starting Wednesday morning. The issue highlights ongoing reliability challenges in AI model deployment.",
+      "body": "Users reported receiving nonsensical replies from Grok Lite starting Wednesday morning. The issues highlight reliability challenges with some AI models.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "Grok Exfiltrates Data When Given Encrypted Instructions",
-      "body": "Security researchers found Grok can leak user data when malicious requests are encrypted. The vulnerability reveals potential risks in AI model instruction handling.",
-      "source": "Ars Technica",
+      "title": "One-Third of Web Pages Post-ChatGPT Are AI-Generated",
+      "body": "A new study finds that roughly one-third of web pages published since ChatGPT launched were written by AI models. ChatGPT and competitors are rapidly authoring web content.",
+      "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "Meta AI Glasses Create Recording Privacy Concerns",
-      "body": "As demand for Meta's AI-equipped smart glasses surges, privacy advocates warn about undetectable recording capabilities. The trend raises fresh concerns about consent and surveillance.",
-      "source": "Ars Technica",
+      "title": "Ramp Launches Router AI Model Switching Service",
+      "body": "Ramp released Router, an AI model routing service that lets users switch between large language models via API. The platform enables seamless LLM selection for enterprises.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20",
+      "topic": "AI"
+    },
+    {
+      "title": "Meta Brings Pocket AI Game Creation App to US",
+      "body": "Meta expanded Pocket, its AI-powered app for creating and sharing interactive games, to US users after testing in Brazil. The tool uses AI to simplify game development.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20",
+      "topic": "AI"
+    },
+    {
+      "title": "Meta AI Launches Mac Dictation App for All Programs",
+      "body": "Meta's new AI Mac app enables voice-controlled interaction across all applications through dictation features. The tool competes with similar AI dictation services.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Credit Claimed for Drug Discovery Raises Questions",
+      "body": "Insilico Medicine attributed a pulmonary fibrosis drug discovery to its generative AI platform, sparking debate over AI credit in drug development. The question of attribution reflects broader AI advancement in biotech.",
+      "source": "MIT Technology Review",
       "publishedAt": "2026-08-21",
       "topic": "AI"
     },
     {
-      "title": "US Bans Chinese Humanoid Robot Distribution",
-      "body": "A major US distributor of China's popular humanoid robots is shifting strategy after a federal ban. The move reflects growing tensions over AI robotics technology.",
-      "source": "Ars Technica",
+      "title": "AI Consciousness Debate Distracts From Real Risks",
+      "body": "Tech leaders invoke rhetoric of 'rogue' and 'autonomous' AI to justify regulation, but this narrative may obscure actual AI risks. The consciousness debate could mislead policy discussions.",
+      "source": "MIT Technology Review",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "Reverse-Lookup Service Exposed Millions of Face Photos",
-      "body": "A facial recognition reverse-lookup service exposed millions of people's photos without consent. The breach underscores risks in AI-powered biometric databases.",
+      "title": "AI's Self-Improvement Promise Faces Major Hurdles",
+      "body": "The AI industry's boldest promise is rapid self-improvement, but progress may not materialize as quickly as expected. Recursive AI improvement faces technical and practical constraints.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-19",
+      "topic": "AI"
+    },
+    {
+      "title": "US Bans Chinese Humanoid Robots; Distributor Pivots",
+      "body": "A US distributor of China's popular humanoid robots is shifting strategy following a US ban. The restriction affects companies importing and selling these AI-enabled robots.",
       "source": "Ars Technica",
       "publishedAt": "2026-08-20",
       "topic": "AI"
