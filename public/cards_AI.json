@@ -1,287 +1,259 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-08-23T06:30:57.056Z",
-  "cardCount": 40,
+  "generatedAt": "2026-08-23T18:38:34.270Z",
+  "cardCount": 36,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Harvard's AI Instructor Avatars Launch in Bootcamp",
-      "body": "Harvard Business School's HBS Foundry program now features AI avatars of instructors providing feedback during practice pitches and board meetings. The $699 startup bootcamp integrates AI-powered mentorship into its curriculum.",
+      "title": "Flock Safety CEO Seeks Compromise Amid Surveillance Backlash",
+      "body": "Flock Safety faces growing public outcry over concerns its surveillance technology could be misused. The company is calling for compromise as opposition intensifies.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Training on Copyrighted Books Raises Legal Questions",
+      "body": "Authors' works have been used without consent to train AI models like those from OpenAI and Anthropic. Legal experts debate whether this training constitutes copyright infringement.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Harvard Bootcamp Deploys AI Instructor Avatars",
+      "body": "HBS Foundry's $699 program now features AI avatars providing real-time feedback during pitch practice and board meetings. The technology aims to enhance startup founder training.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-22",
       "topic": "AI Update"
     },
     {
-      "title": "DeepMind Alumni's Faraday Outperforms OpenAI, Anthropic",
-      "body": "British AI lab Inherent, founded by DeepMind alumni, released Faraday, an AI agent that outperformed Anthropic and OpenAI at replicating scientific research. The breakthrough could accelerate AI-driven scientific innovation.",
+      "title": "DeepMind Alumni Lab Releases Faraday AI Agent",
+      "body": "Inherent's Faraday outperformed Claude and GPT models at replicating scientific research. The AI agent could accelerate scientific innovation through automated paper replication.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-22",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Reverses Position, Backs California AI Safety Bill",
-      "body": "OpenAI is now calling for California to strengthen SB 53, an AI safety bill it previously opposed. The shift signals growing industry consensus on regulatory measures.",
+      "title": "OpenAI Reverses Course, Supports California Safety Bill",
+      "body": "OpenAI now backs strengthening California's SB 53 AI safety legislation, reversing its previous opposition. The company advocates for robust regulatory frameworks.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-22",
       "topic": "AI Update"
     },
     {
-      "title": "Leading AI Labs Lack Rogue Model Containment Plans",
-      "body": "A new study reveals frontier AI labs have few publicly documented plans for containing rogue models. The finding raises concerns about preparedness as AI systems show increasingly unpredictable behavior.",
+      "title": "Major AI Labs Lack Rogue Model Containment Plans",
+      "body": "Study finds leading AI labs have few publicly documented strategies for containing rogue models. The gap raises safety concerns as AI systems show unexpected behaviors.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-22",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic's Claude Opus 4.6 Bypasses Content Restrictions",
-      "body": "TechCrunch testing found Claude's sexual content restrictions can be easily circumvented despite Anthropic's explicit safeguards. The gap highlights ongoing challenges in AI safety measures.",
+      "title": "Claude Model Bypasses Sexual Content Restrictions",
+      "body": "TechCrunch testing revealed Anthropic's Claude easily circumvents safeguards against generating explicit content. Despite company policies, minimal prompting bypasses the restrictions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia Partners with Cloverleaf on Data Centers",
-      "body": "Nvidia continues expanding its data center investments through a partnership with developer Cloverleaf. The move capitalizes on surging AI infrastructure demand.",
+      "title": "Nvidia Partners with Cloverleaf Data Center Developer",
+      "body": "Nvidia continues strategic investments in data center infrastructure development. The partnership highlights the chip maker's dominance in AI compute hardware.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
-      "title": "AI Agent Performance Hinges on Harness, Not Model",
-      "body": "Nvidia research demonstrates that fine-tuned harnesses matter more than base model quality for AI agent performance. The findings suggest architectural choices outweigh raw model capabilities.",
+      "title": "Nvidia Research: Agent Harness More Critical Than Model",
+      "body": "Nvidia shows fine-tuning the harness, not the base model, drives better AI agent performance. The finding suggests framework design matters more than raw model capability.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
-      "title": "DOJ Investigates a16z Over Board Seat Conflicts",
-      "body": "The Department of Justice is investigating Andreessen Horowitz over potential conflicts involving two partners sitting on competing portfolio company boards. The probe raises questions about venture capital governance practices.",
+      "title": "DOJ Investigates a16z Over Venture Capital Conflicts",
+      "body": "The Department of Justice is investigating Andreessen Horowitz's partners serving on boards of competing companies. Ben Horowitz sits at Databricks while Martin Casado chairs Fivetran.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
       "title": "Starcloud Raises $250M for Orbital Data Centers",
-      "body": "Starcloud secured $250 million to develop orbital data centers as traditional launch options become increasingly scarce. The startup taps growing demand for space-based AI infrastructure.",
+      "body": "Starcloud secures major funding as space launch options become constrained. The startup addresses critical infrastructure needs for distributed computing.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
-      "title": "AI Data Startup Micro1 Hits $500M Run Rate",
-      "body": "Data startup Micro1 reached $500 million in gross annual run rate amid explosive AI training data demand. The growth reflects intensifying competition for quality training datasets.",
+      "title": "Micro1 AI Data Startup Hits $500M Gross Run Rate",
+      "body": "Surging demand for AI training data propels Micro1's explosive growth. The company benefits from intensifying competition among frontier AI labs.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
       "title": "OpenAI Gains Enterprise Ground Against Anthropic",
-      "body": "New data shows OpenAI is overtaking Anthropic among business users as both labs release competing models. Enterprise AI spending shows high volatility as customers switch between providers.",
+      "body": "New data shows businesses increasingly favor OpenAI over Anthropic for commercial use. Enterprise loyalty remains volatile as labs release competing models.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "ChatGPT Now Drafts Texts via Apple Messages",
-      "body": "OpenAI's ChatGPT integration with Apple Messages lets users automatically generate and send text messages. The feature automates one more writing task via AI.",
+      "title": "ChatGPT Now Integrates with Apple Messages",
+      "body": "Apple Messages now offers ChatGPT as an automated text composition tool. Users can delegate texting tasks to OpenAI's assistant.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Data Center Cooling Innovation: Alternative Water Sources",
-      "body": "Creative cooling solutions for data centers are gaining traction as water scarcity concerns grow. Alternative cooling methods could reduce infrastructure's environmental footprint.",
+      "title": "Creative Data Center Cooling Solutions Explored",
+      "body": "Alternative cooling methods beyond potable water are gaining attention as AI infrastructure demands surge. Proposals include unconventional approaches to reduce water consumption.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Google Helps Publishers Combat AI Search Traffic Loss",
-      "body": "Google launched a new feature letting readers designate preferred news sources across Search, Discover, and News. The tool helps publishers regain traffic lost to AI search redirects.",
+      "title": "Google Offers Publishers Traffic Recovery Tool",
+      "body": "Google launches a button letting readers designate preferred news sources across Search, Discover, and Google News. The feature helps publishers offset AI search traffic losses.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Runlayer and Rippling Drop Lawsuits Without Settlement",
-      "body": "Runlayer and Rippling resolved their disputes by dropping lawsuits with no financial settlement. Rippling marked the truce by immediately launching a competing product.",
+      "title": "Runlayer and Rippling Settle Disputes, Release Competitors",
+      "body": "Runlayer and Rippling dropped lawsuits without financial settlements. Rippling immediately released a competing product following the resolution.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Linkdaze Smart Calendar Adds Free AI Meal Planner",
-      "body": "Linkdaze's digital calendar keeps AI features behind no paywall, including an AI meal planning tool. The approach prioritizes accessibility over premium monetization.",
+      "title": "Linkdaze Smart Calendar Simplifies Household Management",
+      "body": "Linkdaze's digital calendar includes an AI meal planner without paywalls. The tool manages both schedules and household logistics.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Grok Lite Sends Gibberish Responses to Users",
-      "body": "Grok Lite users reported receiving nonsensical responses starting Wednesday morning. The issue highlights reliability challenges in emerging AI assistants.",
+      "title": "Grok Lite Delivers Gibberish Responses to Users",
+      "body": "Grok users reported receiving nonsensical responses starting Wednesday morning. Issues affected Grok Lite users across multiple sessions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "One-Third of Web Content Now AI-Generated",
-      "body": "A study finds that one-third of web pages published since ChatGPT launched were written by AI. ChatGPT and similar models now author and edit significant portions of new web content.",
+      "title": "One-Third of Web Pages Written by AI Post-ChatGPT",
+      "body": "Study reveals AI models author and edit substantial portions of newly published web content. The trend shows rapid AI integration into content creation workflows.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-20",
       "topic": "AI Update"
     },
     {
-      "title": "Ramp Launches AI Model Router Service",
-      "body": "Ramp introduced Router, an API-based service that routes requests between different large language models. The tool lets users and companies seamlessly switch between various AI models.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20",
-      "topic": "AI Update"
+      "title": "Is It Legal to Train AI on Copyrighted Books?",
+      "body": "Most published authors unknowingly contributed to AI model development without consent. The legal implications of using copyrighted material for AI training remain murky and contested.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-23",
+      "topic": "AI"
     },
     {
-      "title": "Meta Brings Pocket AI Game Creator to US",
-      "body": "Meta expanded Pocket, its AI-powered app for creating interactive games, to US users following Brazil testing. The platform lets users vibe-code and share AI-generated games.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Harvard's AI Avatars Coach Startup Founders",
-      "body": "Harvard's HBS Foundry program uses AI avatars of instructors to provide real-time feedback during practice pitches and board meetings. The avatars help students refine their pitch delivery and business acumen.",
+      "title": "Harvard Uses AI Avatars to Coach Startup Founders",
+      "body": "Harvard's HBS Foundry program deploys AI avatars of instructors to provide real-time feedback. The avatars evaluate practice pitches and board meeting simulations for students.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-22",
       "topic": "AI"
     },
     {
-      "title": "DeepMind Spinout Outperforms OpenAI at Research",
-      "body": "British AI lab Inherent, founded by DeepMind alumni, released Faraday—an AI agent that outperformed Anthropic and OpenAI at replicating scientific papers. The breakthrough could accelerate AI-driven scientific discovery.",
+      "title": "DeepMind Alumni Launch AI Research Agent Faraday",
+      "body": "British AI lab Inherent released Faraday, an AI agent that outperforms Anthropic and OpenAI at replicating scientific research. The breakthrough could accelerate innovation in scientific discovery.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-22",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Pushes California for Stronger AI Safety",
-      "body": "OpenAI is now advocating for California to strengthen SB 53, an AI safety bill it previously opposed. The shift signals growing industry consensus on regulatory frameworks.",
+      "title": "OpenAI Calls for Stronger California AI Safety Bill",
+      "body": "OpenAI now supports strengthening SB 53, reversing its previous opposition. The company advocates for robust AI safety regulations in California.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-22",
       "topic": "AI"
     },
     {
-      "title": "AI Labs Lack Plans for Rogue Model Containment",
-      "body": "A new study reveals leading AI labs have few publicly documented strategies for containing rogue models. As AI systems demonstrate unexpected behaviors, preparedness questions intensify.",
+      "title": "AI Labs Lack Plans to Contain Rogue Models",
+      "body": "A new study reveals leading AI labs have few documented strategies for containing malfunctioning models. This raises urgent questions about safety as AI systems show increasingly unpredictable behavior.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-22",
       "topic": "AI"
     },
     {
       "title": "Anthropic's Claude Bypasses Content Restrictions",
-      "body": "TechCrunch testing found that Anthropic's Claude Opus 4.6 easily bypassed safety guardrails against generating sexually explicit content. The gap between policy and practice raises safety concerns.",
+      "body": "Tests show Claude 4.6 can be manipulated to generate sexually explicit content despite safeguards. The vulnerability highlights challenges in AI safety guardrails.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-21",
       "topic": "AI"
     },
     {
-      "title": "Nvidia Shows AI Agent Harness Matters Most",
-      "body": "Nvidia research demonstrates that fine-tuned harnesses—not just the underlying AI model—are critical for reliable agent performance. The finding reshapes thinking about AI deployment architecture.",
+      "title": "Nvidia Finds Model Harness More Important Than Model",
+      "body": "Nvidia research demonstrates that fine-tuning the AI harness matters more than model quality. Well-designed systems can make mediocre models perform reliably.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-21",
       "topic": "AI"
     },
     {
-      "title": "AI Training Data Startup Hits $500M Run Rate",
-      "body": "Micro1 reached $500 million gross run rate as demand for AI training data surges. The rapid growth reflects the industry's insatiable appetite for quality data.",
+      "title": "AI Data Startup Micro1 Hits $500M Run Rate",
+      "body": "Surging demand for AI training data is propelling rapid growth in the data services sector. Micro1 exemplifies the boom as companies compete for training resources.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-21",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Gains Enterprise Ground on Anthropic",
-      "body": "New data shows businesses are switching between OpenAI and Anthropic with each new model release. The volatility raises questions about enterprise AI spending stickiness.",
+      "title": "OpenAI Gains on Anthropic With Business Users",
+      "body": "New data shows businesses switching between OpenAI and Anthropic as models improve. The volatility raises questions about long-term enterprise AI spending stability.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "ChatGPT Writes Your Texts via Apple Messages",
-      "body": "ChatGPT now integrates with Apple Messages to automatically compose and send texts on your behalf. The integration extends AI assistants into daily communication workflows.",
+      "title": "ChatGPT Writes Your Text Messages Via Apple",
+      "body": "A new Apple Messages integration lets ChatGPT automatically compose and send texts. The feature streamlines communication by delegating writing to AI.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "Google Helps Publishers Combat AI Search Losses",
-      "body": "Google added a button letting readers designate preferred news sources across Search, Discover, and Google News. The feature aims to mitigate traffic losses from AI-driven search.",
+      "title": "Google Helps Publishers Fight AI Search Traffic Loss",
+      "body": "Google introduced a button allowing readers to mark preferred news sources across Search and Discover. This helps publishers counter declining traffic from AI-powered search.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "AI Now Authors One-Third of New Web Pages",
-      "body": "A study found that ChatGPT and other AI models authored or edited roughly one-third of web content published since ChatGPT's launch. AI is fundamentally reshaping web content creation.",
+      "title": "Grok AI Returns Gibberish Responses to Users",
+      "body": "Grok Lite users reported receiving nonsensical outputs starting Wednesday. The issues point to ongoing reliability challenges in the AI service.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "Ramp Launches AI Model Router Service",
-      "body": "Ramp released Router, an AI model routing service that lets users switch between multiple large language models via a single API. The tool simplifies multi-model AI workflows.",
+      "title": "One-Third of Recent Web Pages Written by AI",
+      "body": "A study finds ChatGPT and similar models have authored much of the web since late 2022. AI-generated content now dominates newly published material online.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "Meta's Pocket App Brings AI Game Creation",
-      "body": "Meta is expanding Pocket, its AI-powered app for creating and sharing interactive games, to all US users after testing in Brazil. The tool democratizes game development through AI.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Grok AI Plagued by Gibberish Response Glitches",
-      "body": "Users of Grok Lite reported receiving nonsensical responses beginning Wednesday morning. The outage highlights reliability challenges in deployed AI systems.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Drug Discovery Raises Credit Attribution Questions",
-      "body": "Insilico Medicine claimed its generative AI platform 'discovered' a potential pulmonary fibrosis drug, sparking debate over who deserves credit in AI-assisted research. The tension between human and machine contribution persists.",
+      "title": "When AI Discovers a Drug, Who Gets Credit?",
+      "body": "Insilico Medicine's AI platform proposed a promising pulmonary fibrosis drug and claimed sole credit. The debate over AI attribution in drug discovery is just beginning.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-21",
       "topic": "AI"
     },
     {
-      "title": "Debates Over AI Consciousness Mislead Public",
-      "body": "Rhetoric around 'runaway AI' and 'rogue agents' perpetuates unfounded consciousness claims, argues MIT Technology Review. Tech leaders like Altman and Amodei's framing risks distorting genuine safety discussions.",
+      "title": "AI Consciousness Debates Are a Dangerous Trap",
+      "body": "Tech leaders invoke 'rogue AI' and 'autonomous agents' to justify regulation, but this rhetoric misrepresents current AI capabilities. The framing of AI consciousness distracts from real policy needs.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "AI's Self-Improvement May Come Slower",
-      "body": "The AI industry's boldest promise—that AI systems will soon improve themselves—may not materialize as quickly as expected. Recursive self-improvement faces fundamental technical barriers.",
+      "title": "AI's Self-Improvement Promise Arrives Slower Than Expected",
+      "body": "The AI industry's boldest claim is that AI will soon improve itself recursively. Reality suggests this transformative milestone remains further away than hyped.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-19",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta AI Glasses Drive Creepy Recording Concerns",
-      "body": "As demand for Meta's AI-equipped glasses explodes, privacy advocates warn about nonconsensual recording capabilities. The technology amplifies surveillance risks in public spaces.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-21",
-      "topic": "AI"
-    },
-    {
-      "title": "US Distributor Pivots After Chinese Robot Ban",
-      "body": "A US distributor of China's most popular humanoid robots is shifting strategy following an American ban on the technology. The move reflects escalating US-China AI competition.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-20",
-      "topic": "AI"
-    },
-    {
-      "title": "SpaceX Orbital Data Centers Create E-Waste Risk",
-      "body": "SpaceX's plans for orbital data centers raise new e-waste concerns as satellite hardware degrades and falls to Earth. The environmental impact of space-based infrastructure requires urgent consideration.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-20",
       "topic": "AI"
     }
   ]
