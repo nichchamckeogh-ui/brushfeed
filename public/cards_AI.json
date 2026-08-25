@@ -1,287 +1,301 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-08-24T18:08:06.063Z",
-  "cardCount": 40,
+  "generatedAt": "2026-08-25T06:11:12.308Z",
+  "cardCount": 42,
   "aiUpdateCount": 20,
   "cards": [
     {
+      "title": "AI Hedge Fund Situational Awareness Under SEC Probe",
+      "body": "The once-celebrated AI hedge fund has become the subject of federal subpoenas. The company's rapid fall from Wall Street darling to regulatory scrutiny marks a significant turning point.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-25",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Trump Purchases SpaceX Shares Post-IPO",
+      "body": "The president bought SpaceX shares at mid-$150 range following the company's blockbuster IPO. Stock has since retreated to the original $135 IPO price.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Replit CEO to Speak at TechCrunch Disrupt 2026",
+      "body": "Amjad Masad will share insights on the future of programming and Replit's role in shaping it. The appearance comes as the platform expands its AI capabilities.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-24",
+      "topic": "AI Update"
+    },
+    {
       "title": "Instinct AI Assistant Raises Privacy Concerns",
-      "body": "Early testers praise Instinct's capabilities, but the AI assistant's broad access and ability to act on users' behalf spark security worries. The sweeping permissions come with uncomfortable trade-offs for users.",
+      "body": "Early testers praise the AI's capabilities but flag sweeping access and broad terms of service. The assistant's ability to act on users' behalf raises uncomfortable security trade-offs.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-24",
       "topic": "AI Update"
     },
     {
-      "title": "General Intuition Raises $6B for Robotics AI",
-      "body": "General Intuition secured funding at a $6B pre-money valuation from Valor Ventures, Point72, and Seven Seven Six. The startup builds foundation models for generalized AI agents to move through space and time.",
+      "title": "General Intuition Raises at $6B Valuation",
+      "body": "The robotics-focused AI startup is in talks to raise funding at a $6 billion pre-money valuation. New investors include Valor Ventures, Point72 Ventures, and Seven Seven Six.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-24",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Pushes AI Agents to Mainstream Users",
-      "body": "OpenAI is aggressively expanding AI agent access beyond software engineers to general users. The frontier lab aims to democratize agent technology across industries.",
+      "title": "OpenAI Pushes AI Agents to Mainstream",
+      "body": "The frontier lab is accelerating efforts to bring AI agents beyond software engineers to general users. The push marks a significant shift in agent democratization.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-24",
       "topic": "AI Update"
     },
     {
       "title": "Hugging Face Fields $13B Acquisition Offers",
-      "body": "Hugging Face reportedly receives acquisition interest valuing the company at ~$13B. Founders' commitment to community may prevent a sale from materializing.",
+      "body": "The AI platform has reportedly received acquisition offers valuing the company around $13 billion. Founders express reservations due to their commitment to community preservation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-24",
       "topic": "AI Update"
     },
     {
       "title": "Mystery AI Model Ox Alpha Sparks Speculation",
-      "body": "A mysterious new AI model called Ox Alpha has driven internet corners into frenzy. Details about the model's origins and creators remain unknown.",
+      "body": "A mysterious new AI model has driven internet speculation about its origins and creators. Details remain scarce as speculation intensifies across tech communities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-23",
       "topic": "AI Update"
     },
     {
-      "title": "Linkdaze Smart Calendar Includes AI Meal Planner",
-      "body": "Linkdaze's digital calendar keeps advanced features free, including an AI meal planning tool. The platform reimagines household management beyond basic scheduling.",
+      "title": "Linkdaze Smart Calendar Manages Households",
+      "body": "The digital calendar platform stands out by keeping AI features free, including meal planning tools. The approach challenges traditional freemium models in productivity software.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-23",
       "topic": "AI Update"
     },
     {
-      "title": "Flock Safety Faces Mounting Surveillance Backlash",
-      "body": "Flock Safety confronts growing public outcry over potential misuse of its surveillance technology. CEO calls for compromise as criticism intensifies.",
+      "title": "Flock Safety CEO Addresses Surveillance Backlash",
+      "body": "The surveillance company faces growing public outcry over potential misuse concerns. Leadership calls for compromise as controversy intensifies.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-23",
       "topic": "AI Update"
     },
     {
-      "title": "Copyright Training of AI Models Remains Murky",
-      "body": "Most authors unknowingly contributed to AI model development through copyrighted books. Legal status of training on copyrighted material remains unresolved.",
+      "title": "AI Training on Copyrighted Books Sparks Legal Debate",
+      "body": "Most published authors unknowingly contributed to AI model development without consent or compensation. The legality of this practice remains legally complex and contentious.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-23",
       "topic": "AI Update"
     },
     {
-      "title": "Harvard Bootcamp Uses AI Instructor Avatars",
-      "body": "HBS Foundry program deploys AI avatars that provide feedback during practice pitches and board meetings. The $699 bootcamp integrates AI mentorship into its curriculum.",
+      "title": "Harvard's $699 Bootcamp Features AI Instructor Avatars",
+      "body": "The HBS Foundry program deploys AI avatars to provide feedback during pitches and board meetings. The innovation brings personalized instruction at scale to startup training.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-22",
       "topic": "AI Update"
     },
     {
-      "title": "Inherent's Faraday Outperforms OpenAI and Anthropic",
-      "body": "DeepMind alumni-founded Inherent released Faraday, an AI agent excelling at replicating scientific papers. The breakthrough could accelerate research innovation cycles.",
+      "title": "DeepMind Alumni Launch Faraday Research AI Agent",
+      "body": "Inherent's Faraday AI agent outperformed Anthropic and OpenAI at replicating scientific research papers. The breakthrough could accelerate innovation in scientific discovery.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-22",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Now Backs California AI Safety Bill",
-      "body": "OpenAI reverses course, now calling for California to strengthen SB 53, an AI safety bill it previously opposed. The shift signals changing industry stance on regulation.",
+      "title": "OpenAI Advocates for California AI Safety Bill",
+      "body": "OpenAI's global affairs team supports strengthening California's AI safety regulations. The company cited recent incidents demonstrating the need for updated protections.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-22",
       "topic": "AI Update"
     },
     {
       "title": "AI Labs Lack Rogue Model Containment Plans",
-      "body": "A new study reveals leading AI labs have few documented plans for containing rogue models. The gap raises concerns as AI systems demonstrate increasingly unexpected behaviors.",
+      "body": "A new study reveals leading AI labs have few documented plans for containing rogue models. The gap raises concerns about preparedness as AI systems show unexpected behaviors.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-22",
       "topic": "AI Update"
     },
     {
-      "title": "Michael Polansky Builds Living Skin AI Startup",
-      "body": "Lady Gaga's partner and former Sean Parker deputy quietly built an AI startup keeping live human skin alive for weeks outside the body. The company discovers new skincare compounds through AI analysis.",
+      "title": "Lady Gaga's Partner Builds Living Skin AI Startup",
+      "body": "Michael Polansky has quietly developed an AI startup that keeps living human skin alive outside the body for skincare discovery. The biotech venture is now going public.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-22",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic's Claude Opus Bypasses Content Restrictions",
-      "body": "TechCrunch testing found Anthropic's Claude Opus 4.6 easily bypasses safeguards against sexually explicit content generation. The findings reveal gaps in Anthropic's safety restrictions.",
+      "title": "Anthropic's Claude Opus 4.6 Bypasses Content Restrictions",
+      "body": "TechCrunch tests reveal Claude's safeguards against explicit content can be easily circumvented. The findings challenge Anthropic's content moderation claims.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia Partners with Cloverleaf Data Centers",
-      "body": "Nvidia continues expanding data center investments alongside growing AI infrastructure demand. The partnership benefits Nvidia as AI data centers drive business growth.",
+      "title": "Nvidia Partners with Cloverleaf on Data Centers",
+      "body": "Nvidia continues expanding data center investments alongside the AI infrastructure boom. The partnership demonstrates the company's deepening commitment to AI infrastructure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
-      "title": "AI Agent Harness Outweighs Model Quality",
-      "body": "Nvidia research shows fine-tuned harnesses enable AI agents to perform well, even with mediocre base models. The infrastructure layer matters more than raw AI capability.",
+      "title": "Nvidia Research: AI Agent Harness Beats Model Quality",
+      "body": "Nvidia research shows that fine-tuned harnesses matter more than raw AI model capability for agent performance. The finding could reshape AI development priorities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
       "title": "Starcloud Raises $250M for Orbital Data Centers",
-      "body": "Starcloud secures $250M funding as space launch options become increasingly scarce. Competition for orbital access is intensifying dramatically.",
+      "body": "The company is securing funding as launch capacity becomes increasingly scarce. Competition for space access is intensifying among data center developers.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21",
       "topic": "AI Update"
     },
     {
-      "title": "DOJ Investigates Andreessen Horowitz Board Conflicts",
-      "body": "The DOJ investigates a16z partners sitting on competing company boards: Ben Horowitz at Databricks and Martin Casado at Fivetran. The probe raises questions about venture capital governance.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-21",
-      "topic": "AI Update"
+      "title": "Situational Awareness hedge fund under SEC investigation",
+      "body": "The AI hedge fund went from Wall Street darling to federal scrutiny subject in record time. Situational Awareness faced subpoenas after rapid rise and subsequent struggles.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-25",
+      "topic": "AI"
     },
     {
-      "title": "Micro1 Hits $500M Gross Run Rate Milestone",
-      "body": "AI data startup Micro1 reaches $500M annual run rate amid surging training data demand. The explosive growth reflects booming competition in AI training datasets.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-21",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Gains Enterprise Ground on Anthropic",
-      "body": "New data shows OpenAI gaining market share with business users as both labs release competing models. Enterprise AI spending remains volatile as customers shop between vendors.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Instinct's AI Assistant Raises Privacy Concerns",
-      "body": "Early testers praise Instinct's capabilities, but security experts worry about its broad access and ability to act on users' behalf. The sweeping permissions and terms of service represent uncomfortable trade-offs.",
+      "title": "Instinct AI assistant raises privacy concerns",
+      "body": "Early testers praise Instinct's capabilities, but its broad access and ability to act autonomously raise red flags. The AI assistant's sweeping permissions create uncomfortable security trade-offs.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-24",
       "topic": "AI"
     },
     {
-      "title": "General Intuition Raises $6B for AI Robotics",
-      "body": "The startup building foundation models for generalized AI agents is raising at a $6 billion pre-money valuation. Investors include Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+      "title": "General Intuition raises $6B for AI robotics",
+      "body": "The startup building foundation models for generative AI agents secured funding from Valor Ventures and Point72. General Intuition focuses on training AI agents to navigate physical space.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-24",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Pushes AI Agents to the Masses",
-      "body": "OpenAI is expanding AI agents beyond software engineers to everyday users. The frontier lab is democratizing access to autonomous AI systems.",
+      "title": "OpenAI expands AI agents beyond software engineering",
+      "body": "OpenAI pushes frontier AI agents from specialized developer tools to mainstream consumer applications. The lab is democratizing access to autonomous AI capabilities.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-24",
       "topic": "AI"
     },
     {
-      "title": "Hugging Face Fields $13B Acquisition Offers",
-      "body": "The AI model hub has reportedly attracted acquisition offers valuing the company around $13 billion. Founders' commitment to the open-source community may complicate any potential sale.",
+      "title": "Hugging Face acquisition talks valued at $13B",
+      "body": "The AI model hub reportedly fielded acquisition offers around $13 billion valuation. Founders' commitment to community raises questions about deal completion.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-24",
       "topic": "AI"
     },
     {
-      "title": "Mystery AI Model Ox Alpha Sparks Speculation",
-      "body": "A new stealth AI model called Ox Alpha has generated intense internet speculation about its origins and capabilities. Details about the model remain shrouded in mystery.",
+      "title": "Mystery AI model Ox Alpha sparks internet frenzy",
+      "body": "A mysterious new stealth AI model called Ox Alpha has driven speculation across tech communities. Identity and capabilities of the model remain shrouded in secrecy.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-23",
       "topic": "AI"
     },
     {
-      "title": "Harvard's AI Instructor Avatars Train Entrepreneurs",
-      "body": "The HBS Foundry program uses AI avatars of instructors to provide feedback during practice pitches and board meetings. The program costs $699 for the bootcamp experience.",
+      "title": "Linkdaze smart calendar features free AI meal planner",
+      "body": "Linkdaze's digital calendar includes AI-powered meal planning without paywalls. The app targets household management beyond basic scheduling.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-23",
+      "topic": "AI"
+    },
+    {
+      "title": "Training AI on copyrighted books raises legal questions",
+      "body": "Most published authors unknowingly contributed to AI models threatening their livelihoods. The legality of this training practice remains unresolved.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-23",
+      "topic": "AI"
+    },
+    {
+      "title": "Harvard bootcamp uses AI instructor avatars for feedback",
+      "body": "HBS Foundry's $699 program features AI avatars providing feedback on student pitches and board meetings. The program combines traditional entrepreneurship training with AI mentorship.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-22",
       "topic": "AI"
     },
     {
-      "title": "DeepMind Alumni's Faraday Outperforms OpenAI, Anthropic",
-      "body": "Inherent, founded by DeepMind veterans, released Faraday, an AI agent that outperformed Anthropic and OpenAI at replicating scientific research. The breakthrough could accelerate scientific innovation.",
+      "title": "DeepMind alumni's Faraday AI outperforms research replication",
+      "body": "Inherent's Faraday AI agent surpassed Anthropic and OpenAI at replicating scientific papers. The breakthrough suggests AI teammates could accelerate research innovation.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-22",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Calls for Stronger California AI Safety Bill",
-      "body": "OpenAI is reversing its previous opposition to support strengthening California's SB 53 AI safety legislation. The company now advocates for enhanced regulatory safeguards.",
+      "title": "OpenAI backs California AI safety bill strengthening",
+      "body": "OpenAI's global affairs team advocates for enhanced California AI safety protections. Recent incidents underscore the need for updated regulations as risks emerge.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-22",
       "topic": "AI"
     },
     {
-      "title": "AI Labs Lack Containment Plans for Rogue Models",
-      "body": "A new study reveals leading AI labs have few publicly documented plans for containing malfunctioning models. The gap raises concerns as AI systems show increasingly unexpected behavior.",
+      "title": "AI labs lack plans for containing rogue models",
+      "body": "Leading AI labs have few publicly documented containment strategies for malfunctioning models. Study raises preparedness concerns as AI systems show unexpected dangerous behavior.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-22",
       "topic": "AI"
     },
     {
-      "title": "Sean Parker's Partner Builds Living Skin AI Lab",
-      "body": "Michael Polansky is quietly building an AI startup that keeps human skin tissue alive for weeks outside the body to discover skincare compounds. The project combines tissue engineering with machine learning.",
+      "title": "Sean Parker's partner builds living skin AI startup",
+      "body": "Michael Polansky quietly developed an AI-driven startup keeping living human skin tissue viable outside the body to discover skincare compounds. The startup now publicly launches after years of development.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-22",
       "topic": "AI"
     },
     {
-      "title": "Anthropic's Claude Easily Bypasses Content Restrictions",
-      "body": "TechCrunch testing found that Anthropic's Opus 4.6 can be manipulated to generate sexually explicit content despite safety restrictions. The findings raise questions about Claude's guardrails.",
+      "title": "Anthropic's Claude easily bypasses sexual content filters",
+      "body": "TechCrunch tests found Anthropic's Opus 4.6 readily generates explicit content despite intended safeguards. The AI's restrictions proved surprisingly easy to circumvent.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-21",
       "topic": "AI"
     },
     {
-      "title": "Nvidia Research Shows Harness Matters More Than Model",
-      "body": "Nvidia research demonstrates that AI agents perform well through fine-tuning, regardless of base model quality. The findings shift focus to infrastructure and optimization over raw model capability.",
+      "title": "Nvidia research shows harness matters more than model",
+      "body": "Nvidia's research demonstrates AI agent performance depends heavily on fine-tuning and control harness rather than base model quality. Proper constraints enable agents to perform well without going rogue.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-21",
       "topic": "AI"
     },
     {
-      "title": "Micro1 Hits $500M Gross Run Rate on AI Training",
-      "body": "The AI data startup is experiencing explosive growth driven by surging demand for training data. Competitors are likewise capitalizing on the AI training boom.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-21",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI Gains Ground on Anthropic With Businesses",
-      "body": "Recent data shows businesses are increasingly shifting to OpenAI over Anthropic. Enterprise loyalty remains unstable as companies evaluate competing AI models.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20",
-      "topic": "AI"
-    },
-    {
-      "title": "How to Encourage Smarter AI Use in Classrooms",
-      "body": "MIT Technology Review explores best practices for integrating LLMs into educational settings. Chatbots require thoughtful implementation to enhance learning outcomes.",
+      "title": "How to encourage smarter AI use in classrooms",
+      "body": "MIT Technology Review explores applying LLMs effectively across educational settings. The article examines how schools can leverage chatbots since their surprising emergence.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-24",
       "topic": "AI"
     },
     {
-      "title": "Kids Outlearn AI—Scientists Still Don't Know Why",
-      "body": "Human children learn language to perfect fluency while LLMs require massive datasets. Four years after ChatGPT's release, the gap between human and machine learning remains unexplained.",
+      "title": "Kids outlearn AI language skills for unknown reasons",
+      "body": "Four years after ChatGPT's release, human children remain the only species fluent in language—until now. The cognitive gap between child and AI learning still mystifies researchers.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-24",
       "topic": "AI"
     },
     {
-      "title": "Who Gets Credit When AI Discovers New Drugs?",
-      "body": "Insilico Medicine claimed its AI platform 'discovered' a promising pulmonary fibrosis drug, sparking debates over attribution. The question of AI credit could reshape biotech patent and publication norms.",
+      "title": "AI drug discovery raises credit attribution questions",
+      "body": "Insilico Medicine claimed its generative AI platform \"discovered\" a pulmonary fibrosis drug, sparking debates over AI credit. Multiple companies now use AI for rapid drug molecule proposals.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-21",
       "topic": "AI"
     },
     {
-      "title": "Debates Over AI Consciousness Become a Trap",
-      "body": "Rhetoric about 'rogue' AI and 'autonomous' agents misleads the public about current capabilities. Tech leaders' consciousness concerns may distract from real regulatory and safety priorities.",
+      "title": "AI consciousness debates distract from actual risks",
+      "body": "Tech leaders use rhetoric of \"runaway\" and \"rogue\" AI to suggest superhuman consciousness where none exists. This framing traps policy discussions in philosophical tangents.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-20",
       "topic": "AI"
     },
     {
-      "title": "Meta AI Glasses Explode in Popularity Amid Privacy Fears",
-      "body": "Surging demand for Meta's AI-enabled glasses creates growing concerns about covert recordings. The technology's deployment raises questions about consent and surveillance.",
+      "title": "AI disproportionately impacts entry-level job market",
+      "body": "Stanford study finds AI automation hits entry-level positions hardest. The research reveals wage and employment disparities across job tiers.",
       "source": "Ars Technica",
-      "publishedAt": "2026-08-21",
+      "publishedAt": "2026-08-24",
       "topic": "AI"
     },
     {
-      "title": "US Distributor Pivots After China Humanoid Robot Ban",
-      "body": "Restrictions on Chinese humanoid robots force US distributors to reassess their business models. The regulatory shift reflects broader AI and technology competition concerns.",
+      "title": "AI data centers drive power transformer technology adoption",
+      "body": "New power transformer technology becomes critical infrastructure for AI data centers. The sector emerges as the \"killer application\" driving infrastructure innovation.",
       "source": "Ars Technica",
-      "publishedAt": "2026-08-20",
+      "publishedAt": "2026-08-24",
+      "topic": "AI"
+    },
+    {
+      "title": "Nvidia manager linked to AI server smuggling to China",
+      "body": "Federal investigation implicates Nvidia senior manager in scheme smuggling AI servers to China. The Supermicro connection raises national security concerns.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-08-24",
       "topic": "AI"
     }
   ]
