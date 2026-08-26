@@ -1,306 +1,292 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-08-25T18:57:35.787Z",
-  "cardCount": 43,
+  "generatedAt": "2026-08-26T06:54:13.463Z",
+  "cardCount": 41,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Claude Gains Shared Memory Across Chat",
-      "body": "Anthropic is giving Claude a shared memory feature across chat and Cowork, eliminating repetitive briefings on projects and preferences. Users no longer need to re-explain context in every conversation.",
+      "title": "Ringg Raises $10M Series A Extension",
+      "body": "India's voice AI startup Ringg secured $10 million in Series A extension funding from Peak XV Partners. The company is expanding voice AI capabilities beyond traditional phone calls.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-26",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Generalist Reaches $3B Valuation",
+      "body": "Physical AI robotics startup Generalist hit a $3 billion valuation after raising $200 million. The milestone comes months after the company reached its previous $2 billion valuation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-26",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Infrastructure Executive Departs",
+      "body": "OpenAI's top data center executive is leaving amid ongoing high-profile departures. The company recently reorganized its infrastructure organization to support scaling operations.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-26",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Stability AI Raises $76M Funding",
+      "body": "Stability AI, creator of Stable Diffusion, secured $76 million in fresh funding. The company's total fundraising now reaches $232 million.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-25",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Claude Gains Shared Memory Feature",
+      "body": "Anthropic launched shared memory across Claude chat and Cowork applications. Users no longer need to repeatedly brief the AI on projects and preferences.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-25",
       "topic": "AI Update"
     },
     {
       "title": "Gamma Acquires Design Startup Lica",
-      "body": "Gamma has acquired Accel-backed design startup Lica, with co-founders joining Gamma's new research team. The move strengthens Gamma's design and AI capabilities.",
+      "body": "Gamma acquired Accel-backed design startup Lica. The Lica co-founders will join Gamma's new research team.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-25",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Debuts Jalapeño Inference Chip",
-      "body": "OpenAI's Jalapeño chip outperforms state-of-the-art alternatives in SemiAnalysis benchmarks for both tokens per user and throughput per kilowatt. The chip is designed for fast, scalable AI inference.",
+      "title": "OpenAI's Jalapeño Chip Benchmarks",
+      "body": "OpenAI's Jalapeño chip outperforms current state-of-the-art on inference benchmarks. The custom chip demonstrates superior tokens per user and throughput per kilowatt efficiency.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-25",
       "topic": "AI Update"
     },
     {
-      "title": "Keenable Exits Stealth with $26M Seed",
-      "body": "Accel-backed Keenable is launching with $26 million in seed funding to build a web search index specifically for AI agents. The startup is indexing the internet for autonomous AI systems.",
+      "title": "Keenable Exits Stealth With $26M",
+      "body": "Accel-backed Keenable launched from stealth with $26 million seed funding. The startup is building a web search index specifically designed for AI agents.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-25",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI's Head of Product on AI Agents",
-      "body": "TechCrunch interviews Thibault Sottiaux, OpenAI's head of product, about the company's agent strategy, UX priorities, and future direction. He reports directly to Greg Brockman.",
+      "title": "OpenAI Head of Product Interview",
+      "body": "TechCrunch interviewed OpenAI's head of product Thibault Sottiaux on AI agents and UX. Sottiaux discussed the company's product strategy under executive Greg Brockman.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-25",
       "topic": "AI Update"
     },
     {
-      "title": "AI Hedge Fund Situational Awareness Under SEC Probe",
-      "body": "Situational Awareness, once a Wall Street sensation, is now facing federal subpoenas from the SEC. The AI hedge fund's rapid decline from prominence marks a dramatic turnaround.",
+      "title": "Situational Awareness Hedge Fund Probed",
+      "body": "AI hedge fund Situational Awareness is under SEC investigation. The firm rapidly shifted from Wall Street prominence to facing federal subpoenas.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-25",
       "topic": "AI Update"
     },
     {
-      "title": "Trump Purchases SpaceX Shares Post-IPO",
-      "body": "President Trump bought SpaceX shares at mid-$150 range two weeks after the IPO, which priced at $135. The stock has since returned to its original IPO price.",
+      "title": "Trump Invests in SpaceX Post-IPO",
+      "body": "President Trump purchased SpaceX shares two weeks after the blockbuster IPO. He bought shares at $150 range while stock finished trading at $135 IPO price.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-24",
       "topic": "AI Update"
     },
     {
-      "title": "Replit CEO Joins TechCrunch Disrupt 2026",
-      "body": "Amjad Masad, CEO and co-founder of Replit, will speak at TechCrunch Disrupt 2026 about the future of programming. He'll discuss Replit's role in shaping AI-assisted development.",
+      "title": "Replit CEO Joins TechCrunch Disrupt",
+      "body": "Replit CEO and co-founder Amjad Masad will speak at TechCrunch Disrupt 2026. He will share perspectives on the future of programming.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-24",
       "topic": "AI Update"
+    },
+    {
+      "title": "Instinct AI Assistant Raises Concerns",
+      "body": "AI assistant Instinct generates enthusiasm among early testers but raises privacy concerns. The tool's broad access and ability to act on users' behalf create security trade-offs.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "General Intuition Reaches $6B Valuation",
+      "body": "General Intuition raised funding at $6 billion pre-money valuation from Valor Ventures and Point72. The startup is developing foundation models for AI agents in robotics.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Pushes AI Agents Mainstream",
+      "body": "OpenAI is developing AI agents for diverse applications beyond software engineering. The frontier lab is expanding agent technology to reach general users.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Hugging Face In $13B Acquisition Talks",
+      "body": "Hugging Face is reportedly fielding acquisition offers around $13 billion valuation. Founders' commitment to community platforms may complicate a potential sale.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Mysterious Ox Alpha Model Emerges",
+      "body": "A stealth AI model called Ox Alpha has sparked internet speculation about its creators. The mysterious model has driven discussion in certain AI communities.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Linkdaze Smart Calendar Launches",
+      "body": "Linkdaze introduced a smart digital calendar with free AI features including meal planning. The calendar focuses on household management beyond basic scheduling.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Flock Safety Faces Surveillance Backlash",
+      "body": "Flock Safety's surveillance technology is drawing growing public criticism. CEO calls for 'compromise' amid concerns about potential misuse of the platform.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Copyright Training of AI Models Disputed",
+      "body": "Authors' copyrighted books have been used to train AI models without consent. The legal status of this practice remains complicated and contested.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "India's Ringg Raises $10M for Voice AI Beyond Calls",
+      "body": "Ringg secured Series A extension funding from Peak XV to expand voice AI capabilities beyond traditional phone interactions. The startup is pushing the boundaries of conversational AI applications.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-26",
+      "topic": "AI"
+    },
+    {
+      "title": "Generalist Robotics Startup Hits $3B Valuation",
+      "body": "The physical AI startup reached $3 billion valuation with a $200 million funding extension. Generalist is advancing AI-powered robotic systems and autonomous capabilities.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-26",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI Loses Top Data Center Executive",
+      "body": "OpenAI's infrastructure head departed amid ongoing high-profile departures from the company. OpenAI recently reorganized its infrastructure organization to support scaling operations.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-26",
+      "topic": "AI"
+    },
+    {
+      "title": "Stability AI Raises $76M for Stable Diffusion",
+      "body": "Stability AI secured $76 million in fresh funding, bringing total fundraising to $232 million. The company continues developing its generative image AI model.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-25",
+      "topic": "AI"
+    },
+    {
+      "title": "Claude Now Remembers Chat History Across Sessions",
+      "body": "Anthropic integrated shared memory into Claude, allowing the AI to retain context across conversations. Users no longer need to repeatedly brief the AI on projects and preferences.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-25",
+      "topic": "AI"
+    },
+    {
+      "title": "Gamma Acquires Design Startup Lica",
+      "body": "Gamma acquired Accel-backed design startup Lica to strengthen its AI capabilities. Lica's co-founders will join Gamma's new research team.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-25",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI's Jalapeño Chip Optimized for AI Inference",
+      "body": "OpenAI's custom Jalapeño chip outperforms state-of-the-art solutions in token throughput and efficiency benchmarks. The chip is designed for fast inference at scale.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-25",
+      "topic": "AI"
+    },
+    {
+      "title": "Keenable Launches Web Index for AI Agents",
+      "body": "Keenable exited stealth with $26 million seed funding to build a specialized search index for AI agents. The startup is indexing the web to support autonomous AI systems.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-25",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI's Head of Product Discusses AI Agents",
+      "body": "Thibault Sottiaux, OpenAI's head of product, discussed the company's strategy on AI agents and UX design. OpenAI is preparing to scale agent capabilities to broader audiences.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-25",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Hedge Fund Situational Awareness Probed by SEC",
+      "body": "The high-profile AI hedge fund faces federal investigation after rapid decline from Wall Street prominence. The company faced subpoenas as its investment strategy came under scrutiny.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-25",
+      "topic": "AI"
     },
     {
       "title": "Instinct AI Assistant Raises Privacy Concerns",
-      "body": "Early testers praise Instinct's capabilities but flag serious privacy and security trade-offs from its sweeping access and broad permissions. The AI assistant's ability to act autonomously raises uncomfortable questions.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "General Intuition Targets $6B Valuation",
-      "body": "General Intuition, building a foundation model for generalized AI agents in robotics, is in talks for $6B pre-money funding from Valor Ventures and Point72 Ventures. The startup focuses on training AI systems for spatial and temporal reasoning.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Pushes AI Agents to Mainstream",
-      "body": "OpenAI is expanding AI agents from software engineers to general users across multiple domains. The frontier lab is democratizing agent technology for everyday tasks.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Hugging Face Reportedly Valued at $13B",
-      "body": "Hugging Face has reportedly fielded acquisition offers valuing the company around $13B. Founders' commitment to the community may affect sale prospects.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Mystery AI Model Ox Alpha Sparks Speculation",
-      "body": "A mysterious stealth AI model called Ox Alpha has ignited internet speculation about its creators and capabilities. The unnamed model's origins remain shrouded in mystery.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Linkdaze Smart Calendar Includes AI Meal Planner",
-      "body": "Linkdaze's digital calendar offers AI-powered meal planning and household management without paywalls. The smart calendar stands out for bundling features typically behind subscription walls.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Flock Safety CEO Addresses Surveillance Backlash",
-      "body": "Flock Safety's CEO calls for 'compromise' as the surveillance company faces growing public outcry. Concerns center on potential misuse of its surveillance technology.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Copyright Training of AI Models Legally Unclear",
-      "body": "Most published authors have unknowingly contributed their work to AI model training without consent or compensation. The legality of this practice remains complicated and contested.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Harvard Bootcamp Features AI Instructor Avatars",
-      "body": "Harvard's $699 HBS Foundry bootcamp deploys AI avatars of instructors to provide feedback on practice pitches and board meetings. The program blends human instruction with AI coaching.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-22",
-      "topic": "AI Update"
-    },
-    {
-      "title": "DeepMind Alumni's Faraday Outperforms Top Labs",
-      "body": "Inherent's Faraday AI agent, built by DeepMind alumni, outperformed Anthropic and OpenAI models in replicating scientific research. The agent demonstrates potential for accelerating scientific innovation.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-22",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Supports Stronger California AI Safety Bill",
-      "body": "OpenAI's global affairs team advocates for strengthening California's AI safety legislation to address emerging risks. The company referenced recent incidents as evidence for updated protections.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-22",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Labs Lack Rogue Model Containment Plans",
-      "body": "A new study finds leading AI labs have minimal publicly documented plans for containing rogue models despite increasing unexpected AI behavior. The gap raises serious preparedness concerns as systems grow more capable.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-22",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Claude Remembers Context Across Chats",
-      "body": "Anthropic is giving Claude shared memory so users don't have to repeatedly brief the AI on projects and preferences. This persistent context carries across both chat and Cowork applications.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-25",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI's Jalapeño Chip Beats Benchmarks",
-      "body": "OpenAI's custom inference chip outperformed state-of-the-art competitors on SemiAnalysis' InferenceX benchmark. It delivered more tokens per user and higher throughput per kilowatt than existing solutions.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-25",
-      "topic": "AI"
-    },
-    {
-      "title": "Keenable Exits Stealth with $26M Seed",
-      "body": "Keenable is indexing the web specifically for AI agents with a $26 million seed round. The startup addresses a critical need for AI systems to access current web information.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-25",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI Head of Product on AI Agents",
-      "body": "OpenAI's Thibault Sottiaux discusses the company's push into agents, UX design, and strategic direction. The interview covers how OpenAI plans to bring AI agents to mainstream users.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-25",
-      "topic": "AI"
-    },
-    {
-      "title": "Instinct's AI Assistant Raises Privacy Concerns",
-      "body": "Early testers praise Instinct's AI capabilities but worry about its broad access permissions and ability to act autonomously. The trade-offs between functionality and security are raising questions.",
+      "body": "Instinct's powerful AI assistant draws praise but sparks security concerns over broad system access. Users worry about the sweeping permissions granted to autonomous AI agents.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-24",
       "topic": "AI"
     },
     {
-      "title": "General Intuition Raises at $6B Valuation",
-      "body": "The startup building foundation models for generalized AI agents is in talks to raise at a $6 billion pre-money valuation. Investors include Valor Ventures, Point72, and Seven Seven Six.",
+      "title": "General Intuition Raises $6B for Robotics AI",
+      "body": "General Intuition secured funding at $6 billion valuation from Valor Ventures and Point72. The startup is developing foundation models for generalized AI agents in robotics.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-24",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Pushes AI Agents Beyond Engineers",
-      "body": "OpenAI is expanding AI agents from software engineers to mainstream users through frontier lab development. The push aims to democratize agent technology across industries.",
+      "title": "OpenAI Pushes AI Agents to Mass Market",
+      "body": "OpenAI is expanding autonomous AI agents beyond software engineers to general users. The frontier lab is making AI agents more accessible and practical for everyday tasks.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-24",
       "topic": "AI"
     },
     {
       "title": "Hugging Face in $13B Acquisition Talks",
-      "body": "The AI community platform has been fielding acquisition offers valuing it around $13 billion. Founder concerns about community responsibility may impact whether a sale proceeds.",
+      "body": "Hugging Face is reportedly fielding acquisition offers valued around $13 billion. Founders' community commitment raises questions about whether the deal will close.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-24",
       "topic": "AI"
     },
     {
       "title": "Mystery AI Model Ox Alpha Sparks Speculation",
-      "body": "A mysterious new stealth AI model called Ox Alpha has generated intense speculation across tech communities. Details about its creators and capabilities remain shrouded in secrecy.",
+      "body": "A mysterious new AI model called Ox Alpha has generated significant internet intrigue and speculation. Details about the model's creators and capabilities remain unknown.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-23",
       "topic": "AI"
     },
     {
-      "title": "Legal Questions Surround AI Training on Books",
-      "body": "Authors' copyrighted works have been used to train AI models without knowledge or consent, raising legal concerns. The article examines whether this practice violates copyright protections.",
+      "title": "Copyright Law Complexities in AI Model Training",
+      "body": "Authors' works have been used to train AI models without consent or knowledge, raising legal questions. Copyright implications of large-scale AI training remain legally ambiguous.",
       "source": "TechCrunch",
       "publishedAt": "2026-08-23",
       "topic": "AI"
     },
     {
-      "title": "Harvard Bootcamp Uses AI Instructor Avatars",
-      "body": "HBS Foundry's $699 startup bootcamp employs AI avatars of instructors to provide feedback on pitches. The avatars participate in mock board meetings and practice scenarios.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-22",
-      "topic": "AI"
-    },
-    {
-      "title": "DeepMind Alumni Launch Research-Replicating AI",
-      "body": "Inherent's Faraday AI agent outperformed Anthropic and OpenAI at replicating scientific papers, according to the lab. The capability could accelerate scientific innovation and discovery.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-22",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI Backs California AI Safety Legislation",
-      "body": "OpenAI's global affairs team supports strengthening California's AI safety bill. The company referenced recent incidents that underscore the need for updated protections.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-22",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Labs Lack Rogue Model Containment Plans",
-      "body": "A new study finds leading AI labs have few documented plans for containing rogue models. The gap raises preparedness concerns as AI systems show unexpected behaviors.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-22",
-      "topic": "AI"
-    },
-    {
-      "title": "Sotheby's Uses AI Algorithms for Art Pricing",
-      "body": "Sotheby's employs AI algorithms to predict fine art prices using buying trends and artist popularity. The application represents growing adoption of AI in the art market.",
+      "title": "MIT Study: AI Chatbots Distort News Perception",
+      "body": "MIT Media Lab research shows AI-based news assistants reduced critical headline evaluation by 21%. The study raises concerns about AI's role in information consumption.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-25",
       "topic": "AI"
     },
     {
-      "title": "Humanoid Robots Transform Chinese Daily Life",
-      "body": "China's robot carnival showcases embodied AI, embedding artificial intelligence into physical systems. The deployment reflects China's strategy to integrate AI into everyday life.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-25",
-      "topic": "AI"
-    },
-    {
-      "title": "Schools Seek Smarter Classroom AI Use",
-      "body": "Educational institutions are developing strategies to encourage responsible AI chatbot use among students. The challenge lies in harnessing AI benefits while maintaining learning integrity.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-24",
-      "topic": "AI"
-    },
-    {
-      "title": "Children Outlearn AI Language Models",
-      "body": "Human children remain superior to AI language models at learning language fluency despite LLMs requiring massive datasets. The cognitive difference highlights fundamental gaps in how AI and humans learn.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-24",
-      "topic": "AI"
-    },
-    {
-      "title": "Insilico Medicine Uses AI to Design Drugs",
-      "body": "The biotech company used generative AI to propose a promising drug for pulmonary fibrosis. The success raises questions about credit attribution when AI contributes to discovery.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-21",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Transforms Radiologist Jobs, Not Replacement",
-      "body": "AI won't replace radiologists but will dramatically change how they work and prioritize cases. The technology augments rather than eliminates the human expertise required.",
+      "title": "Apple Designs Macs Specifically for Local AI",
+      "body": "Apple's new desktop computers are optimized for running AI models locally without cloud dependency. The machines target developers building on-device AI applications.",
       "source": "Ars Technica",
       "publishedAt": "2026-08-25",
       "topic": "AI"
     },
     {
-      "title": "Apple Designs Macs for Local AI Development",
-      "body": "Apple's new desktop computers are specifically engineered for on-device AI model development. The focus on local processing reflects growing interest in privacy-preserving AI.",
+      "title": "AI Won't Replace Radiologists, Just Change Jobs",
+      "body": "AI tools are transforming radiology roles rather than eliminating them entirely. Radiologists will focus on complex cases while AI handles routine image analysis.",
       "source": "Ars Technica",
       "publishedAt": "2026-08-25",
       "topic": "AI"
     },
     {
-      "title": "AI Hits Entry-Level Jobs Hardest",
-      "body": "A Stanford study finds AI automation disproportionately impacts entry-level employment across industries. The research highlights challenges for workers starting their careers.",
+      "title": "Stanford Study: AI Hits Entry-Level Jobs Hardest",
+      "body": "New research finds AI adoption disproportionately affects entry-level job positions. The technology is automating tasks traditionally performed by junior-level workers.",
       "source": "Ars Technica",
       "publishedAt": "2026-08-24",
       "topic": "AI"
     },
     {
-      "title": "Nvidia Executive Tied to AI Smuggling Scheme",
-      "body": "A senior Nvidia manager has connections to an ex-Supermicro employee involved in AI chip smuggling. The case raises concerns about supply chain security for critical AI hardware.",
+      "title": "Nvidia Manager Tied to AI Smuggling Scheme",
+      "body": "A senior Nvidia manager is connected to an AI equipment smuggling operation. The incident involves former Supermicro staff coordinating unauthorized exports.",
       "source": "Ars Technica",
       "publishedAt": "2026-08-24",
       "topic": "AI"
