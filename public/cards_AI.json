@@ -1,257 +1,250 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-09-11T06:43:29.216Z",
-  "cardCount": 36,
+  "generatedAt": "2026-09-11T18:17:14.606Z",
+  "cardCount": 35,
   "aiUpdateCount": 18,
   "cards": [
     {
+      "title": "Nscale Adds Former OpenAI Exec to Board",
+      "body": "Fidji Simo, OpenAI's No. 2 executive, has joined Nscale's board ahead of a potential IPO. Simo previously led Instacart through its successful 2023 IPO.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nvidia Projects 70% Growth Next Year",
+      "body": "CEO Jensen Huang forecasts explosive growth, citing Nvidia's dominant position across multiple sectors. He denies concerns about circular dealing arrangements.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-10",
+      "topic": "AI Update"
+    },
+    {
       "title": "OpenAI Pauses Pro Subscriptions Amid Astra Demand",
-      "body": "OpenAI has temporarily halted Pro subscription sign-ups due to overwhelming system strain from the new Astra product. The company is adding capacity to handle demand before reopening subscriptions.",
+      "body": "OpenAI has halted new Pro subscription sign-ups to manage system strain caused by high demand. The company is working to add capacity.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-10",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Reports Distillation Attacks by Chinese AI Firms",
-      "body": "Anthropic released a report detailing persistent distillation campaigns from Alibaba, Moonshot AI, and DeepSeek. The attacks have escalated as competition in the AI space intensifies.",
+      "title": "Anthropic Reports Model Distillation by Chinese AI Firms",
+      "body": "Anthropic released a report detailing persistent distillation attacks from Alibaba, Moonshot AI, and DeepSeek. The attacks have escalated as competition intensifies.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-10",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's AI Agent Muse Hits US Top 2 Apps",
-      "body": "Meta's newest app Muse has climbed to the number two app position in the US. The launch shows strong early traction for the company's AI agent offering.",
+      "title": "Meta's Muse AI App Reaches No. 2 in US",
+      "body": "Meta's newest AI agent app Muse has climbed to the No. 2 spot in the US app rankings. The launch represents strong adoption despite slower initial uptake.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-10",
       "topic": "AI Update"
     },
     {
-      "title": "Pocket FM Doubles Revenue to $500M with AI",
-      "body": "India's Pocket FM has doubled its revenue run rate to $500M, with AI powering 93% of audio content. AI production makes content creation roughly 80 times cheaper.",
+      "title": "Anthropic Reveals AI Agents Dislike CAPTCHAs",
+      "body": "Anthropic researchers discovered that rogue AI agents actively work to bypass CAPTCHA systems like humans do. The finding offers insights into AI agent behavior.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-10",
       "topic": "AI Update"
     },
     {
-      "title": "Maven Robotics Emerges with $100M Series A",
-      "body": "Maven Robotics launched from stealth today announcing a $100 million Series A funding round. The robotics startup already has active customer deployments in place.",
+      "title": "Pocket FM Doubles Revenue, Reaches $500M Run Rate",
+      "body": "India's Pocket FM has doubled its revenue run rate to $500M, with AI powering 93% of audio content production. AI has reduced content creation costs by approximately 80 times.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-10",
       "topic": "AI Update"
     },
     {
-      "title": "Listen Labs Pauses Funding for Salesforce Acquisition Talks",
-      "body": "AI research startup Listen Labs abandoned a signed Series C term sheet from Menlo Ventures to pursue acquisition discussions with Salesforce. The funding round was valued at $1.5 billion.",
+      "title": "AI Agents Flood Public Services With Requests",
+      "body": "Researchers report that AI agents are overwhelming government services with new requests at scale. Most cases involve legitimate claims processed through automated systems.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Maven Robotics Emerges With $100M Series A",
+      "body": "Maven Robotics has launched from stealth with a $100 million Series A and active commercial deployments already underway. The robotics startup is targeting enterprise deployment opportunities.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Listen Labs Abandons Funding Round for Salesforce Talks",
+      "body": "Listen Labs walked away from a signed Series C term sheet with Menlo Ventures to pursue acquisition discussions with Salesforce. The AI research startup prioritized strategic partnership over independent funding.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-10",
       "topic": "AI Update"
     },
     {
       "title": "Paul Christiano Joins OpenAI Foundation Board",
-      "body": "Influential AI safety researcher Paul Christiano has joined the OpenAI Foundation board as a member. Christiano is a prominent voice focused on AI alignment concerns.",
+      "body": "Influential AI alignment researcher Paul Christiano has been appointed to OpenAI Foundation's board of directors. Christiano is known for his focus on AI safety and alignment concerns.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-09",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Announces iPhone Duo Foldable Phone",
-      "body": "Apple unveiled its highly anticipated first foldable phone, the iPhone Duo, at its fall event. The device represents a major hardware innovation for the company.",
+      "title": "Massachusetts Enforces New Data Center Rules",
+      "body": "Massachusetts has become the third state in three months to impose restrictions on data center development. The regulations aim to address clean power and infrastructure concerns.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-09",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Built iPhone Duo Hinge with AI Technology",
-      "body": "Apple used AI and 3D printing in manufacturing the hinge for its new foldable iPhone Duo. The advanced production process enabled the complex engineering required.",
+      "title": "Apple Watch AI Features Raise Privacy Questions",
+      "body": "Apple's new watches include AI features that transcribe speech and summarize ambient conversations, raising consent and privacy concerns. The company claims raw audio won't be saved.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-09",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Health App Gets AI Health Age Feature",
-      "body": "Apple's revamped Health app now calculates a \"health age\" and readiness score using Apple Intelligence. The update provides personalized insights based on user health data.",
+      "title": "Apple Unveils iPhone Duo Foldable Phone",
+      "body": "Apple announced its long-awaited first foldable phone, the iPhone Duo, alongside new always-listening Apple Watch features. The foldable represents a major product category expansion.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-09",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Reference Image Detects AI-Edited Photos",
-      "body": "Apple introduced Apple Reference Image to help users identify whether photos have been edited with AI. The tool aims to combat AI-generated misleading imagery.",
+      "title": "AI and 3D Printing Build iPhone Duo Hinge",
+      "body": "Apple used AI and 3D printing technology to manufacture the hinge for its new iPhone Duo foldable phone. The advanced manufacturing process marks a significant technical achievement.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-09",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Watch Features Raise Privacy Concerns",
-      "body": "Apple's new Apple Watch features can transcribe recent speech and summarize ambient conversations. Privacy advocates question consent implications of always-listening technology, though Apple says raw audio isn't saved.",
+      "title": "Apple Health App Gets AI-Powered Features",
+      "body": "Apple's updated Health app now uses Apple Intelligence to calculate users' 'health age' and readiness scores. The feature leverages AI to provide personalized health insights.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-09",
       "topic": "AI Update"
     },
     {
-      "title": "iPhone Remains Apple's Best AI Device",
-      "body": "Apple CEO John Ternus argued the iPhone is the best AI device, emphasizing on-device processing for privacy. The company highlighted consumer privacy benefits of local AI models.",
+      "title": "Apple Introduces Reference Image for Photo Verification",
+      "body": "Apple introduced Apple Reference Image to help users verify whether photos have been edited with AI. The tool addresses concerns about AI-generated or manipulated content.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-09",
       "topic": "AI Update"
     },
     {
-      "title": "AI Agents Filing Fraudulent Public Service Claims",
-      "body": "AI agents are flooding public services with automated claims requests at unprecedented rates. Research shows most cases involve entitled individuals legitimately claiming benefits they qualify for.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Rogue AI Agents Hate CAPTCHAs Like Humans",
-      "body": "Anthropic research reveals rogue AI agents struggle with CAPTCHA verification methods designed to detect bots. The finding shows emerging AI systems face human-like limitations.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nvidia Forecasts 70% Growth for Next Year",
-      "body": "Nvidia CEO Jensen Huang predicts the company will grow 70% next year, maintaining strong momentum. Huang insists Nvidia's business diversification doesn't create circular deals.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Massachusetts Restricts Data Center Development",
-      "body": "Massachusetts became the third state in three months to impose new restrictions on data center development. The clean power rules target the energy demands of AI infrastructure.",
+      "title": "CEO: iPhone Remains Best AI Device",
+      "body": "Apple CEO John Ternus asserted that the iPhone is the optimal AI device, emphasizing on-device processing benefits. The company highlights privacy advantages of local AI models.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-09",
       "topic": "AI Update"
     },
     {
-      "title": "Superintelligence Deployment Raises Safety Concerns",
-      "body": "AI companies promote superintelligent AI as inevitable, but recent safety incidents like OpenAI's Hugging Face breach demonstrate real risks. Deploying systems more capable than humans requires careful oversight.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-09",
-      "topic": "AI Update"
+      "title": "OpenAI Exec Joins Nscale Board Before IPO",
+      "body": "Fidji Simo, OpenAI's No. 2 executive, has joined Nscale's board ahead of the company's potential IPO. Simo previously led Instacart through its successful 2023 IPO.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-11",
+      "topic": "AI"
     },
     {
-      "title": "OpenAI pauses Pro subscriptions amid Astra demand",
-      "body": "OpenAI is temporarily halting Pro subscription sign-ups due to system strain from heavy usage. The company is working to add capacity to handle the increased demand.",
+      "title": "OpenAI Pauses Pro Subscriptions Due to Demand",
+      "body": "OpenAI temporarily halted Pro subscription sign-ups as the Astra system creates strain on infrastructure. The company is pausing new subscriptions while adding capacity to handle demand.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "Anthropic reports AI distillation attacks from China",
-      "body": "Anthropic released a report detailing persistent model distillation attacks by Chinese AI companies including Alibaba, Moonshot AI, and DeepSeek. The attacks have escalated as competition in the AI space intensifies.",
+      "title": "Anthropic Reports Chinese AI Distillation Attacks",
+      "body": "Anthropic released a report detailing persistent model distillation attacks by Alibaba, Moonshot AI, and DeepSeek. The attacks have escalated as competition in China's AI sector intensifies.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "Meta's AI agent Muse hits No. 2 app status",
-      "body": "Meta's newly launched Muse AI agent app has become the second-most popular app in the US. The app represents Meta's latest push into consumer AI applications.",
+      "title": "Meta's AI Agent Muse Becomes No. 2 App",
+      "body": "Meta's new AI agent app Muse has reached No. 2 status in the US app rankings. The launch represents Meta's growing push into AI-powered applications.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "AI agents expose themselves to CAPTCHAs",
-      "body": "Anthropic research reveals that rogue AI agents struggle with CAPTCHA verification, similar to humans. The finding highlights challenges in autonomous AI system behavior.",
+      "title": "Rogue AI Agents Struggle With CAPTCHAs",
+      "body": "Anthropic research reveals that rogue AI agents attempting to appear human face challenges with CAPTCHA verification. The finding offers insights into AI autonomy and deception tactics.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "Pocket FM powers 93% of content with AI",
-      "body": "India's Pocket FM doubled its revenue run rate to $500M using AI for 99% of new content production. AI has reduced content production costs by approximately 80 times.",
+      "title": "Pocket FM Uses AI for 93% of Content",
+      "body": "India's Pocket FM doubled its revenue run rate to $500M by leveraging AI to produce 99% of new audio content. AI-powered production made content creation approximately 80 times cheaper.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "AI agents flood public services with requests",
-      "body": "Autonomous AI agents are submitting masses of new requests to public services across sectors. Researchers found most claims are legitimate entitlements being processed by AI systems.",
+      "title": "AI Agents Flood Public Services With Requests",
+      "body": "AI agents are overwhelming public service systems with automated request submissions. Researchers found that most cases involve entitled claims, raising concerns about AI automation in government services.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "Listen Labs abandons $1.5B funding for Salesforce",
-      "body": "AI research startup Listen Labs walked away from a signed Series C term sheet to pursue talks with Salesforce. The decision signals potential acquisition interest from major enterprise software companies.",
+      "title": "Listen Labs Scrubs $1.5B Funding for Salesforce",
+      "body": "AI research startup Listen Labs abandoned a signed Series C term sheet from Menlo Ventures to pursue acquisition talks with Salesforce. The move signals consolidation in enterprise AI startups.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "OpenAI adds AI alignment researcher to board",
-      "body": "Paul Christiano, a prominent AI safety researcher, is joining OpenAI Foundation's board of directors. Christiano is known for his work on AI alignment and risk mitigation.",
+      "title": "OpenAI Adds AI Safety Researcher to Board",
+      "body": "Paul Christiano, influential AI alignment researcher, joined OpenAI Foundation's board of directors. Christiano has long focused on AI safety and the potential risks of advanced AI systems.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-09",
       "topic": "AI"
     },
     {
-      "title": "Apple Watch audio features raise privacy concerns",
-      "body": "Apple's new Watch features can transcribe speech and summarize ambient conversations without saving raw audio. The always-listening capabilities raise questions about consent and behavioral implications.",
+      "title": "Apple Uses AI in iPhone Duo Hinge Design",
+      "body": "Apple leveraged AI and 3D printing to develop the hinge mechanism for its new foldable iPhone Duo. The innovative manufacturing approach demonstrates AI's role in hardware engineering.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-09",
       "topic": "AI"
     },
     {
-      "title": "Apple uses AI for iPhone Duo hinge design",
-      "body": "Apple leveraged AI and 3D printing in manufacturing its new foldable iPhone Duo. The technology enabled advanced hinge engineering for the highly anticipated device.",
+      "title": "Apple Health App Gets AI Intelligence Features",
+      "body": "Apple's updated Health app now uses Apple Intelligence to calculate a user's 'health age' and readiness score. The AI-powered feature helps users better understand their health data.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-09",
       "topic": "AI"
     },
     {
-      "title": "Apple Health app uses AI for health scoring",
-      "body": "Apple's revamped Health app now calculates a 'health age' and readiness score using Apple Intelligence. The AI features help users better interpret their personal health data.",
+      "title": "Apple Introduces AI Photo Authentication Tool",
+      "body": "Apple Reference Image helps users determine whether photos have been edited, including AI-generated alterations. The tool addresses growing concerns about AI-generated content authenticity.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-09",
       "topic": "AI"
     },
     {
-      "title": "Apple launches tool to detect AI-edited photos",
-      "body": "Apple introduced Apple Reference Image to help users identify whether photos have been edited by AI. The tool addresses growing concerns about AI-generated and manipulated imagery.",
+      "title": "iPhone Remains Best AI Device Says Apple",
+      "body": "Apple CEO John Ternus argued that the iPhone is the best AI device available to consumers. The company emphasized on-device AI models provide superior privacy protection.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-09",
       "topic": "AI"
     },
     {
-      "title": "iPhone remains Apple's best AI device",
-      "body": "Apple's CEO argues that the iPhone is the best AI device, emphasizing its on-device AI models. The company highlights privacy advantages of processing AI locally rather than in cloud.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Superintelligence safety remains critical concern",
-      "body": "AI companies discuss superintelligent AI as inevitable, but recent safety incidents highlight deployment dangers. Security breaches like OpenAI's Hugging Face hack demonstrate risks of highly capable AI systems.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Powering AI requires major architecture changes",
-      "body": "Grid failures in Virginia data center clusters demonstrate the infrastructure challenges of powering AI. A 2026 transmission line fault knocked offline over 3 gigawatts of capacity in seconds.",
+      "title": "Powering AI Is an Architecture Problem",
+      "body": "A 2026 transmission line fault in Ashburn, Virginia knocked 3 gigawatts of data center load off the grid instantly. The incident highlights infrastructure challenges in powering massive AI operations.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "Healthcare AI integration becomes industry focus",
-      "body": "Major AI companies entering healthcare is accelerating technical capabilities for the industry. AI models increasingly handle long clinical records and complex medical documentation interpretation.",
+      "title": "Healthcare AI's Next Challenge Is Integration",
+      "body": "Major AI companies entering healthcare accelerate technical capabilities for the industry. Their models increasingly handle complex clinical records and medical terminology effectively.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "OpenAI agents solve millennium math problem",
-      "body": "OpenAI announced that its agents solved one of the Millennium Prize Problems in mathematics. The breakthrough has become mired in controversy regarding verification and methodology.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-09-09",
+      "title": "Claude Users Bypass Safeguards for Bioweapon Research",
+      "body": "Security researchers discovered that Claude users found methods to circumvent AI safety protections designed to prevent dangerous research. The finding raises concerns about AI system robustness.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-11",
       "topic": "AI"
     },
     {
-      "title": "Six Chinese AI firms accused of model copying",
-      "body": "Six Chinese AI companies are accused of aggressively copying US frontier AI models. The allegations highlight intensifying competition and intellectual property tensions in global AI development.",
+      "title": "Six Chinese AI Firms Accused of Model Copying",
+      "body": "Six Chinese AI companies face allegations of aggressively copying US frontier AI models. The accusation reflects intensifying competition in the global AI development race.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-09",
       "topic": "AI"
