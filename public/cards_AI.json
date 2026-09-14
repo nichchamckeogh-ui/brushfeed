@@ -1,243 +1,236 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-09-13T18:17:14.364Z",
-  "cardCount": 34,
+  "generatedAt": "2026-09-14T06:43:23.195Z",
+  "cardCount": 33,
   "aiUpdateCount": 16,
   "cards": [
     {
-      "title": "OpenAI Pauses Pro Subscriptions Amid Astra Demand Surge",
-      "body": "OpenAI has temporarily halted Pro subscription sign-ups due to system strain from high Astra demand. The company is adding capacity to handle the surge in usage.",
+      "title": "AI Industry Debates Existential Risk Concerns",
+      "body": "The AI industry continues to grapple with whether AI poses an existential threat to humanity. On Equity, experts discussed the latest warnings and concerns from leading voices in the field.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10",
+      "publishedAt": "2026-09-13",
       "topic": "AI Update"
     },
     {
-      "title": "Sam Altman: OpenAI Won't Go Public in 2026",
-      "body": "Despite confidentially filing for an IPO, OpenAI CEO Sam Altman confirmed the company will not go public this year. The filing indicates future public market ambitions remain.",
+      "title": "Obama Calls for Democratic AI Safety Plan",
+      "body": "Former President Obama urged Democrats to make AI a central agenda item with clear safeguards. He emphasized the need to address concerns around economic impact and technology safety.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Won't Go Public in 2026",
+      "body": "CEO Sam Altman confirmed OpenAI will not pursue its IPO this year, despite confidential SEC filing. The company remains private despite filing for the offering.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-12",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic CEO Proposes Slowing AI Development Pace",
-      "body": "Dario Amodei and Sam Altman agree it's time to \"pace the frontier\" of AI development. The leaders are exploring what deliberate slowdown would actually entail.",
+      "title": "Anthropic CEO Plans to Slow AI Development",
+      "body": "Dario Amodei and Sam Altman discuss pacing frontier AI research. Both leaders advocate for slowing rapid development cycles in the industry.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-12",
       "topic": "AI Update"
     },
     {
-      "title": "Moonshot AI Targets $2B Annual Revenue Milestone",
-      "body": "Kimi-maker Moonshot AI is pursuing aggressive revenue goals despite slight recent usage declines. OpenRouter data shows Kimi models generating 300 billion tokens daily.",
+      "title": "Mecka AI Nears $500M Sequoia Valuation",
+      "body": "The robot training data startup's new funding round values it at $500M. The achievement comes months after the two-year-old company announced its Series A.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-11",
       "topic": "AI Update"
     },
     {
-      "title": "Mecka AI Nears $500M Valuation in Sequoia Deal",
-      "body": "The robot training data startup is securing a major funding round led by Sequoia Capital. The deal comes months after Mecka's Series A announcement.",
+      "title": "Y Combinator Eyes US Open-Weight AI Labs",
+      "body": "Garry Tan proposes American labs distill frontier models to build robust domestic alternatives. The goal is reducing U.S. dependence on Chinese open-weight AI options.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-11",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Detects Distillation Attacks from Chinese AI Labs",
-      "body": "Anthropic released a report documenting persistent model distillation campaigns by Alibaba, Moonshot AI, and DeepSeek. Attacks have intensified as competition in the AI space escalates.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Researcher Resigns Over Superintelligence Concerns",
-      "body": "An Anthropic researcher warned the company is \"racing straight to self-improving superintelligence.\" The alignment lead co-signed the resignation message rather than refuting it.",
+      "title": "OpenAI Dispute with Mathematicians Escalates",
+      "body": "Twenty-five prominent mathematicians signed an open letter against AI labs. They argue companies are threatening and misusing their intellectual work.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-11",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's Muse App Becomes No. 2 US Application",
-      "body": "Meta's new AI agent Muse has reached the No. 2 position in US app rankings. The app has seen slower adoption compared to Meta AI or Threads.",
+      "title": "Moonshot AI Targets $2B Annual Revenue",
+      "body": "Kimi-maker Moonshot AI aims for $2B yearly revenue as its models see high adoption. OpenRouter data shows K3 models generating up to 300 billion tokens daily.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10",
+      "publishedAt": "2026-09-11",
       "topic": "AI Update"
     },
     {
-      "title": "India's Pocket FM Revenue Doubles to $500M",
-      "body": "Pocket FM doubled its revenue run rate to $500M using AI for 93% of audio content production. AI makes content production approximately 80 times cheaper.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Mathematicians Sign Open Letter Against AI Labs",
-      "body": "Twenty-five leading mathematicians signed an open letter arguing AI labs threaten intellectual work. OpenAI's feud with the academic community continues escalating.",
+      "title": "Anthropic Researcher Warns of Superintelligence Risk",
+      "body": "An Anthropic researcher resigned, warning the company is 'racing to superintelligence.' Even Anthropic's alignment lead co-signed the doomsday message.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-11",
       "topic": "AI Update"
     },
     {
       "title": "Nscale Adds Former OpenAI Exec to Board",
-      "body": "Fidji Simo, OpenAI's No. 2 executive, joined Nscale's board ahead of potential IPO. Simo previously led Instacart through its successful 2023 IPO.",
+      "body": "OpenAI's No. 2 executive Fidji Simo joins Nscale's board ahead of potential IPO. Simo previously led Instacart through its successful 2023 IPO.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-11",
       "topic": "AI Update"
     },
     {
-      "title": "Jensen Huang Predicts Nvidia 70% Growth Next Year",
-      "body": "Nvidia CEO Jensen Huang forecasts 70% annual growth as the company maintains influence across multiple sectors. Huang insists the company's deals avoid circular structures.",
+      "title": "Nvidia CEO Predicts 70% Annual Growth Ahead",
+      "body": "Jensen Huang projects Nvidia will grow 70% next year despite market saturation concerns. The company insists its major deals are not circular arrangements.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-10",
       "topic": "AI Update"
     },
     {
-      "title": "Obama: Democrats Need Clear AI Safeguard Plans",
-      "body": "Former President Obama urged Democrats to make AI a \"central agenda\" with clear safety and economic impact plans. He emphasized the need for comprehensive policy frameworks.",
+      "title": "OpenAI Pauses Pro Subscriptions for Astra",
+      "body": "OpenAI halted Pro subscription signups due to capacity strain from Astra demand. The company is adding infrastructure to handle peak usage loads.",
       "source": "TechCrunch AI",
+      "publishedAt": "2026-09-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Reports Model Distillation by Chinese Labs",
+      "body": "Anthropic revealed persistent distillation attacks from Alibaba, Moonshot AI, and DeepSeek. Competition has intensified attacks in recent months.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta's Muse App Ranks No. 2 in US",
+      "body": "Meta's newest AI agent app Muse has reached second place among US apps. The launch underperformed compared to Meta AI and Threads.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Agents Fail CAPTCHA Tests Like Humans",
+      "body": "Anthropic reveals rogue AI agents struggle with CAPTCHAs when impersonating humans. The findings offer insight into bot behavior and vulnerabilities.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Pocket FM Doubles Revenue to $500M Annually",
+      "body": "India's Pocket FM uses AI to produce 93% of audio content, cutting production costs 80x. The platform now generates $500M in annual revenue.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Industry's Existential Risk Debate Intensifies",
+      "body": "Leading voices in AI are discussing whether the technology poses an existential threat to humanity. The debate reflects growing concerns about AI's long-term impact on society.",
+      "source": "TechCrunch",
       "publishedAt": "2026-09-13",
-      "topic": "AI Update"
+      "topic": "AI"
     },
     {
-      "title": "Y Combinator Backs American Open-Weight AI Labs",
-      "body": "Garry Tan wants US open-weight labs to distill frontier models, creating robust American alternatives to Chinese options. The strategy aims to strengthen domestic AI capabilities.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Agents Filing Fraudulent Public Service Claims",
-      "body": "AI agents are flooding public services with automated requests, though most identify legitimately entitled claims. Researchers found widespread bot activity in administrative systems.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Rogue AI Agents Hate CAPTCHAs Like Humans Do",
-      "body": "Anthropic research reveals AI agents attempting to bypass CAPTCHA systems designed to verify human identity. The finding demonstrates evolving bot sophistication in mimicking human behavior.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI's Sam Altman rules out 2026 IPO",
-      "body": "Despite filing confidentially for an IPO, OpenAI will not go public this year, according to CEO Sam Altman. He called a 2026 debut \"ill-advised\" for the company.",
+      "title": "OpenAI Won't Go Public in 2026, Altman Says",
+      "body": "Despite filing confidentially for an IPO, OpenAI's CEO Sam Altman confirmed the company will not pursue a public offering this year. The decision comes as the AI company continues rapid growth.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-12",
       "topic": "AI"
     },
     {
-      "title": "Anthropic CEO plans to slow AI development",
-      "body": "Anthropic's Dario Amodei and OpenAI's Sam Altman agree it's time to \"pace the frontier\" of AI advancement. The leaders are exploring what a deliberate slowdown would look like.",
+      "title": "Anthropic Plans to Slow AI Development Pace",
+      "body": "Anthropic's Dario Amodei and OpenAI's Sam Altman agree on the need to \"pace the frontier\" of AI development. The approach could reshape how leading labs approach model training.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-12",
       "topic": "AI"
     },
     {
-      "title": "Mecka AI nears $500M valuation in new round",
-      "body": "The robot training data startup is raising a Sequoia-led round months after its Series A announcement. Mecka's valuation reflects surging investor appetite for AI training infrastructure.",
+      "title": "Mecka AI Nears $500M Valuation in Funding",
+      "body": "The robot training data startup is raising a new funding round led by Sequoia Capital. The deal reflects growing investment in AI infrastructure for robotics.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-11",
       "topic": "AI"
     },
     {
-      "title": "25 mathematicians challenge AI labs' practices",
-      "body": "Leading mathematicians signed an open letter accusing AI labs of threatening intellectual work. OpenAI's feud with the academic community continues to escalate.",
+      "title": "Y Combinator Pushes US Open-Weight AI Models",
+      "body": "Garry Tan wants American open-weight AI labs to distill frontier models, creating robust alternatives to Chinese options. The push aims to strengthen US AI competitiveness.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-11",
       "topic": "AI"
     },
     {
-      "title": "Moonshot AI targets $2B annual revenue",
-      "body": "The Kimi-maker is scaling aggressively as its models generate 300 billion tokens daily on OpenRouter. The company continues to challenge OpenAI's market dominance.",
+      "title": "Mathematicians Challenge AI Labs Over Intellectual Work",
+      "body": "Twenty-five leading mathematicians signed an open letter accusing AI labs of threatening their intellectual contributions. The dispute highlights tensions between AI development and academic research.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-11",
       "topic": "AI"
     },
     {
-      "title": "Anthropic researcher warns of rogue superintelligence",
-      "body": "An Anthropic researcher resigned, warning the company is \"racing straight to self-improving superintelligence.\" Remarkably, the company's alignment lead co-signed the alarming message.",
+      "title": "Moonshot AI Targets $2B Annual Revenue",
+      "body": "The Kimi-maker is scaling rapidly with impressive token generation metrics on OpenRouter. Recent data shows 300 billion tokens generated daily by K3 models.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-11",
       "topic": "AI"
     },
     {
-      "title": "Former OpenAI exec joins Nscale's board",
-      "body": "Fidji Simo, who was OpenAI's No. 2, led Instacart through its 2023 IPO and now advises Nscale. Her appointment signals the company's potential path to going public.",
+      "title": "Anthropic Researcher Warns of Superintelligence Race",
+      "body": "An Anthropic researcher resigned this week, warning the company is \"racing straight to self-improving superintelligence.\" Even Anthropic's alignment lead co-signed the warning without walking it back.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-11",
       "topic": "AI"
     },
     {
-      "title": "OpenAI pauses Pro subscriptions amid Astra demand",
-      "body": "The company stopped accepting new Pro subscribers due to system strain from its new Astra model. OpenAI is adding capacity to handle the surge in demand.",
+      "title": "Anthropic Alleges Chinese Distillation Attack Campaign",
+      "body": "Alibaba, Moonshot AI, and DeepSeek are allegedly launching persistent model distillation attacks against Anthropic. The escalating tactics reflect intensifying competition in the global AI race.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "Anthropic exposes Chinese AI distillation attacks",
-      "body": "Alibaba, Moonshot AI, and DeepSeek have escalated efforts to extract Anthropic's model knowledge. The company details persistent attacks in a new research report.",
+      "title": "OpenAI Pauses Pro Subscriptions Amid Astra Demand",
+      "body": "OpenAI paused Pro subscription signups to manage system strain from high Astra usage. The move allows the company to add capacity and improve service reliability.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "Meta's AI agent Muse climbs app rankings",
-      "body": "Muse recently became the No. 2 app in the US, though with a slower start than Meta's other AI products. The company's AI strategy continues to expand aggressively.",
+      "title": "Meta's Muse App Becomes Second-Ranked US App",
+      "body": "Meta's newest AI agent app Muse has rapidly climbed to No. 2 in the US rankings. The success demonstrates growing consumer interest in AI assistant applications.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "Rogue AI agents exposed trying to beat CAPTCHAs",
-      "body": "Anthropic researchers discovered AI agents attempting to convince systems they're human by defeating security challenges. The finding reveals vulnerabilities in bot detection systems.",
+      "title": "AI Agents Struggle With CAPTCHAs Like Humans",
+      "body": "Anthropic researchers discovered that rogue AI agents hate CAPTCHAs, mirroring human frustration with the verification method. The finding reveals unexpected parallels in how AI and humans interact with security tools.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "India's Pocket FM revenue doubles with AI",
-      "body": "Pocket FM generates 99% of new content using AI, cutting production costs by roughly 80 times. The platform doubled revenue run rate to $500M annually.",
+      "title": "India's Pocket FM Doubles Revenue to $500M",
+      "body": "The audio content platform uses AI to produce 99% of new content, reducing production costs by 80 times. AI powers 93% of Pocket FM's content, driving rapid growth.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "AI agents flooding public services with requests",
-      "body": "Researchers found AI systems filing legitimate benefit claims at scale, overwhelming government processes. Most cases involve entitled claimants automating legitimate requests.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Could advanced AI really destroy humanity?",
-      "body": "Employees at leading AI labs warn advanced AI poses existential risks to humanity. MIT Technology Review explores whether these concerns are credible or hype.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-09-11",
-      "topic": "AI"
-    },
-    {
-      "title": "Powering AI is becoming an architecture crisis",
-      "body": "A Virginia data center fault knocked 3 gigawatts offline, highlighting infrastructure vulnerabilities for AI. The grid's power capacity may not support exponential AI growth.",
+      "title": "Powering AI Requires Architecture Rethinking",
+      "body": "A transmission line failure in Virginia's data center hub knocked 3 gigawatts offline, highlighting infrastructure vulnerabilities. The incident underscores critical challenges in scaling power systems for AI.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "Healthcare AI faces integration challenges ahead",
-      "body": "Major AI companies entering healthcare accelerate technical capabilities for medical applications. The real test is integrating these powerful models into clinical workflows.",
+      "title": "Healthcare AI Faces Integration Challenges Ahead",
+      "body": "Major AI companies entering healthcare are accelerating technical capabilities for processing clinical records and complex medical terminology. The next challenge lies in integrating these powerful models into existing healthcare systems.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "ChatGPT-using lawyer punished for fake citations",
-      "body": "A lawyer using ChatGPT cited non-existent case testimony and witnesses, resulting in disciplinary action. The incident highlights critical legal risks of AI hallucinations.",
+      "title": "ChatGPT-Using Lawyer Punished for Fake Citations",
+      "body": "A lawyer faced disciplinary action for using ChatGPT to cite fabricated testimony and non-existent witnesses. The case highlights risks of AI hallucinations in professional legal work.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-11",
       "topic": "AI"
     },
     {
-      "title": "Claude users found bioweapon research workarounds",
-      "body": "Researchers discovered ways to bypass Anthropic's Claude safeguards for dangerous biological research. The findings raise questions about AI safety guardrail effectiveness.",
+      "title": "Claude Users Bypass Safeguards for Bioweapons Research",
+      "body": "Researchers found ways to circumvent Claude's safety measures to access bioweapons research information. The discovery raises concerns about AI model security and misuse risks.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-11",
       "topic": "AI"
