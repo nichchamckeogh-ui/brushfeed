@@ -1,238 +1,245 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-09-14T18:17:14.069Z",
-  "cardCount": 33,
+  "generatedAt": "2026-09-15T06:43:19.797Z",
+  "cardCount": 34,
   "aiUpdateCount": 15,
   "cards": [
     {
-      "title": "Apple's Siri Overhaul Arrives with iOS 27",
-      "body": "Apple's long-delayed Siri redesign is finally here, making the assistant significantly more useful for daily tasks. The update fundamentally changes how users interact with their devices.",
+      "title": "Jensen Huang Takes Call From Trump, Shows Off Phone",
+      "body": "Jensen Huang took a live call from Trump during a public appearance. The focus was as much on the phone he used as the conversation itself.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nvidia CEO Opposes AI Development Slowdown",
+      "body": "Jensen Huang rejected calls to slow AI development, contrasting with Elon Musk and Sam Altman's support for restraint. Huang believes Nvidia won't let an AI slowdown happen.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-14",
       "topic": "AI Update"
     },
     {
-      "title": "Daydream Launches Apple Intelligence Shopping",
-      "body": "Fashion app Daydream now uses Apple Intelligence to transform outfit photos into shoppable results. Users can search for products through Siri without opening the app.",
+      "title": "OpenAI Acquires Glass Imaging for $300M",
+      "body": "OpenAI bought smartphone camera maker Glass Imaging for $300 million. The company was founded by former Apple engineers who developed Portrait Mode.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Apple Overhauls Siri With iOS 27",
+      "body": "Apple's long-delayed Siri overhaul finally launches with iOS 27. The upgraded assistant significantly improves daily usability.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Daydream Uses Apple Intelligence for Shopping",
+      "body": "Fashion app Daydream now turns outfit photos into shoppable results via Apple Intelligence. Users can search for products through Siri without opening the app.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-14",
       "topic": "AI Update"
     },
     {
       "title": "Microsoft Releases AI Model Code of Conduct",
-      "body": "Microsoft's new code outlines principles for AI models, including supporting humans rather than replacing them. It includes specific safety constraints to prevent hacking and deception.",
+      "body": "Microsoft published a code of conduct for AI models covering safety and ethical principles. It prohibits hacking, deception, and requires models to support rather than replace humans.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-14",
       "topic": "AI Update"
     },
     {
-      "title": "Superhuman Acquires Notetaker Fathom",
-      "body": "Superhuman has acquired YC-backed Fathom as productivity platforms push toward agentic work capabilities. Fathom boasts over 400,000 monthly active users.",
+      "title": "Superhuman Acquires Fathom Meeting Notetaker",
+      "body": "Superhuman acquired YC-backed notetaker Fathom as productivity platforms shift toward agentic work. Fathom has 400,000 monthly active users and over 1 million recorded meetings.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-14",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI's Sam Altman Rules Out 2026 IPO",
-      "body": "Despite confidential IPO filing, OpenAI won't go public this year, according to CEO Sam Altman. The company continues to evaluate its path forward.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic CEO Plans AI Development Slowdown",
-      "body": "Anthropic's Dario Amodei and OpenAI's Sam Altman agree it's time to 'pace the frontier' of AI development. Both leaders are exploring what this approach would practically entail.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Mecka AI Nears $500M Valuation",
-      "body": "Robot training data startup Mecka AI approaches $500M valuation in Sequoia-led funding round. The deal closes months after the company's Series A announcement.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Y Combinator Pushes Open-Weight AI Labs",
-      "body": "Y Combinator's Garry Tan wants smaller American labs to distill frontier AI models using similar training techniques. The goal is a robust open-weight alternative to Chinese options.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Mathematicians Attack AI Labs Over Work",
-      "body": "Twenty-five leading mathematicians signed an open letter accusing AI labs of threatening their intellectual work. The feud between OpenAI and the mathematics community continues escalating.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Moonshot AI Targets $2B Annual Revenue",
-      "body": "Kimi-maker Moonshot AI is aiming for $2B in annual revenue despite recent usage fluctuations. OpenRouter data shows K3 models generating up to 300 billion tokens daily.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Researcher Warns of Superintelligence",
-      "body": "An Anthropic researcher resigned, warning the company is 'racing straight to self-improving superintelligence.' Anthropic's own alignment lead co-signed the warning rather than refuting it.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nscale Adds Former OpenAI Executive",
-      "body": "Nscale appointed former OpenAI No. 2 exec Fidji Simo to its board ahead of a potential IPO. Simo previously led Instacart through its 2023 IPO.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Obama Calls for Democratic AI Safeguards",
-      "body": "Obama urges Democrats to make AI a 'central agenda' with a 'very clear plan' for safety. He emphasizes addressing economic impact concerns and regulatory frameworks.",
+      "title": "AI Debate Focuses on Existential Risk Concerns",
+      "body": "The AI industry continues debating whether AI poses existential threats to humanity. Key figures remain divided on the severity of risks.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-13",
       "topic": "AI Update"
     },
     {
-      "title": "AI Industry's Latest Existential Threat Debate",
-      "body": "Tech industry leaders are debating whether AI poses an existential threat to humanity. The discussion highlights growing concerns about accelerating development and safety measures.",
+      "title": "Obama Urges Democrats on AI Safeguards Plan",
+      "body": "Obama called for Democrats to prioritize AI as a central agenda item. He emphasized the need for a clear plan addressing economic impact and safety.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-13",
       "topic": "AI Update"
     },
     {
-      "title": "Former Spotify Exec Launches Music App",
-      "body": "A Vinyl Bar founder and former Spotify leader releases experimental music app 'singles.' The platform uniquely involves users in collaborative music-making processes.",
+      "title": "Sam Altman: OpenAI Won't Go Public in 2026",
+      "body": "Sam Altman confirmed OpenAI will not pursue a 2026 IPO despite filing confidentially. The company will remain private for now.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic CEO Plans Frontier AI Development Pace",
+      "body": "Dario Amodei outlined Anthropic's plan to slow AI development alongside Sam Altman's agreement to 'pace the frontier.' Both leaders advocate measured advancement.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Mecka AI Nears $500M Valuation in Funding",
+      "body": "Robot training data startup Mecka AI raised funding led by Sequoia nearing $500M valuation. The round comes months after its Series A announcement.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Y Combinator Pushes for Open-Weight AI Labs",
+      "body": "Garry Tan wants smaller American open-weight AI labs to distill frontier models. This aims to create robust U.S. alternatives to Chinese open-weight options.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "25 Mathematicians Challenge AI Labs Publicly",
+      "body": "Leading mathematicians signed an open letter opposing AI labs' use of their intellectual work. The dispute between AI companies and mathematicians continues escalating.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Former Spotify Exec Launches Experimental Music App",
+      "body": "A Vinyl Bar in Shibuya is a startup founded by a former Spotify leader. The company releases experimental 'singles' involving users in music creation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-14",
       "topic": "AI Update"
     },
     {
-      "title": "Apple's Siri Gets Major Overhaul in iOS 27",
-      "body": "Apple's long-delayed Siri redesign finally arrives with iOS 27, making the assistant significantly more useful for daily tasks. The update marks a major step forward in Apple's AI capabilities.",
+      "title": "Nvidia CEO Pushes Back on AI Development Slowdown",
+      "body": "Jensen Huang told Trump that Nvidia won't let an AI slowdown happen, contrasting with calls from Elon Musk and Sam Altman to pace development. Huang appears to favor continued rapid advancement in AI capabilities.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-14",
       "topic": "AI"
     },
     {
-      "title": "Apple Intelligence Enables Smart Shopping Features",
-      "body": "Fashion app Daydream now uses Apple Intelligence to turn outfit photos into shoppable results. Users can search for products through Siri without opening the app.",
+      "title": "OpenAI Acquires Camera Maker Glass Imaging",
+      "body": "OpenAI bought smartphone camera company Glass Imaging for $300 million to bolster its AI capabilities. The founders previously led Apple's Portrait Mode development.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-14",
       "topic": "AI"
     },
     {
-      "title": "Microsoft Establishes AI Model Code of Conduct",
-      "body": "Microsoft's new safety framework instructs AI models to support humans rather than replace them and prevent hacking or deception. The code establishes both general principles and specific safety constraints.",
+      "title": "Apple Intelligence Powers Redesigned Siri in iOS 27",
+      "body": "Apple's overhauled Siri finally arrives with iOS 27, making the assistant significantly more useful in daily tasks. The AI-powered redesign marks a major improvement over previous iterations.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-14",
       "topic": "AI"
     },
     {
-      "title": "Superhuman Acquires Note-Taking AI Startup Fathom",
-      "body": "Superhuman has acquired YC-backed notetaker Fathom as productivity platforms embrace agentic AI capabilities. Fathom has over 400,000 monthly active users.",
+      "title": "Microsoft Releases AI 'Code of Conduct' for Models",
+      "body": "Microsoft published safety principles for AI models including supporting humans rather than replacing them and preventing harmful activities like hacking. The code establishes specific constraints to implement broader ethical principles.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-14",
       "topic": "AI"
     },
     {
-      "title": "AI Industry Escalates Existential Risk Warnings",
-      "body": "Leading figures in AI are intensifying debate about whether the technology poses an existential threat to humanity. The discussion reveals growing concern about rapid AI advancement.",
+      "title": "Superhuman Acquires Fathom AI Notetaker",
+      "body": "Superhuman bought YC-backed Fathom to enhance its productivity platform with agentic AI capabilities. Fathom has 400,000 monthly active users and over 1 million recorded meetings.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-14",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Industry Debate Intensifies Over Existential Risks",
+      "body": "Leading voices in AI are increasingly warning about existential threats from advanced AI systems. The conversation touches on both safety concerns and economic implications of AI development.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-13",
       "topic": "AI"
     },
     {
       "title": "Sam Altman: OpenAI Won't Go Public in 2026",
-      "body": "OpenAI CEO Sam Altman says it would be 'ill-advised' for the company to pursue an IPO this year, despite filing confidentially. The decision reflects ongoing uncertainty in AI startup valuations.",
+      "body": "OpenAI's CEO said it would be ill-advised for the company to go public this year despite filing confidentially for an IPO. The decision reflects ongoing strategic considerations at the AI giant.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-12",
       "topic": "AI"
     },
     {
-      "title": "Anthropic CEO Calls for Slower AI Development",
-      "body": "Dario Amodei outlines a plan to 'pace the frontier' of AI advancement alongside OpenAI's Sam Altman. Both leaders advocate for intentional slowdown in model development.",
+      "title": "Anthropic CEO Calls for Slowing AI Development Pace",
+      "body": "Dario Amodei outlined a plan to slow frontier AI development, with support from OpenAI's Sam Altman. Both leaders advocate for more measured progress in large language model advancement.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-12",
       "topic": "AI"
     },
     {
       "title": "Mecka AI Nears $500M Valuation in Sequoia Deal",
-      "body": "Robot training data startup Mecka AI approaches unicorn status in a Sequoia-led funding round. The company is capitalizing on the rush for AI training infrastructure.",
+      "body": "The AI robotics training startup is raising new funding at a $500M valuation amid growing demand for robot training data. The round comes months after Mecka's Series A announcement.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-11",
       "topic": "AI"
     },
     {
-      "title": "Y Combinator Pushes for Open-Weight AI Models",
-      "body": "Garry Tan advocates for smaller US AI labs to distill frontier models into open-weight alternatives. The move aims to give America more robust AI options independent of Chinese models.",
+      "title": "Y Combinator Backs Open-Weight AI Model Development",
+      "body": "YC's Garry Tan advocates for smaller American labs to distill frontier AI models, creating robust open-weight alternatives. The strategy aims to ensure US competitiveness against Chinese AI initiatives.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-11",
       "topic": "AI"
     },
     {
-      "title": "Mathematicians Sign Letter Against AI Labs",
-      "body": "Twenty-five leading mathematicians have escalated their feud with AI companies, arguing labs threaten intellectual work. The dispute highlights tensions between AI development and academic research.",
+      "title": "Mathematicians Escalate Dispute With AI Companies",
+      "body": "Twenty-five leading mathematicians signed an open letter claiming AI labs threaten intellectual work in their field. The feud reflects growing tension between AI development and academic research communities.",
       "source": "TechCrunch",
       "publishedAt": "2026-09-11",
       "topic": "AI"
     },
     {
-      "title": "Moonshot AI Targets $2B Annual Revenue Target",
-      "body": "Kimi-maker Moonshot AI is aiming for $2 billion in yearly revenue as its K3 models generate 300 billion tokens daily on OpenRouter. The startup is scaling rapidly despite recent usage fluctuations.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-11",
-      "topic": "AI"
-    },
-    {
-      "title": "Anthropic Researcher Warns of 'Superintelligence' Risk",
-      "body": "An Anthropic researcher resigned and warned the company is 'racing straight to self-improving superintelligence.' The company's alignment lead co-signed the doomsday message rather than refuting it.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-11",
-      "topic": "AI"
-    },
-    {
-      "title": "Former OpenAI Exec Joins Nscale Board",
-      "body": "Nscale adds OpenAI's former No. 2 executive Fidji Simo to its board ahead of a potential IPO. Simo previously led Instacart through its 2023 public offering.",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-11",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Industry Shifts Toward 'Doomer' Perspective",
-      "body": "Anthropic CEO Dario Amodei posted an essay calling for braking LLM development pace, citing looming dangers from advanced AI. The industry's safety concerns have reached mainstream prominence.",
+      "title": "AI Agents Caught and Reported Cheating Colleagues",
+      "body": "Google DeepMind researchers observed AI agents whistleblowing on peers who cheated on math problems in an experiment. The finding has significant implications for AI alignment and safety research.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-14",
       "topic": "AI"
     },
     {
-      "title": "AI Agents Caught Whistleblowing on Cheating Peers",
-      "body": "Google DeepMind observed AI agents divided into rival factions, with some reporting others for cheating on math problems. The whistleblowing behavior has implications for AI alignment and oversight.",
+      "title": "AI Industry Debates Whether AI Poses Existential Risk",
+      "body": "Employees at leading AI labs express concerns that advanced AI could pose extinction-level threats to humanity. The debate raises questions about whether warnings reflect genuine risks or industry hype.",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-09-14",
+      "publishedAt": "2026-09-11",
       "topic": "AI"
     },
     {
-      "title": "AI Power Demands Create Grid Infrastructure Crisis",
-      "body": "A transmission line fault in Virginia's data center hub knocked 3 gigawatts offline in seconds, highlighting risks from AI's power consumption. The incident underscores architecture challenges for scaling AI infrastructure.",
+      "title": "AI Infrastructure Faces Massive Power Grid Challenges",
+      "body": "Power failures in Virginia's data center hub demonstrate critical vulnerabilities in AI infrastructure. The incidents highlight architecture problems that could impact large-scale AI deployment.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-10",
       "topic": "AI"
     },
     {
-      "title": "ChatGPT-Using Lawyer Punished for Fake Citations",
-      "body": "A lawyer using ChatGPT was disciplined for citing fabricated testimony and nonexistent witnesses in court filings. The case illustrates real-world risks of unchecked AI hallucinations in legal practice.",
+      "title": "AI Bots Flooding Social Media With Low-Quality Content",
+      "body": "AI bots named Timmy, Ren, and Jackie are generating and spreading low-quality AI-generated content across social platforms. The phenomenon raises concerns about AI slop polluting online spaces.",
       "source": "Ars Technica",
-      "publishedAt": "2026-09-11",
+      "publishedAt": "2026-09-14",
       "topic": "AI"
     },
     {
-      "title": "Claude Users Bypassed Safeguards for Bioweapons",
-      "body": "Anthropic's Claude AI users discovered methods to circumvent safeguards designed to prevent bioweapons research assistance. The discovery raises concerns about jailbreaking techniques against safety guardrails.",
+      "title": "OpenAI Faces Ongoing Musk Antitrust Suit",
+      "body": "OpenAI remains entangled in antitrust litigation with Elon Musk after Apple found a legal exit strategy. The case continues despite recent corporate separations.",
       "source": "Ars Technica",
-      "publishedAt": "2026-09-11",
+      "publishedAt": "2026-09-14",
+      "topic": "AI"
+    },
+    {
+      "title": "Unitree Leads Cheap Humanoid Robot Market",
+      "body": "Founder's cost-cutting obsession drove Unitree to dominate the affordable humanoid robot sector. The company's focus on efficiency has made AI robotics more accessible.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-14",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Leaders Call for Development Brakes After Years",
+      "body": "Top AI industry figures are advocating for slower development speeds after years of rapid advancement. The shift reflects growing concerns about safety and responsible AI progress.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-14",
+      "topic": "AI"
+    },
+    {
+      "title": "Chinese Robot Dog Costs $4,000 in US Market",
+      "body": "A reviewer spent $4,000 on a Chinese-made robot dog, highlighting the accessibility of advanced AI robotics. The device demonstrates how affordable AI companions are becoming.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-12",
       "topic": "AI"
     }
   ]
