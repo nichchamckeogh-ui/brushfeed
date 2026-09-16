@@ -1,23 +1,23 @@
-/// cron.js — runs twice daily via Vercel cron
-
-/// Official company RSS feeds block server requests — using targeted press feeds instead
+// cron.js — runs twice daily via Vercel cron
+// Official company RSS feeds block server requests — using targeted press feeds instead
 // These are updated within hours of any AI company announcement
+
 const AI_COMPANY_SOURCES = [
   { name: 'TechCrunch AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/', searchTerms: ['openai','anthropic','google','gemini','claude','meta ai','mistral','grok','deepmind','chatgpt','gpt-','llm launch','model release','ai model'] },
-  { name: 'The Verge AI',  url: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml', searchTerms: ['openai','anthropic','google','gemini','claude','meta ai','mistral','grok','deepmind','chatgpt','gpt-','new model','ai release'] },
+  { name: 'The Verge AI', url: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml', searchTerms: ['openai','anthropic','google','gemini','claude','meta ai','mistral','grok','deepmind','chatgpt','gpt-','new model','ai release'] },
 ];
 
 const SOURCES = {
   AI: [
-    { name: 'TechCrunch',            url: 'https://techcrunch.com/category/artificial-intelligence/feed/' },
+    { name: 'TechCrunch', url: 'https://techcrunch.com/category/artificial-intelligence/feed/' },
     { name: 'MIT Technology Review', url: 'https://www.technologyreview.com/feed/' },
-    { name: 'The Verge AI',          url: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml' },
-    { name: 'Ars Technica',          url: 'https://feeds.arstechnica.com/arstechnica/index' },
+    { name: 'The Verge AI', url: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml' },
+    { name: 'Ars Technica', url: 'https://feeds.arstechnica.com/arstechnica/index' },
   ],
   Parenting: [
-    { name: 'The Guardian',     url: 'https://www.theguardian.com/lifeandstyle/family/rss' },
+    { name: 'The Guardian', url: 'https://www.theguardian.com/lifeandstyle/family/rss' },
     { name: 'Psychology Today', url: 'https://www.psychologytoday.com/us/front/feed' },
-    { name: 'BBC News',         url: 'https://feeds.bbci.co.uk/news/rss.xml' },
+    { name: 'BBC News', url: 'https://feeds.bbci.co.uk/news/rss.xml' },
   ],
 };
 
@@ -77,6 +77,43 @@ async function fetchRSS(source) {
   } catch(e) { console.error(`Failed: ${source.name}`, e.message); return []; }
 }
 
+// ============ DEDUP HELPERS ============
+function normalizeTitle(title) {
+  return title
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, '')
+    .split(/\s+/)
+    .filter(w => w.length > 2)
+    .sort()
+    .join(' ');
+}
+
+function titleSimilarity(a, b) {
+  const wordsA = new Set(normalizeTitle(a).split(' '));
+  const wordsB = new Set(normalizeTitle(b).split(' '));
+  const intersection = [...wordsA].filter(w => wordsB.has(w)).length;
+  const union = new Set([...wordsA, ...wordsB]).size;
+  return union === 0 ? 0 : intersection / union;
+}
+
+// Removes items from `list` that are already covered by something in `against`
+function excludeAlreadyCovered(list, against, threshold = 0.6) {
+  return list.filter(item =>
+    !against.some(other => titleSimilarity(item.title, other.title) >= threshold)
+  );
+}
+
+// Safety-net dedup for the final combined card list
+function dedupeCards(cards, threshold = 0.6) {
+  const kept = [];
+  for (const card of cards) {
+    const isDupe = kept.some(k => titleSimilarity(k.title, card.title) >= threshold);
+    if (!isDupe) kept.push(card);
+  }
+  return kept;
+}
+// ========================================
+
 async function processWithClaude(topic, articles, apiKey, isOfficial) {
   const rules = {
     'AI Update': 'Official AI company announcements, product launches, model releases. Include all — already from official sources.',
@@ -87,6 +124,7 @@ async function processWithClaude(topic, articles, apiKey, isOfficial) {
   const articleList = articles.map((a,i) => `${i+1}. "${a.title}" — ${a.description} (${a.source}, ${a.publishedAt})`).join('\n');
 
   const prompt = `You are BrushFeed's editorial AI for topic: ${topic}
+
 Definition: ${rules[topic] || topic}
 
 ${articles.length} articles:
@@ -113,12 +151,13 @@ Format: [{"title":"Under 9 words","body":"2-3 short sentences.","source":"Public
 
   const data = await res.json();
   if (!res.ok) throw new Error(data?.error?.message || 'Claude error');
-  const text = data.content?.map(b => b.text||'').join('') || '';
 
+  const text = data.content?.map(b => b.text||'').join('') || '';
   let cards = null;
   try { cards = JSON.parse(text.trim()); } catch {}
   if (!cards) { const m = text.match(/\[[\s\S]*\]/); if (m) try { cards = JSON.parse(m[0]); } catch {} }
   if (!cards || !Array.isArray(cards)) return [];
+
   return cards.map(c => ({ ...c, topic }));
 }
 
@@ -139,21 +178,19 @@ async function saveToGitHub(filename, content, token, repo) {
       ...(sha ? { sha } : {}),
     }),
   });
+
   if (!res.ok) { const err = await res.json(); throw new Error(`GitHub save failed: ${err.message}`); }
   return `https://raw.githubusercontent.com/${repo}/main/public/${filename}`;
 }
 
 export default async function handler(req, res) {
   // ============ SECURITY: Only allow Vercel's scheduled cron invocations ============
-  // Vercel scheduled crons have a specific signature we can verify
   const authHeader = req.headers.authorization || '';
   const expectedSecret = process.env.CRON_SECRET;
-  
-  // Vercel passes Bearer token ONLY for scheduled crons, not manual requests
   const isScheduledCron = authHeader === `Bearer ${expectedSecret}` && expectedSecret;
-  
+
   if (!isScheduledCron) {
-    console.warn('Cron accessed without valid scheduled authorization', { 
+    console.warn('Cron accessed without valid scheduled authorization', {
       hasAuth: !!authHeader,
       source: req.headers['x-forwarded-for'] || 'unknown'
     });
@@ -162,39 +199,42 @@ export default async function handler(req, res) {
   // =====================================================
 
   const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
-  const GITHUB_TOKEN      = process.env.GITHUB_TOKEN;
-  const GITHUB_REPO       = process.env.GITHUB_REPO;
+  const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+  const GITHUB_REPO = process.env.GITHUB_REPO;
   const results = {};
 
   try {
     console.log('Scheduled cron job started');
 
-    // 1. Official AI company updates — 48hr filter
+    // 1. Official AI company updates — 7-day filter
     console.log('Processing AI company updates...');
     const aiCompanyArticles = (await Promise.all(AI_COMPANY_SOURCES.map(fetchRSS)))
       .flat()
       .filter(a => isWithinDays(a.rawDate, 7));
-    console.log(`AI company: ${aiCompanyArticles.length} articles within 48hrs`);
+    console.log(`AI company: ${aiCompanyArticles.length} articles within 7 days`);
 
     const aiUpdateCards = aiCompanyArticles.length > 0
       ? await processWithClaude('AI Update', aiCompanyArticles, ANTHROPIC_API_KEY, true)
       : [];
     console.log(`AI Update cards: ${aiUpdateCards.length}`);
 
-    // 2. Regular AI news — 14-day filter
+    // 2. Regular AI news — 14-day filter, excluding anything already covered by AI Update
     console.log('Processing regular AI news...');
-    const aiNewsArticles = (await Promise.all(SOURCES.AI.map(fetchRSS)))
+    const aiNewsArticlesRaw = (await Promise.all(SOURCES.AI.map(fetchRSS)))
       .flat()
       .filter(a => isWithinDays(a.rawDate, 14));
-    console.log(`Regular AI: ${aiNewsArticles.length} articles within 14 days`);
+
+    const aiNewsArticles = excludeAlreadyCovered(aiNewsArticlesRaw, aiCompanyArticles);
+    console.log(`Regular AI: ${aiNewsArticlesRaw.length} articles, ${aiNewsArticles.length} after removing AI Update overlap`);
 
     const aiNewsCards = aiNewsArticles.length > 0
       ? await processWithClaude('AI', aiNewsArticles, ANTHROPIC_API_KEY, false)
       : [];
     console.log(`AI news cards: ${aiNewsCards.length}`);
 
-    // AI Update cards come FIRST
-    const allAICards = [...aiUpdateCards, ...aiNewsCards];
+    // AI Update cards come FIRST; safety-net dedupe in case anything still slipped through
+    const allAICards = dedupeCards([...aiUpdateCards, ...aiNewsCards]);
+
     const aiUrl = await saveToGitHub('cards_AI.json', {
       topic: 'AI', generatedAt: new Date().toISOString(),
       cardCount: allAICards.length, aiUpdateCount: aiUpdateCards.length,
@@ -221,7 +261,6 @@ export default async function handler(req, res) {
 
     console.log('Cron completed successfully');
     return res.status(200).json({ success: true, generatedAt: new Date().toISOString(), results });
-
   } catch(err) {
     console.error('Cron error:', err);
     return res.status(500).json({ error: err.message });
