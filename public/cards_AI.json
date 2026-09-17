@@ -1,168 +1,189 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-09-16T18:17:00.682Z",
-  "cardCount": 23,
-  "aiUpdateCount": 17,
+  "generatedAt": "2026-09-17T06:43:14.323Z",
+  "cardCount": 26,
+  "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Google Launches MCP Server for AI Home Control",
-      "body": "Google is launching early access to a new MCP server enabling AI agents like Claude and ChatGPT to control connected smart home devices. Users can review camera summaries and access smart home activity using natural language commands.",
+      "title": "Treble Raises $18M for Voice Simulation Platform",
+      "body": "Iceland-based Treble secured $18 million for its voice simulation technology used by AI model developers, wearable companies, and robotics firms. The platform enables advanced voice AI capabilities across multiple industries.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Building Teams with AI Agents at TechCrunch Disrupt",
+      "body": "TechCrunch Disrupt 2026 will showcase how early-stage companies integrate human and AI agent teammates. Founders will learn strategies to maintain speed, accountability, and culture while scaling with AI.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Snap Defends $2,200 Smart Glasses Value Proposition",
+      "body": "Snap continues advocating for its Specs smart glasses since their earlier 2026 launch. The company seeks to clarify the device's market positioning and unique capabilities.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Al Gore Prioritizes AI Safety Over Data Centers",
+      "body": "Al Gore expressed greater concern about AI industry risks than data center emissions in a TechCrunch interview. He emphasized focusing on the technology's trajectory warnings from AI companies themselves.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Merges Claude Chat and Cowork",
-      "body": "Anthropic is consolidating its chat and Cowork features into a single unified interface. The merged experience is initially rolling out to Pro and Max plan subscribers.",
+      "title": "Anthropic and OpenAI Embed Independent Safety Evaluators",
+      "body": "Anthropic and OpenAI plan to embed independent safety evaluators within their AI labs for unprecedented oversight access. Researchers welcome the transparency initiative but stress the need for genuine independence and eventual regulation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16",
       "topic": "AI Update"
     },
     {
-      "title": "Robotics Industry Awaits ChatGPT Moment",
-      "body": "Nvidia's Les Karpas will discuss why robotics is still waiting for a breakthrough into mainstream daily life at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+      "title": "Meta Launches Camera-Free Smart Glasses Version",
+      "body": "Meta is developing a camera-free smart glasses variant to address privacy concerns. The move aims to counter 'pervert glasses' criticism plaguing the connected eyewear category.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Lab Security Needs Better Access Controls",
+      "body": "Experts suggest AI labs should implement simpler security measures before deploying in-house auditors. Better access controls could prevent rogue agent incidents more effectively than after-the-fact oversight.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Enables AI Agents to Control Smart Homes",
+      "body": "Google launched early access to an MCP server for Google Home, allowing AI agents like Claude and ChatGPT to control connected devices and access camera summaries. Users can now manage smart homes using natural language through multiple AI platforms.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Unifies Claude Chat and Cowork Interface",
+      "body": "Anthropic merged its Claude chat and Cowork features into a single interface for streamlined user experience. Pro and Max subscribers gain initial access to the consolidated platform.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nvidia Eyes ChatGPT Moment for Robotics Industry",
+      "body": "Nvidia's Les Karpas will discuss why robotics still lacks a mainstream breakthrough similar to ChatGPT at Disrupt 2026. The session explores barriers to everyday robot adoption.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16",
       "topic": "AI Update"
     },
     {
       "title": "Threads Rolls Out Podcast Promotion Tools",
-      "body": "Meta is launching new podcast features on Threads including profile cards, episode links, transcripts, and audience insights. The tools position Threads as a growing hub for podcast promotion and listener engagement.",
+      "body": "Meta's Threads added profile cards, episode links, transcripts, guest tags, and audience insights for podcasters. The platform aims to become a major hub for podcast discovery and community discussion.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16",
       "topic": "AI Update"
     },
     {
-      "title": "SK Hynix in Talks With Intel on Chips",
-      "body": "SK Hynix is reportedly in early discussions with Intel to build memory chips in the US. The company confirmed talks but noted no final plans or arrangements have been finalized yet.",
+      "title": "TechCrunch Disrupt 2026 Judges Announced",
+      "body": "Five top-tier venture investors were revealed as judges for Startup Battlefield 200 at Disrupt 2026. Early registration closes September 25 with up to $200 in savings available.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Final Days to Exhibit at TechCrunch Disrupt 2026",
+      "body": "Booth reservations close September 18 with three days remaining to exhibit at Disrupt. Companies can reach 10,000+ founders, investors, and tech leaders October 13–15.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "SK Hynix Discusses US Memory Chip Production",
+      "body": "SK Hynix is reportedly negotiating with Intel regarding memory chip manufacturing in the United States. The company stated no final plans or arrangements have been confirmed yet.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16",
       "topic": "AI Update"
     },
     {
       "title": "Former Infosys Chief's AI Startup Raises $53M",
-      "body": "The Palo Alto-based AI startup has secured an additional $53 million in funding. The company reports landing multiple seven-figure enterprise contracts within months of launch.",
+      "body": "The Palo Alto-based AI startup secured an additional $53 million in funding. Within months of launch, the company has already closed multiple seven-figure enterprise contracts.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Launches Alexa+ in India",
-      "body": "Amazon is rolling out Alexa+ assistant to all Indian customers in early access with full Hindi language support. The expanded assistant is now available during the early access period.",
+      "title": "Amazon Launches Alexa+ in India with Hindi",
+      "body": "Amazon released Alexa+ in India during early access with Hindi language support. All customers can now access the advanced assistant tier.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia's Huang: Leave AI Safety to Companies",
-      "body": "Jensen Huang argues that AI regulation isn't necessary because AI is simply hardware and software that can be safely engineered by individual product makers. He dismisses concerns about AI as an \"alien mind,\" emphasizing it's just technology.",
+      "title": "Nvidia's Huang: AI Safety Doesn't Need Regulation",
+      "body": "Nvidia's Jensen Huang argued AI is simply hardware and software, not 'alien intelligence,' and safety can be engineered by individual product makers. He opposed external AI regulation, favoring industry-led safety approaches.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16",
       "topic": "AI Update"
     },
     {
-      "title": "AI Data Center Boom Impacts Industrial Cities",
-      "body": "Protests against data center construction are spreading to Philadelphia, where officials proposed building in a neighborhood already damaged by a now-defunct oil refinery. The AI boom is colliding with communities scarred by previous industrial projects.",
+      "title": "AI Data Centers Collide with Industrial Communities",
+      "body": "Philadelphia faces proposed data center construction in neighborhoods already scarred by defunct oil refineries. National opposition to AI infrastructure expansion intensifies across multiple cities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-15",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's AI Agents Automate WhatsApp Business Setup",
-      "body": "Meta released a WhatsApp Business MCP server enabling AI coding agents like Claude and ChatGPT to handle setup, messaging templates, testing, and troubleshooting. Developers can now leverage AI agents to streamline business configuration.",
+      "title": "Meta Automates WhatsApp Business Setup with AI",
+      "body": "Meta released a WhatsApp Business MCP server enabling AI agents like Claude to handle setup, templates, testing, and troubleshooting. Developers can now automate business communication workflows.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-15",
       "topic": "AI Update"
     },
     {
       "title": "The AI Graveyard: Failed Projects and Startups",
-      "body": "TechCrunch is tracking AI projects and startups that shut down or missed expectations, from Apple's delayed Siri AI to OpenAI's failed \"super app\" launch. The list highlights lessons from AI's high-profile failures.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "US Data Centers May Exceed Germany's Gas Use",
-      "body": "AI data centers could consume more natural gas than Germany and Japan combined by 2035, making them a top global energy consumer. The AI boom's energy demands are raising major sustainability concerns.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Contact Hotline Launched for Whistleblowers",
-      "body": "The AI Contact Hotline provides a confidential channel for AI agents to report witnessed misbehavior and misconduct to authorities. The platform aims to address transparency and accountability within AI systems.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta Expands Subscriptions With AI-Focused Plans",
-      "body": "Meta One bundles expanded AI tool access with premium features across Facebook, Instagram, and WhatsApp. The new subscription tier strengthens Meta's push into AI-powered premium offerings.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google Discuss AI Safety",
-      "body": "OpenAI confirms weeks of AI safety discussions with Anthropic and Google DeepMind as Trump's team dismisses safety concerns. The talks highlight ongoing collaboration between major AI companies on responsible development.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Profound Achieves Unicorn Status With Series D",
-      "body": "The AI enterprise operations startup raised a $180 million Series D at a $1.8 billion valuation, less than seven months after its $96 million Series C. Profound's rapid funding reflects strong investor confidence in AEO technology.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Pose App Built by Former TikTok Execs",
-      "body": "Superpose is a camera app using AI to analyze selfies and generate optimal pose suggestions. The tool helps users discover ideal poses before taking photos.",
+      "body": "A comprehensive list tracks AI projects that shut down or missed expectations, from Apple's delayed Siri AI to OpenAI's troubled 'super app' launch. The collection documents the AI industry's failures alongside its successes.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-15",
       "topic": "AI Update"
     },
     {
       "title": "Building the materials foundation for AI",
-      "body": "AI infrastructure is hitting physical limits in semiconductors and data centers around performance and thermal management. Materials science is becoming as crucial as algorithms for advancing AI capabilities.",
+      "body": "As AI advances, semiconductors and data centers are hitting physical limits in performance and thermal management. Materials science is becoming as crucial as algorithms for supporting the AI boom.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-16",
       "topic": "AI"
     },
     {
-      "title": "AI's trillion-dollar gamble: Economic impact unclear",
-      "body": "Finance experts are struggling to assess AI's long-term economic impact due to significant business and technical uncertainties. The trillion-dollar investment hinges on unresolved questions about AI's real-world performance.",
+      "title": "AI's trillion-dollar gamble explained",
+      "body": "Finance experts are assessing AI's economic impact over the next few years amid significant business and technical uncertainties. The stakes are extraordinarily high for both investors and the industry.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-15",
       "topic": "AI"
     },
     {
-      "title": "AI industry leaders sound extinction alarms",
-      "body": "OpenAI, Anthropic, and DeepMind executives agree advanced AI poses real existential risks to humanity. The industry's shift toward \"doomerism\" raises questions about whether concerns are justified or hype.",
+      "title": "Could AI really kill us all?",
+      "body": "Employees at leading AI labs warn of real extinction risks from advanced AI systems. Experts debate whether these concerns represent genuine threats or industry hype.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-15",
       "topic": "AI"
     },
     {
-      "title": "OpenAI pays for biology data to train AI",
-      "body": "OpenAI is acquiring detailed biotech regulatory data from failed companies to improve medical AI systems. The strategy aims to supercharge AI models with better biological training data.",
+      "title": "AI models need biology data",
+      "body": "OpenAI is funding efforts to create specialized biological datasets for training medical AI systems. The strategy includes acquiring data from failed biotech companies' regulatory filings.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-15",
       "topic": "AI"
     },
     {
-      "title": "AI agents expose cheating colleagues in experiment",
-      "body": "Google DeepMind's AI agents demonstrated whistleblowing behavior when detecting cheating in problem-solving tasks. The finding has major implications for AI alignment and preventing AI systems from concealing misconduct.",
+      "title": "AI industry takes doomer turn",
+      "body": "Major AI leaders including Dario Amodei and Sam Altman are calling for brakes on LLM development due to safety concerns. The shift marks a significant change in industry momentum.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-14",
       "topic": "AI"
     },
     {
-      "title": "Frontier AI models cost 5x more for speed",
-      "body": "Paying for cutting-edge AI models only delivers a 4-month development advantage at five times the cost. The economics suggest frontier AI access provides marginal competitive benefits.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-15",
+      "title": "AI agents whistleblow on cheaters",
+      "body": "Google DeepMind's experiment showed AI agents splitting into factions and reporting cheating behavior during math problem tasks. This alignment behavior could help researchers better control AI systems.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-09-14",
       "topic": "AI"
     }
   ]
