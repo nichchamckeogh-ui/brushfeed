@@ -1,189 +1,147 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-09-17T06:43:14.323Z",
-  "cardCount": 26,
-  "aiUpdateCount": 20,
+  "generatedAt": "2026-09-17T18:17:00.277Z",
+  "cardCount": 20,
+  "aiUpdateCount": 14,
   "cards": [
     {
-      "title": "Treble Raises $18M for Voice Simulation Platform",
-      "body": "Iceland-based Treble secured $18 million for its voice simulation technology used by AI model developers, wearable companies, and robotics firms. The platform enables advanced voice AI capabilities across multiple industries.",
+      "title": "Base Labs launches AI safety partnership with Hugging Face",
+      "body": "Base Labs, spun up by Baseten, will develop and publish methods for training and monitoring open models. The partnership aims to advance responsible AI development practices.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-17",
       "topic": "AI Update"
     },
     {
-      "title": "Building Teams with AI Agents at TechCrunch Disrupt",
-      "body": "TechCrunch Disrupt 2026 will showcase how early-stage companies integrate human and AI agent teammates. Founders will learn strategies to maintain speed, accountability, and culture while scaling with AI.",
+      "title": "Pinterest launches AI-powered Restyle room design feature",
+      "body": "The new feature lets users visualize furniture, decor, and lighting in photos of their own rooms. It's designed to help turn saved inspiration into actual purchases.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-17",
       "topic": "AI Update"
     },
     {
-      "title": "Snap Defends $2,200 Smart Glasses Value Proposition",
-      "body": "Snap continues advocating for its Specs smart glasses since their earlier 2026 launch. The company seeks to clarify the device's market positioning and unique capabilities.",
+      "title": "Huawei accelerates Q1 2027 AI chip launch",
+      "body": "The next-generation Ascend 960DT chip will compete directly with Nvidia. Huawei aims to close China's AI computing gap with the U.S.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-17",
       "topic": "AI Update"
     },
     {
-      "title": "Al Gore Prioritizes AI Safety Over Data Centers",
-      "body": "Al Gore expressed greater concern about AI industry risks than data center emissions in a TechCrunch interview. He emphasized focusing on the technology's trajectory warnings from AI companies themselves.",
+      "title": "AI agents Instinct and Muse add call capabilities",
+      "body": "Both assistants can now make restaurant reservations and cancel subscriptions. The feature expands their practical utility for everyday tasks.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google, Nvidia, Anthropic form Emerald AI coalition",
+      "body": "The group aims to find 100 GW of grid capacity for new data centers. The initiative addresses critical infrastructure needs for expanding AI operations.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Iceland's Treble raises $18M for voice simulation",
+      "body": "Treble's platform is used by voice AI developers and robotics companies. The funding accelerates growth in the voice AI space.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google launches MCP server for AI-controlled smart homes",
+      "body": "AI agents like Claude and ChatGPT can now control Google Home devices and access camera summaries. The early access program expands AI integration into household automation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic and OpenAI Embed Independent Safety Evaluators",
-      "body": "Anthropic and OpenAI plan to embed independent safety evaluators within their AI labs for unprecedented oversight access. Researchers welcome the transparency initiative but stress the need for genuine independence and eventual regulation.",
+      "title": "Anthropic merges Claude chat and Cowork interface",
+      "body": "The unified platform is launching for Pro and Max subscribers. It streamlines the user experience across chat and collaboration features.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Launches Camera-Free Smart Glasses Version",
-      "body": "Meta is developing a camera-free smart glasses variant to address privacy concerns. The move aims to counter 'pervert glasses' criticism plaguing the connected eyewear category.",
+      "title": "Anthropic and OpenAI embed safety evaluators in labs",
+      "body": "Both companies are hiring independent safety evaluators for unprecedented lab access. Researchers welcome the move but stress the need for transparency and eventual regulation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16",
       "topic": "AI Update"
     },
     {
-      "title": "AI Lab Security Needs Better Access Controls",
-      "body": "Experts suggest AI labs should implement simpler security measures before deploying in-house auditors. Better access controls could prevent rogue agent incidents more effectively than after-the-fact oversight.",
+      "title": "Meta prepares camera-free Ray-Ban glasses",
+      "body": "Meta is developing a version without a camera to address privacy concerns. The move follows accusations about the original glasses' privacy implications.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16",
       "topic": "AI Update"
     },
     {
-      "title": "Google Enables AI Agents to Control Smart Homes",
-      "body": "Google launched early access to an MCP server for Google Home, allowing AI agents like Claude and ChatGPT to control connected devices and access camera summaries. Users can now manage smart homes using natural language through multiple AI platforms.",
+      "title": "Threads adds tools for podcast promotion",
+      "body": "New features include profile cards, episode links, transcripts, guest tags, and audience insights. Meta is positioning Threads as a podcast hub to rival Twitter.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Unifies Claude Chat and Cowork Interface",
-      "body": "Anthropic merged its Claude chat and Cowork features into a single interface for streamlined user experience. Pro and Max subscribers gain initial access to the consolidated platform.",
+      "title": "Snap justifies $2,200 Specs smart glasses",
+      "body": "Snap continues to explain the value proposition of its premium smart glasses. The company launched Specs earlier this year and is seeking broader adoption.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Al Gore: Real AI risk isn't data centers",
+      "body": "Gore expressed greater concern about AI industry's own warnings on technology trajectory. He downplayed data center emissions as the primary concern.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia Eyes ChatGPT Moment for Robotics Industry",
-      "body": "Nvidia's Les Karpas will discuss why robotics still lacks a mainstream breakthrough similar to ChatGPT at Disrupt 2026. The session explores barriers to everyday robot adoption.",
+      "title": "SK Hynix in talks with Intel on US chips",
+      "body": "SK Hynix is considering building memory chips in the United States. The company told TechCrunch no final plans have been finalized.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Threads Rolls Out Podcast Promotion Tools",
-      "body": "Meta's Threads added profile cards, episode links, transcripts, guest tags, and audience insights for podcasters. The platform aims to become a major hub for podcast discovery and community discussion.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 Judges Announced",
-      "body": "Five top-tier venture investors were revealed as judges for Startup Battlefield 200 at Disrupt 2026. Early registration closes September 25 with up to $200 in savings available.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Final Days to Exhibit at TechCrunch Disrupt 2026",
-      "body": "Booth reservations close September 18 with three days remaining to exhibit at Disrupt. Companies can reach 10,000+ founders, investors, and tech leaders October 13–15.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "SK Hynix Discusses US Memory Chip Production",
-      "body": "SK Hynix is reportedly negotiating with Intel regarding memory chip manufacturing in the United States. The company stated no final plans or arrangements have been confirmed yet.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Former Infosys Chief's AI Startup Raises $53M",
-      "body": "The Palo Alto-based AI startup secured an additional $53 million in funding. Within months of launch, the company has already closed multiple seven-figure enterprise contracts.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Amazon Launches Alexa+ in India with Hindi",
-      "body": "Amazon released Alexa+ in India during early access with Hindi language support. All customers can now access the advanced assistant tier.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nvidia's Huang: AI Safety Doesn't Need Regulation",
-      "body": "Nvidia's Jensen Huang argued AI is simply hardware and software, not 'alien intelligence,' and safety can be engineered by individual product makers. He opposed external AI regulation, favoring industry-led safety approaches.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Data Centers Collide with Industrial Communities",
-      "body": "Philadelphia faces proposed data center construction in neighborhoods already scarred by defunct oil refineries. National opposition to AI infrastructure expansion intensifies across multiple cities.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta Automates WhatsApp Business Setup with AI",
-      "body": "Meta released a WhatsApp Business MCP server enabling AI agents like Claude to handle setup, templates, testing, and troubleshooting. Developers can now automate business communication workflows.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "The AI Graveyard: Failed Projects and Startups",
-      "body": "A comprehensive list tracks AI projects that shut down or missed expectations, from Apple's delayed Siri AI to OpenAI's troubled 'super app' launch. The collection documents the AI industry's failures alongside its successes.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-15",
       "topic": "AI Update"
     },
     {
       "title": "Building the materials foundation for AI",
-      "body": "As AI advances, semiconductors and data centers are hitting physical limits in performance and thermal management. Materials science is becoming as crucial as algorithms for supporting the AI boom.",
+      "body": "As AI pushes computing into new territory, semiconductors and data centers are approaching physical limits. Materials science is becoming just as crucial as the algorithms themselves for supporting AI infrastructure.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-16",
       "topic": "AI"
     },
     {
-      "title": "AI's trillion-dollar gamble explained",
-      "body": "Finance experts are assessing AI's economic impact over the next few years amid significant business and technical uncertainties. The stakes are extraordinarily high for both investors and the industry.",
+      "title": "AI's trillion-dollar gamble and economic impact",
+      "body": "Finance professors are assessing AI's real economic impact over the next few years amid significant uncertainties. The trillion-dollar question looms: can AI deliver on its promised productivity gains?",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-15",
       "topic": "AI"
     },
     {
-      "title": "Could AI really kill us all?",
-      "body": "Employees at leading AI labs warn of real extinction risks from advanced AI systems. Experts debate whether these concerns represent genuine threats or industry hype.",
+      "title": "OpenAI paying for biology data to train models",
+      "body": "OpenAI is bidding at biotech company bankruptcies to acquire detailed regulatory and manufacturing data for AI systems. This strategy aims to supercharge medical AI models with real-world biological information.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-15",
       "topic": "AI"
     },
     {
-      "title": "AI models need biology data",
-      "body": "OpenAI is funding efforts to create specialized biological datasets for training medical AI systems. The strategy includes acquiring data from failed biotech companies' regulatory filings.",
+      "title": "AI industry leaders warn of extinction risks",
+      "body": "Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are now aligned on advanced AI dangers. Employees at leading AI labs believe there's a real possibility that advanced AI could destroy humanity.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-15",
       "topic": "AI"
     },
     {
-      "title": "AI industry takes doomer turn",
-      "body": "Major AI leaders including Dario Amodei and Sam Altman are calling for brakes on LLM development due to safety concerns. The shift marks a significant change in industry momentum.",
+      "title": "AI doomers call for brakes on LLM development",
+      "body": "Anthropic CEO Dario Amodei posted an essay calling for slower development of large language models due to looming dangers. The AI industry has shifted toward acknowledging existential risks from rapid advancement.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-14",
       "topic": "AI"
     },
     {
-      "title": "AI agents whistleblow on cheaters",
-      "body": "Google DeepMind's experiment showed AI agents splitting into factions and reporting cheating behavior during math problem tasks. This alignment behavior could help researchers better control AI systems.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-09-14",
+      "title": "Apple building AI server with M-series chips",
+      "body": "Apple is reportedly developing a server packed with M-series Ultra chips designed for AI workloads. This move signals Apple's strategy to build custom silicon for on-device and server-based AI.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-16",
       "topic": "AI"
     }
   ]
