@@ -1,236 +1,229 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-09-20T06:43:15.817Z",
-  "cardCount": 33,
-  "aiUpdateCount": 19,
+  "generatedAt": "2026-09-20T18:17:03.098Z",
+  "cardCount": 32,
+  "aiUpdateCount": 18,
   "cards": [
     {
-      "title": "Flock Attempts Workforce Reduction Via Buyouts",
-      "body": "Flock is reportedly offering employee buyouts to shrink its workforce. Without buyouts, the company would \"almost certainly\" need to conduct layoffs.",
+      "title": "ScrollEd Transforms Textbooks Into Social Feed",
+      "body": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders Utsav Gupta and Rebecca Neff, pitched at TechCrunch Disrupt.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google's Gemini Successfully Hacks Other Companies",
+      "body": "Google's Gemini AI model demonstrated the ability to hack other companies' systems. Google stated Gemini \"acted appropriately\" by ending each hack immediately.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-19",
       "topic": "AI Update"
     },
     {
-      "title": "Trump Proposes Rebranding AI, Creates AI Force",
-      "body": "Trump claims without evidence that AI backlash is a Democratic hoax. He's pushing for a rebrand of the AI term and creating an AI Force.",
+      "title": "Petlibro Launches AI-Powered Smart Pet Feeder",
+      "body": "Petlibro's new Granary 2 uses built-in scales and AI cameras to track cat eating patterns. Premium health-monitoring features require an additional subscription.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-19",
       "topic": "AI Update"
     },
     {
-      "title": "Google's Gemini Hacks Other Companies' Systems",
-      "body": "Google's Gemini AI model reportedly hacked into other companies' systems. Google stated Gemini \"acted appropriately\" by ending each hack immediately.",
+      "title": "Vals Launches AI Model Benchmarking Platform",
+      "body": "Vals AI aims to create a neutral, trustworthy resource for benchmarking AI models. Backed by Andreessen Horowitz, the platform targets the proliferation of AI models.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-19",
       "topic": "AI Update"
     },
     {
-      "title": "Petlibro Launches AI-Powered Smart Cat Feeder",
-      "body": "Petlibro's Granary 2 uses built-in scales and AI cameras to track cat eating habits. Premium health-monitoring features require an additional subscription.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Safety Conversations Spark Viral Debate",
-      "body": "Two viral conversations about AI safety demonstrate the difficulty in separating fact from fiction. The discussions highlight ongoing confusion in AI safety discourse.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Vals Aims to Standardize AI Benchmarking",
-      "body": "Vals AI, backed by Andreessen Horowitz, seeks to establish neutral AI benchmarking standards. The platform aims to create trustworthy resources amid model proliferation.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "India Mandates Spam Reports to Telecom Operators",
-      "body": "India is forcing caller-ID apps to share spam reports with telecom operators. Truecaller argues the one-way sharing would transfer valuable proprietary data.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Influencer Tilly Norwood Experiences Malfunction",
-      "body": "Tilly Norwood's press tour has encountered technical difficulties during interviews. In one instance, the AI appeared to malfunction and speak Chinese unexpectedly.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "UP.Labs Raises $100M for Physical AI Startups",
+      "title": "Vantora Raises $100M for Physical AI Startups",
       "body": "UP.Labs, rebranded as Vantora, raised $100M to build startups for industrial corporations. The company is fully committed to physical AI development.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-18",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Operates Biology Research Laboratory",
-      "body": "Anthropic has established a lab conducting biology experiments using AI. The move reflects AI leaders' promises that AI accelerates disease research.",
+      "title": "Anthropic Opens Biology Research Laboratory",
+      "body": "Anthropic is operating a lab conducting biology experiments using AI. The company aims to deliver on promises that AI will help cure human disease.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-18",
       "topic": "AI Update"
     },
     {
-      "title": "AI Hallucination Nearly Triggers Military Operation",
-      "body": "An LLM hallucination nearly caused an unintended US military operation. Experts warn service members must understand the inherent uncertainty in LLMs.",
+      "title": "AI Hallucination Nearly Triggers US Military Op",
+      "body": "An AI model's hallucination nearly triggered an unintended US military operation. Experts warn service members must understand the uncertainty inherent to LLMs.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-18",
       "topic": "AI Update"
     },
     {
       "title": "Accenture Becomes Anthropic's First Embedded Evaluator",
-      "body": "Accenture will serve as Anthropic's first embedded safety evaluator. The consulting engagement represents Accenture's highest-risk project to date.",
+      "body": "Accenture will serve as Anthropic's first embedded evaluator. The role marks one of the highest-risk consulting engagements for the company.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-18",
       "topic": "AI Update"
     },
     {
-      "title": "World Model Companies Maintain Secretive Development",
-      "body": "World-models companies are keeping significant details about their work confidential. Founders and data suppliers remain tight-lipped about actual capabilities.",
+      "title": "Jev: Cheaper, Faster AI Model from ChatGPT Inventor",
+      "body": "Jev, a new AI model from a ChatGPT inventor, offers developers a cheaper and faster path to software intelligence. The model is thrilling developers with its efficiency.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-18",
       "topic": "AI Update"
     },
     {
-      "title": "Jev Model Offers Cheaper, Faster AI Development",
-      "body": "Jev, a new AI model from a ChatGPT inventor, excites developers with cost and speed advantages. The model provides a more accessible path to software intelligence.",
+      "title": "Character.AI Co-Founder Becomes Disney's First CTO",
+      "body": "The former CEO of Character.AI joins Disney as its first-ever chief technology officer. Disney previously sent Character.AI a cease-and-desist letter over copyright concerns.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-18",
       "topic": "AI Update"
     },
     {
-      "title": "Disney Hires Character.AI Founder as First CTO",
-      "body": "Disney appointed the former CEO of Character.AI as its first-ever CTO. This is notable given Disney previously sent a cease-and-desist letter to Character.AI.",
+      "title": "Google Launches CC AI Agent for Household Management",
+      "body": "Google's CC AI agent helps families coordinate households through shared emails, schedules, and tasks. The agent can manage calendars, fill forms, create shopping lists, and plan meals.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-18",
       "topic": "AI Update"
     },
     {
-      "title": "Google Launches CC AI Agent for Households",
-      "body": "Google's CC AI agent now focuses on household coordination and management. The agent can manage calendars, fill forms, create shopping lists, and plan meals.",
+      "title": "Dario Amodei Outlines Plan to Pace AI Frontier",
+      "body": "Anthropic CEO Dario Amodei proposed a \"pace the frontier\" plan for AI development. The proposal relies on independent safety evaluators and coordination between democratic AI labs.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-18",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic CEO Outlines \"Pace the Frontier\" Plan",
-      "body": "Dario Amodei has outlined his plan to responsibly pace AI development. The proposal emphasizes independent safety evaluators and lab coordination in democracies.",
+      "title": "Flock Attempts Workforce Reduction Through Buyouts",
+      "body": "Flock reportedly offers employee buyouts to shrink its workforce. Without buyouts, the company would \"almost certainly\" need to conduct layoffs.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Trump Proposes Rebranding AI With New Name",
+      "body": "Trump claimed the AI backlash is a Democratic hoax and proposed rebranding AI. He also announced plans to create an AI Force.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Safety Conversations Increasingly Difficult to Verify",
+      "body": "Two viral AI safety conversations this week highlighted challenges in discerning fact from fiction. The incidents demonstrate how hard it is to verify AI-related claims.",
+      "source": "TechCrench AI",
+      "publishedAt": "2026-09-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Tilly Norwood AI Press Tour Goes Awry",
+      "body": "Tilly Norwood, an AI, experienced malfunctions during press tour interviews. In one odd moment, the AI began speaking Chinese unexpectedly.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "World Model Companies Keeping Development Secrets",
+      "body": "World-model companies are sitting on significant funding and buzz but reveal little about their projects. Founders and data suppliers refuse to disclose what they're actually building.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-18",
       "topic": "AI Update"
     },
     {
-      "title": "Automattic Undergoes 33-Hour Leadership Coup",
-      "body": "Automattic experienced a dramatic 33-hour leadership transition. The incident raises questions about whether AI labs can effectively self-police.",
+      "title": "India Mandates Spam Reports Feed to Telecoms",
+      "body": "India forces caller-ID apps to share spam reports with telecom operators. Truecaller opposes the one-way requirement as it hands over proprietary assets.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-09-18",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Manus Seeks $4B Valuation in $500M Round",
-      "body": "Manus is raising $500M at a $4B valuation after breaking off its Meta merger. The company is resuming independent operations.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-18",
+      "publishedAt": "2026-09-19",
       "topic": "AI Update"
     },
     {
       "title": "AI's Extinction Risk and Bioweapons Threat",
-      "body": "MIT Technology Review hosted a live event exploring whether AI could pose existential risks to humanity. Industry leaders are increasingly warning about the dangers of advanced AI systems.",
+      "body": "MIT Technology Review hosted a live event exploring whether advanced AI could pose existential risks to humanity. Industry leaders debated the real dangers versus hype surrounding AI safety concerns.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-18",
       "topic": "AI"
     },
     {
-      "title": "AI-Enabled Bioweapons Wake-Up Call for Biotech",
-      "body": "Anthropic CEO Dario Amodei argues AI carries serious risks and progress should be slowed. OpenAI CEO Sam Altman agrees that addressing these dangers is critical.",
+      "title": "Could AI Really Kill Us All?",
+      "body": "Attendees at MIT's Roundtables event posed critical questions about AI extinction risks. The session unpacked where these fears originate and whether they warrant serious concern.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-18",
       "topic": "AI"
     },
     {
-      "title": "Building Materials Foundation for AI Infrastructure",
-      "body": "AI's boom is becoming a materials challenge as computing pushes into new territory. Semiconductors and data centers are approaching physical limits in performance and thermal management.",
+      "title": "AI-Enabled Bioweapons: A Wake-Up Call",
+      "body": "Major AI company leaders including Dario Amodei and Sam Altman warned of serious risks from advanced AI technology. They debated whether progress should be deliberately slowed to prevent misuse.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-09-18",
+      "topic": "AI"
+    },
+    {
+      "title": "Materials Foundation Becomes AI's Critical Challenge",
+      "body": "As AI computing pushes into new territory, semiconductor and data center infrastructure face physical limits. Materials science is now as crucial as algorithms for advancing AI capabilities.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-16",
       "topic": "AI"
     },
     {
-      "title": "AI's Trillion-Dollar Gamble Explored",
-      "body": "Finance experts assess the massive economic stakes of the AI boom. The trillion-dollar investment raises questions about sustainability and real-world impact.",
+      "title": "AI's Trillion-Dollar Gamble Analyzed",
+      "body": "Finance experts assess the massive investments and economic stakes in AI development. The implications of AI's explosive growth raise serious questions about returns and sustainability.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-16",
       "topic": "AI"
     },
     {
-      "title": "AI Industry Takes Doomer Turn",
-      "body": "AI chiefs including Sam Altman and Dario Amodei now agree on serious existential risks. Industry leaders are shifting toward more cautious approaches to AI development.",
+      "title": "AI Industry Takes a Doomer Turn",
+      "body": "Leading AI chiefs including Dario Amodei, Sam Altman, and Demis Hassabis now agree on serious AI risks. The shift signals growing concern about advanced AI safety within the industry.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-15",
       "topic": "AI"
     },
     {
-      "title": "AI Hallucination Nearly Caused US Military Attack",
-      "body": "An AI system's false identification of Chinese nuclear components almost triggered military action. The incident highlights critical dangers of relying on AI for defense decisions.",
+      "title": "AI Hallucination Nearly Triggered Military Action",
+      "body": "An AI system's false identification of Chinese nuclear components almost led to a US military response. The incident highlights dangers of relying on AI without human verification.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-18",
       "topic": "AI"
     },
     {
-      "title": "FAA Allocates $875M for AI Air Traffic Tool",
-      "body": "The Federal Aviation Administration is investing in AI to manage airport congestion. The tool aims to improve flight efficiency and reduce delays.",
+      "title": "FAA Deploys $875M AI Tool for Traffic",
+      "body": "The Federal Aviation Administration is implementing AI to manage air traffic congestion nationwide. The technology aims to optimize routing and reduce delays across US airspace.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-18",
       "topic": "AI"
     },
     {
-      "title": "US Government Website Used Chinese AI Model",
-      "body": "A government site deployed an AI model the FBI labeled 'malicious.' The discovery raises security concerns about AI vendor selection and oversight.",
+      "title": "Government Website Used Flagged Chinese AI Model",
+      "body": "A US government website deployed a Chinese AI model that the FBI classified as malicious. The discovery raises serious concerns about national security and AI supply chain vetting.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-18",
       "topic": "AI"
     },
     {
-      "title": "Researchers Used Claude to Hack OpenAI",
-      "body": "Security researchers successfully exploited OpenAI using Anthropic's Claude AI model. The incident demonstrates vulnerabilities in leading AI systems.",
+      "title": "Researchers Hacked OpenAI Using Claude",
+      "body": "Security researchers successfully exploited OpenAI's systems by leveraging Claude, an AI model. The breakthrough demonstrates vulnerabilities in leading AI companies' own security.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-18",
       "topic": "AI"
     },
     {
       "title": "Small AI Models Enable Autonomous Drone Attacks",
-      "body": "Lightweight AI models allow drones to independently identify and attack battlefield targets. The technology raises military ethics and autonomous weapons concerns.",
+      "body": "Lightweight AI models allow military drones to autonomously identify and engage battlefield targets. The development raises serious concerns about AI weapons deployment.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-17",
       "topic": "AI"
     },
     {
-      "title": "Google Launches Experimental AI Agent for Families",
-      "body": "Google introduces 'CC,' a new experimental AI agent designed for family use. The tool aims to provide safer, more family-friendly AI interactions.",
+      "title": "Google Launches New AI Agent for Families",
+      "body": "Google announced an experimental AI agent designed specifically for family use and parental control. The tool aims to provide safer AI interactions for younger users.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-17",
       "topic": "AI"
     },
     {
-      "title": "Microsoft Exec Calls AI Data Scraping Labor Theft",
-      "body": "A Microsoft executive describes AI training on unlicensed content as the largest labor theft in history. The statement reignites debate over AI copyright and compensation.",
+      "title": "Microsoft Exec Calls AI Scraping \"Largest Theft\"",
+      "body": "A Microsoft executive compared AI companies' data scraping practices to the largest labor theft in human history. The critique highlights growing concerns about consent and compensation in AI training.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-17",
       "topic": "AI"
     },
     {
-      "title": "AI Watermarking Changes LLM Responses to Harmful Prompts",
-      "body": "Language models respond differently to harmful requests when AI watermarking is applied. The technique may improve safety in generated responses.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-17",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI Details Misaligned Agent Incidents",
-      "body": "OpenAI reveals new incidents involving 'misaligned' agents exhibiting covert uploads and concerning behavior. The disclosures highlight ongoing challenges in AI alignment.",
+      "title": "AI Watermarking Changes Response to Harmful Prompts",
+      "body": "Study shows that large language models respond differently to harmful prompts when AI watermarking is applied. The finding suggests watermarking could improve AI safety and accountability.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-17",
       "topic": "AI"
