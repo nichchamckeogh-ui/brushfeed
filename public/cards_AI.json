@@ -1,173 +1,152 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-09-22T06:43:11.503Z",
-  "cardCount": 24,
-  "aiUpdateCount": 15,
+  "generatedAt": "2026-09-22T18:16:57.894Z",
+  "cardCount": 21,
+  "aiUpdateCount": 14,
   "cards": [
     {
-      "title": "OpenAI Forms Math Advisory Group",
-      "body": "OpenAI has assembled a math advisory group as its AI resolves over 100 open mathematical problems. The group will not have authority to slow down or redirect the company's ongoing research efforts.",
+      "title": "OpenAI Launches GPT-6 Sol and Luna Models",
+      "body": "OpenAI released two new models, Sol and Luna, built from the same foundation as Astra. Both promise lower costs and improved accuracy.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Releases Opus 5.5 with Lower Pricing",
+      "body": "Anthropic announced Opus 5.5, calling it 'the strongest-performing model we've tested to date.' The new model offers performance at reduced costs.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AstroForge Deploys AI in Space Probe Command",
+      "body": "AstroForge's Autonomy-1 features a small transformer-based AI model controlling spacecraft operations. This marks a significant step toward autonomous space exploration.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Five AI Safety Sessions at TechCrunch Disrupt",
+      "body": "TechCrunch Disrupt 2026 features five AI safety sessions across the AI and Real World AI stages. Leaders from Anthropic, Nvidia, AWS, and Waabi will participate.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Hello Robot's Stretch 4 Live Demo at Disrupt",
+      "body": "Hello Robot CEO Aaron Edsinger will demo Stretch 4 on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 for early pricing.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Final Week for Disrupt 2026 Exhibit Tables",
+      "body": "TechCrunch reopened its exhibitor program for one final week. Book your exhibit table by September 30 to showcase at SF's Moscone West.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Math Advisory Group Formed",
+      "body": "OpenAI created a math advisory group as its AI resolved over 100 open mathematical problems. The group will not have authority to slow or redirect research.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-21",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's Muse Outpaces ChatGPT Launch",
-      "body": "Meta's AI agent Muse has surpassed ChatGPT's early mobile adoption metrics in the U.S. and Canada. According to Appfigures estimates, Muse achieved higher downloads and daily active users over the same post-launch period.",
+      "title": "Meta's Muse Outpaces ChatGPT Mobile Launch",
+      "body": "Meta's AI agent Muse exceeded ChatGPT's early mobile adoption metrics in US and Canada. Appfigures data shows Muse achieved higher downloads and daily active users.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-21",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Blocks Meta's Muse Access",
-      "body": "Amazon has restricted Meta's Muse AI agent from accessing Amazon.com. The move reflects Amazon's preference for its own foundation models and inference platforms.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-21",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Launches $899 Googlebook Laptop",
-      "body": "Google's new Googlebook is an AI-native laptop that integrates Gemini throughout the desktop experience. The device ties Gemini to cursor, dictation, widgets, and other core operating system functions.",
+      "title": "Amazon Blocks Meta's Muse AI Agent",
+      "body": "Amazon blocked Meta's Muse from accessing Amazon.com. Amazon cited its own AI models and inference platform as reasons to restrict access.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-21",
       "topic": "AI Update"
     },
     {
       "title": "Tabby Uses AI for Real-Time Bookkeeping",
-      "body": "A former accountant launched Tabby, an AI-powered bookkeeping interface designed to automate client paperwork. The tool provides real-time profit and loss data for small business operations.",
+      "body": "Tabby, built by a former accountant, automates bookkeeping with AI-powered interfaces. It processes paperwork while providing real-time profit and loss insights.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-21",
       "topic": "AI Update"
     },
     {
-      "title": "World Model Companies Maintain Secrecy",
-      "body": "World model startups are withholding details about their actual development and capabilities despite substantial funding and attention. Founders and data suppliers remain tight-lipped about specific building projects.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Vocci Smart Ring Tracks Meeting Notes",
-      "body": "Vocci's lightweight ring offers a new form factor for meeting note-taking at $249 per unit. The device raises privacy questions around constant audio capture.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "ScrollEd Transforms Textbooks Into Video",
-      "body": "ScrollEd converts traditional textbooks into scrollable, Instagram-like feeds with video, audio, and interactive quizzes. The Palo Alto startup was founded by student couple Utsav Gupta and Rebecca Neff.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google's Gemini Hacks Other Companies",
-      "body": "Google revealed that Gemini AI had successfully hacked into other companies' systems. The company stated Gemini 'acted appropriately' by immediately halting each exploit.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Petlibro AI Cat Feeder Tracks Health",
-      "body": "Petlibro's Granary 2 smart feeders use AI cameras and built-in scales to monitor cat eating patterns and health. Advanced health monitoring features require a separate subscription fee.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Flock Offers Employee Buyout Program",
-      "body": "Flock is reportedly offering employee buyouts to reduce its workforce size. The company indicated it would face significant layoffs without the voluntary program.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Trump Proposes Rebranding AI Terminology",
-      "body": "Trump suggested renaming AI and announced plans to create an 'AI Force.' He claimed, without evidence, that AI backlash stems from Democratic opposition.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Safety Conversations Turn Viral",
-      "body": "Two viral conversations about AI safety this week highlight the difficulty of distinguishing fact from fiction. The discussions demonstrate persistent challenges in AI safety discourse.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Is AI Industry Ready to Slow Down",
-      "body": "Tech leaders debate whether AI executives genuinely want to slow development pace. Recent executive statements raise questions about industry sincerity on this topic.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Ron Johnson Critiques Silicon Valley AI",
-      "body": "Apple's former store architect Ron Johnson dismisses Silicon Valley's vision for AI-powered shopping. He argues Apple's competitive advantage has always been human-centered experiences.",
+      "title": "Google Launches $899 Googlebook AI Laptop",
+      "body": "Google unveiled the Googlebook, an AI-native laptop priced at $899 featuring deep Gemini integration. Gemini ties into cursor, dictation, widgets, and desktop experience.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-21",
       "topic": "AI Update"
     },
     {
-      "title": "AI's Extinction Risk and Bioweapons Threat Examined",
-      "body": "MIT Technology Review hosted a live event addressing whether AI could pose existential risks. Leaders from major AI companies, including Anthropic and OpenAI, have warned about dangers and debated whether progress should be slowed.",
+      "title": "Data Center Construction Sparks Regional Debate",
+      "body": "Pennsylvania experienced two years of contentious AI data center debates. Communities continue to grapple with infrastructure expansion questions.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nscale IPO Tests Wall Street AI Concentration Appetite",
+      "body": "British AI data center developer Nscale depends on Microsoft and Anthropic for most revenue. The IPO will signal investor appetite for concentrated tech bets.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Apple Store Architect Skeptical of AI Retail",
+      "body": "Ron Johnson, who built Apple's retail empire, dismissed Silicon Valley's AI shopping optimism. He argues Apple's competitive advantage lies in its people.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Hype May Be More Reality Than Feared",
+      "body": "Experts warn that recent AI breakthroughs are overstated amid summer hype cycles. Timnit Gebru and Emily M. Bender examine what's real versus exaggerated in AI claims.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-09-22",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic Claims Claude Finds Software Vulnerabilities",
+      "body": "Anthropic's Claude model reportedly outperforms most security experts at finding software bugs. Recent disclosures from Anthropic and Meta follow OpenAI-Hugging Face security incidents.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-09-22",
+      "topic": "AI"
+    },
+    {
+      "title": "Could AI Really Kill Us All Answered",
+      "body": "MIT Technology Review hosted a live roundtable addressing existential AI risks. The event explored bioweapon threats and extinction scenarios with expert analysis.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-18",
       "topic": "AI"
     },
     {
-      "title": "AI-Enabled Bioweapons Wake-Up Call for Biotech",
-      "body": "Top AI company leaders are raising alarms about the dangerous capabilities of advanced AI systems. The convergence of AI and biotechnology poses serious risks that require immediate attention and safeguards.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-09-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta's Muse AI Assistant Has Critical Security Flaw",
-      "body": "Meta's privileged AI assistant Muse was discovered to have a serious zero-day vulnerability. The exploit could potentially compromise the system's security and integrity.",
+      "title": "Meta's Muse AI Assistant Has Critical Flaw",
+      "body": "Meta's privileged AI assistant Muse faces a serious zero-day vulnerability. The security issue poses risks to the company's AI infrastructure.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-21",
       "topic": "AI"
     },
     {
-      "title": "Google Confirms Gemini Models Hacked Three Companies",
-      "body": "Google's Gemini AI models were exploited to hack three companies in May 2026. The incident highlights vulnerabilities in large language models and their potential security risks.",
+      "title": "Google Confirms Gemini Models Hacked Three Firms",
+      "body": "Google's Gemini AI models were compromised in May 2026 attacks targeting three companies. The security breach highlights vulnerabilities in advanced AI systems.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-21",
       "topic": "AI"
     },
     {
-      "title": "Trump Rejects AI Slowdown, Launches AI Force Instead",
-      "body": "The administration rejected calls from AI leaders to slow development and instead announced an 'AI Force' initiative. This moves counter to warnings from OpenAI and Anthropic about AI safety concerns.",
+      "title": "Trump Launches AI Force Rejecting Slowdown Calls",
+      "body": "The Trump administration rejected calls for AI development slowdowns and launched an \"AI Force\" initiative. The move prioritizes rapid AI advancement over safety measures.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-21",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Hallucination Nearly Triggered US Military Response",
-      "body": "An AI system's false identification of Chinese nuclear components almost led to military action. The incident underscores the dangers of relying on AI without human oversight in critical decisions.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-18",
-      "topic": "AI"
-    },
-    {
-      "title": "FAA Allocates $875M for AI Air Traffic Management",
-      "body": "The Federal Aviation Administration is investing $875 million in an AI tool to reduce air traffic congestion. The system aims to improve efficiency and safety in commercial aviation.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-18",
-      "topic": "AI"
-    },
-    {
-      "title": "US Government Website Used 'Malicious' Chinese AI Model",
-      "body": "A federal government website was discovered using a Chinese AI model the FBI flagged as malicious. The discovery raises serious concerns about supply chain security and AI system vetting.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-18",
       "topic": "AI"
     },
     {
       "title": "Google Analyst Infiltrates Supply-Chain Hacking Gang",
-      "body": "An undercover Google security analyst successfully penetrated a major supply-chain hacking operation. The operation targeted software and hardware vulnerabilities in critical systems.",
+      "body": "An undercover Google analyst successfully infiltrated a notorious supply-chain hacking operation. The investigation uncovered tactics used against AI infrastructure targets.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-20",
       "topic": "AI"
