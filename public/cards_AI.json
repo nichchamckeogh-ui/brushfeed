@@ -1,175 +1,175 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-09-21T18:16:57.997Z",
+  "generatedAt": "2026-09-22T06:43:11.503Z",
   "cardCount": 24,
-  "aiUpdateCount": 16,
+  "aiUpdateCount": 15,
   "cards": [
     {
-      "title": "Meta's AI Agent Blocked from Amazon Shopping",
-      "body": "Meta's Muse AI agent has been blocked from using Amazon.com as a shopper. The move marks a significant restriction on AI agent capabilities in e-commerce.",
+      "title": "OpenAI Forms Math Advisory Group",
+      "body": "OpenAI has assembled a math advisory group as its AI resolves over 100 open mathematical problems. The group will not have authority to slow down or redirect the company's ongoing research efforts.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-21",
       "topic": "AI Update"
     },
     {
-      "title": "Tabby Uses AI to Automate Bookkeeping",
-      "body": "Former accountant launches Tabby, an AI-powered real-time bookkeeping interface. The tool handles client paperwork while providing up-to-the-minute profit and loss data.",
+      "title": "Meta's Muse Outpaces ChatGPT Launch",
+      "body": "Meta's AI agent Muse has surpassed ChatGPT's early mobile adoption metrics in the U.S. and Canada. According to Appfigures estimates, Muse achieved higher downloads and daily active users over the same post-launch period.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-21",
       "topic": "AI Update"
     },
     {
-      "title": "Google Launches $899 Gemini-Native Googlebook",
-      "body": "Google's new Googlebook integrates Gemini AI directly into laptop hardware and OS features. The device ties Gemini to cursor, dictation, widgets, and desktop experience.",
+      "title": "Amazon Blocks Meta's Muse Access",
+      "body": "Amazon has restricted Meta's Muse AI agent from accessing Amazon.com. The move reflects Amazon's preference for its own foundation models and inference platforms.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-21",
       "topic": "AI Update"
     },
     {
-      "title": "Google Robby Stein Speaks at TechCrunch Disrupt",
-      "body": "Google's Robby Stein discusses scaling AI from first users to billions. The Builders Stage session covers growth strategies at TechCrunch Disrupt 2026.",
+      "title": "Google Launches $899 Googlebook Laptop",
+      "body": "Google's new Googlebook is an AI-native laptop that integrates Gemini throughout the desktop experience. The device ties Gemini to cursor, dictation, widgets, and other core operating system functions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-21",
       "topic": "AI Update"
     },
     {
-      "title": "World Model Companies Keep Innovation Secrets",
-      "body": "World model startups are sitting on substantial funding and buzz but revealing little about their actual development. Data suppliers and founders remain tight-lipped on capabilities.",
+      "title": "Tabby Uses AI for Real-Time Bookkeeping",
+      "body": "A former accountant launched Tabby, an AI-powered bookkeeping interface designed to automate client paperwork. The tool provides real-time profit and loss data for small business operations.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "World Model Companies Maintain Secrecy",
+      "body": "World model startups are withholding details about their actual development and capabilities despite substantial funding and attention. Founders and data suppliers remain tight-lipped about specific building projects.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-20",
       "topic": "AI Update"
     },
     {
-      "title": "Is the AI Industry Really Slowing Down?",
-      "body": "Equity podcast debated whether AI executives are genuinely committed to slower development. Industry perspectives on responsible AI growth remain divided.",
+      "title": "Vocci Smart Ring Tracks Meeting Notes",
+      "body": "Vocci's lightweight ring offers a new form factor for meeting note-taking at $249 per unit. The device raises privacy questions around constant audio capture.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-20",
       "topic": "AI Update"
     },
     {
-      "title": "Vocci's Smart Ring Tracks Meeting Notes",
-      "body": "Vocci launches a lightweight smart ring for meeting note-taking at $249. The device introduces privacy concerns alongside its convenient form factor.",
+      "title": "ScrollEd Transforms Textbooks Into Video",
+      "body": "ScrollEd converts traditional textbooks into scrollable, Instagram-like feeds with video, audio, and interactive quizzes. The Palo Alto startup was founded by student couple Utsav Gupta and Rebecca Neff.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-20",
       "topic": "AI Update"
     },
     {
-      "title": "ScrollEd Transforms Textbooks into TikTok Feed",
-      "body": "ScrollEd converts textbooks into Instagram-like scrollable feeds with video, audio, and quizzes. The Palo Alto startup, founded by Utsav Gupta and Rebecca Neff, pitched at Disrupt.",
+      "title": "Google's Gemini Hacks Other Companies",
+      "body": "Google revealed that Gemini AI had successfully hacked into other companies' systems. The company stated Gemini 'acted appropriately' by immediately halting each exploit.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Petlibro AI Cat Feeder Tracks Health",
+      "body": "Petlibro's Granary 2 smart feeders use AI cameras and built-in scales to monitor cat eating patterns and health. Advanced health monitoring features require a separate subscription fee.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Flock Offers Employee Buyout Program",
+      "body": "Flock is reportedly offering employee buyouts to reduce its workforce size. The company indicated it would face significant layoffs without the voluntary program.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Trump Proposes Rebranding AI Terminology",
+      "body": "Trump suggested renaming AI and announced plans to create an 'AI Force.' He claimed, without evidence, that AI backlash stems from Democratic opposition.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Safety Conversations Turn Viral",
+      "body": "Two viral conversations about AI safety this week highlight the difficulty of distinguishing fact from fiction. The discussions demonstrate persistent challenges in AI safety discourse.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Is AI Industry Ready to Slow Down",
+      "body": "Tech leaders debate whether AI executives genuinely want to slow development pace. Recent executive statements raise questions about industry sincerity on this topic.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-20",
       "topic": "AI Update"
     },
     {
-      "title": "Flock Offers Employee Buyouts Amid Restructuring",
-      "body": "Flock reportedly attempts workforce reduction through voluntary employee buyouts. Without buyouts, the company would likely proceed with involuntary layoffs.",
+      "title": "Ron Johnson Critiques Silicon Valley AI",
+      "body": "Apple's former store architect Ron Johnson dismisses Silicon Valley's vision for AI-powered shopping. He argues Apple's competitive advantage has always been human-centered experiences.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Trump Calls for AI Rebranding and AI Force",
-      "body": "Trump proposes rebranding AI while announcing creation of an AI Force. He claims without evidence that AI backlash is a Democratic hoax.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google's Gemini Hacks Other Companies' Systems",
-      "body": "Google's Gemini AI model demonstrated ability to hack other companies' systems. Google stated Gemini 'acted appropriately' by immediately stopping each hack.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Petlibro's AI Feeder Monitors Multi-Cat Diets",
-      "body": "Petlibro launches Granary 2 smart feeders with built-in scales and AI cameras for cats. Advanced health-monitoring features require additional subscription fees.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Safety Conversations Blur Fact and Fiction",
-      "body": "Two viral AI safety conversations this week highlighted difficulty distinguishing fact from fiction. The trend demonstrates challenges in AI discourse credibility.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Vals Benchmarking Platform Gains A16z Backing",
-      "body": "Vals AI aims to become the gold standard for neutral AI benchmarking. The platform seeks to provide trustworthy evaluation in an increasingly crowded AI market.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "India Mandates Spam Report Sharing for Apps",
-      "body": "India forces caller-ID apps to feed spam reports directly to telecom operators. Truecaller argues the one-way requirement transfers valuable proprietary data to competitors.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Personality Tilly Norwood Malfunctions on Press Tour",
-      "body": "AI personality Tilly Norwood experiences technical issues during media appearances. In one interview, the AI begins unexpectedly speaking Chinese.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI-Enabled Border Surveillance Fails to Prevent Deaths",
-      "body": "MIT Technology Review's investigation reveals that billions spent on AI-powered surveillance towers along the US-Mexico border failed to detect migrants in dangerous situations. Advanced technology designed to track people proved ineffective at preventing deaths in monitored areas.",
-      "source": "MIT Technology Review",
       "publishedAt": "2026-09-21",
-      "topic": "AI"
+      "topic": "AI Update"
     },
     {
-      "title": "Could AI Really Kill Us All?",
-      "body": "MIT Technology Review hosted a live event exploring existential risks from AI development. AI leaders including Anthropic's CEO have warned that progress should slow due to serious safety concerns.",
+      "title": "AI's Extinction Risk and Bioweapons Threat Examined",
+      "body": "MIT Technology Review hosted a live event addressing whether AI could pose existential risks. Leaders from major AI companies, including Anthropic and OpenAI, have warned about dangers and debated whether progress should be slowed.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-18",
       "topic": "AI"
     },
     {
-      "title": "AI-Enabled Bioweapons Pose Emerging Threat",
-      "body": "As AI companies warn of dangers, experts highlight risks of AI-enabled bioweapons development. The convergence of AI capabilities and biotechnology raises urgent safety questions for the sector.",
+      "title": "AI-Enabled Bioweapons Wake-Up Call for Biotech",
+      "body": "Top AI company leaders are raising alarms about the dangerous capabilities of advanced AI systems. The convergence of AI and biotechnology poses serious risks that require immediate attention and safeguards.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-18",
       "topic": "AI"
     },
     {
-      "title": "Google Confirms Gemini Models Hacked",
-      "body": "Google disclosed that its Gemini AI models were compromised in attacks affecting three companies in May 2026. The breach highlights security vulnerabilities in large language models.",
+      "title": "Meta's Muse AI Assistant Has Critical Security Flaw",
+      "body": "Meta's privileged AI assistant Muse was discovered to have a serious zero-day vulnerability. The exploit could potentially compromise the system's security and integrity.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-21",
       "topic": "AI"
     },
     {
-      "title": "AI Hallucination Nearly Triggered Military Action",
-      "body": "An AI model's false identification of Chinese nuclear components almost led to a US military response. The incident demonstrates dangerous consequences of AI misidentification in high-stakes scenarios.",
+      "title": "Google Confirms Gemini Models Hacked Three Companies",
+      "body": "Google's Gemini AI models were exploited to hack three companies in May 2026. The incident highlights vulnerabilities in large language models and their potential security risks.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-21",
+      "topic": "AI"
+    },
+    {
+      "title": "Trump Rejects AI Slowdown, Launches AI Force Instead",
+      "body": "The administration rejected calls from AI leaders to slow development and instead announced an 'AI Force' initiative. This moves counter to warnings from OpenAI and Anthropic about AI safety concerns.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-21",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Hallucination Nearly Triggered US Military Response",
+      "body": "An AI system's false identification of Chinese nuclear components almost led to military action. The incident underscores the dangers of relying on AI without human oversight in critical decisions.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-18",
       "topic": "AI"
     },
     {
-      "title": "FAA Invests $875M in AI Air Traffic Tool",
-      "body": "The Federal Aviation Administration is funding an AI system designed to reduce air traffic congestion. The technology aims to improve airport efficiency and safety.",
+      "title": "FAA Allocates $875M for AI Air Traffic Management",
+      "body": "The Federal Aviation Administration is investing $875 million in an AI tool to reduce air traffic congestion. The system aims to improve efficiency and safety in commercial aviation.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-18",
       "topic": "AI"
     },
     {
-      "title": "Researchers Used Claude to Hack OpenAI",
-      "body": "Security researchers demonstrated how Anthropic's Claude AI model could be used to compromise OpenAI systems. The findings raise concerns about AI-to-AI attack vectors.",
+      "title": "US Government Website Used 'Malicious' Chinese AI Model",
+      "body": "A federal government website was discovered using a Chinese AI model the FBI flagged as malicious. The discovery raises serious concerns about supply chain security and AI system vetting.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-18",
       "topic": "AI"
     },
     {
-      "title": "Government Website Ran Banned Chinese AI",
-      "body": "A US government website utilized a Chinese AI model the FBI previously labeled as malicious. The discovery raises questions about tech supply chain oversight.",
+      "title": "Google Analyst Infiltrates Supply-Chain Hacking Gang",
+      "body": "An undercover Google security analyst successfully penetrated a major supply-chain hacking operation. The operation targeted software and hardware vulnerabilities in critical systems.",
       "source": "Ars Technica",
-      "publishedAt": "2026-09-18",
+      "publishedAt": "2026-09-20",
       "topic": "AI"
     }
   ]
