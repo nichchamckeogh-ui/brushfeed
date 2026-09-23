@@ -1,166 +1,145 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-09-23T06:43:11.886Z",
-  "cardCount": 23,
-  "aiUpdateCount": 17,
+  "generatedAt": "2026-09-23T18:16:56.304Z",
+  "cardCount": 20,
+  "aiUpdateCount": 15,
   "cards": [
     {
-      "title": "Greece's PM: No Government Ready for AI",
-      "body": "Greek Prime Minister Kyriakos Mitsotakis admitted that no government is prepared for AI's imminent impact. He broke from typical trade mission rhetoric to give candid insights on the technology's disruption.",
+      "title": "ChatGPT Mobile App Gets Agentic Features",
+      "body": "Pro and Plus users can now use the Work tab on their phones to complete agentic tasks. This brings advanced AI capabilities directly to mobile devices for enhanced productivity.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-23",
       "topic": "AI Update"
     },
     {
-      "title": "Snorkel AI Triples Valuation to $3.5B",
-      "body": "The data-as-a-service startup raised $350 million in Series E funding as demand for AI training data surges. The seven-year-old company has tripled its valuation.",
+      "title": "Americans Worry About AI Despite Daily Use",
+      "body": "Greater exposure to AI does not reduce public unease about the technology. Support for AI regulation remains strong even among frequent users.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "YouTube Music Launches Conversational AI Search",
+      "body": "Ask Music lets users describe what they want to hear in everyday language. The feature is built directly into the YouTube Music app for seamless discovery.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "YouTube Enables Custom AI-Powered Feed Creation",
+      "body": "Users can describe the videos they want to see and Gemini builds a personalized feed around the request. This gives viewers greater control over their algorithm.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "YouTube Studio Gets New AI Creator Tools",
+      "body": "YouTube is adding AI features to generate ideas and monitor thumbnail performance. These tools help creators optimize their content strategy.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Spotify Rolls Out AI Taste Profile Feature",
+      "body": "Taste Profile is now available to Premium users in the U.S., showing how Spotify understands their music preferences. Users can reshape recommendations using natural language.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Ema Raises $77M for Enterprise AI Software",
+      "body": "The startup has now raised $140 million total and serves over 50 enterprise customers including Google and Microsoft. Ema is capturing market share as AI disrupts enterprise software.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Greece's PM Says No Government Ready for AI",
+      "body": "Greek Prime Minister Kyriakos Mitsotakis admitted that governments are unprepared for AI's imminent impact. He emphasized the need for proactive policy preparation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Snorkel AI Triples Valuation to $3.5 Billion",
+      "body": "The startup raised $350 million in Series E funding as demand for AI training data surges. Snorkel's data-as-a-service approach continues to attract major investment.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-22",
       "topic": "AI Update"
     },
     {
       "title": "Qualcomm Launches AI-Focused Smartphone Chips",
-      "body": "Qualcomm's new top chip can run 30B mixture-of-expert models locally on smartphones. The launch emphasizes on-device AI capabilities.",
+      "body": "The new flagship chip can run a 30B mixture-of-expert model locally on smartphones. Qualcomm is prioritizing on-device AI capabilities for mobile devices.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-22",
       "topic": "AI Update"
     },
     {
       "title": "Meta's Muse Inspired by OpenClaw Design",
-      "body": "Meta acknowledges its Muse AI assistant was 'heavily inspired' by OpenClaw, including workspace filenames and content. The company maintains Muse was built from scratch.",
+      "body": "Meta acknowledged that its Muse AI assistant was 'heavily inspired' by OpenClaw, including workspace filenames and content similarities. Meta claims Muse was built from scratch despite the resemblance.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-22",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Launches GPT-6 Sol and Luna",
-      "body": "OpenAI released two new models with lower costs and fewer mistakes, built on the Astra foundation. Both models cut from the same advanced cloth.",
+      "title": "OpenAI Launches GPT-6 Sol and Luna Models",
+      "body": "The new models promise lower costs and fewer mistakes than predecessors. They share the same architecture as Astra, OpenAI's multimodal system.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-22",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Releases Opus 5.5 Model",
-      "body": "Opus 5.5 offers lower prices and Fable-level performance, called Anthropic's 'strongest-performing model tested to date.' The release emphasizes cost efficiency improvements.",
+      "title": "Anthropic Releases Opus 5.5 with Lower Costs",
+      "body": "Opus 5.5 delivers Fable-level performance at reduced pricing. Anthropic calls it 'the strongest-performing model we've tested to date.'",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-22",
       "topic": "AI Update"
     },
     {
-      "title": "AstroForge Deploys AI on Space Probe",
-      "body": "Autonomy-1 will use a small transformer-based AI model to command AstroForge's next spacecraft. The system enables autonomous space operations.",
+      "title": "AstroForge Deploys AI in Next Spacecraft",
+      "body": "Autonomy-1 will carry a small transformer-based AI model commanding the space probe. The mission demonstrates AI's potential in autonomous space operations.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-22",
       "topic": "AI Update"
     },
     {
-      "title": "TechCrunch Disrupt Features AI Safety Sessions",
-      "body": "Five AI safety sessions at TechCrunch Disrupt 2026 feature leaders from Anthropic, Nvidia, AWS, and Waabi. Register before September 25 to save up to $200.",
+      "title": "Hello Robot Demos Stretch 4 at TechCrunch",
+      "body": "CEO Aaron Edsinger will bring Hello Robot's Stretch 4 for a live demonstration on the Real World AI Stage. The event showcases practical AI robotics applications.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-22",
       "topic": "AI Update"
     },
     {
-      "title": "Hello Robot Demos Stretch 4 Onstage",
-      "body": "Hello Robot CEO Aaron Edsinger will bring Stretch 4 for a live demo at TechCrunch Disrupt 2026. The robotic system showcases real-world AI applications.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-22",
-      "topic": "AI Update"
-    },
-    {
-      "title": "TechCrunch Disrupt Opens Exhibit Tables",
-      "body": "One final week to book exhibit tables at TechCrunch Disrupt 2026, ending September 30. Showcase your startup to 10,000+ founders and investors at Moscone West.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-22",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Data Center Construction Faces Resistance",
-      "body": "Pennsylvania's two-year battle over AI data center construction reveals widespread opposition from communities. The debate highlights tensions between tech growth and local concerns.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-22",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nscale's IPO Tests AI Infrastructure Appetite",
-      "body": "The British AI data center developer depends heavily on Microsoft and Anthropic for revenue. Its IPO will gauge Wall Street's appetite for concentrated AI bets.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-22",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Apple Store Architect Skeptical of AI Retail",
-      "body": "Ron Johnson, who built Apple's stores, argues AI shopping overlooks the importance of human interaction. Apple's secret sauce has always been its people-centric approach.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-21",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Forms Math Advisory Group",
-      "body": "OpenAI's AI has resolved more than 100 open mathematical problems. The new advisory group will guide ongoing mathematical research without slowing progress.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-21",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta's Muse Outpaces ChatGPT Mobile Launch",
-      "body": "Meta's Muse has accumulated more downloads and daily active users than ChatGPT over the same post-launch period in the U.S. and Canada. The AI agent is gaining rapid traction.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-21",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Amazon Blocks Meta's Muse from Platform",
-      "body": "Amazon has barred Meta's Muse from accessing Amazon.com, protecting its own AI models and inference platform. The move highlights competitive tensions in AI services.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-21",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Tabby Uses AI to Automate Accounting",
-      "body": "A former accountant created Tabby, a real-time bookkeeping interface powered by AI. The system handles clients' paperwork while providing up-to-the-minute profit and loss data.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-21",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Don't Be Fooled by This Summer of AI Hype",
-      "body": "Timnit Gebru and Emily M. Bender warn that recent AI breakthroughs may be overstated. Claims about Claude's security abilities and other model improvements deserve skepticism.",
+      "title": "Don't Be Fooled by AI Hype This Summer",
+      "body": "Timnit Gebru and Emily M. Bender warn that recent AI breakthroughs may be overstated. Claims like Anthropic's Claude finding vulnerabilities better than security experts deserve scrutiny.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-22",
+      "topic": "AI"
+    },
+    {
+      "title": "AI-Enabled Border Towers Fail to Prevent Deaths",
+      "body": "MIT Technology Review's investigation found people walked undetected through areas surveilled by advanced, AI-enabled surveillance towers. Despite billions spent, the virtual wall hasn't prevented tragic border crossings.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-09-21",
       "topic": "AI"
     },
     {
       "title": "New Anthropic, OpenAI Models Promise More for Less",
-      "body": "Both companies released new AI models offering improved performance at lower costs. The models represent a competitive shift in pricing and capabilities.",
+      "body": "Both AI giants released new models claiming improved performance at lower costs. The developments signal intensifying competition in the AI model market.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-22",
       "topic": "AI"
     },
     {
-      "title": "Microsoft Disrupts AI-Assisted Platform Compromising 12,000 Accounts",
-      "body": "Microsoft identified and shut down an AI-enabled platform being used for account compromise attacks. The breach affected 12,000 user accounts across the platform.",
+      "title": "Microsoft Disrupts AI Platform Compromising 12,000 Accounts",
+      "body": "Microsoft took action against an AI-assisted platform that had compromised thousands of user accounts. The incident highlights security vulnerabilities in AI systems.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-22",
       "topic": "AI"
     },
     {
-      "title": "Could AI Really Kill Us All? Questions Answered",
-      "body": "MIT Technology Review hosted a live roundtable examining existential risks from advanced AI. The session addressed subscriber questions about AI safety and extinction scenarios.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-09-18",
-      "topic": "AI"
-    },
-    {
-      "title": "Muse, Meta's AI Assistant, Has Serious 0-Day Vulnerability",
-      "body": "Meta's privileged AI assistant Muse is affected by a critical zero-day security flaw. The vulnerability poses immediate risks to systems relying on the tool.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-21",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Confirms Gemini Models Hacked Three Companies",
-      "body": "Google's Gemini AI models were used in attacks compromising three companies in May 2026. The incident highlights security vulnerabilities in widely-deployed AI systems.",
+      "title": "Meta's Muse AI Assistant Faces Serious Security Flaw",
+      "body": "Meta's AI assistant Muse was discovered to have a critical zero-day vulnerability. The security issue raises concerns about enterprise AI tool safety.",
       "source": "Ars Technica",
       "publishedAt": "2026-09-21",
       "topic": "AI"
