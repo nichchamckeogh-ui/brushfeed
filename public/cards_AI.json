@@ -1,175 +1,189 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-05T18:17:01.533Z",
-  "cardCount": 24,
-  "aiUpdateCount": 15,
+  "generatedAt": "2026-10-06T06:43:19.253Z",
+  "cardCount": 26,
+  "aiUpdateCount": 16,
   "cards": [
     {
-      "title": "OpenAI Launches Visual Ads in Image Generation",
-      "body": "OpenAI is introducing visual ads that appear after image generation results, initially rolling out in the U.S. only. The move marks the company's expansion into advertising within its creative tools.",
+      "title": "OpenAI Watermarks ChatGPT Text in EU",
+      "body": "OpenAI will add invisible watermarks to ChatGPT and Codex text to comply with the AI Act in Europe. The company notes that editing can make these marks harder to detect.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
-      "title": "HackerRank's AI Interviewer Hits 500K Interviews",
-      "body": "HackerRank's AI interviewer has conducted over 500,000 interviews with major companies like Snowflake and Capgemini. The tool is reshaping how tech hiring could work at scale.",
+      "title": "Reflection Launches Beam Open-Weight Model",
+      "body": "Reflection debuted Beam, an AI model targeting enterprises and sovereign nations at lower compute cost than Chinese alternatives. The company pitches 'AI factories' letting institutions build customized local systems trained on proprietary data.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
-      "title": "Google Freezes Open Source Bug Bounty Program",
-      "body": "Google paused its open source bug bounty program due to a significant rise in AI-generated submissions. The move highlights how AI spam is overwhelming security research workflows.",
+      "title": "Instinct Expands AI Agent to Group Chats",
+      "body": "Instinct launched group chat features allowing friends to use its AI agent together for planning trips and coordinating events. Personal accounts remain separate, with permission required before sharing information.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-10-04",
+      "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
-      "title": "Trump Administration Launches Super Intelligence Force",
-      "body": "The Trump administration unveiled a new Super Intelligence Force task force as part of its AI policy response. The initiative addresses ongoing debates around AI safety and development.",
+      "title": "TikTok Rolls Out AI Shopping Assistant",
+      "body": "TikTok introduced a conversational AI Shopping Assistant to help users discover and purchase products. The feature also includes one-click checkout functionality.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-10-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Safety Employee Resigns Over Culture",
-      "body": "David Robinson, an OpenAI safety employee, resigned claiming the company's culture is broken. His departure adds to growing concerns about safety priorities at leading AI firms.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-03",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Apple Tightens macOS Full Disk Access Controls",
-      "body": "Apple is adding new controls to macOS's Full Disk Access permission due to risks from increasingly capable AI agents. The move protects user files, messages, and browsing history from broad AI access.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02",
-      "topic": "AI Update"
-    },
-    {
-      "title": "White House Gets Tech CEOs to Sign AI Pledge",
-      "body": "President Trump convened major tech leaders including Zuckerberg, Bezos, and Musk to sign a morally binding AI safety pledge. The White House is rebranding AI as super intelligence in its policy messaging.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Sean Parker Rebuilds Stability AI Around Music",
-      "body": "Sean Parker is repositioning Stability AI to focus on music generation with music label backing. The move signals a strategic pivot for the company.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta Open-Sources Muse for Consumer Devices",
-      "body": "Meta is releasing Muse code for free to encourage adoption across consumer electronics like TVs and appliances. The strategy aims to embed Meta's AI capabilities broadly across devices.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-03",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Amazon Defends Data Centers, Drops NDAs",
-      "body": "AWS CEO pushed back against data center skepticism by announcing the company no longer uses NDAs. The transparency move comes amid widespread concerns about data center practices.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-03",
+      "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
       "title": "Hot Girl Hotline Offers AI Dating Advice",
-      "body": "Two sisters founded Hot Girl Hotline, an AI service providing personalized dating and relationship advice to young women. The platform emphasizes safety and avoids fostering emotional dependency.",
+      "body": "Hot Girl Hotline, founded by two sisters, uses AI to provide personalized dating and relationship advice to young women. The service emphasizes safety and avoiding emotional dependency.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
-      "title": "Researchers Track Chinese AI Agent Swarm",
-      "body": "Independent researchers discovered an AI agent swarm running on Tencent's infrastructure targeting Alibaba's Amap service. The discovery raises questions about competitive AI operations in China.",
+      "title": "HackerRank's AI Interviewer Conducts 500K+ Interviews",
+      "body": "HackerRank's AI interviewer has conducted over 500,000 interviews with early adopters including Snowflake, Snorkel, and Capgemini. The tool is reshaping how companies conduct technical hiring.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Launches Visual Ads in Image Generation",
+      "body": "OpenAI introduced visual ads appearing alongside image generation results, starting this month in the U.S. only. An initial test group of advertisers will feature their products and services.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Researchers Track Chinese AI Agent Fleet",
+      "body": "Independent researchers discovered an agent swarm running on Tencent's infrastructure targeting Alibaba's Amap service. The discovery highlights emerging concerns about AI agent coordination.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
       "title": "Safeworld Builds Digital Humans for Robot Safety",
-      "body": "Safeworld is developing digital humans to ensure robots won't harm real people. The company addresses growing concerns about AI agent and robotics safety.",
+      "body": "Safeworld is developing digital humans to ensure robots don't harm people in real-world interactions. The company focuses on AI-driven safety solutions for robotics.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
-      "title": "AI Agents Now Available in Text Messages",
-      "body": "Multiple AI agents can now operate within text messaging platforms for various use cases. Options range from general assistants to specialized agents for families, travel, and work.",
+      "title": "Google Freezes Open Source Bug Bounty Program",
+      "body": "Google temporarily froze its open source bug bounty program due to a significant rise in AI-generated submissions. The move addresses overwhelming volumes of low-quality AI slop.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-04",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Trump Launches Super Intelligence Task Force",
+      "body": "The Trump administration unveiled a new Super Intelligence Force as its latest response to AI safety debates. The initiative aims to address concerns about AI's societal impact.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-04",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Amazon Drops NDAs for Data Center Concerns",
+      "body": "Amazon Web Services announced it no longer uses NDAs, responding to widespread suspicion about data centers. The move represents an effort to address public concerns about transparency.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-03",
       "topic": "AI Update"
     },
     {
-      "title": "Consumer Skepticism on Super Intelligence Remains High",
-      "body": "Only 2% of consumers are buying into the super intelligence messaging promoted by the administration and tech companies. Public sentiment lags far behind industry and government enthusiasm for the technology.",
+      "title": "OpenAI Safety Employee Resigns Over Culture",
+      "body": "David Robinson, an OpenAI safety employee, resigned claiming the company's culture is broken. His departure adds to ongoing concerns about safety practices at leading AI firms.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-03",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Agents Now Live in Text Messages",
+      "body": "A new wave of AI agents can operate directly within text messaging apps, from general assistants to specialized travel and work tools. These range from family-focused to professional applications.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-03",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta Open-Sources Muse AI Technology",
+      "body": "Meta is open-sourcing its Muse AI technology, targeting integration into TVs, toasters, and other devices. The company is distributing the code freely to accelerate adoption.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-03",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Sean Parker Rebuilds Stability AI Around Music",
+      "body": "Sean Parker is rebuilding Stability AI with a focus on music generation, now with music label support. The shift represents a strategic pivot toward the entertainment industry.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-02",
       "topic": "AI Update"
     },
     {
       "title": "Connecting AI agents to enterprise knowledge",
-      "body": "Enterprise AI agents often lack organizational context despite processing vast amounts of data. Knowledge—understanding what data means within specific business contexts—is critical for AI systems to function effectively.",
+      "body": "Enterprise AI agents struggle to leverage organizational context despite processing vast amounts of data. True knowledge—understanding what data means within specific business contexts—is essential for AI agents to perform effectively.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-05",
       "topic": "AI"
     },
     {
       "title": "Bringing predictive analytics to agentic AI era",
-      "body": "Predictive models now reliably outperform statistical forecasts, but the real challenge is enabling them to act autonomously while staying aligned with business goals. The frontier has shifted from prediction accuracy to maintaining business intent in AI actions.",
+      "body": "Predictive models now consistently outperform traditional statistical forecasts, shifting focus to autonomous action. The challenge is enabling AI systems to act on conclusions while staying aligned with business objectives.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-05",
       "topic": "AI"
     },
     {
-      "title": "People hate AI, yet can't stop using it",
-      "body": "Despite public skepticism toward AI, adoption continues to surge across sectors. This paradox reflects tension between distrust of AI capabilities and the genuine utility these systems provide.",
+      "title": "People really hate AI, yet use it constantly",
+      "body": "Despite widespread negativity about AI, adoption and engagement remain high—a paradox reshaping how companies build LLMs. Some startups are deliberately designing AI that generates diverse responses to stand out from mainstream alternatives.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-05",
       "topic": "AI"
     },
     {
-      "title": "When AI meets biology, infrastructure, and science",
-      "body": "Google Research VP explores AI's expanding impact beyond traditional applications into biology, infrastructure, and manufacturing. The greatest breakthroughs may emerge where AI intersects with multiple disciplines.",
+      "title": "AI reshaping biology, infrastructure, manufacturing, and science",
+      "body": "Google Research VP Yossi Matias highlights how AI is transforming multiple scientific and industrial fields simultaneously. The greatest impact may emerge when AI intersects with other emerging technologies and disciplines.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-05",
       "topic": "AI"
     },
     {
       "title": "Redefining enterprise intelligence with autonomous AI",
-      "body": "Enterprise AI is now operationally deployed at scale with capabilities advancing faster than organizations can adopt them. Global AI investment is projected to reach $2.5 trillion in 2026, a 44% increase year-over-year.",
+      "body": "Enterprise AI has moved from planning to full operational deployment with rapidly advancing capabilities. Global AI investment is projected to reach $2.5 trillion in 2026, up 44% year-over-year.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-02",
       "topic": "AI"
     },
     {
-      "title": "Don't be fooled—LLMs don't actually reason",
-      "body": "Large language models generate plausible text patterns but lack true reasoning capabilities. Understanding this limitation is crucial for realistic expectations about AI system abilities.",
+      "title": "LLMs don't reason, they pattern-match",
+      "body": "Large language models excel at pattern recognition but lack true reasoning capabilities, as demonstrated by historical AI breakthroughs like AlphaGo. Understanding this distinction is critical for realistic expectations about AI capabilities.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-02",
       "topic": "AI"
     },
     {
-      "title": "AI tool reconstructs images from brain scans",
-      "body": "A new AI system can predict what you're viewing based solely on brain scan analysis. This breakthrough demonstrates novel applications of AI in neuroscience and cognitive research.",
+      "title": "AI mind-reading tool reconstructs visual perception",
+      "body": "New AI technology can predict what you're looking at by analyzing brain scans with remarkable accuracy. This breakthrough demonstrates AI's growing ability to interpret neural activity patterns.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-01",
       "topic": "AI"
     },
     {
-      "title": "Apple restricts full-disk access to curb AI agents",
-      "body": "Apple modified permissions to prevent unauthorized access by AI agents on its platform. The move reflects growing security concerns as autonomous AI systems become more prevalent.",
+      "title": "MCP protocol poses emerging risks for AI",
+      "body": "The Model Context Protocol for agent-to-agent communication is gaining adoption but presents understated security challenges. Industry awareness remains low despite the protocol's potential to become foundational AI infrastructure.",
       "source": "Ars Technica",
-      "publishedAt": "2026-10-02",
+      "publishedAt": "2026-10-05",
       "topic": "AI"
     },
     {
       "title": "AI glasses face first major government crackdown",
-      "body": "Regulatory bodies are beginning to restrict AI-powered glasses technology, marking a significant policy shift. Privacy and surveillance concerns are driving the enforcement action.",
+      "body": "Governments are beginning to regulate AI-powered wearable eyewear technology over privacy and safety concerns. This marks a turning point in how societies approach AI device governance.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-05",
+      "topic": "AI"
+    },
+    {
+      "title": "Apple restricts full-disk access to curb AI agents",
+      "body": "Apple is implementing stricter permission controls to prevent AI agents from accessing sensitive system files. The move reflects growing concerns about autonomous AI having unchecked access to user data.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-02",
       "topic": "AI"
     }
   ]
