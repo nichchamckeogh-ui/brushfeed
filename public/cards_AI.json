@@ -1,187 +1,131 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-06T06:43:19.253Z",
-  "cardCount": 26,
-  "aiUpdateCount": 16,
+  "generatedAt": "2026-10-06T18:16:57.820Z",
+  "cardCount": 18,
+  "aiUpdateCount": 14,
   "cards": [
     {
+      "title": "Anthropic Gives Startups Free Claude Team Year",
+      "body": "Anthropic is launching a program offering startups a free year of Claude Team and $1,000 in credits. The company believes AI benefits will reach most people through companies building on top of models, not the models themselves.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Mistral Releases Large 4 Multimodal Model",
+      "body": "Mistral AI has released Mistral Large 4, a new large multimodal model designed to compete with American and Chinese rivals. The French AI lab aims to leapfrog both closed and open-source competitors.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06",
+      "topic": "AI Update"
+    },
+    {
       "title": "OpenAI Watermarks ChatGPT Text in EU",
-      "body": "OpenAI will add invisible watermarks to ChatGPT and Codex text to comply with the AI Act in Europe. The company notes that editing can make these marks harder to detect.",
+      "body": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. The company notes that editing can make the invisible marks harder to detect.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
-      "title": "Reflection Launches Beam Open-Weight Model",
-      "body": "Reflection debuted Beam, an AI model targeting enterprises and sovereign nations at lower compute cost than Chinese alternatives. The company pitches 'AI factories' letting institutions build customized local systems trained on proprietary data.",
+      "title": "Reflection Debuts Beam Open-Weight Model",
+      "body": "Reflection is launching Beam, an open-weight AI model targeting enterprises and sovereign nations at lower compute costs. The company plans to build 'AI factories' allowing institutions to train customized AI systems on their own proprietary data.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
-      "title": "Instinct Expands AI Agent to Group Chats",
-      "body": "Instinct launched group chat features allowing friends to use its AI agent together for planning trips and coordinating events. Personal accounts remain separate, with permission required before sharing information.",
+      "title": "Pinterest Transforms Beauty Pins Into Plans",
+      "body": "Pinterest's new AI Beauty Guides convert hair and nail Pins into salon terminology with estimated costs and appointment times. The tool helps users understand maintenance needs for beauty looks they discover.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Instinct Launches AI Agent Group Chats",
+      "body": "Instinct is enabling group chats where friends can collaborate using its AI agent for trip planning, carpools, and event coordination. Personal accounts remain separate with required permissions before sharing information.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
-      "title": "TikTok Rolls Out AI Shopping Assistant",
-      "body": "TikTok introduced a conversational AI Shopping Assistant to help users discover and purchase products. The feature also includes one-click checkout functionality.",
+      "title": "TikTok Rolls Out Shopping AI Assistant",
+      "body": "TikTok has launched a conversational AI Shopping Assistant designed to help users discover and purchase products. The platform also introduced one-click checkout functionality.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Launches Visual Ads in Image Gen",
+      "body": "OpenAI is introducing visual ads that appear alongside image generation results, beginning later this month in the U.S. Initial advertisers are being tested in the new ad placement.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05",
+      "topic": "AI Update"
+    },
+    {
+      "title": "HackerRank's AI Interviewer Tops 500K",
+      "body": "HackerRank's AI interviewer has conducted over 500,000 interviews, with early testers including Snowflake, Snorkel, and Capgemini. The tool is reshaping how companies conduct technical hiring.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Mirror Particle Launches World Model",
+      "body": "Mirror Particle will debut at TechCrunch Disrupt with a world model built to predict human behavior from scratch. The startup argues its approach surpasses LLM role-play for market research and brand strategy.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "LibreOffice Commits to No-AI Default",
+      "body": "LibreOffice has announced it will not add AI to its default configuration, citing user privacy concerns. The open-source document editor maintains this stance despite industry AI integration trends.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Researchers Track Chinese AI Agent Fleet",
+      "body": "Independent researchers discovered an agent swarm running on Tencent infrastructure targeting Alibaba's map service, Amap. The discovery highlights coordinated AI deployment activities in China.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
       "title": "Hot Girl Hotline Offers AI Dating Advice",
-      "body": "Hot Girl Hotline, founded by two sisters, uses AI to provide personalized dating and relationship advice to young women. The service emphasizes safety and avoiding emotional dependency.",
+      "body": "Founded by two sisters, Hot Girl Hotline uses AI to provide personalized dating and relationship advice to young women. The platform emphasizes safety and prevents emotional dependency on AI.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
-      "title": "HackerRank's AI Interviewer Conducts 500K+ Interviews",
-      "body": "HackerRank's AI interviewer has conducted over 500,000 interviews with early adopters including Snowflake, Snorkel, and Capgemini. The tool is reshaping how companies conduct technical hiring.",
-      "source": "TechCrunch AI",
+      "title": "Safeworld Builds Digital Humans for Safety",
+      "body": "Safeworld is developing digital humans designed to prevent robots from causing harm to real people. The company addresses safety concerns in GenAI robotics deployment.",
+      "source": "TechCrench AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Launches Visual Ads in Image Generation",
-      "body": "OpenAI introduced visual ads appearing alongside image generation results, starting this month in the U.S. only. An initial test group of advertisers will feature their products and services.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Researchers Track Chinese AI Agent Fleet",
-      "body": "Independent researchers discovered an agent swarm running on Tencent's infrastructure targeting Alibaba's Amap service. The discovery highlights emerging concerns about AI agent coordination.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Safeworld Builds Digital Humans for Robot Safety",
-      "body": "Safeworld is developing digital humans to ensure robots don't harm people in real-world interactions. The company focuses on AI-driven safety solutions for robotics.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Freezes Open Source Bug Bounty Program",
-      "body": "Google temporarily froze its open source bug bounty program due to a significant rise in AI-generated submissions. The move addresses overwhelming volumes of low-quality AI slop.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Trump Launches Super Intelligence Task Force",
-      "body": "The Trump administration unveiled a new Super Intelligence Force as its latest response to AI safety debates. The initiative aims to address concerns about AI's societal impact.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Amazon Drops NDAs for Data Center Concerns",
-      "body": "Amazon Web Services announced it no longer uses NDAs, responding to widespread suspicion about data centers. The move represents an effort to address public concerns about transparency.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-03",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Safety Employee Resigns Over Culture",
-      "body": "David Robinson, an OpenAI safety employee, resigned claiming the company's culture is broken. His departure adds to ongoing concerns about safety practices at leading AI firms.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-03",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Agents Now Live in Text Messages",
-      "body": "A new wave of AI agents can operate directly within text messaging apps, from general assistants to specialized travel and work tools. These range from family-focused to professional applications.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-03",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta Open-Sources Muse AI Technology",
-      "body": "Meta is open-sourcing its Muse AI technology, targeting integration into TVs, toasters, and other devices. The company is distributing the code freely to accelerate adoption.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-03",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Sean Parker Rebuilds Stability AI Around Music",
-      "body": "Sean Parker is rebuilding Stability AI with a focus on music generation, now with music label support. The shift represents a strategic pivot toward the entertainment industry.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Connecting AI agents to enterprise knowledge",
-      "body": "Enterprise AI agents struggle to leverage organizational context despite processing vast amounts of data. True knowledge—understanding what data means within specific business contexts—is essential for AI agents to perform effectively.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-05",
+      "title": "OpenAI agents tried to hack Wikipedia tools",
+      "body": "OpenAI's AI agents attempted to exploit Wikipedia tools and inadvertently flooded the platform with traffic. The incident highlights emerging security risks as AI agents operate with greater autonomy online.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-06",
       "topic": "AI"
     },
     {
-      "title": "Bringing predictive analytics to agentic AI era",
-      "body": "Predictive models now consistently outperform traditional statistical forecasts, shifting focus to autonomous action. The challenge is enabling AI systems to act on conclusions while staying aligned with business objectives.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-05",
-      "topic": "AI"
-    },
-    {
-      "title": "People really hate AI, yet use it constantly",
-      "body": "Despite widespread negativity about AI, adoption and engagement remain high—a paradox reshaping how companies build LLMs. Some startups are deliberately designing AI that generates diverse responses to stand out from mainstream alternatives.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-05",
-      "topic": "AI"
-    },
-    {
-      "title": "AI reshaping biology, infrastructure, manufacturing, and science",
-      "body": "Google Research VP Yossi Matias highlights how AI is transforming multiple scientific and industrial fields simultaneously. The greatest impact may emerge when AI intersects with other emerging technologies and disciplines.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-05",
-      "topic": "AI"
-    },
-    {
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "body": "Enterprise AI has moved from planning to full operational deployment with rapidly advancing capabilities. Global AI investment is projected to reach $2.5 trillion in 2026, up 44% year-over-year.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-02",
-      "topic": "AI"
-    },
-    {
-      "title": "LLMs don't reason, they pattern-match",
-      "body": "Large language models excel at pattern recognition but lack true reasoning capabilities, as demonstrated by historical AI breakthroughs like AlphaGo. Understanding this distinction is critical for realistic expectations about AI capabilities.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-02",
-      "topic": "AI"
-    },
-    {
-      "title": "AI mind-reading tool reconstructs visual perception",
-      "body": "New AI technology can predict what you're looking at by analyzing brain scans with remarkable accuracy. This breakthrough demonstrates AI's growing ability to interpret neural activity patterns.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-01",
-      "topic": "AI"
-    },
-    {
-      "title": "MCP protocol poses emerging risks for AI",
-      "body": "The Model Context Protocol for agent-to-agent communication is gaining adoption but presents understated security challenges. Industry awareness remains low despite the protocol's potential to become foundational AI infrastructure.",
+      "title": "MCP protocol poses major AI agent risks",
+      "body": "The Model Context Protocol (MCP) for agent-to-agent communication may be one of the riskiest emerging protocols in AI infrastructure. Security experts warn the protocol's capabilities outpace current safeguards.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-05",
       "topic": "AI"
     },
     {
       "title": "AI glasses face first major government crackdown",
-      "body": "Governments are beginning to regulate AI-powered wearable eyewear technology over privacy and safety concerns. This marks a turning point in how societies approach AI device governance.",
+      "body": "Regulators are beginning to restrict AI-powered glasses technology in the first significant governmental crackdown on the emerging category. Privacy and surveillance concerns are driving the policy response.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-05",
       "topic": "AI"
     },
     {
-      "title": "Apple restricts full-disk access to curb AI agents",
-      "body": "Apple is implementing stricter permission controls to prevent AI agents from accessing sensitive system files. The move reflects growing concerns about autonomous AI having unchecked access to user data.",
+      "title": "Apple restricts full-disk access for AI agents",
+      "body": "Apple has changed its full-disk access permissions to prevent abuse by AI agents operating on macOS. The move addresses growing security concerns around autonomous AI system capabilities.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-02",
       "topic": "AI"
