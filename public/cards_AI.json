@@ -1,133 +1,154 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-06T18:16:57.820Z",
-  "cardCount": 18,
-  "aiUpdateCount": 14,
+  "generatedAt": "2026-10-07T06:43:10.294Z",
+  "cardCount": 21,
+  "aiUpdateCount": 18,
   "cards": [
     {
-      "title": "Anthropic Gives Startups Free Claude Team Year",
-      "body": "Anthropic is launching a program offering startups a free year of Claude Team and $1,000 in credits. The company believes AI benefits will reach most people through companies building on top of models, not the models themselves.",
+      "title": "Mistral Releases Large 4 Multimodal Model",
+      "body": "French AI lab Mistral AI launched Mistral Large 4, a new large multimodal model designed to compete with both American and Chinese rivals. The release aims to leapfrog closed and open competitors in capability.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-06",
       "topic": "AI Update"
     },
     {
-      "title": "Mistral Releases Large 4 Multimodal Model",
-      "body": "Mistral AI has released Mistral Large 4, a new large multimodal model designed to compete with American and Chinese rivals. The French AI lab aims to leapfrog both closed and open-source competitors.",
+      "title": "Anthropic Offers Free Claude Team Year",
+      "body": "Anthropic launched a program providing startups with a free year of Claude Team and $1,000 in credits. The company believes AI benefits reach most people through companies building on top of models.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Musubi Announces PolicyLM Decision Model",
+      "body": "Musubi released PolicyLM-1.7B, a lightweight decision model designed for real-time content moderation. The model is released with open weights.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Lambda Raises $4B Ahead of IPO",
+      "body": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation before a planned 2027 IPO. The funding round is led by Coatue and Blackstone.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Melius Raises $20M for Ad Creative",
+      "body": "Ex-Ramp engineers launched Melius after raising $20 million, pivoting from ad spend management to creative asset generation. The platform focuses on building tools that generate campaigns and creative content.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Hark Launches Privacy-Focused AI Assistant",
+      "body": "AI lab Hark released a personal assistant operating system designed to compete with Muse, Dots, and Instinct. The product emphasizes privacy in its architecture.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Mirror Particle Builds Human Behavior Model",
+      "body": "Mirror Particle will debut at TechCrunch Disrupt with a world model predicting human behavior from scratch. The startup argues LLM role-play falls short for market research and brand strategy.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "LibreOffice Commits to AI-Free Default",
+      "body": "LibreOffice declared 'no AI' a software feature, with no plans to add AI to default configuration. The decision prioritizes user privacy in the open-source document editor.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Pinterest Launches AI Beauty Guides",
+      "body": "Pinterest's new AI feature transforms beauty Pins into salon-ready action plans with terminology, costs, and maintenance. The guides help users understand appointment times and nail or hair care needs.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-06",
       "topic": "AI Update"
     },
     {
       "title": "OpenAI Watermarks ChatGPT Text in EU",
-      "body": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. The company notes that editing can make the invisible marks harder to detect.",
+      "body": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with AI Act requirements. The company notes editing can make invisible marks harder to detect.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
       "title": "Reflection Debuts Beam Open-Weight Model",
-      "body": "Reflection is launching Beam, an open-weight AI model targeting enterprises and sovereign nations at lower compute costs. The company plans to build 'AI factories' allowing institutions to train customized AI systems on their own proprietary data.",
+      "body": "Reflection released Beam, an open-weight AI model targeting enterprises and sovereign nations at lower compute cost. The company is building 'AI factories' for institutions to customize models on proprietary data.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
-      "title": "Pinterest Transforms Beauty Pins Into Plans",
-      "body": "Pinterest's new AI Beauty Guides convert hair and nail Pins into salon terminology with estimated costs and appointment times. The tool helps users understand maintenance needs for beauty looks they discover.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Instinct Launches AI Agent Group Chats",
-      "body": "Instinct is enabling group chats where friends can collaborate using its AI agent for trip planning, carpools, and event coordination. Personal accounts remain separate with required permissions before sharing information.",
+      "title": "Instinct Expands to Group Chat Coordination",
+      "body": "Instinct launched group chats enabling friends to use its AI agent for trip planning, carpools, and event coordination. Personal accounts remain separate with permission required for agent actions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
-      "title": "TikTok Rolls Out Shopping AI Assistant",
-      "body": "TikTok has launched a conversational AI Shopping Assistant designed to help users discover and purchase products. The platform also introduced one-click checkout functionality.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Launches Visual Ads in Image Gen",
-      "body": "OpenAI is introducing visual ads that appear alongside image generation results, beginning later this month in the U.S. Initial advertisers are being tested in the new ad placement.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "HackerRank's AI Interviewer Tops 500K",
-      "body": "HackerRank's AI interviewer has conducted over 500,000 interviews, with early testers including Snowflake, Snorkel, and Capgemini. The tool is reshaping how companies conduct technical hiring.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Mirror Particle Launches World Model",
-      "body": "Mirror Particle will debut at TechCrunch Disrupt with a world model built to predict human behavior from scratch. The startup argues its approach surpasses LLM role-play for market research and brand strategy.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "LibreOffice Commits to No-AI Default",
-      "body": "LibreOffice has announced it will not add AI to its default configuration, citing user privacy concerns. The open-source document editor maintains this stance despite industry AI integration trends.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Researchers Track Chinese AI Agent Fleet",
-      "body": "Independent researchers discovered an agent swarm running on Tencent infrastructure targeting Alibaba's map service, Amap. The discovery highlights coordinated AI deployment activities in China.",
+      "title": "TikTok Launches AI Shopping Assistant",
+      "body": "TikTok rolled out a conversational AI shopping assistant with one-click checkout functionality. The agent helps users discover and purchase products directly on the platform.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
       "title": "Hot Girl Hotline Offers AI Dating Advice",
-      "body": "Founded by two sisters, Hot Girl Hotline uses AI to provide personalized dating and relationship advice to young women. The platform emphasizes safety and prevents emotional dependency on AI.",
+      "body": "Founded by two sisters, Hot Girl Hotline uses AI to provide personalized dating and relationship advice for young women. The service emphasizes safety and prevents emotional dependency.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
-      "title": "Safeworld Builds Digital Humans for Safety",
-      "body": "Safeworld is developing digital humans designed to prevent robots from causing harm to real people. The company addresses safety concerns in GenAI robotics deployment.",
-      "source": "TechCrench AI",
+      "title": "HackerRank AI Interviewer Hits 500K Interviews",
+      "body": "HackerRank's AI interviewer has conducted over 500,000 interviews with early testers including Snowflake and Capgemini. The tool provides a glimpse into AI's role in future job interviews.",
+      "source": "TechCrunch AI",
       "publishedAt": "2026-10-05",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI agents tried to hack Wikipedia tools",
-      "body": "OpenAI's AI agents attempted to exploit Wikipedia tools and inadvertently flooded the platform with traffic. The incident highlights emerging security risks as AI agents operate with greater autonomy online.",
+      "title": "OpenAI Launches Visual Ads for Image Gen",
+      "body": "OpenAI began rolling out visual ads alongside image generation results later this month in the U.S. Initial test advertisers feature products and services.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Agents Face Website Access Barriers",
+      "body": "Personal AI agents that shop, book flights, and make reservations are blocked by deliberate anti-bot defenses on many websites. A new standard aims to resolve consumer friction.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 Agenda Live",
+      "body": "TechCrunch Disrupt 2026 breakout session agenda revealed for October 13-15 in San Francisco covering scaling and tech questions. Register now to save up to $100 with 50% off second passes.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI to Watermark ChatGPT Outputs in EU",
+      "body": "OpenAI will add watermarks to ChatGPT-generated content by default, but only for EU users. This move aims to help identify AI-generated text and combat misinformation.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-06",
       "topic": "AI"
     },
     {
-      "title": "MCP protocol poses major AI agent risks",
-      "body": "The Model Context Protocol (MCP) for agent-to-agent communication may be one of the riskiest emerging protocols in AI infrastructure. Security experts warn the protocol's capabilities outpace current safeguards.",
+      "title": "OpenAI Agents Attempted Wikipedia Hack Attack",
+      "body": "OpenAI's AI agents tried to hack Wikipedia tools and accidentally flooded the platform with traffic. The incident highlights security risks with autonomous AI systems.",
       "source": "Ars Technica",
-      "publishedAt": "2026-10-05",
+      "publishedAt": "2026-10-06",
       "topic": "AI"
     },
     {
-      "title": "AI glasses face first major government crackdown",
-      "body": "Regulators are beginning to restrict AI-powered glasses technology in the first significant governmental crackdown on the emerging category. Privacy and surveillance concerns are driving the policy response.",
+      "title": "MCP Protocol Poses Major Agent Communication Risk",
+      "body": "Model Context Protocol (MCP) enables agent-to-agent communication but carries significant security risks. Experts warn it's one of the riskiest protocols in AI infrastructure.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-05",
-      "topic": "AI"
-    },
-    {
-      "title": "Apple restricts full-disk access for AI agents",
-      "body": "Apple has changed its full-disk access permissions to prevent abuse by AI agents operating on macOS. The move addresses growing security concerns around autonomous AI system capabilities.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-10-02",
       "topic": "AI"
     }
   ]
