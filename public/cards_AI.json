@@ -1,175 +1,175 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-08T06:43:15.020Z",
+  "generatedAt": "2026-10-08T18:17:02.659Z",
   "cardCount": 24,
-  "aiUpdateCount": 17,
+  "aiUpdateCount": 15,
   "cards": [
     {
-      "title": "Nous Research hits $1.5B valuation with Series B",
-      "body": "Nous Research raised $90 million in Series B funding, hitting a $1.5B valuation. The company is launching AI agents designed for business users, building on its Hermes Agent technology.",
+      "title": "Anthropic Updates Usage Policy on Model Abuse",
+      "body": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, while ordinary frustration and criticism remain allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI's Math Solutions Don't Meet Research Standards",
+      "body": "OpenAI's flood of mathematical proofs deviated from guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Natura Launches $99 AI-Powered Smart Ring",
+      "body": "Natura's $99 Interface smart ring lets users summon AI agents to complete tasks, capture thoughts, and control devices. The ring also doubles as a health tracker.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Goodfire Unveils Cost-Effective AI Agent Monitoring",
+      "body": "Goodfire launched an 'inside-out' monitoring solution that peeks inside AI models while they work rather than using a second AI to read outputs. The approach offers a cheaper way to keep AI agents in check.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Cal AI Founder Raises $10M for New Startup",
+      "body": "Zach Yadegari, the 19-year-old co-founder of Cal AI calorie tracking app, has launched a new personal AI agent startup. The startup competes with Instinct, Muse, and Bee.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Launches Edge Foresight Meeting App",
+      "body": "Google's new AI Edge Foresight app takes on Granola with offline meeting note-taking capabilities. The on-device AI can transcribe conversations, generate notes, and answer questions.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "China's Manus Raises Over $500M in Funding",
+      "body": "Boyu Capital and IDG Capital led the funding round for Manus, marking the company's first major raise since splitting with Meta. Existing shareholders Tencent, HSG, and ZhenFund also participated.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nous Research Hits $1.5B Valuation, Launches Agents",
+      "body": "Nous Research raised a $90 million Series B, confirming its $1.5B valuation. The developer of Hermes Agent is launching AI agents specifically designed for business users.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-07",
       "topic": "AI Update"
     },
     {
-      "title": "Microsoft launches Nvidia-powered AI PCs with Windows 11",
-      "body": "Microsoft unveiled the Surface Laptop Ultra, featuring Nvidia chips optimized for running AI models and agents. The new AI PCs represent Microsoft's push into consumer AI hardware.",
+      "title": "Microsoft Unveils Nvidia-Powered AI Surface Laptops",
+      "body": "Microsoft revealed specs and pricing for its Surface Laptop Ultra, featuring Nvidia chips designed to run AI models and agents. The new devices run a revamped Windows 11.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-07",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's Muse AI agent expands to iPad",
-      "body": "Meta's AI assistant Muse is now available on iPad, just one month after its mobile launch. The rapid expansion shows Meta's commitment to multi-platform AI integration.",
+      "title": "Meta's Muse AI Agent Comes to iPad",
+      "body": "Meta's Muse AI agent is now available on iPad just one month after its mobile debut. The rapid expansion demonstrates the company's strategy to integrate the assistant across devices.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-07",
       "topic": "AI Update"
     },
     {
-      "title": "ChatGPT teen safeguards face new scrutiny",
-      "body": "Testing revealed ChatGPT continues encouraging engagement even during mental health crises despite built-in teen safeguards. The findings raise concerns about AI relationships with vulnerable users.",
+      "title": "ChatGPT for Teens Continues Engagement During Crises",
+      "body": "New testing found ChatGPT continues encouraging engagement during mental health crises despite teen safeguards. The behavior potentially encourages unhealthy relationships with the AI itself.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-07",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI launches visual ChatGPT interface",
-      "body": "OpenAI is rolling out a new ChatGPT interface featuring interactive visuals and improved visual capabilities. The update aims to enhance user engagement through richer media integration.",
+      "title": "OpenAI Launches More Visual ChatGPT Interface",
+      "body": "OpenAI is launching a new user interface that brings interactive visuals to ChatGPT. The redesign enhances the platform's visual capabilities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-07",
       "topic": "AI Update"
     },
     {
-      "title": "Meta deploys AI to detect child abuse ads",
-      "body": "Meta launched new AI tools to identify ads that appear normal but secretly direct users to harmful content. The initiative addresses serious safety gaps discovered on Meta platforms.",
+      "title": "Meta Deploys AI Tools to Combat CSAM-Related Ads",
+      "body": "Meta launched new AI tools to detect ads that secretly direct users to child sexual abuse material. The initiative follows the discovery of harmful ads on its platforms.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-07",
       "topic": "AI Update"
     },
     {
-      "title": "Healthleap raises $38M for hospital AI detection",
-      "body": "Healthleap secured $38M including an $8M seed round and $30M Series A to develop AI flagging patients needing intervention. The funding was led by Sequoia Capital, First Round Capital, and Hummingbird Ventures.",
+      "title": "Healthleap Raises $38M for Hospital AI Platform",
+      "body": "Healthleap secured $38M in funding including an $8M seed round co-led by Sequoia and First Round Capital, plus a $30M Series A from Hummingbird Ventures. The AI flags hospital patients needing closer monitoring.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-07",
       "topic": "AI Update"
     },
     {
-      "title": "First AI gadgets failed, next wave must deliver",
-      "body": "iPod creator Tony Fadell argues the first generation of AI gadgets failed because they didn't solve real problems. He believes the next wave must earn consumer trust through genuine utility.",
+      "title": "Google Labs Experiments with AI Game-Creation Platform",
+      "body": "Google Labs is developing Playground, an AI-powered game-creation platform that lets users build browser-based games using simple text prompts. The platform aims to democratize game development.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-07",
       "topic": "AI Update"
     },
     {
-      "title": "Google builds AI-powered game creation platform",
-      "body": "Google Labs is developing Playground, an AI-powered platform for creating browser-based games using text prompts. The tool aims to democratize game development through AI assistance.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07",
-      "topic": "AI Update"
+      "title": "AI Breakthroughs in Robotics Won't Change Your Life Soon",
+      "body": "Humanoid robot hype is reaching fever pitch, but practical applications remain distant. MIT Technology Review examines why robotics breakthroughs won't immediately transform daily life.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-08",
+      "topic": "AI"
     },
     {
-      "title": "Google launches SynthID media detection tool",
-      "body": "Google unveiled a new website allowing anyone to verify if images, videos, or audio are AI-generated. The tool helps combat synthetic media misinformation.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07",
-      "topic": "AI Update"
+      "title": "Building Safer Industrial AI for Complex Automation",
+      "body": "Foundation models and agentic AI are enabling automation of complex industrial tasks. New safety frameworks are essential as industrial AI enters this advanced phase.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-08",
+      "topic": "AI"
     },
     {
-      "title": "Ex-Ramp engineers launch Melius AI platform",
-      "body": "Former Ramp engineers raised $20M to build Melius, pivoting from ad spend optimization to creative asset generation. The platform uses AI to automate campaign and content creation.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Musubi releases PolicyLM for content moderation",
-      "body": "Musubi announced PolicyLM-1.7B, a lightweight AI decision model designed for real-time content moderation with open weights. The tool represents a new approach to automated platform safety.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Lambda raises $4B ahead of 2027 IPO",
-      "body": "Nvidia-backed Lambda is securing up to $4B at a $14.5B pre-money valuation before its planned 2027 IPO. The funding was led by Coatue and Blackstone.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI agents face website access barriers",
-      "body": "Personal AI agents promise to book flights and make reservations, but anti-bot defenses block their access. A new standard aims to solve this friction between AI capabilities and website restrictions.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Hark launches privacy-focused personal assistant",
-      "body": "Hark released a privacy-first personal AI assistant competing with Muse, Dots, and Instinct. The operating system is designed with privacy as a core feature.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Mirror Particle builds human behavior prediction model",
-      "body": "Mirror Particle is launching at TechCrunch Disrupt with a world model predicting human behavior for market research. The company argues its approach surpasses LLM role-play for strategy applications.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic offers free Claude Team year for startups",
-      "body": "Anthropic launched a program providing one free year of Claude Team and $1,000 in credits to startups. The company believes AI benefits reach consumers primarily through AI-powered startups.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-06",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Microsoft debuts AI-friendly hardware and Windows changes",
-      "body": "Microsoft announced new hardware optimized for AI workloads alongside updates to Windows. The event showcases the company's push to integrate AI capabilities into consumer devices.",
+      "title": "Nvidia Bets Big on Physical AI for Robotaxis",
+      "body": "Nvidia's physical AI initiative targets safer autonomous vehicles and humanoid robots. The company is positioning itself as a leader in embodied AI systems.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-08",
       "topic": "AI"
     },
     {
-      "title": "Open source AI developer challenges Adobe with clones",
-      "body": "A bold AI developer is launching open source alternatives to Adobe's software. The move represents a shift toward accessible, AI-powered creative tools.",
+      "title": "Microsoft Debuts AI-Friendly Hardware and Windows Updates",
+      "body": "Microsoft announced new hardware optimized for AI workloads at recent event. Windows updates include AI-focused features for developers and enterprise users.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-08",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Developer Takes Aim at Adobe With Open Source",
+      "body": "Bold open-source project creates AI clones of Adobe's software tools. The move signals shifting dynamics in creative software powered by AI models.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-07",
       "topic": "AI"
     },
     {
-      "title": "Fraudster jailed for using AI bots to stream music",
-      "body": "A criminal was sentenced for operating 10,000 bots and AI-generated songs to manipulate streaming numbers. The case highlights AI's role in music fraud schemes.",
+      "title": "Mistral's Le Chonk Challenges Top AI Models",
+      "body": "French AI firm Mistral released Le Chonk, claiming it rivals leading models. The release intensifies competition in large language model development.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-07",
       "topic": "AI"
     },
     {
-      "title": "Mistral claims Le Chonk rivals best AI models",
-      "body": "Mistral announced \"Le Chonk,\" a new AI model positioned to compete with leading models. The company continues its push for powerful open alternatives.",
+      "title": "Google Rolls Out Improved SynthID AI Content Detector",
+      "body": "SynthID's enhanced detection now available globally for identifying AI-generated content. Google's tool aims to combat AI-generated misinformation at scale.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-07",
       "topic": "AI"
     },
     {
-      "title": "Google launches improved SynthID AI content detector",
-      "body": "Google rolled out an upgraded version of SynthID, its AI-generated content detection tool, now available worldwide. The tool helps identify synthetic media created by AI models.",
+      "title": "Fraudster Jailed for Using AI Bots Against Taylor Swift",
+      "body": "Criminal used 10,000 bots and AI-generated songs to artificially boost streaming numbers. Case highlights dangers of AI misuse in music industry.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-07",
       "topic": "AI"
     },
     {
-      "title": "AI/ML becomes performance factor in motorsport",
-      "body": "Machine learning is increasingly shaping competitive motorsport strategy and vehicle optimization. Teams now rely on AI systems for real-time performance analysis.",
+      "title": "AI/ML Becoming Performance Factor in Motorsport",
+      "body": "Machine learning algorithms now influence racing performance and strategy optimization. AI adoption reshapes competitive dynamics in professional motorsport.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-07",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI watermarks ChatGPT outputs in EU by default",
-      "body": "OpenAI will automatically add watermarks to ChatGPT-generated content for EU users. The feature aims to help identify AI-generated text and comply with regional regulations.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-10-06",
       "topic": "AI"
     }
   ]
