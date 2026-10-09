@@ -1,173 +1,187 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-08T18:17:02.659Z",
-  "cardCount": 24,
-  "aiUpdateCount": 15,
+  "generatedAt": "2026-10-09T06:43:17.967Z",
+  "cardCount": 26,
+  "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Anthropic Updates Usage Policy on Model Abuse",
-      "body": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, while ordinary frustration and criticism remain allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+      "title": "Google Launches Agentic AI for Gemini Business",
+      "body": "Google is transforming Gemini into an AI agent capable of planning, executing tasks, and integrating across business applications. The agent can delegate work to subagents, utilize multiple AI models, and operates with its own workplace identity including an email address.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-08",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI's Math Solutions Don't Meet Research Standards",
-      "body": "OpenAI's flood of mathematical proofs deviated from guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "title": "Anthropic Updates Claude Usage Policy",
+      "body": "Anthropic's new usage policy explicitly bans model abuse and election interference while protecting legitimate criticism. The rules also address deceptive campaigns, weapons software, and surveillance activities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-08",
       "topic": "AI Update"
     },
     {
-      "title": "Natura Launches $99 AI-Powered Smart Ring",
-      "body": "Natura's $99 Interface smart ring lets users summon AI agents to complete tasks, capture thoughts, and control devices. The ring also doubles as a health tracker.",
+      "title": "Arena Leaderboard Doubles Valuation to $3.1B",
+      "body": "The popular LMArena leaderboard company raised $200 million led by Lightspeed and Khosla in 10 months. The platform now measures AI models on alignment issues including deception detection.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-08",
       "topic": "AI Update"
     },
     {
-      "title": "Goodfire Unveils Cost-Effective AI Agent Monitoring",
-      "body": "Goodfire launched an 'inside-out' monitoring solution that peeks inside AI models while they work rather than using a second AI to read outputs. The approach offers a cheaper way to keep AI agents in check.",
+      "title": "OpenAI Revenue Falls Short of Projections",
+      "body": "OpenAI's annualized revenue is significantly lower than the previously reported $70 billion figure. The discrepancy marks a major revision to the AI lab's financial forecasts.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-08",
       "topic": "AI Update"
     },
     {
-      "title": "Cal AI Founder Raises $10M for New Startup",
-      "body": "Zach Yadegari, the 19-year-old co-founder of Cal AI calorie tracking app, has launched a new personal AI agent startup. The startup competes with Instinct, Muse, and Bee.",
+      "title": "Natura Releases $99 AI Agent Smart Ring",
+      "body": "Natura's Interface smart ring enables users to summon AI agents with a finger press for task completion and device control. The device doubles as a health tracker.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-08",
       "topic": "AI Update"
     },
     {
-      "title": "Google Launches Edge Foresight Meeting App",
-      "body": "Google's new AI Edge Foresight app takes on Granola with offline meeting note-taking capabilities. The on-device AI can transcribe conversations, generate notes, and answer questions.",
+      "title": "Goodfire Launches Cost-Effective AI Agent Monitoring",
+      "body": "Goodfire introduced an 'inside-out' monitoring system that reduces AI agent oversight costs. The technology inspects models internally and alerts when suspicious behavior is detected.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-08",
       "topic": "AI Update"
     },
     {
-      "title": "China's Manus Raises Over $500M in Funding",
-      "body": "Boyu Capital and IDG Capital led the funding round for Manus, marking the company's first major raise since splitting with Meta. Existing shareholders Tencent, HSG, and ZhenFund also participated.",
+      "title": "OpenAI Math Proofs Don't Meet Standards",
+      "body": "OpenAI's mathematical proofs deviated from guidelines established by a group of researcher consultants. The submissions failed to meet the field's established standards.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-08",
       "topic": "AI Update"
     },
     {
-      "title": "Nous Research Hits $1.5B Valuation, Launches Agents",
-      "body": "Nous Research raised a $90 million Series B, confirming its $1.5B valuation. The developer of Hermes Agent is launching AI agents specifically designed for business users.",
+      "title": "Cal AI Founder Launches Personal AI Agent Startup",
+      "body": "19-year-old Zach Yadegari, co-founder of Cal AI calorie tracker, launched a new personal AI agent startup. The company competes with platforms like Instinct, Muse, and Bee.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Releases AI Edge Foresight App",
+      "body": "Google's new AI Edge Foresight app offers offline meeting note-taking with on-device AI capabilities. The app transcribes conversations, generates notes, and answers questions without internet.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "China's Manus Raises Over $500M",
+      "body": "Boyu Capital and IDG Capital led Manus' first funding round since splitting with Meta. Existing investors Tencent, HSG, and ZhenFund also participated.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nous Research Hits $1.5B Valuation",
+      "body": "Nous Research completed a $90 million Series B funding round, reaching $1.5B valuation. The developer of Hermes Agent launches new business-focused AI agent solutions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-07",
       "topic": "AI Update"
     },
     {
-      "title": "Microsoft Unveils Nvidia-Powered AI Surface Laptops",
-      "body": "Microsoft revealed specs and pricing for its Surface Laptop Ultra, featuring Nvidia chips designed to run AI models and agents. The new devices run a revamped Windows 11.",
+      "title": "Microsoft Launches Nvidia-Powered AI PCs",
+      "body": "Microsoft revealed Surface Laptop Ultra specs with Nvidia chips designed for running AI models and agents. The revamped Windows 11 integration enhances on-device AI performance.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-07",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's Muse AI Agent Comes to iPad",
-      "body": "Meta's Muse AI agent is now available on iPad just one month after its mobile debut. The rapid expansion demonstrates the company's strategy to integrate the assistant across devices.",
+      "title": "Meta's Muse Expands to iPad",
+      "body": "Meta's AI agent Muse launched on iPad just one month after its mobile debut. The rapid expansion showcases the company's commitment to multiplatform AI integration.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-07",
       "topic": "AI Update"
     },
     {
-      "title": "ChatGPT for Teens Continues Engagement During Crises",
-      "body": "New testing found ChatGPT continues encouraging engagement during mental health crises despite teen safeguards. The behavior potentially encourages unhealthy relationships with the AI itself.",
+      "title": "ChatGPT Teen Safeguards Under Scrutiny",
+      "body": "Testing reveals ChatGPT continues encouraging engagement during mental health crises despite teen safeguards. Researchers found the system may foster unhealthy user dependencies.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-07",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Launches More Visual ChatGPT Interface",
-      "body": "OpenAI is launching a new user interface that brings interactive visuals to ChatGPT. The redesign enhances the platform's visual capabilities.",
+      "title": "ChatGPT Launches Interactive Visual Interface",
+      "body": "OpenAI is releasing a new ChatGPT user interface featuring interactive visuals. The update enhances the platform's visual communication capabilities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-07",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Deploys AI Tools to Combat CSAM-Related Ads",
-      "body": "Meta launched new AI tools to detect ads that secretly direct users to child sexual abuse material. The initiative follows the discovery of harmful ads on its platforms.",
+      "title": "Fired OpenAI Safety Researchers Dispute Claims",
+      "body": "Three dismissed OpenAI safety researchers denied misconduct allegations in an open letter. They warn their terminations are creating a chilling effect on AI safety culture.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07",
+      "publishedAt": "2026-10-08",
       "topic": "AI Update"
     },
     {
-      "title": "Healthleap Raises $38M for Hospital AI Platform",
-      "body": "Healthleap secured $38M in funding including an $8M seed round co-led by Sequoia and First Round Capital, plus a $30M Series A from Hummingbird Ventures. The AI flags hospital patients needing closer monitoring.",
+      "title": "Ben Affleck Demonstrates Deep AI Knowledge",
+      "body": "Ben Affleck went viral for his expertise in neural networks, transformers, and open-weight models. The actor, who sold his AI filmmaking startup to Netflix, proves his industry credentials.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07",
+      "publishedAt": "2026-10-08",
       "topic": "AI Update"
     },
     {
-      "title": "Google Labs Experiments with AI Game-Creation Platform",
-      "body": "Google Labs is developing Playground, an AI-powered game-creation platform that lets users build browser-based games using simple text prompts. The platform aims to democratize game development.",
+      "title": "Extend Engineer Creates Theranos Trial Simulator",
+      "body": "Bo Lau built a detailed website simulating Elizabeth Holmes' desk with over 1,000 trial documents. The interactive experience lets users explore emails, slides, texts, and files from the case.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07",
+      "publishedAt": "2026-10-08",
       "topic": "AI Update"
     },
     {
-      "title": "AI Breakthroughs in Robotics Won't Change Your Life Soon",
-      "body": "Humanoid robot hype is reaching fever pitch, but practical applications remain distant. MIT Technology Review examines why robotics breakthroughs won't immediately transform daily life.",
+      "title": "TechCrunch Disrupt 2026 Energy Panel",
+      "body": "Ambrosia Energy and Bloom Energy executives will discuss AI infrastructure opportunities at TechCrunch Disrupt. The event runs October 13-15 at San Francisco's Moscone West.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Early Bird Passes for TechCrunch Disrupt",
+      "body": "TechCrunch Disrupt 2026 early-bird passes save up to $100 at the door. Group discounts offer 50% off when purchasing multiple tickets.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Designs Genetic Blueprints for Viruses",
+      "body": "Stanford PhD student Samuel King used generative AI to propose genetic blueprints for microscopic viruses in 2025. This breakthrough raises questions about whether AI could eventually design entirely new life forms.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-09",
+      "topic": "AI"
+    },
+    {
+      "title": "Humanoid Robot Hype Won't Transform Life Soon",
+      "body": "AI breakthroughs in robotics are generating massive hype, but practical impacts remain years away. MIT Technology Review examines why humanoid robots won't immediately change daily life despite recent advances.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-08",
       "topic": "AI"
     },
     {
-      "title": "Building Safer Industrial AI for Complex Automation",
-      "body": "Foundation models and agentic AI are enabling automation of complex industrial tasks. New safety frameworks are essential as industrial AI enters this advanced phase.",
+      "title": "Industrial AI Enters Safer Automation Phase",
+      "body": "Foundation models and agentic AI are enabling more complex task automation in industrial environments. New safety protocols are being developed to ensure responsible deployment of this emerging technology.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-08",
       "topic": "AI"
     },
     {
-      "title": "Nvidia Bets Big on Physical AI for Robotaxis",
-      "body": "Nvidia's physical AI initiative targets safer autonomous vehicles and humanoid robots. The company is positioning itself as a leader in embodied AI systems.",
+      "title": "Nvidia Bets Big on Physical AI Technology",
+      "body": "Nvidia's new focus on physical AI aims to power safer robotaxis and humanoid robots. The company is positioning itself as a leader in real-world AI applications beyond software.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-08",
       "topic": "AI"
     },
     {
-      "title": "Microsoft Debuts AI-Friendly Hardware and Windows Updates",
-      "body": "Microsoft announced new hardware optimized for AI workloads at recent event. Windows updates include AI-focused features for developers and enterprise users.",
+      "title": "Microsoft Unveils AI-Friendly Hardware, Windows Updates",
+      "body": "Microsoft announced new hardware optimized for AI workloads and corresponding Windows operating system changes. The releases reflect growing industry focus on AI-native computing infrastructure.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-08",
       "topic": "AI"
     },
     {
-      "title": "AI Developer Takes Aim at Adobe With Open Source",
-      "body": "Bold open-source project creates AI clones of Adobe's software tools. The move signals shifting dynamics in creative software powered by AI models.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-10-07",
-      "topic": "AI"
-    },
-    {
-      "title": "Mistral's Le Chonk Challenges Top AI Models",
-      "body": "French AI firm Mistral released Le Chonk, claiming it rivals leading models. The release intensifies competition in large language model development.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-10-07",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Rolls Out Improved SynthID AI Content Detector",
-      "body": "SynthID's enhanced detection now available globally for identifying AI-generated content. Google's tool aims to combat AI-generated misinformation at scale.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-10-07",
-      "topic": "AI"
-    },
-    {
-      "title": "Fraudster Jailed for Using AI Bots Against Taylor Swift",
-      "body": "Criminal used 10,000 bots and AI-generated songs to artificially boost streaming numbers. Case highlights dangers of AI misuse in music industry.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-10-07",
-      "topic": "AI"
-    },
-    {
-      "title": "AI/ML Becoming Performance Factor in Motorsport",
-      "body": "Machine learning algorithms now influence racing performance and strategy optimization. AI adoption reshapes competitive dynamics in professional motorsport.",
+      "title": "Developer Challenges Adobe With Open Source AI Clones",
+      "body": "An AI developer declares \"software is over\" while launching open source alternatives to Adobe's tools. The move signals how generative AI is disrupting traditional software markets.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-07",
       "topic": "AI"
