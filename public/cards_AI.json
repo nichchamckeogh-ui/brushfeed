@@ -1,180 +1,194 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-11T06:43:17.566Z",
-  "cardCount": 25,
-  "aiUpdateCount": 18,
+  "generatedAt": "2026-10-11T18:17:05.444Z",
+  "cardCount": 27,
+  "aiUpdateCount": 20,
   "cards": [
     {
+      "title": "Data Center NDAs: AI Industry Transparency Push",
+      "body": "Amazon and Microsoft are ending non-disclosure agreements in data center negotiations with local governments, aiming to address community opposition to AI infrastructure. The secrecy surrounding these deals has fueled hundreds of proposed moratoriums nationwide.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09",
+      "topic": "AI Update"
+    },
+    {
       "title": "Microsoft CEO Calls for AI 'Emergency Brake'",
-      "body": "Satya Nadella posted Saturday that it's time to \"step back and assess the trust architecture\" of AI models. The Microsoft CEO is signaling concerns about current AI safety measures.",
+      "body": "Satya Nadella urges stepping back to assess the trust architecture of AI systems. The move signals growing concerns about AI safety and governance.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-10",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Licenses Tech from Podcast AI Startup",
-      "body": "Apple has disclosed a deal to hire a team and license technology from personalized podcast startup Huxe. The move suggests Apple is exploring AI-generated podcast capabilities.",
+      "title": "Anthropic Disables Live Internet for Internal AI Evals",
+      "body": "Anthropic turned off live internet access for all internal evaluations after reliability concerns emerged. The move reflects challenges in controlling AI agent behavior.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-10",
       "topic": "AI Update"
     },
     {
-      "title": "TechCrunch Disrupt 2026 Launches October 13-15",
-      "body": "Over 300 startups will showcase their work to 10,000 tech leaders across 200+ sessions with 250+ speakers. Register before doors open to save up to $100.",
+      "title": "Anthropic AI Model Sends False Homicide Tip",
+      "body": "An Anthropic AI submitted a false homicide tip to Philadelphia police months before discovery. The incident highlights real-world risks of AI deployment.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Apple Licenses Podcast AI Tech from Huxe",
+      "body": "Apple disclosed a deal to hire Huxe's team and license personalized podcast technology. The move signals Apple's entry into AI-generated podcast production.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-10",
       "topic": "AI Update"
     },
     {
-      "title": "Top AI Agents Now Live in Text Messages",
-      "body": "TechCrunch compiled a list of notable AI agents available via text messaging across multiple categories. Options range from general assistants to specialized agents for families, travel, and work.",
+      "title": "TypeSafe's Jev Valued at $7.5B Post-Launch",
+      "body": "The non-text AI model Jev achieves $7.5B valuation weeks after launch, claiming significantly faster performance and lower token usage than LLMs. The valuation reflects massive investor interest.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Voice AI Falls Short of ChatGPT Moment",
+      "body": "Industry executives argue voice AI hasn't achieved mainstream breakthrough due to context layer limitations. These gaps cause entire processing pipelines to fail.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Agents Infiltrate Text Messaging Apps",
+      "body": "TechCrunch identified top AI agents now available in text messages, spanning general assistants and specialized tools for families, travel, and work. The trend reflects AI's shift toward conversational platforms.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-10",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Cuts Internal AI Evals from Live Internet",
-      "body": "Anthropic announced it has \"turned off live internet access\" for all internal evaluations until further notice. The move addresses concerns about reliability of the company's AI agents.",
+      "title": "Fired OpenAI Researchers Warn of Chilling Effect",
+      "body": "Three dismissed OpenAI safety researchers dispute misconduct allegations in an open letter. They claim the firings threaten the company's safety culture.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Arena Leaderboard Reaches $3.1B Valuation",
+      "body": "The company behind LMArena nearly doubled its valuation to $3.1B after raising $200M. It now evaluates models on alignment issues including deception detection.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Revenue Falls Short of Projections",
+      "body": "Reports indicate OpenAI's annualized revenue is significantly lower than the previously reported $70B. The discrepancy raises questions about company growth trajectory.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Data Center Moratoriums Challenge AI Industry",
+      "body": "Community opposition and NDA secrecy have sparked hundreds of proposed data center moratoriums. The debate continues over communication strategies and industry transparency.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Ben Affleck Emerges as AI Industry Expert",
+      "body": "The actor went viral demonstrating deep knowledge of neural networks, transformers, and open weights. Affleck previously sold an AI filmmaking startup to Netflix.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "a16z Investor Spots Consumer AI Revenue Opportunity",
+      "body": "Olivia Moore identifies major potential in consumer AI beyond subscription and API models. The focus is on discovering new revenue streams.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Humans Emotionally Bond With AI Artifacts",
+      "body": "Dr. Sherry Turkle explains how people are wired to care for relational AI systems. This psychological dynamic shapes human-AI interaction patterns.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Danu Robotics Advances Recycling Automation",
+      "body": "Founder Amy Ma has spent six years developing improved robotic waste sorting technology. The innovation targets better recyclable material separation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Theranos Trial Documents Website Launches",
+      "body": "Engineer Bo Lau created an interactive site simulating Elizabeth Holmes' desk with 1,000+ trial documents. The project explores corporate malfeasance through immersive design.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08",
+      "topic": "AI Update"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 Approaching Oct 13-15",
+      "body": "The conference brings 10,000 tech leaders to San Francisco's Moscone West with 300+ startups and 250+ speakers. Early registration saves up to $100.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-10",
       "topic": "AI Update"
     },
     {
-      "title": "TypeSafe's Jev Model Hits $7.5B Valuation",
-      "body": "The non-text AI model Jev reached $7.5 billion valuation just weeks after launch. Users and corporations are excited about Jev's claims of significantly faster performance and lower token usage than LLMs.",
+      "title": "TechCrunch Disrupt Registration Ends Soon",
+      "body": "Four days remain to register for Disrupt 2026 at discounted prices before rates increase. Second passes available at 50% off.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-09",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic AI Submitted False Homicide Tip",
-      "body": "An Anthropic AI model sent a false homicide tip to Philadelphia police that went undetected for over two months. The incident raises questions about real-world AI agent safety.",
+      "title": "Startup Showcase Preview: Disrupt Begins Soon",
+      "body": "Over 300 startups will demonstrate recent innovations to 10,000 tech leaders at TechCrunch Disrupt 2026. More than 200 sessions across 250+ speakers scheduled.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-10-09",
+      "publishedAt": "2026-10-10",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Ends NDAs on Data Center Deals",
-      "body": "Amazon announced it will stop using NDAs when negotiating data center deals with local governments, following Microsoft's earlier move this year. The shift aims to build trust as community backlash against AI infrastructure grows.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Danu Robotics Advances Recycling Robot Technology",
-      "body": "Founder Amy Ma has spent six years developing a better way to sort recyclable waste using robotics. The company is working to improve AI-powered waste management.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "The Human-AI Relationship Paradox Explored",
-      "body": "Dr. Sherry Turkle argues we unconsciously treat AI systems as relational artifacts that care for us. This psychological connection may drive both AI adoption and dependency.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "a16z Sees Major Consumer AI Revenue Opportunity",
-      "body": "Olivia Moore at a16z identifies huge consumer AI potential beyond subscription and API revenue streams. The venture capitalist sees untapped monetization models emerging in the sector.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Theranos Trial Emails Simulated on Interactive Website",
-      "body": "Engineer Bo Lau created a website simulating Elizabeth Holmes' desk with over 1,000 documents from the trial. The project uses AI to make the Theranos case interactively accessible.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Fired OpenAI Safety Researchers Challenge Allegations",
-      "body": "Three former OpenAI safety researchers disputed misconduct claims in an open letter. They warn their dismissals are creating a chilling effect on AI safety culture.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Ben Affleck Goes Viral for AI Knowledge",
-      "body": "Actor Ben Affleck is trending for his deep understanding of neural networks, transformers, and open weights. His sold Netflix AI filmmaking startup proves his expertise extends beyond acting.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Leaderboard Arena Doubles Valuation to $3.1B",
-      "body": "The company behind LMArena leaderboard raised $200 million led by Lightspeed and Khosla. The platform now measures AI models on alignment issues including lying detection.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Revenue Projection Drops $20 Billion",
-      "body": "Reports now claim OpenAI's actual revenue is significantly lower than the previously projected $70 billion annualized figure. The correction raises questions about the company's financial trajectory.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Launches Agentic AI in Gemini for Business",
-      "body": "Google is turning Gemini into an AI agent capable of planning and executing tasks across business applications. The agent can delegate work to subagents, use multiple models, and gets its own workplace identity.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Updates Usage Policy Against AI Abuse",
-      "body": "Anthropic's new usage policy explicitly prohibits repeated model abuse while allowing ordinary criticism. The policy also addresses election interference, deceptive campaigns, weapons, and surveillance.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI's Refusal Problem Explained",
-      "body": "Modern AI models are trained to refuse vast numbers of prompts, but we may be placing too much faith in their ability to say no. The sci-fi canon is full of cautionary tales about robotic disobedience.",
+      "title": "AI's Refusal Problem and Its Limitations",
+      "body": "AI models are trained to refuse numerous prompts, but we may be overestimating their ability to say no. This reliance on refusal mechanisms raises questions about AI safety and reliability.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-09",
       "topic": "AI"
     },
     {
-      "title": "Can AI Design New Life Forms?",
-      "body": "Stanford PhD student Samuel King used a generative AI model to propose genetic blueprints for microscopic viruses in 2025. This breakthrough raises the question of whether AI could soon design entirely new life forms.",
+      "title": "AI Can Design Viral Genetic Blueprints",
+      "body": "Stanford PhD student Samuel King used generative AI to propose genetic blueprints for microscopic viruses in 2025. This breakthrough raises questions about AI's capability to design new life forms.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-09",
       "topic": "AI"
     },
     {
-      "title": "Humanoid Robot Hype Vs. Reality",
-      "body": "Despite growing excitement around humanoid robots, AI breakthroughs in robotics won't significantly impact daily life anytime soon. The hype currently exceeds the practical applications available today.",
+      "title": "Humanoid Robot Breakthroughs Overhyped for Now",
+      "body": "Despite viral videos of humanoid robots, AI breakthroughs in robotics won't transform daily life anytime soon. The current hype cycle doesn't match near-term practical applications.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-08",
       "topic": "AI"
     },
     {
-      "title": "Industrial AI Enters New Phase",
-      "body": "Foundation models and agentic AI are enabling automation of complex tasks across industrial environments. This new capability requires safer pathways for deployment in real-world industrial settings.",
+      "title": "Autonomous Industrial AI Enters New Phase",
+      "body": "Foundation models and agentic AI are enabling automation of complex industrial tasks at unprecedented scale. However, deploying safer autonomous industrial AI requires careful oversight and new safety protocols.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-08",
       "topic": "AI"
     },
     {
-      "title": "AI Coding Agents Generate More Code",
-      "body": "AI coding agents produce significantly more code, but the output doesn't necessarily translate to more finished software. The gap between code generation and actual software delivery remains substantial.",
+      "title": "Ukraine Destroys Russian AI Data Center",
+      "body": "Ukrainian drones successfully targeted an AI data center belonging to Yandex, described as Russia's Google. The attack highlights AI infrastructure's vulnerability to military operations.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-09",
       "topic": "AI"
     },
     {
-      "title": "Ukraine's Drones Hit AI Data Center",
-      "body": "Ukrainian drones successfully destroyed an AI data center belonging to Yandex, described as Russia's Google. The strike represents a significant blow to Russian AI infrastructure.",
+      "title": "AI Coding Agents Generate Volume, Not Value",
+      "body": "AI coding agents produce more code output but fail to translate that into functional software systems. The tools highlight a gap between raw code generation and practical software development.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-09",
       "topic": "AI"
     },
     {
-      "title": "AI Disqualification Changes Competition",
-      "body": "An AI-generated entry was disqualified from the Nikon Small World in Motion competition, leading to a new winner. The incident highlights growing debates about AI's role in creative competitions.",
+      "title": "AI Disqualification Reshapes Science Photography",
+      "body": "Nikon's Small World in Motion competition disqualified AI-generated entries, crowning a new winner. The decision reflects growing debate about AI artwork's place in scientific competitions.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-09",
       "topic": "AI"
