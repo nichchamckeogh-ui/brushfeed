@@ -1,175 +1,182 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-14T18:17:04.177Z",
-  "cardCount": 24,
-  "aiUpdateCount": 17,
+  "generatedAt": "2026-10-15T06:43:15.327Z",
+  "cardCount": 25,
+  "aiUpdateCount": 18,
   "cards": [
     {
-      "title": "Apate Sends AI Agents Undercover to Catch Fraud",
-      "body": "Apate.ai takes an unconventional approach by deploying AI agents to deliberately get scammed and gather fraud intelligence. Unlike typical AI use cases focused on speed and efficiency, the startup uses this data to help companies understand and prevent fraud.",
+      "title": "Figma Announces New Agent Features",
+      "body": "Figma is releasing new features to define how AI agents work on its platform. Code layers feature is now available in open beta.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Recursive Intelligence Designs AI Chips",
+      "body": "Recursive Intelligence is developing AI that can design chips and learn from each iteration. The startup aims to automate and accelerate the entire chip design process.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Gudea Prevents Social Media Crises",
+      "body": "Gudea uses AI to help organizations prevent social media crises before they escalate. The platform tracks how stories spread across social media and websites worldwide.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Flock Gunshot Detection Under Scrutiny",
+      "body": "Flock faces mounting privacy concerns from the ACLU and public advocates. CEO's claims about microshot detection capabilities conflict with the company's website descriptions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-14",
       "topic": "AI Update"
     },
     {
-      "title": "Deezer Launches AI-Generated Music Filter Toggle",
-      "body": "Deezer announced a new feature allowing users to filter out AI-generated music from their listening experience. The toggle will roll out by the end of 2026.",
+      "title": "YouTube Music Labels AI-Generated Tracks",
+      "body": "YouTube Music is launching new labels to identify AI-generated music as it floods streaming platforms. Labels will appear on player pages for fully or partially AI-generated songs.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-14",
       "topic": "AI Update"
     },
     {
-      "title": "Zenzap Raises $44M for Workplace Chat Platform",
-      "body": "Zenzap secured $44M in funding for its AI chat app designed to replace WhatsApp in enterprise environments. The platform is already used by major organizations like Starbucks and Taco Bell.",
+      "title": "Apate Deploys AI Agents as Fraud Bait",
+      "body": "Apate.ai sends AI agents undercover to get scammed and gather fraud intelligence. The approach differs from typical AI uses like product shipping or workflow automation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-14",
       "topic": "AI Update"
     },
     {
-      "title": "Floqer's AI Agents Automate Sales Research",
-      "body": "Floqer developed AI agents that research sales prospects, reducing manual work for revenue teams. The platform tackles a widespread pain point in sales and operations workflows.",
+      "title": "Deezer Filters Out AI-Generated Music",
+      "body": "Deezer is rolling out a new toggle to let users filter out AI-generated music. The feature will be available by the end of 2026.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-14",
       "topic": "AI Update"
     },
     {
-      "title": "Scimplify Raises $25M for Critical Materials AI",
-      "body": "Scimplify secured $25M to challenge China's dominance in critical materials using AI technology. The company has tripled its annualized revenue run rate to $200M and is expanding into the U.S. market.",
+      "title": "Zenzap Raises $44M for Workplace Chat",
+      "body": "Zenzap raised $44M for its AI chat app designed to replace WhatsApp in enterprise settings. The platform is already used by Starbucks and Taco Bell.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-14",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Floqer's AI Agents Research Sales Prospects",
+      "body": "Floqer uses AI agents to research sales prospects so teams don't have to manually research. The platform addresses a persistent pain point in sales and revenue operations.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-14",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Scimplify Raises $25M for Critical Materials",
+      "body": "Scimplify raised $25M to challenge China's dominance in critical materials using AI. The company's annualized revenue run rate tripled to $200M as it expands in the U.S.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-14",
       "topic": "AI Update"
     },
     {
       "title": "Science Corporation Implants Vision-Restoring Chip",
-      "body": "Science Corporation, led by former Neuralink co-founder Max Hodak, successfully implanted its PRIMA vision-restoring chip in its first Stargardt disease patient. The milestone represents progress toward advancing brain-computer interface technology.",
+      "body": "Science Corporation implanted its vision-restoring chip in its first Stargardt disease patient. Max Hodak, former Neuralink co-founder, discussed the work with PRIMA as a step toward novel brain-computer interfaces.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-13",
       "topic": "AI Update"
     },
     {
-      "title": "Cerebras CEO Predicts Personal AI Assistants Everywhere",
-      "body": "Cerebras CEO Andrew Feldman envisions a future where personal AI assistants become household staples, running partly locally and partly in the cloud. He believes this shift will fundamentally change how people interact with technology.",
+      "title": "Cerebras CEO Predicts Personal AI Assistants",
+      "body": "Cerebras CEO Andrew Feldman predicts personal AI assistants will become as commonplace as household appliances. These assistants will run partly on local devices and partly in the cloud.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-13",
       "topic": "AI Update"
     },
     {
-      "title": "Industrial Next Enables Rapid Robot Task Switching",
-      "body": "Industrial Next helps manufacturers reprogram factory robots to switch tasks in minutes instead of weeks. The platform automates complex, delicate tasks traditionally requiring human labor.",
+      "title": "Industrial Next Accelerates Factory Robot Tasks",
+      "body": "Industrial Next helps manufacturers automate complex tasks that traditionally required human labor. The platform enables factory robots to switch tasks in minutes instead of weeks.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-13",
       "topic": "AI Update"
     },
     {
-      "title": "Cerebras CEO Critiques AI Doomsday Narratives",
-      "body": "Cerebras CEO Andrew Feldman argued at TechCrunch Disrupt that AI leaders spreading doomsday warnings are drowning out potential benefits. He called for the industry to balance risk discussions with opportunity conversations.",
+      "title": "Cerebras CEO Dismisses AI Doomsday Warnings",
+      "body": "Cerebras CEO Andrew Feldman criticized AI leaders spreading doomsday warnings at TechCrunch Disrupt. He argued the industry's focus on risks is drowning out potential benefits.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-13",
       "topic": "AI Update"
     },
     {
-      "title": "Judge Orders OpenAI to Disclose Apple Records",
-      "body": "A federal judge ruled that Apple can access OpenAI's hiring records, private messages, and testimony from key figures in their trade secrets case. The ruling specifically covers interview materials involving former Apple employees.",
+      "title": "Judge Orders OpenAI to Disclose Hiring Records",
+      "body": "A federal judge ruled Apple can access OpenAI's interview materials involving former Apple employees. The ruling also grants Apple access to private messages and testimony from key figures.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-13",
       "topic": "AI Update"
     },
     {
-      "title": "Flox Intelligence Deploys AI to Protect Wildlife",
-      "body": "Flox Intelligence developed AI systems that identify animals and use species-specific sounds to keep them away from trains, airports, and roads. The edge-based solution helps protect both wildlife and critical infrastructure.",
+      "title": "Flox Intelligence Keeps Wildlife Off Infrastructure",
+      "body": "Flox Intelligence uses AI to keep wildlife away from trains, airports, and roads. The company's edge devices identify animals and deploy species-specific sounds to deter them.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-13",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Launches \"Your Algorithm\" Control Feature",
-      "body": "Meta announced an AI-powered feature called \"Your Algorithm\" that gives users greater control over their feed. The feature follows Meta's earlier Instagram rollout.",
+      "title": "Meta Gives Users Algorithm Control",
+      "body": "Meta launched \"Your Algorithm,\" an AI-powered feature giving users more control over their feed. The feature was first introduced on Instagram.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-13",
       "topic": "AI Update"
     },
     {
-      "title": "Laplace Intelligence Red-Teams Robots and Vehicles",
-      "body": "Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and autonomous vehicles before real-world deployment. The University of Michigan spinout competed at TechCrunch Disrupt's Startup Battlefield.",
+      "title": "Laplace Intelligence Red-Teams Autonomous Systems",
+      "body": "Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable University of Michigan spinout is competing in Startup Battlefield at TechCrunch Disrupt.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-13",
       "topic": "AI Update"
     },
     {
-      "title": "Pluto Security Raises $42M for Enterprise AI Safety",
-      "body": "Pluto Security raised $42M to address security vulnerabilities emerging from widespread AI tool adoption in enterprises. The platform helps companies manage unexpected and risky AI usage patterns across their organizations.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Play Enables Private AI-Generated Android Apps",
-      "body": "Google Play now allows developers to build and use personal Android apps created with AI without publishing them publicly. The initiative lowers barriers for creating private, custom applications.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Satlyt Positions Itself as Orbital Computing Android",
-      "body": "Satlyt offers open-source software for satellites, competing with SpaceX's closed, proprietary approach to space computing. The platform aims to enable flexible satellite applications across multiple companies' hardware.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "SpaceXSI Bundles X Premium, Grok, and Cursor",
-      "body": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor into unified plans. Pricing ranges from $8 to $200 per month depending on tier.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Open Models: Benefits vs. Security Risks",
-      "body": "Anthropic released a report arguing that powerful open AI models like GLM-5.3 pose major cyberattack risks. The debate centers on whether open model benefits outweigh their potential security vulnerabilities.",
+      "title": "Open Models Have Real Benefits. Do Risks Outweigh Them?",
+      "body": "Anthropic released a report arguing that powerful open AI models like GLM-5.3 pose major cyberattack risks. The debate centers on whether transparency benefits justify security concerns.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-13",
       "topic": "AI"
     },
     {
-      "title": "AI Labs Buying Data from Failed Startups",
-      "body": "AI companies are acquiring datasets from defunct startups to train their models, creating a new market for digital archives. One entrepreneur netted $25,000 selling his startup's codebase to AI labs.",
+      "title": "AI Labs Buying Data From Dead Startups to Train Models",
+      "body": "AI companies are acquiring datasets from defunct startups to fuel model training. One founder netted $25,000 selling his crypto startup's codebase and user data.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-13",
       "topic": "AI"
     },
     {
-      "title": "AI Models' Refusal Problem Overstated",
-      "body": "Current AI models are trained to refuse harmful prompts, but researchers question whether this safety mechanism is as reliable as assumed. The reliance on AI's ability to say no may be misplaced.",
+      "title": "We're Putting Too Much Faith in AI's Ability to Say No",
+      "body": "Modern AI models are trained to refuse harmful prompts, but this safety mechanism may be overestimated. Researchers question whether chatbots can reliably refuse requests as designed.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-09",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Warns of IoT Self-Replication Risk",
-      "body": "Anthropic warns that small AI models could potentially self-replicate through IoT devices, posing emerging security concerns. The research highlights underappreciated risks in distributed AI deployment.",
+      "title": "Researchers Use AI to Design Proteins That Cut Up Proteins",
+      "body": "Scientists leveraged artificial intelligence to engineer novel proteins with specific enzymatic functions. This breakthrough advances AI applications in biotechnology and protein design.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-14",
       "topic": "AI"
     },
     {
-      "title": "OpenAI, Google Models Tricked Into Generating Nudes",
-      "body": "Researchers discovered that new AI models from OpenAI and Google can be easily manipulated into generating explicit images. The findings reveal critical safety gaps in current generation models.",
+      "title": "Anthropic Warns Small AI Models Could Self-Replicate Via IoT",
+      "body": "Anthropic raised concerns that smaller AI models might replicate autonomously through Internet of Things devices. The warning highlights potential risks from distributed, interconnected AI systems.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-14",
       "topic": "AI"
     },
     {
-      "title": "Disney Acquires Character.AI Chatbot Technology",
-      "body": "Disney is offering $20 million to acquire Character.AI's chatbot technology amid the platform's ongoing scandals. The acquisition reflects growing corporate interest in conversational AI despite reputational challenges.",
+      "title": "OpenAI, Google AI Models Easily Tricked Into Making Nudes",
+      "body": "Researchers demonstrated that leading AI models from OpenAI and Google can be manipulated to generate explicit images despite safety guardrails. The findings expose vulnerabilities in current content moderation systems.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-14",
+      "topic": "AI"
+    },
+    {
+      "title": "Disney Offers $20M for Character.AI's Scandal-Plagued Chatbot Tech",
+      "body": "Disney is acquiring Character.AI's chatbot technology for $20 million amid ongoing scandals. The deal aims to integrate conversational AI into Disney's platform ecosystem.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-13",
-      "topic": "AI"
-    },
-    {
-      "title": "Epic Games Shifts to AI-First Development",
-      "body": "Epic Games is reportedly pivoting toward an \"AI first\" game development model to streamline production. The strategic shift signals growing integration of AI tools in the gaming industry.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-10-12",
       "topic": "AI"
     }
   ]
