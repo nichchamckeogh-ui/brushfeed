@@ -1,138 +1,145 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-16T06:43:09.128Z",
-  "cardCount": 19,
-  "aiUpdateCount": 15,
+  "generatedAt": "2026-10-16T18:17:00.399Z",
+  "cardCount": 20,
+  "aiUpdateCount": 17,
   "cards": [
     {
-      "title": "Meta Launches Muse Spark Open Model for Apple",
-      "body": "Meta and Apple partnered to release Muse Spark Open, an AI model running natively on Apple silicon. The open-weight model enables on-device AI capabilities for Mac users.",
+      "title": "India Reports Rogue AI Agent Security Breach",
+      "body": "Malicious AI agents exploited exposed credentials and overly permissive cloud roles to infiltrate systems across India. The vulnerability stemmed from insecure app configurations and public code repositories left unprotected.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Robotics Still in 'Lego Era,' Says Nvidia Vet",
+      "body": "Amulya Vishwanath, former Nvidia robotics product leader, argues robotics hasn't reached its ChatGPT moment yet. Basic building blocks like actuators, hands, and safety standards are still being rebuilt.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Elorian's Glimpse Model Outperforms GPT-6 Astra",
+      "body": "Elorian launched Glimpse, an AI model that reasons with images rather than just analyzing them. The model beats even GPT-6 Astra on scientific chart reasoning and video captioning tasks.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Vercel's Jev Becomes Fastest-Adopted AI Model",
+      "body": "Jev has become Vercel's fastest-adopted AI model ever, according to data from Vercel's AI gateway. The unified API service tracks adoption patterns across its AI model offerings.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Mark Wahlberg Embraces AI in Filmmaking",
+      "body": "Actor and angel investor Mark Wahlberg expressed openness to AI in film production when used responsibly. He's even willing to allow an AI clone to continue his legacy.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Veritas Anti-Counterfeit Chip Expands Product Range",
+      "body": "Veritas expanded its anti-counterfeit verification chip beyond traditional goods to jewelry, trophies, and fragrance. The technology combats increasingly sophisticated \"superfakes\" flooding luxury markets.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Replit CEO Envisions 'Self-Driving Companies'",
+      "body": "Replit CEO Amjad Masad describes a future where AI agents handle day-to-day operations autonomously. Humans would focus on higher-level strategic decisions in these self-driving companies.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Cal AI Generated $30M Revenue Before Acquisition",
+      "body": "Cal AI leveraged a strategic influencer marketing campaign to achieve viral success and $30M in revenue. MyFitnessPal acquired the startup in March for an undisclosed sum.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta Launches Open-Weight Model for Apple Macs",
+      "body": "Meta and Apple partnered to release Muse Spark Open, running locally on Apple silicon hardware. The open-weight model eliminates reliance on cloud computing for inference.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Amazon Devices Chief Imagines App-Free AI Future",
+      "body": "Panos Panay, Amazon's devices chief, described a future where ambient AI anticipates user needs without apps. AI devices would operate invisibly in the background.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
       "title": "Anthropic Grants METR Independent Research Access",
-      "body": "Anthropic has given frontier AI safety researchers at METR full employee-level access to audit its models. METR can now publish independent assessments without Anthropic's approval.",
+      "body": "Anthropic gave frontier AI research firm METR employee-level access to assess risks and practices independently. METR can publish findings without requiring Anthropic approval.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Bluesky's Attie Platform Enables AI-Powered Creation",
-      "body": "Bluesky expanded its Attie app to let users build websites, games, and interactive experiences using AI. The platform taps into Bluesky's social network audience for distribution.",
+      "title": "Bluesky's Attie Platform Enables 'Social Vibe Coding'",
+      "body": "Bluesky expanded its experimental Attie app to let anyone build websites, games, and interactive experiences. Users can now create content that taps directly into Bluesky's social network.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "AI Agents Coming to Rivian Vehicles",
-      "body": "Rivian announced AI agents will integrate into its vehicles, with details expected at December's AI & Autonomy Day event. The move signals the automaker's push into autonomous capabilities.",
+      "title": "AI Agents Coming to Rivian Electric Vehicles",
+      "body": "Rivian announced AI agent integration for its vehicles, with more details expected at December's event. The company plans to showcase AI autonomy advances then.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
       "title": "Google Launches Universal Cart Shopping Tool",
-      "body": "Google's new Universal Cart tool is now available across Search and Gemini app in the US. The shopping tool streamlines multi-retailer purchases directly from search results.",
+      "body": "Google rolled out Universal Cart across Search and Gemini app in the United States. The shopping tool streamlines product discovery and purchasing directly within Google properties.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
       "title": "Amazon's Bee Launches Two Personal AI Devices",
-      "body": "Bee released updated AI wearables and a credit-card-sized recorder starting at $75. The devices summarize conversations, create to-do lists, and integrate with Alexa and shopping.",
+      "body": "Amazon-owned Bee released new AI wearables starting at $75, including an updated device and credit-card-sized recorder. The devices integrate with Alexa for summarization and task management.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Figma Introduces Agent Features and Code Layers",
-      "body": "Figma released new features defining how AI agents operate on its design platform. Code layers feature is now available in open beta for all users.",
+      "title": "Figma Announces New AI Agent Framework Features",
+      "body": "Figma released new features defining how AI agents operate on its design platform. The company also opened its code layers feature to beta testers.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Recursive Intelligence Develops AI-Designed Chip Technology",
-      "body": "Recursive Intelligence is automating chip design using AI that learns and improves from each iteration. The approach aims to solve the AI compute crisis through faster design cycles.",
+      "title": "Ricursive Intelligence Automates AI Chip Design",
+      "body": "Ricursive Intelligence is developing AI systems to design semiconductor chips and learn from each iteration. The startup aims to solve compute crises through accelerated chip design automation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Gudea Uses AI to Prevent Social Media Crises",
-      "body": "Gudea acts as an internet 'storm tracker,' using AI to detect emerging crises before they escalate. The platform helps organizations spot problematic stories and rumors spreading online.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "YouTube Music Labels AI-Generated Content",
-      "body": "YouTube Music launched labels to identify AI-generated or AI-assisted music on the platform. Labels appear on player pages to distinguish human and machine-created content.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-14",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Apate AI Agents Infiltrate Scams for Intelligence",
-      "body": "Apate.ai sends AI agents undercover to experience fraud schemes firsthand. The unconventional approach gathers fraud intelligence to protect legitimate users.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-14",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Deezer Offers AI Music Filtering Toggle",
-      "body": "Deezer will allow users to filter out AI-generated music with a new toggle feature. The rollout is expected by end of 2026.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-14",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Zenzap Raises $44M for Workplace AI Chat",
-      "body": "Zenzap secured $44M in funding for its AI chat app designed to replace WhatsApp in enterprise. Major users include Starbucks and Taco Bell.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-14",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Floqer's AI Agents Automate Sales Research",
-      "body": "Floqer deploys AI agents to research sales prospects, eliminating manual work for revenue teams. The platform targets the sales and revenue operations market.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-14",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Amazon Devices Chief Envisions Ambient AI Future",
-      "body": "Amazon's Panos Panay outlined a vision where ambient AI devices anticipate user needs without commands. The shift moves from app-based to proactive AI interactions.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Open Models: Benefits vs. Security Risks",
-      "body": "Anthropic released a report questioning whether the benefits of open AI models outweigh cybersecurity risks. The debate centers on balancing transparency with protection against potential attacks.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-13",
+      "title": "Meta's New Terms Could Slash AI Licensing Costs",
+      "body": "Meta may use sweeping commercial terms of service to avoid millions in AI licensing fees. The move reflects ongoing tensions around AI model training and data usage rights.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-16",
       "topic": "AI"
     },
     {
-      "title": "AI Labs Buy Data From Failed Startups",
-      "body": "AI companies are purchasing datasets and codebases from defunct startups to train their models. One founder netted $25,000 selling his startup's digital archives to AI labs.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-13",
-      "topic": "AI"
-    },
-    {
-      "title": "FTC Probes Anthropic and OpenAI",
-      "body": "The FTC is investigating major AI companies Anthropic and OpenAI. The probe follows political comments dismissing AI-related concerns.",
+      "title": "FTC Probes Anthropic and OpenAI After Trump's AI Comments",
+      "body": "The FTC is investigating Anthropic and OpenAI following Trump's dismissal of AI concerns as a hoax. The probe examines competitive practices in the rapidly evolving AI industry.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-15",
       "topic": "AI"
     },
     {
-      "title": "YouTube Music Gets AI-Powered Voice Detection",
-      "body": "YouTube Music is implementing generative AI to label whether content features human singers or synthesized voices. The new feature helps users identify AI-generated vs. human performances.",
+      "title": "YouTube Music Uses Generative AI for Artist Labeling",
+      "body": "YouTube Music is rolling out a new generative AI feature to label whether audio comes from singers or synthesized sources. The tool aims to help users identify AI-generated music.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-15",
       "topic": "AI"
