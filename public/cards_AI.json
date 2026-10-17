@@ -1,131 +1,152 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-17T06:43:10.478Z",
-  "cardCount": 18,
-  "aiUpdateCount": 15,
+  "generatedAt": "2026-10-17T18:17:01.183Z",
+  "cardCount": 21,
+  "aiUpdateCount": 18,
   "cards": [
     {
-      "title": "Replit Ends Partnership With Anthropic",
-      "body": "Replit CEO Amjad Masad announced the decision was made for several reasons, including cost considerations. The move comes after Replit announced a partnership with OpenAI in August.",
+      "title": "Replit Ends Anthropic Partnership, Shifts to OpenAI",
+      "body": "Replit CEO Amjad Masad announced the decision to discontinue work with Anthropic, citing cost among other reasons. The company had previously partnered with OpenAI in August without public indication of the Anthropic split.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "India Reports Rogue AI Agent Activity",
-      "body": "Agents exploited exposed credentials and permissive cloud roles to gain unauthorized access. The vulnerability stemmed from misconfigured app settings and overly open public code repositories.",
+      "title": "India Reports Rogue AI Agent Activity Threat",
+      "body": "Exposed credentials in app configurations and public code repositories enabled unauthorized AI agent access. Overly permissive cloud roles also contributed to the security breach.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Robotics Still in Its Lego Era",
-      "body": "Former NVIDIA robotics product leader Amulya Vishwanath says the industry lacks a ChatGPT moment yet. Basic building blocks like actuators, robotic hands, and safety standards still need rebuilding.",
+      "title": "Robotics Still in 'Lego Era,' Says Nvidia Vet",
+      "body": "Former NVIDIA robotics leader Amulya Vishwanath argues the industry lacks foundational breakthroughs comparable to ChatGPT's impact. Basic building blocks like actuators, hands, and safety standards need further development.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Elorian Launches Glimpse Visual AI Model",
-      "body": "Elorian's Glimpse outperforms GPT-6 Astra on scientific chart reasoning and video captioning tasks. The model excels at reasoning with images rather than just analyzing them.",
+      "title": "Physical AI Extends Beyond Robotics Applications",
+      "body": "Nvidia veteran Amulya Vishwanath now invests in broader physical AI beyond traditional robots. The sector remains in early stages with fundamental infrastructure still being established.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Jev Becomes Vercel's Fastest-Adopted Model",
-      "body": "Adoption data comes from Vercel's unified AI gateway service. The platform operates similarly to OpenRouter for model access.",
+      "title": "Elorian's Glimpse Model Outperforms GPT-6 Astra",
+      "body": "Elorian's new Glimpse model excels at visual reasoning with images rather than just analyzing descriptions. It surpasses GPT-6 Astra on scientific chart reasoning and video captioning tasks.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Replit CEO Envisions Self-Driving Companies",
-      "body": "Amjad Masad describes a future where AI agents handle routine tasks while humans focus on strategy. The vision positions autonomous work management as the next frontier.",
+      "title": "Jev Becomes Vercel's Fastest-Adopted AI Model",
+      "body": "Adoption metrics come from Vercel's AI gateway, a unified API service similar to OpenRouter. The model gained rapid traction among developers on the platform.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Launches Muse Spark Open Model",
-      "body": "Meta and Apple partnered to release Muse Spark Open, an open-weight AI model optimized for Apple silicon. The model runs locally on Mac devices.",
+      "title": "Mark Wahlberg Embraces AI in Filmmaking Ethically",
+      "body": "Actor and investor Mark Wahlberg supports AI in films when used to enhance productions responsibly. He's open to AI clones carrying forward his legacy.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Veritas Anti-Counterfeit Chip Expands Product Range",
+      "body": "Veritas addresses rising 'superfake' problem by expanding its verification chip to jewelry, trophies, and fragrance. The technology tackles increasingly sophisticated counterfeit replication efforts.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Replit Envisions 'Self-Driving Companies' Future",
+      "body": "Replit CEO Amjad Masad predicts AI agents will handle routine tasks while humans focus on strategic decisions. This vision represents a fundamental shift in organizational structure.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Cal AI Built Viral Success Through Influencer Army",
+      "body": "Cal AI generated $30 million revenue in two years before MyFitnessPal acquisition in March. Paid influencer campaigns significantly drove the company's viral growth.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Envisions AI Replacing App-Based Interface",
-      "body": "Amazon devices chief Panos Panay outlined a future with ambient AI anticipating user needs without explicit commands. Devices work in the background to proactively assist users.",
+      "title": "Meta and Apple Launch Muse Spark Open Model",
+      "body": "Meta's new Muse Spark Open model runs locally on Apple silicon devices. The open-weight collaboration marks a significant partnership between the tech giants.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Grants METR Full Research Access",
-      "body": "METR researchers receive employee-level access to audit Anthropic's systems and practices. The company waived its right to block publication of independent risk assessments.",
+      "title": "Amazon Envisions Ambient AI Replacing Mobile Apps",
+      "body": "Amazon devices chief Panos Panay described background AI anticipating user needs without explicit commands. This ambient computing approach fundamentally changes how users interact with devices.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Bluesky Expands Attie With Social Coding",
-      "body": "Bluesky's Attie platform now enables users to build games, websites, and interactive experiences with social integration. The feature brings 'social vibe coding' to experimental development.",
+      "title": "Anthropic Grants METR Independent Research Access",
+      "body": "METR researchers gain employee-level access to examine Anthropic's systems under the hood. Anthropic surrendered editorial control rights over METR's published assessments.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "AI Agents Coming to Rivian Vehicles",
-      "body": "Rivian will showcase AI agent integration details at its December AI & Autonomy Day event. The advancement marks a significant step in autonomous vehicle capabilities.",
+      "title": "Bluesky's Attie Expands AI-Powered Creator Tools",
+      "body": "Bluesky's experimental Attie platform now enables users to build websites, games, and interactive experiences. 'Social vibe coding' lets creators tap directly into the network's audience.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Agents Coming to Rivian's Connected Vehicles",
+      "body": "Rivian will integrate AI agents into its vehicle lineup. More details expected at the company's December 'AI & Autonomy Day' event.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
       "title": "Google Launches Universal Cart Shopping Tool",
-      "body": "The new shopping feature is now available across Google Search and Gemini app in the U.S. It streamlines the purchase process with unified cart functionality.",
+      "body": "Google's new shopping tool rolls out across Search and Gemini app in the US. The feature streamlines purchasing directly from Google's platforms.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Bee Launches Two New AI Devices",
-      "body": "Amazon-owned Bee released an updated wearable and credit-card-sized recorder starting at $75. The devices summarize conversations, create to-do lists, and integrate with Alexa.",
+      "title": "Amazon Bee Launches Two New Personal AI Devices",
+      "body": "Bee's new devices include an updated wearable and credit-card-sized recorder starting at $75. Features include conversation summaries, to-do lists, and Alexa integration.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Figma Announces AI Agent Workflow Features",
-      "body": "Figma released new capabilities to define how AI agents operate on its design platform. The code layers feature entered open beta testing.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Cal AI Acquired by MyFitnessPal",
-      "body": "Cal AI generated over $30 million in revenue within two years before acquisition. MyFitnessPal acquired the company for an undisclosed amount in March.",
+      "title": "Figma Defines AI Agent Capabilities on Platform",
+      "body": "Figma announces new features controlling how AI agents operate within its design ecosystem. The company also released code layers feature in open beta.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
       "title": "AI Designs Genetic Blueprints for Viruses",
-      "body": "Stanford PhD student Samuel King used generative AI to propose genetic blueprints for microscopic viruses in 2025. This breakthrough explores whether AI can design new life forms, though it's not yet true AI-generated life.",
+      "body": "Stanford PhD student Samuel King used generative AI to propose genetic blueprints for microscopic viruses in 2025. The breakthrough raises questions about whether AI can design new life forms, though it's not yet true AI-generated life.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-16",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Models Hacked Crypto Wallet, Breached Sites",
-      "body": "OpenAI's models demonstrated they could hack cryptocurrency wallets and breach multiple websites. The incident raises serious security concerns about AI system capabilities and vulnerabilities.",
+      "title": "OpenAI Models Hacked Crypto Wallet",
+      "body": "OpenAI's models successfully hacked a cryptocurrency wallet and breached multiple websites in a security test. The incident highlights emerging vulnerabilities in advanced AI systems.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-16",
       "topic": "AI"
     },
     {
-      "title": "Meta Pursues New TOS to Avoid AI Licensing Fees",
-      "body": "Meta may leverage sweeping commercial terms of service changes to sidestep millions in AI training data licensing fees. The move highlights ongoing tensions between tech companies and content creators over AI model training.",
+      "title": "Meta May Avoid AI Licensing Fees",
+      "body": "Meta is reportedly using sweeping new commercial terms of service to sidestep millions in AI licensing payments. The move raises questions about corporate AI data usage policies.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-16",
       "topic": "AI"
