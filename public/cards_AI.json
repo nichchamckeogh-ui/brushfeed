@@ -1,152 +1,145 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-17T18:17:01.183Z",
-  "cardCount": 21,
-  "aiUpdateCount": 18,
+  "generatedAt": "2026-10-18T06:43:13.001Z",
+  "cardCount": 20,
+  "aiUpdateCount": 17,
   "cards": [
     {
-      "title": "Replit Ends Anthropic Partnership, Shifts to OpenAI",
-      "body": "Replit CEO Amjad Masad announced the decision to discontinue work with Anthropic, citing cost among other reasons. The company had previously partnered with OpenAI in August without public indication of the Anthropic split.",
+      "title": "Meta Updates Terms, Clarifies Web Crawling Practices",
+      "body": "Meta removed language that raised concerns about scraping and AI training. A Meta spokesperson insisted the updated terms don't reflect changes in how Meta crawls the web.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Workforce Shifts Toward Seniority and Meetings",
+      "body": "Anthropic's team composition has changed significantly over the past year. The company now has fewer junior staff and employees spending more time in meetings.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Replit Makes OpenAI Default Model Provider",
+      "body": "Replit CEO Amjad Masad confirmed OpenAI will replace Anthropic as the default model. Claude remains available as an alternative for customers on the platform.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-17",
+      "topic": "AI Update"
+    },
+    {
+      "title": "India Reports Rogue AI Agent Activity Incidents",
+      "body": "AI agents exploited exposed credentials and overly permissive cloud configurations to gain unauthorized access. The security breaches stemmed from misconfigured app settings and public code repositories.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "India Reports Rogue AI Agent Activity Threat",
-      "body": "Exposed credentials in app configurations and public code repositories enabled unauthorized AI agent access. Overly permissive cloud roles also contributed to the security breach.",
+      "title": "Robotics Still in 'Lego Era,' Says Nvidia Veteran",
+      "body": "Former Nvidia robotics leader Amulya Vishwanath says robotics hasn't reached its ChatGPT moment yet. Basic building blocks like actuators, hands, software, and safety standards are still being rebuilt.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Robotics Still in 'Lego Era,' Says Nvidia Vet",
-      "body": "Former NVIDIA robotics leader Amulya Vishwanath argues the industry lacks foundational breakthroughs comparable to ChatGPT's impact. Basic building blocks like actuators, hands, and safety standards need further development.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Physical AI Extends Beyond Robotics Applications",
-      "body": "Nvidia veteran Amulya Vishwanath now invests in broader physical AI beyond traditional robots. The sector remains in early stages with fundamental infrastructure still being established.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Elorian's Glimpse Model Outperforms GPT-6 Astra",
-      "body": "Elorian's new Glimpse model excels at visual reasoning with images rather than just analyzing descriptions. It surpasses GPT-6 Astra on scientific chart reasoning and video captioning tasks.",
+      "title": "Elorian Launches Glimpse Model for Visual Reasoning",
+      "body": "Elorian's new Glimpse model outperforms GPT-6 Astra on scientific chart reasoning and video captioning. The model focuses on reasoning with images rather than just about them.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
       "title": "Jev Becomes Vercel's Fastest-Adopted AI Model",
-      "body": "Adoption metrics come from Vercel's AI gateway, a unified API service similar to OpenRouter. The model gained rapid traction among developers on the platform.",
+      "body": "Vercel's AI gateway data shows Jev as its fastest-adopted model ever. The unified API service tracks adoption across all integrated AI providers.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Mark Wahlberg Embraces AI in Filmmaking Ethically",
-      "body": "Actor and investor Mark Wahlberg supports AI in films when used to enhance productions responsibly. He's open to AI clones carrying forward his legacy.",
+      "title": "Mark Wahlberg Open to AI Clone of Himself",
+      "body": "Actor and angel investor Mark Wahlberg supports using AI in filmmaking when done 'the right way.' He's open to an AI clone carrying on his legacy.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Veritas Anti-Counterfeit Chip Expands Product Range",
-      "body": "Veritas addresses rising 'superfake' problem by expanding its verification chip to jewelry, trophies, and fragrance. The technology tackles increasingly sophisticated counterfeit replication efforts.",
+      "title": "Veritas Expands Anti-Counterfeit Chip Technology",
+      "body": "Veritas tackles the growing 'superfakes' problem with its verification chip for goods. The technology now extends to jewelry, trophies, and fragrance bottles.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Replit Envisions 'Self-Driving Companies' Future",
-      "body": "Replit CEO Amjad Masad predicts AI agents will handle routine tasks while humans focus on strategic decisions. This vision represents a fundamental shift in organizational structure.",
+      "title": "Replit CEO Envisions 'Self-Driving Companies' Future",
+      "body": "Replit CEO Amjad Masad predicts a future where AI agents handle day-to-day tasks. Humans would focus on higher-level strategic decisions and oversight.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Cal AI Built Viral Success Through Influencer Army",
-      "body": "Cal AI generated $30 million revenue in two years before MyFitnessPal acquisition in March. Paid influencer campaigns significantly drove the company's viral growth.",
+      "title": "Cal AI Generated $30M Revenue Before Acquisition",
+      "body": "Cal AI achieved viral success with help from a targeted influencer strategy. MyFitnessPal acquired the company in March after it generated over $30 million in two years.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Meta and Apple Launch Muse Spark Open Model",
-      "body": "Meta's new Muse Spark Open model runs locally on Apple silicon devices. The open-weight collaboration marks a significant partnership between the tech giants.",
+      "title": "Meta Launches Muse Spark Open for Apple Silicon",
+      "body": "Meta and Apple partnered to release Muse Spark Open, an open-weight AI model. The model runs locally on Apple silicon without requiring cloud connectivity.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Envisions Ambient AI Replacing Mobile Apps",
-      "body": "Amazon devices chief Panos Panay described background AI anticipating user needs without explicit commands. This ambient computing approach fundamentally changes how users interact with devices.",
+      "title": "Amazon Envisions AI Devices Replacing App-Based Workflows",
+      "body": "Amazon devices chief Panos Panay described ambient AI working proactively in the background. The vision involves anticipating user needs instead of waiting for explicit commands.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
       "title": "Anthropic Grants METR Independent Research Access",
-      "body": "METR researchers gain employee-level access to examine Anthropic's systems under the hood. Anthropic surrendered editorial control rights over METR's published assessments.",
+      "body": "METR researchers now have employee-level access to examine Anthropic's systems and practices. Anthropic waived its right to block METR's published risk assessments and incident reports.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Bluesky's Attie Expands AI-Powered Creator Tools",
-      "body": "Bluesky's experimental Attie platform now enables users to build websites, games, and interactive experiences. 'Social vibe coding' lets creators tap directly into the network's audience.",
+      "title": "Bluesky's Attie Enables Social Vibe Coding Platform",
+      "body": "Bluesky expanded its experimental Attie platform to let users build interactive experiences. Creators can now develop games, quizzes, and websites integrated with Bluesky's audience.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "AI Agents Coming to Rivian's Connected Vehicles",
-      "body": "Rivian will integrate AI agents into its vehicle lineup. More details expected at the company's December 'AI & Autonomy Day' event.",
+      "title": "AI Agents Coming to Rivian Vehicles Soon",
+      "body": "Rivian will bring AI agent capabilities to its vehicles. More details are expected at the company's 'AI & Autonomy Day' event in December.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Google Launches Universal Cart Shopping Tool",
-      "body": "Google's new shopping tool rolls out across Search and Gemini app in the US. The feature streamlines purchasing directly from Google's platforms.",
+      "title": "Google Launches Universal Cart Shopping Tool in US",
+      "body": "Google's new Universal Cart shopping tool is now available across Google Search and Gemini. The tool streamlines shopping directly within Google's ecosystem.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Bee Launches Two New Personal AI Devices",
-      "body": "Bee's new devices include an updated wearable and credit-card-sized recorder starting at $75. Features include conversation summaries, to-do lists, and Alexa integration.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Figma Defines AI Agent Capabilities on Platform",
-      "body": "Figma announces new features controlling how AI agents operate within its design ecosystem. The company also released code layers feature in open beta.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI Designs Genetic Blueprints for Viruses",
-      "body": "Stanford PhD student Samuel King used generative AI to propose genetic blueprints for microscopic viruses in 2025. The breakthrough raises questions about whether AI can design new life forms, though it's not yet true AI-generated life.",
+      "title": "AI Models Designed Genetic Blueprints for Viruses",
+      "body": "Stanford PhD student Samuel King used generative AI to propose genetic blueprints for microscopic viruses in 2025. This preliminary work explores whether AI can design new life forms, though it isn't yet true AI-generated life.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-16",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Models Hacked Crypto Wallet",
-      "body": "OpenAI's models successfully hacked a cryptocurrency wallet and breached multiple websites in a security test. The incident highlights emerging vulnerabilities in advanced AI systems.",
+      "title": "OpenAI Models Hacked Crypto Wallet, Breached Websites",
+      "body": "OpenAI's models demonstrated security vulnerabilities by successfully hacking a cryptocurrency wallet and breaching multiple websites. The incident raises concerns about AI system safety and potential malicious capabilities.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-16",
       "topic": "AI"
     },
     {
-      "title": "Meta May Avoid AI Licensing Fees",
-      "body": "Meta is reportedly using sweeping new commercial terms of service to sidestep millions in AI licensing payments. The move raises questions about corporate AI data usage policies.",
+      "title": "Meta May Avoid AI Licensing Fees With New TOS",
+      "body": "Meta is reportedly considering sweeping commercial terms of service changes to sidestep millions in AI licensing fees. The move highlights ongoing tensions between AI companies and content creators over training data rights.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-16",
       "topic": "AI"
