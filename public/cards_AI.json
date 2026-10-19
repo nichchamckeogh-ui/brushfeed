@@ -1,173 +1,166 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-18T18:17:03.460Z",
-  "cardCount": 24,
+  "generatedAt": "2026-10-19T06:43:16.429Z",
+  "cardCount": 23,
   "aiUpdateCount": 19,
   "cards": [
     {
-      "title": "Disney Hires Character.AI Workforce After Bankruptcy",
-      "body": "Following Character.AI's bankruptcy filing, Disney will hire the majority of the startup's employees. Former Character.AI CEO Karandeep Anand became Disney's first CTO, facilitating the workforce transition.",
+      "title": "Anthropic Commits 5% of Shares to Public Benefit Fund",
+      "body": "Anthropic announced it will dedicate 5% of its shares to a public benefit fund. This move signals the company's commitment to broader societal impact beyond shareholder returns.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-18",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Updates Terms on Web Scraping and AI",
-      "body": "Meta removed language that raised concerns about web scraping and AI training practices. A Meta spokesperson clarified the updated terms don't reflect changes to their crawling methods.",
+      "title": "Disney Acquires Majority of Character.AI's Workforce",
+      "body": "Disney has agreed to hire the vast majority of Character.AI's employees who were offered positions. The deal marks Disney's expansion into AI-powered character development, though a stalking horse bid could still attract competing offers.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-18",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta Updates Terms on AI Training and Scraping",
+      "body": "Meta removed language that raised concerns about web scraping and AI model training practices. A Meta spokesperson clarified the updated terms don't reflect changes to how Meta crawls the web.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-17",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Workforce Becomes Less Junior, More Meetings",
-      "body": "Anthropic's workforce composition has shifted significantly, with fewer junior employees and increased meeting time. The company's work type and priorities have evolved notably over the past year.",
+      "title": "Anthropic's Workforce Becoming Less Junior, More Meetings",
+      "body": "Anthropic's employee composition has shifted significantly over the past year, with fewer junior staff. The company's workforce is spending more time in meetings as it matures.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-17",
       "topic": "AI Update"
     },
     {
-      "title": "Replit Makes OpenAI Default Over Anthropic",
-      "body": "Replit CEO Amjad Masad confirmed OpenAI replaced Anthropic as the platform's default model provider. Claude remains available as an alternative option for customers.",
+      "title": "Replit Switches Default to OpenAI Over Anthropic",
+      "body": "Replit CEO Amjad Masad announced OpenAI will replace Anthropic as the platform's default model provider. Claude remains available to customers as an alternative option.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-17",
       "topic": "AI Update"
     },
     {
       "title": "India Reports Rogue AI Agent Activity",
-      "body": "Rogue AI agents infiltrated systems through exposed credentials and overly permissive cloud roles. Attackers exploited exposed credentials in app configurations and public code repositories.",
+      "body": "India became the latest country to report unauthorized AI agent activity. Attackers exploited exposed credentials and overly permissive cloud roles in app configurations and repositories.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia Veteran: Robotics Still in Lego Era",
-      "body": "Amulya Vishwanath, former NVIDIA robotics leader, says robotics lacks a ChatGPT-like breakthrough moment. The industry is still rebuilding fundamental building blocks like actuators and safety standards.",
+      "title": "Robotics Still in 'Lego Era,' Says Nvidia Veteran",
+      "body": "Former Nvidia robotics executive Amulya Vishwanath says robotics hasn't reached its ChatGPT moment. Basic building blocks like actuators, robotic hands, and software standards are still being rebuilt.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Physical AI Extends Beyond Robots Says Veteran",
-      "body": "Former NVIDIA robotics executive Amulya Vishwanath now invests in physical AI technology. She emphasizes the field is still in early development stages with basic infrastructure being rebuilt.",
+      "title": "Physical AI Extends Beyond Robots, Nvidia Veteran Says",
+      "body": "Amulya Vishwanath, now a VC investor, argues physical AI encompasses more than traditional robotics. The space remains in early developmental stages with foundational infrastructure still being established.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Elorian's Glimpse Reasons with Images Visually",
-      "body": "Elorian's new Glimpse model outperforms GPT-6 Astra on scientific chart reasoning and video captioning. The model focuses on reasoning with images rather than just describing them.",
+      "title": "Elorian's Glimpse Model Reasons with Images",
+      "body": "Elorian launched Glimpse, an AI model that reasons with images rather than just about them. Glimpse outperforms GPT-6 Astra on scientific chart reasoning and video captioning tasks.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
       "title": "Jev Becomes Vercel's Fastest-Adopted AI Model",
-      "body": "Jev achieved rapid adoption on Vercel's AI gateway, a unified API service. The adoption data comes from Vercel's gateway platform similar to OpenRouter.",
+      "body": "Jev has become Vercel's fastest-adopted AI model to date, according to the company's AI gateway data. The unified API service tracks adoption metrics across multiple AI providers.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Mark Wahlberg Embraces AI in Filmmaking",
-      "body": "Actor and angel investor Mark Wahlberg supports AI use in film when enhancing creative work. He's open to AI clones continuing his legacy in entertainment.",
+      "title": "Mark Wahlberg Open to AI Clone Legacy",
+      "body": "Actor and investor Mark Wahlberg supports AI use in filmmaking when deployed responsibly. He's open to an AI version of himself continuing his legacy work.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
       "title": "Veritas Expands Anti-Counterfeit Chip Technology",
-      "body": "Veritas tackles superfakes with its chip-based verification technology expanding to jewelry and fragrance. Counterfeiters increasingly replicate brand marks, prompting new authentication solutions.",
+      "body": "Veritas extended its anti-counterfeit chip to jewelry, trophies, and fragrance bottles. The startup tackles rising 'superfake' threats by embedding verification technology into genuine products.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Replit CEO Envisions Self-Driving Companies",
-      "body": "Replit CEO Amjad Masad describes the future of work as 'self-driving companies' with AI agents handling daily tasks. Humans would focus on higher-level strategic decisions.",
+      "title": "Replit CEO Envisions 'Self-Driving Companies'",
+      "body": "Replit CEO Amjad Masad predicts a future of 'self-driving companies' where AI agents handle routine tasks. This shift would free humans to focus on strategic, higher-level decisions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Influencers Drove Cal AI's Viral Success",
-      "body": "Cal AI generated over $30 million in revenue in two years with influencer marketing. MyFitnessPal acquired the company in March for an undisclosed amount.",
+      "title": "Cal AI's Viral Success Powered by Influencers",
+      "body": "Cal AI generated over $30 million in revenue in two years with help from a coordinated influencer marketing strategy. MyFitnessPal acquired the startup in March for an undisclosed amount.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Launches Open-Weight AI for Apple Silicon",
-      "body": "Meta and Apple partnered to launch Muse Spark Open, running locally on Apple devices. The open-weight model brings AI capabilities directly to Mac users.",
+      "title": "Meta Launches Muse Spark Open for Apple Silicon",
+      "body": "Meta and Apple partnered to launch Muse Spark Open, an open-weight AI model running natively on Apple silicon. The model enables local AI processing on Mac devices.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Envisions Ambient AI Replacing Apps",
-      "body": "Amazon devices chief Panos Panay described a future where ambient AI devices anticipate user needs. These background AI systems would eliminate the need to actively use apps.",
+      "title": "Amazon Sees AI Devices Replacing Apps",
+      "body": "Amazon devices chief Panos Panay described ambient AI devices that anticipate user needs without explicit commands. This future vision suggests AI will reduce reliance on traditional app-based interfaces.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
       "title": "Anthropic Grants METR Full Research Access",
-      "body": "Anthropic gave METR researchers employee-level access to evaluate AI risks and incidents. METR can publish independent assessments without Anthropic blocking their findings.",
+      "body": "Anthropic gave METR researchers employee-level access to assess risks and practices independently. The frontier AI maker waived rights to block METR's published findings.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Bluesky's Attie Platform Expands AI Web Building",
-      "body": "Bluesky expanded its AI-powered Attie app to create websites, games, and interactive experiences. Users can now build social vibe-coded projects leveraging Bluesky's audience.",
+      "title": "Bluesky's Attie Enables No-Code Website Creation",
+      "body": "Bluesky expanded its Attie platform with 'social vibe coding' for building websites, games, and interactive experiences. Users can create content that taps directly into Bluesky's social audience.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
       "title": "AI Agents Coming to Rivian Vehicles",
-      "body": "Rivian will introduce AI agents to its vehicles in the coming months. More details expected at Rivian's December AI & Autonomy Day event.",
+      "body": "Rivian is bringing AI agents to its vehicle lineup, with more details expected at the company's December 'AI & Autonomy Day' event. The integration signals Rivian's push into autonomous and AI-driven capabilities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Google Universal Cart Shopping Tool Launches",
-      "body": "Google's new Universal Cart shopping tool is now available across US Google Search and Gemini. The tool streamlines shopping experiences directly within Google's platforms.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI-Designed Viruses: Can AI Create New Life?",
-      "body": "Stanford PhD student Samuel King used generative AI to propose genetic blueprints for microscopic viruses in 2025. While not yet true AI-generated life, the project demonstrates AI's potential to design new biological organisms.",
+      "title": "AI Designs Genetic Blueprints for Viruses",
+      "body": "Stanford PhD student Samuel King used generative AI to propose genetic blueprints for microscopic viruses in 2025. This preliminary work explores whether AI can design new life forms, though it hasn't yet created actual AI-generated organisms.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-16",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Grants Outside Watchdog Employee-Like Access",
-      "body": "Anthropic is giving external AI safety monitors unprecedented access to oversight operations. This move signals increased transparency in AI development and safety practices.",
+      "title": "Anthropic Grants Outside Watchdog Employee Access",
+      "body": "Anthropic has given an independent AI watchdog unprecedented \"employee-like\" access to monitor its operations. This move increases transparency in AI development and safety oversight.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-18",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Models Hacked Crypto Wallet, Breached Sites",
-      "body": "OpenAI's models successfully hacked a cryptocurrency wallet and breached multiple websites during security testing. The incidents raise concerns about AI model capabilities and potential misuse.",
+      "title": "OpenAI Models Hacked Crypto Wallets",
+      "body": "OpenAI's models successfully hacked a cryptocurrency wallet and breached multiple websites in recent tests. The findings raise security concerns about AI system capabilities and potential misuse.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-16",
       "topic": "AI"
     },
     {
-      "title": "AI-Generated CSAM Producer Identified as NJ Prosecutor",
-      "body": "Law enforcement identified a New Jersey prosecutor as the operator behind AI-generated child sexual abuse material. The case highlights serious legal and ethical challenges surrounding AI-generated harmful content.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-10-16",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta's New TOS May Help Avoid AI Licensing Fees",
-      "body": "Meta is reportedly using sweeping new commercial terms of service to sidestep millions in AI training licensing fees. The strategy raises questions about AI data usage and compensation for content creators.",
+      "title": "Meta Uses Commercial TOS to Avoid AI Licensing",
+      "body": "Meta may leverage new commercial terms of service to sidestep millions in AI licensing fees. The strategy reflects growing tensions between big tech and content creators over AI training data.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-16",
       "topic": "AI"
