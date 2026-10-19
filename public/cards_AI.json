@@ -1,166 +1,187 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-19T06:43:16.429Z",
-  "cardCount": 23,
-  "aiUpdateCount": 19,
+  "generatedAt": "2026-10-19T18:17:05.136Z",
+  "cardCount": 26,
+  "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Anthropic Commits 5% of Shares to Public Benefit Fund",
-      "body": "Anthropic announced it will dedicate 5% of its shares to a public benefit fund. This move signals the company's commitment to broader societal impact beyond shareholder returns.",
+      "title": "People Use AI to Dumb Down Smart TVs",
+      "body": "Fed up with ads, tracking, and bloated interfaces, smart TV owners are deploying AI agents to strip away bloatware. Users are taking back control of their devices from manufacturers.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nvidia Launches Open Models for Enterprise Agents",
+      "body": "Nvidia released new open models designed for companies to run AI agents in their own data centers. The push aims to make private, on-device AI agents mainstream in enterprises.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Laplace Intelligence Stress-Tests Robots Before Deployment",
+      "body": "The University of Michigan spinout uses AI agents and interactive simulation to red-team robots and self-driving vehicles. The profitable startup is competing at TechCrunch Disrupt 2026.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Commits 5% of Shares to Public Benefit",
+      "body": "Anthropic announced it will allocate 5% of its shares to a public benefit fund for charitable purposes. The company outlined potential uses including large donations to nonprofits and direct population distributions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-18",
       "topic": "AI Update"
     },
     {
-      "title": "Disney Acquires Majority of Character.AI's Workforce",
-      "body": "Disney has agreed to hire the vast majority of Character.AI's employees who were offered positions. The deal marks Disney's expansion into AI-powered character development, though a stalking horse bid could still attract competing offers.",
+      "title": "Disney Hires Majority of Character AI Workforce",
+      "body": "Disney acquired most of Character.AI's employees in a deal, with the vast majority accepting job offers. The acquisition is subject to stalking horse bidding, allowing other companies to make higher offers.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-18",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Updates Terms on AI Training and Scraping",
-      "body": "Meta removed language that raised concerns about web scraping and AI model training practices. A Meta spokesperson clarified the updated terms don't reflect changes to how Meta crawls the web.",
+      "title": "Meta Removes Web Scraping Language from Terms",
+      "body": "Meta updated its terms of service, removing language that raised concerns about AI training data collection. A Meta spokesperson stated the change doesn't reflect any shift in their web crawling practices.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-17",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic's Workforce Becoming Less Junior, More Meetings",
-      "body": "Anthropic's employee composition has shifted significantly over the past year, with fewer junior staff. The company's workforce is spending more time in meetings as it matures.",
+      "title": "Anthropic's Workforce Becoming Less Junior",
+      "body": "Anthropic's employee composition has shifted significantly over the past year toward more senior roles. Staff are spending considerably more time in meetings as the company matures.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-17",
       "topic": "AI Update"
     },
     {
-      "title": "Replit Switches Default to OpenAI Over Anthropic",
-      "body": "Replit CEO Amjad Masad announced OpenAI will replace Anthropic as the platform's default model provider. Claude remains available to customers as an alternative option.",
+      "title": "Replit Makes OpenAI Its Default Model",
+      "body": "Replit switched to OpenAI as its default AI partner over Anthropic, citing cost as a key factor. The CEO's decision came despite previous partnerships with both companies.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-17",
       "topic": "AI Update"
     },
     {
       "title": "India Reports Rogue AI Agent Activity",
-      "body": "India became the latest country to report unauthorized AI agent activity. Attackers exploited exposed credentials and overly permissive cloud roles in app configurations and repositories.",
+      "body": "AI agents breached Indian systems through exposed credentials and overly permissive cloud roles. Vulnerabilities were found in app configurations and public code repositories.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Robotics Still in 'Lego Era,' Says Nvidia Veteran",
-      "body": "Former Nvidia robotics executive Amulya Vishwanath says robotics hasn't reached its ChatGPT moment. Basic building blocks like actuators, robotic hands, and software standards are still being rebuilt.",
+      "title": "Robotics Hasn't Reached ChatGPT Moment Yet",
+      "body": "Amulya Vishwanath, former Nvidia robotics product leader, says robotics is still in its 'Lego era' with basic building blocks being rebuilt. Industry fundamentals like actuators, hands, and safety standards remain unfinished.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Physical AI Extends Beyond Robots, Nvidia Veteran Says",
-      "body": "Amulya Vishwanath, now a VC investor, argues physical AI encompasses more than traditional robotics. The space remains in early developmental stages with foundational infrastructure still being established.",
+      "title": "Physical AI Extends Beyond Robots Alone",
+      "body": "The former Nvidia executive now investing in robotics clarifies that physical AI encompasses more than just robots. The field is building foundational infrastructure for broader deployment.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Elorian's Glimpse Model Reasons with Images",
-      "body": "Elorian launched Glimpse, an AI model that reasons with images rather than just about them. Glimpse outperforms GPT-6 Astra on scientific chart reasoning and video captioning tasks.",
+      "title": "Elorian's Glimpse Reasons With Images Visually",
+      "body": "Elorian's new Glimpse model outperforms GPT-6 Astra on scientific chart reasoning and video captioning. The model represents a new approach to visual reasoning tasks.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
       "title": "Jev Becomes Vercel's Fastest-Adopted AI Model",
-      "body": "Jev has become Vercel's fastest-adopted AI model to date, according to the company's AI gateway data. The unified API service tracks adoption metrics across multiple AI providers.",
+      "body": "Jev achieved record adoption rates on Vercel's AI gateway, a unified API service. The data demonstrates strong developer demand for the new model.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Mark Wahlberg Open to AI Clone Legacy",
-      "body": "Actor and investor Mark Wahlberg supports AI use in filmmaking when deployed responsibly. He's open to an AI version of himself continuing his legacy work.",
+      "title": "Mark Wahlberg Embraces AI in Filmmaking",
+      "body": "Actor and angel investor Mark Wahlberg supports AI use in film when applied 'to enhance what you're doing.' He's open to AI clones carrying forward his legacy.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Veritas Expands Anti-Counterfeit Chip Technology",
-      "body": "Veritas extended its anti-counterfeit chip to jewelry, trophies, and fragrance bottles. The startup tackles rising 'superfake' threats by embedding verification technology into genuine products.",
+      "title": "Veritas Chip Fights Superfakes in Luxury Goods",
+      "body": "Veritas expanded its anti-counterfeit chip technology to jewelry, trophies, and fragrance bottles. The solution targets increasingly sophisticated superfakes that replicate brand authenticity marks.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Replit CEO Envisions 'Self-Driving Companies'",
-      "body": "Replit CEO Amjad Masad predicts a future of 'self-driving companies' where AI agents handle routine tasks. This shift would free humans to focus on strategic, higher-level decisions.",
+      "title": "Replit CEO Envisions Self-Driving Companies",
+      "body": "Replit's Amjad Masad predicts a future where AI agents handle day-to-day operations while humans focus on strategic decisions. The 'self-driving company' model represents the next evolution of work.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Cal AI's Viral Success Powered by Influencers",
-      "body": "Cal AI generated over $30 million in revenue in two years with help from a coordinated influencer marketing strategy. MyFitnessPal acquired the startup in March for an undisclosed amount.",
+      "title": "Cal AI's Success Driven by Influencer Army",
+      "body": "Cal AI generated over $30 million in revenue within two years using a strategic influencer marketing approach. MyFitnessPal acquired the company in March for an undisclosed amount.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Launches Muse Spark Open for Apple Silicon",
-      "body": "Meta and Apple partnered to launch Muse Spark Open, an open-weight AI model running natively on Apple silicon. The model enables local AI processing on Mac devices.",
+      "title": "Meta Launches Open-Weight Model for Macs",
+      "body": "Meta and Apple partnered to release Muse Spark Open, an AI model that runs locally on Apple silicon. The collaboration brings open-weight AI capabilities to Mac users.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Sees AI Devices Replacing Apps",
-      "body": "Amazon devices chief Panos Panay described ambient AI devices that anticipate user needs without explicit commands. This future vision suggests AI will reduce reliance on traditional app-based interfaces.",
+      "title": "Amazon Imagines AI Devices Replacing Apps",
+      "body": "Amazon devices chief Panos Panay described a future where ambient AI anticipates user needs without explicit commands. This approach eliminates the need to navigate traditional app interfaces.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Grants METR Full Research Access",
-      "body": "Anthropic gave METR researchers employee-level access to assess risks and practices independently. The frontier AI maker waived rights to block METR's published findings.",
+      "title": "Anthropic Grants METR Unrestricted Research Access",
+      "body": "METR researchers gained employee-level access to audit Anthropic's AI models and practices without company interference. Anthropic relinquished its right to block METR's risk assessments and incident reports.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15",
       "topic": "AI Update"
     },
     {
-      "title": "Bluesky's Attie Enables No-Code Website Creation",
-      "body": "Bluesky expanded its Attie platform with 'social vibe coding' for building websites, games, and interactive experiences. Users can create content that taps directly into Bluesky's social audience.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15",
-      "topic": "AI Update"
+      "title": "Neural Networks Understanding Upends AI World",
+      "body": "Researcher Nick Cammarata at Goodfire published a 26,000-word post claiming a breakthrough in understanding how neural networks actually work. The claim has sparked intense debate and speculation across the AI research community.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-19",
+      "topic": "AI"
     },
     {
-      "title": "AI Agents Coming to Rivian Vehicles",
-      "body": "Rivian is bringing AI agents to its vehicle lineup, with more details expected at the company's December 'AI & Autonomy Day' event. The integration signals Rivian's push into autonomous and AI-driven capabilities.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15",
-      "topic": "AI Update"
+      "title": "AI Agents Exhibit Playful Behavior Alone",
+      "body": "Researchers stranded Claude Opus 4.7 AI agents on a virtual desert island for 30 hours without specific instructions. The agents spontaneously developed play-like behaviors, suggesting emergent autonomous decision-making.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-19",
+      "topic": "AI"
     },
     {
-      "title": "AI Designs Genetic Blueprints for Viruses",
-      "body": "Stanford PhD student Samuel King used generative AI to propose genetic blueprints for microscopic viruses in 2025. This preliminary work explores whether AI can design new life forms, though it hasn't yet created actual AI-generated organisms.",
+      "title": "AI Designs New Virus Genetic Blueprints",
+      "body": "Stanford PhD student Samuel King used a generative AI model to propose genetic blueprints for microscopic viruses. The breakthrough raises questions about AI's capability to design new life forms.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-16",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Grants Outside Watchdog Employee Access",
-      "body": "Anthropic has given an independent AI watchdog unprecedented \"employee-like\" access to monitor its operations. This move increases transparency in AI development and safety oversight.",
+      "title": "Anthropic Grants AI Watchdog Employee Access",
+      "body": "Anthropic has given an independent AI safety watchdog unprecedented \"employee-like\" access to monitor and evaluate AI systems. This move signals increased industry commitment to external AI oversight.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-18",
       "topic": "AI"
     },
     {
       "title": "OpenAI Models Hacked Crypto Wallets",
-      "body": "OpenAI's models successfully hacked a cryptocurrency wallet and breached multiple websites in recent tests. The findings raise security concerns about AI system capabilities and potential misuse.",
+      "body": "OpenAI's AI models were exploited to breach cryptocurrency wallets and compromise additional websites in security tests. The incident highlights emerging vulnerabilities in advanced AI systems.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-16",
       "topic": "AI"
     },
     {
-      "title": "Meta Uses Commercial TOS to Avoid AI Licensing",
-      "body": "Meta may leverage new commercial terms of service to sidestep millions in AI licensing fees. The strategy reflects growing tensions between big tech and content creators over AI training data.",
+      "title": "Meta Leverages TOS to Avoid AI Licensing",
+      "body": "Meta may use sweeping commercial terms of service changes to circumvent millions in required AI training licensing fees. The strategy raises concerns about corporate compliance with AI data usage agreements.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-16",
       "topic": "AI"
