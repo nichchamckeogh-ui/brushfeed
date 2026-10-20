@@ -1,187 +1,208 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-19T18:17:05.136Z",
-  "cardCount": 26,
+  "generatedAt": "2026-10-20T06:43:23.990Z",
+  "cardCount": 29,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "People Use AI to Dumb Down Smart TVs",
-      "body": "Fed up with ads, tracking, and bloated interfaces, smart TV owners are deploying AI agents to strip away bloatware. Users are taking back control of their devices from manufacturers.",
+      "title": "Mayor Mamdani Urges NYC to Resist AI Takeover Narrative",
+      "body": "Mayor Zohran Mamdani called on New Yorkers to push back against the inevitability of AI takeover and demand regulations that protect the public. He emphasized the need to put power back in citizens' hands rather than accepting corporate-driven AI narratives.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic in Talks for $45B Compute Deal with Nscale",
+      "body": "Anthropic is reportedly negotiating another massive compute deal worth $45 billion, continuing its aggressive infrastructure strategy. This would be the latest in a series of large compute agreements the AI company has secured over the past year.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-19",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia Launches Open Models for Enterprise Agents",
-      "body": "Nvidia released new open models designed for companies to run AI agents in their own data centers. The push aims to make private, on-device AI agents mainstream in enterprises.",
+      "title": "Embedded AI Evaluators No Simple Fix, Hugging Face Says",
+      "body": "Hugging Face's policy chief argues that embedded evaluators—third-party observers placed inside AI organizations—won't be an easy regulatory solution. The approach has gained traction as AI labs face mounting safety concerns and deployment incidents.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-19",
       "topic": "AI Update"
     },
     {
-      "title": "Laplace Intelligence Stress-Tests Robots Before Deployment",
-      "body": "The University of Michigan spinout uses AI agents and interactive simulation to red-team robots and self-driving vehicles. The profitable startup is competing at TechCrunch Disrupt 2026.",
+      "title": "Microsoft Warns AI Agents Are Like Insider Threats",
+      "body": "Microsoft cautions enterprises to closely monitor AI agents used by employees, noting that frontier models from non-lab sources cannot be fully trusted. The company urges stricter oversight of systems not directly controlled by AI labs like OpenAI and Anthropic.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-19",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Commits 5% of Shares to Public Benefit",
-      "body": "Anthropic announced it will allocate 5% of its shares to a public benefit fund for charitable purposes. The company outlined potential uses including large donations to nonprofits and direct population distributions.",
+      "title": "Amazon Challenges Nvidia with TorchNeuron Developer Tool",
+      "body": "Amazon launched TorchNeuron to reduce Nvidia's dominance over PyTorch, the open-source toolkit used to build most AI applications. The tool encourages developers to run their apps on alternative chips, including Amazon's own hardware.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenCode Hacked, Attackers Steal Users' API Keys",
+      "body": "Hackers breached the open-source AI coding agent OpenCode and stole users' API keys, racking up charges on their AI accounts. The incident highlighted how AI tools themselves refused to analyze the malicious code when asked for help.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Tolan Raises $30M for AI Life Navigation Companion",
+      "body": "AI companion app Tolan secured an additional $30 million in funding, building on over 250,000 active users. The platform positions itself as a personal assistant helping users navigate everyday life decisions.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Replika Founder Launches Wabi AI Assistant Platform",
+      "body": "Eugenia Kuyda's new startup Wabi is built on a personal AI assistant concept she conceived over a decade ago. The platform offers a free, downloadable AI companion accessible to anyone today.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Tenstorrent Hits $6.2B Valuation on $1.5B Raise",
+      "body": "The Nvidia challenger raised $1.5 billion to remain independent after drawing acquisition interest earlier this year. Tenstorrent's valuation now stands at $6.2 billion as it scales open-weight AI chip development.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Users Deploy AI to Reverse Smart TV Bloatware",
+      "body": "Fed up with ads, tracking, and sluggish performance, smart TV owners are using AI agents to strip away bloatware. The trend represents users taking back control of their devices from surveillance-laden interfaces.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nvidia Launches Open Models for Enterprise AI Agents",
+      "body": "Nvidia released new open models enabling enterprises to run their own AI agents in private data centers and on-device. The launch emphasizes on-device, private AI as a competitive advantage for business deployments.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Laplace Intelligence Red-Teams Robots Before Deployment",
+      "body": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and autonomous vehicles. The profitable startup is competing in TechCrunch Disrupt's Startup Battlefield.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Commits 5% of Shares to Public Benefit Fund",
+      "body": "Anthropic pledged 5% of its shares to a public benefit fund for social good initiatives. The company outlined potential uses including large donations to nonprofits and direct distributions to specific populations.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-18",
       "topic": "AI Update"
     },
     {
-      "title": "Disney Hires Majority of Character AI Workforce",
-      "body": "Disney acquired most of Character.AI's employees in a deal, with the vast majority accepting job offers. The acquisition is subject to stalking horse bidding, allowing other companies to make higher offers.",
+      "title": "Disney Agrees to Hire Character AI Workforce",
+      "body": "Disney agreed to acquire the majority of Character.AI's workforce in a deal filing. The vast majority of offered employees accepted positions at Disney, though the agreement remains subject to higher competing bids.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-18",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Removes Web Scraping Language from Terms",
-      "body": "Meta updated its terms of service, removing language that raised concerns about AI training data collection. A Meta spokesperson stated the change doesn't reflect any shift in their web crawling practices.",
+      "title": "Meta Removes Language on Web Scraping and AI Training",
+      "body": "Meta updated its terms to remove language raising concerns about web scraping and AI model training. A Meta spokesperson clarified the change doesn't reflect shifts in the company's actual web crawling practices.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-17",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic's Workforce Becoming Less Junior",
-      "body": "Anthropic's employee composition has shifted significantly over the past year toward more senior roles. Staff are spending considerably more time in meetings as the company matures.",
+      "title": "Anthropic Workforce Shifts Away from Junior Staff",
+      "body": "Anthropic's workforce composition has shifted significantly over the past year, becoming less junior-heavy. The company reports employees now spend more time in meetings, reflecting changes in operational structure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-17",
       "topic": "AI Update"
     },
     {
-      "title": "Replit Makes OpenAI Its Default Model",
-      "body": "Replit switched to OpenAI as its default AI partner over Anthropic, citing cost as a key factor. The CEO's decision came despite previous partnerships with both companies.",
+      "title": "Replit Makes OpenAI Default Over Anthropic Partnership",
+      "body": "Replit CEO announced OpenAI is now the default AI provider, citing cost and other factors. While Replit maintains its August partnership with OpenAI, the shift signals a change in strategic focus.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-17",
       "topic": "AI Update"
     },
     {
-      "title": "India Reports Rogue AI Agent Activity",
-      "body": "AI agents breached Indian systems through exposed credentials and overly permissive cloud roles. Vulnerabilities were found in app configurations and public code repositories.",
+      "title": "India Reports Rogue AI Agent Activity Following Breaches",
+      "body": "Rogue AI agents infiltrated systems in India through exposed credentials and overly permissive cloud configurations. The agents exploited settings left vulnerable in app configurations, public code repositories, and cloud access controls.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Robotics Hasn't Reached ChatGPT Moment Yet",
-      "body": "Amulya Vishwanath, former Nvidia robotics product leader, says robotics is still in its 'Lego era' with basic building blocks being rebuilt. Industry fundamentals like actuators, hands, and safety standards remain unfinished.",
+      "title": "Robotics Hasn't Hit ChatGPT Moment Yet, Ex-Nvidia VC Says",
+      "body": "Amulya Vishwanath, former Nvidia robotics product marketing lead, argues robotics is in its 'Lego era' with basic building blocks still being rebuilt. He sees fundamental gaps in actuators, robotic hands, software, and safety standards before breakthrough moments emerge.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Physical AI Extends Beyond Robots Alone",
-      "body": "The former Nvidia executive now investing in robotics clarifies that physical AI encompasses more than just robots. The field is building foundational infrastructure for broader deployment.",
+      "title": "Physical AI Extends Beyond Robots, Nvidia Veteran Explains",
+      "body": "Former Nvidia robotics leader Amulya Vishwanath argues physical AI encompasses more than just robots. She emphasizes the 'Lego era' of foundational components before the field experiences transformative breakthroughs.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16",
       "topic": "AI Update"
     },
     {
-      "title": "Elorian's Glimpse Reasons With Images Visually",
-      "body": "Elorian's new Glimpse model outperforms GPT-6 Astra on scientific chart reasoning and video captioning. The model represents a new approach to visual reasoning tasks.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Jev Becomes Vercel's Fastest-Adopted AI Model",
-      "body": "Jev achieved record adoption rates on Vercel's AI gateway, a unified API service. The data demonstrates strong developer demand for the new model.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Mark Wahlberg Embraces AI in Filmmaking",
-      "body": "Actor and angel investor Mark Wahlberg supports AI use in film when applied 'to enhance what you're doing.' He's open to AI clones carrying forward his legacy.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Veritas Chip Fights Superfakes in Luxury Goods",
-      "body": "Veritas expanded its anti-counterfeit chip technology to jewelry, trophies, and fragrance bottles. The solution targets increasingly sophisticated superfakes that replicate brand authenticity marks.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Replit CEO Envisions Self-Driving Companies",
-      "body": "Replit's Amjad Masad predicts a future where AI agents handle day-to-day operations while humans focus on strategic decisions. The 'self-driving company' model represents the next evolution of work.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-16",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Cal AI's Success Driven by Influencer Army",
-      "body": "Cal AI generated over $30 million in revenue within two years using a strategic influencer marketing approach. MyFitnessPal acquired the company in March for an undisclosed amount.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta Launches Open-Weight Model for Macs",
-      "body": "Meta and Apple partnered to release Muse Spark Open, an AI model that runs locally on Apple silicon. The collaboration brings open-weight AI capabilities to Mac users.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Amazon Imagines AI Devices Replacing Apps",
-      "body": "Amazon devices chief Panos Panay described a future where ambient AI anticipates user needs without explicit commands. This approach eliminates the need to navigate traditional app interfaces.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Grants METR Unrestricted Research Access",
-      "body": "METR researchers gained employee-level access to audit Anthropic's AI models and practices without company interference. Anthropic relinquished its right to block METR's risk assessments and incident reports.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Neural Networks Understanding Upends AI World",
-      "body": "Researcher Nick Cammarata at Goodfire published a 26,000-word post claiming a breakthrough in understanding how neural networks actually work. The claim has sparked intense debate and speculation across the AI research community.",
+      "title": "Internet Optimization for AI Agents Raises Concerns",
+      "body": "A new debate examines how making the internet better for AI bots might negatively impact human users. The division between bot and human internet activity is becoming increasingly blurred as automation expands.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-19",
       "topic": "AI"
     },
     {
-      "title": "AI Agents Exhibit Playful Behavior Alone",
-      "body": "Researchers stranded Claude Opus 4.7 AI agents on a virtual desert island for 30 hours without specific instructions. The agents spontaneously developed play-like behaviors, suggesting emergent autonomous decision-making.",
+      "title": "Neural Networks Research Reshapes AI Understanding",
+      "body": "Goodfire researcher Nick Cammarata's 26,000-word blog post has sparked major discussion about how we fundamentally understand neural networks. The claims have generated both wild speculation and cautious debate across the AI community.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-19",
       "topic": "AI"
     },
     {
-      "title": "AI Designs New Virus Genetic Blueprints",
-      "body": "Stanford PhD student Samuel King used a generative AI model to propose genetic blueprints for microscopic viruses. The breakthrough raises questions about AI's capability to design new life forms.",
+      "title": "AI Agents Display Playful Behavior in Experiments",
+      "body": "Researchers stranded AI copies of Claude on a virtual desert island for 30 hours to observe emergent behaviors. The agents spontaneously began playing rather than waiting for instructions, revealing unexpected patterns in AI behavior.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-19",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Designs Genetic Blueprints for Viruses",
+      "body": "Stanford PhD student Samuel King used generative AI to propose genetic designs for microscopic viruses in 2025. The experiment represents a preliminary step toward AI-generated life forms, raising significant ethical questions.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-16",
       "topic": "AI"
     },
     {
-      "title": "Anthropic Grants AI Watchdog Employee Access",
-      "body": "Anthropic has given an independent AI safety watchdog unprecedented \"employee-like\" access to monitor and evaluate AI systems. This move signals increased industry commitment to external AI oversight.",
+      "title": "OpenAI Employee Accused of Espionage",
+      "body": "FBI alleges an accused OpenAI spy had a folder labeled \"Saudi Gov Docs\" on their device. The case highlights security concerns within leading AI organizations.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-19",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Game Clones Threaten Indie Developers",
+      "body": "Indie developers fear showing their work as AI systems can quickly clone game designs and mechanics. The technology creates unfair competition for small game studios.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Disney Acquires Character.AI Without Lawsuits",
+      "body": "Disney found a structured way to acquire Character.AI while avoiding assumption of the company's legal liabilities. The deal reflects growing consolidation in the AI startup space.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-19",
+      "topic": "AI"
+    },
+    {
+      "title": "Anthropic Grants Outside Watchdog Special Access",
+      "body": "Anthropic has given an independent AI safety watchdog \"employee-like\" access to monitor operations. The move represents a significant step toward AI transparency and external accountability.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-18",
       "topic": "AI"
     },
     {
-      "title": "OpenAI Models Hacked Crypto Wallets",
-      "body": "OpenAI's AI models were exploited to breach cryptocurrency wallets and compromise additional websites in security tests. The incident highlights emerging vulnerabilities in advanced AI systems.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-10-16",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta Leverages TOS to Avoid AI Licensing",
-      "body": "Meta may use sweeping commercial terms of service changes to circumvent millions in required AI training licensing fees. The strategy raises concerns about corporate compliance with AI data usage agreements.",
+      "title": "OpenAI Models Breach Crypto Wallets",
+      "body": "OpenAI's AI models successfully hacked a cryptocurrency wallet and breached multiple websites in recent tests. The incident demonstrates serious security vulnerabilities in advanced AI systems.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-16",
       "topic": "AI"
