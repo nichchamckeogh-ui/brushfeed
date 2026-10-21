@@ -1,180 +1,180 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-21T06:43:17.348Z",
+  "generatedAt": "2026-10-21T18:17:04.500Z",
   "cardCount": 25,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Anthropic proposes AI safety bill with judicial oversight",
-      "body": "Anthropic introduced a policy requiring federal judges' permission before agencies block AI model releases. The framework aims to prevent uncontrolled AI deployment while maintaining judicial checks on government power.",
+      "title": "AI Productivity Gains Come With Management Headaches",
+      "body": "More than 50% of managers report difficulty evaluating employee work after adopting AI tools. The survey reveals a significant gap between AI's promised productivity benefits and real-world management challenges.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Proposes AI Safety Bill With Judge Requirement",
+      "body": "Anthropic's proposed policy would block model releases only if 50+ deaths could result. However, federal agencies would need judicial permission to enforce such blocks, limiting regulatory power.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Hugging Face CEO disputes Netflix AI documentary accuracy",
-      "body": "Clem Delangue criticized Netflix's 'AI Gone Rogue' documentary for going \"full doomer mode\" and misrepresenting facts. The Hugging Face co-founder appeared in the film but disputes its portrayal of AI risks.",
+      "title": "Hugging Face CEO Disputes Netflix AI Documentary",
+      "body": "Hugging Face co-founder Clem Delangue criticized Netflix's 'AI Gone Rogue' for being inaccurate and overly alarmist. He claims the documentary went 'full doomer mode' in its portrayal of AI risks.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic faces compute shortages before November IPO",
-      "body": "Anthropic struggles to secure sufficient computing resources from cloud providers viewing it as competition. Infrastructure spending balloons as the company prepares for its planned November IPO.",
+      "title": "Anthropic Faces Compute Scarcity Before IPO",
+      "body": "Cloud providers view Anthropic as a competitor, complicating its efforts to secure sufficient computing resources. The company's infrastructure spending continues ballooning ahead of its planned November IPO.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "SpaceX AI business drives record Q3 profitability",
-      "body": "SpaceX achieved $4.4 billion net income in Q3, with AI as the primary growth engine. The strong performance demonstrates AI's expanding role across the company's operations.",
+      "title": "SpaceX AI Business Drives $4.4B Profit",
+      "body": "SpaceX achieved profitability in Q3 with $4.4 billion in net income, largely driven by its AI operations. The company's AI division has exceeded internal performance expectations.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI acquires Orchestra Bio for biotech expansion",
-      "body": "OpenAI added Orchestra Bio's team and technology to enhance Rosalind, its life sciences AI model. The acquisition strengthens OpenAI's biotech research capabilities through the Rosalind Workbench platform.",
+      "title": "OpenAI Acquires Orchestra Bio for Biotech",
+      "body": "OpenAI is integrating Orchestra Bio's team and technology into its Rosalind AI model for life sciences research. The acquisition strengthens OpenAI's Rosalind Workbench tool for experiment planning and analysis.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Google challenges Nvidia GPU dominance with PyTorch tool",
-      "body": "Google joined Amazon in releasing developer tools enabling PyTorch users to migrate from Nvidia GPUs. The move signals growing competition in AI accelerator hardware among major cloud providers.",
+      "title": "Google Challenges Nvidia with PyTorch Developer Tool",
+      "body": "Google joined Amazon in releasing a developer tool enabling PyTorch users to migrate applications away from Nvidia GPUs. The move challenges Nvidia's dominance in AI hardware infrastructure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "ChatGPT introduces chat locking privacy feature",
-      "body": "OpenAI added the ability to lock individual chats for privacy when sharing devices. The feature protects personal conversations and surprise planning from accidental discovery.",
+      "title": "ChatGPT Adds Private Chat Lock Feature",
+      "body": "Users can now lock specific ChatGPT conversations to keep personal or sensitive discussions private. The feature protects conversations when sharing devices with friends or family.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Eric Schmidt holds significant Anthropic equity stake",
-      "body": "Eric Schmidt owns approximately half as much Anthropic equity as CEO Dario Amodei. The holdings position Schmidt for substantial gains ahead of the company's IPO.",
+      "title": "Eric Schmidt's Anthropic Stake Significantly Smaller",
+      "body": "Eric Schmidt owns roughly half as much Anthropic equity as CEO Dario Amodei. Schmidt's stake remains substantial despite the disparity.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's Muse reaches 10M US downloads in 40 days",
-      "body": "Meta's Muse achieved the rare milestone of 10M US downloads in 40 days, joining only 11 other apps. The app demonstrates strong user retention compared to competing AI tools.",
+      "title": "Meta's Muse Reaches 10M US Downloads",
+      "body": "Meta's Muse reached 10 million US downloads in just 40 days, joining only 11 other apps in this achievement. The app also demonstrates higher user retention rates than competing AI applications.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Physical AI entering LEGO era of development",
-      "body": "Ex-Nvidia VC Amulya Vishwanath describes robotics as experiencing its foundational LEGO moment. The industry awaits a ChatGPT-equivalent breakthrough for physical AI and robotics.",
+      "title": "Physical AI Entering LEGO Era Says Expert",
+      "body": "Ex-Nvidia VC Amulya Vishwanath describes robotics as currently in its 'LEGO era,' comparable to AI's ChatGPT breakthrough moment. The industry awaits its transformative inflection point.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Startup deciphers plant electrical communication with AI",
-      "body": "Electric Plant built an AI translator to interpret electrical signals plants use for communication. The technology enables humans to understand subtle biological messages flowing through plant systems.",
+      "title": "Startup Builds AI Translator for Plant Signals",
+      "body": "Electric Plant developed an AI model to decipher electrical communication flowing through plant stems. The technology enables humans to understand what plants are silently signaling.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Figma optimizes data privacy in MCP implementation",
-      "body": "Figma co-founder Dylan Field noted limitations in the MCP protocol for safeguarding data. The company plans supporting multiple standards while protecting sensitive information from exposure.",
+      "title": "Figma Co-Founder Questions MCP Protocol",
+      "body": "Figma's Dylan Field expressed concerns about MCP's limitations as an AI protocol standard. Figma plans supporting multiple standards while protecting proprietary data exposure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "US removes DeepSeek AI from federal agency systems",
-      "body": "The U.S. government ordered federal civilian agencies to remove DeepSeek products and related services. The action cites national security concerns about Chinese AI technology access.",
+      "title": "US Orders DeepSeek Removal From Federal Systems",
+      "body": "The U.S. government mandated federal civilian agencies remove DeepSeek AI products immediately. The order cites national security concerns over the Chinese AI technology.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Eka Robotics reaches $1.45B valuation breakthrough",
-      "body": "Eka's robotic arm demonstrates exceptional dexterity picking diverse objects with human-like smoothness. The technology has generated significant industry excitement around practical physical AI applications.",
+      "title": "Eka Robotics Valued at $1.45 Billion",
+      "body": "Eka's physical AI robotic arm impresses industry experts with its smooth, human-like object manipulation capabilities. The startup may represent the first truly versatile robotic picking solution.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Yelp deploys AI agents for restaurant wait checks",
-      "body": "Yelp integrated multiple AI features including automated calls to check restaurant wait times. The updates personalize recommendations while remembering user preferences across app interactions.",
+      "title": "Yelp Embeds AI Calling Feature for Restaurants",
+      "body": "Yelp now enables AI to call restaurants on users' behalf to check wait times and availability. The app also includes personalized AI recommendations that learn user preferences.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Otter AI secures $320M growth funding from General Catalyst",
-      "body": "Otter.ai raised $320M to accelerate enterprise expansion and international growth strategies. Funds support product innovation and enhanced go-to-market initiatives for its meeting tool.",
+      "title": "Otter.ai Raises $320M from General Catalyst",
+      "body": "Otter.ai secured $320 million in funding from General Catalyst's growth fund for its meeting transcription tool. Funds will support enterprise growth, international expansion, and product innovation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "NYC Mayor urges resistance to inevitable AI takeover narrative",
-      "body": "Mayor Zohran Mamdani called on New Yorkers to reject inevitability framing around AI adoption. He advocates for regulations prioritizing public protection and democratic power distribution.",
+      "title": "NYC Mayor Urges Resistance to AI Inevitability",
+      "body": "Mayor Zohran Mamdani called on New Yorkers to reject narratives of inevitable AI takeover and demand protective regulations. He advocates for policies that return power to citizens.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Nscale and Anthropic negotiate massive $45B compute deal",
-      "body": "Anthropic and Nscale reportedly discuss another significant compute procurement agreement worth $45B. The potential deal continues Anthropic's aggressive infrastructure acquisition strategy throughout 2026.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Embedded AI evaluators pose complex implementation challenges",
-      "body": "Hugging Face policy chief warns embedded third-party evaluators won't solve AI safety issues. The approach has gained traction but faces significant practical limitations in oversight.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Microsoft flags AI agents as enterprise insider threats",
-      "body": "Microsoft warns enterprises to closely monitor AI agents deployed by employees outside lab control. The company emphasizes that frontier models remain insufficiently trustworthy for unsupervised deployment.",
+      "title": "Anthropic, Nscale Reportedly Negotiate $45B Deal",
+      "body": "Anthropic and Nscale are in talks for another massive $45 billion compute infrastructure agreement. The potential deal continues Anthropic's streak of large-scale compute partnerships.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-19",
       "topic": "AI Update"
     },
     {
-      "title": "Meta drops 'train' from commercial AI terms",
-      "body": "Meta has removed the word 'train' from its commercial terms of service following backlash over AI model training practices. The move signals growing concerns about how companies use customer data for AI development.",
+      "title": "Embedded AI Evaluators Won't Be Easy Solution",
+      "body": "Hugging Face's policy chief warns that placing independent evaluators inside AI organizations is not a straightforward safety solution. The approach has gained popularity amid recent safety incidents in the industry.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI-Powered Healthcare Startup Reaches $15 Billion Valuation",
+      "body": "An ad-powered AI startup is already being integrated into doctor's offices across the country. The platform demonstrates how AI systems are rapidly entering healthcare decision-making workflows.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-21",
+      "topic": "AI"
+    },
+    {
+      "title": "Meta Removes 'Train' from AI Commercial Terms",
+      "body": "Meta revised its commercial terms of service following backlash over AI training practices. The change reflects growing concerns about how companies use user data for AI model development.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-20",
       "topic": "AI"
     },
     {
-      "title": "Gemini Personal Intelligence arrives in vehicles",
-      "body": "Google's Gemini AI assistant is expanding into automotive applications with its Personal Intelligence feature. The integration aims to enhance in-car user experiences with AI-powered capabilities.",
+      "title": "Google's Gemini AI Comes to Vehicle Systems",
+      "body": "Gemini's Personal Intelligence feature is expanding into automotive applications. The integration brings conversational AI capabilities directly into cars for enhanced user interaction.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-20",
       "topic": "AI"
     },
     {
-      "title": "AI and human therapy combine for stroke recovery",
-      "body": "MIT researchers are developing a hybrid approach that pairs artificial intelligence with human physical therapy for stroke patients. The innovation addresses growing shortages of therapists while improving rehabilitation outcomes.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta Muse exposes user secrets in conversations",
-      "body": "Meta's Muse AI tool has been found exposing personal and business secrets when users share conversations. The privacy vulnerability highlights risks in sharing AI-generated content across platforms.",
+      "title": "Meta Muse AI Exposes Users' Secrets in Shared Conversations",
+      "body": "Meta's AI assistant Muse has a significant privacy flaw that exposes personal and business information when conversations are shared. The vulnerability highlights security risks in generative AI applications.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-20",
       "topic": "AI"
     },
     {
-      "title": "Quantum error correction surpasses breakeven milestone",
-      "body": "Quantum computing achieves a major breakthrough with error correction performance exceeding the breakeven point. This advancement moves quantum systems closer to practical, scalable applications.",
+      "title": "Quantum Error Correction Achieves Major Breakthrough",
+      "body": "Quantum error correction has surpassed the critical breakeven point in performance. This advancement brings practical quantum computing closer to reality.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-20",
       "topic": "AI"
