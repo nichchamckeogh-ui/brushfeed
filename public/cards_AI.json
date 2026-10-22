@@ -1,180 +1,166 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-21T18:17:04.500Z",
-  "cardCount": 25,
+  "generatedAt": "2026-10-22T06:43:14.030Z",
+  "cardCount": 23,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "AI Productivity Gains Come With Management Headaches",
-      "body": "More than 50% of managers report difficulty evaluating employee work after adopting AI tools. The survey reveals a significant gap between AI's promised productivity benefits and real-world management challenges.",
+      "title": "Blackstone's AI Head Downplays Buildout Debt Fears",
+      "body": "Blackstone's Jas Khaira says concerns about AI infrastructure debt are overblown. The PE giant remains confident in its AI investment strategy despite market jitters.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-21",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Proposes AI Safety Bill With Judge Requirement",
-      "body": "Anthropic's proposed policy would block model releases only if 50+ deaths could result. However, federal agencies would need judicial permission to enforce such blocks, limiting regulatory power.",
+      "title": "TechCrunch Founder Summit 2026 Coming November 4",
+      "body": "Full-day event in Boston bringing together founders across all stages with top VCs and entrepreneurs. Focus on tactical insights for building and scaling companies.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta's Muse Hits 10M Users, Shopping Leads",
+      "body": "Meta Muse surpassed 10 million users with shopping and personal productivity as top activities. Growth announced during Q3 earnings call.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Recursive Launches Flint, AI-Built Coding Model",
+      "body": "Startup Recursive released Flint, a free laptop-sized coding model built largely by its own AI system. Represents early test of self-improving AI.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Walmart Welcomes AI Agents While Amazon Blocks",
+      "body": "Walmart launches new technology enabling AI agents to make purchases on customers' behalf with spending controls. Amazon takes opposite approach by blocking AI agents.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI and Google's Wiz Discover Ancient Security Holes",
+      "body": "Major security vulnerabilities discovered in PHP by AI research teams. Critical risk due to widespread internet impact.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Blacksmith Reaches $1B Valuation After Series C",
+      "body": "Blacksmith raised $66 million Series C led by Sequoia, hitting unicorn status. Platform helps companies build and test AI code more effectively.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Managers Struggle With AI Adoption Work Evaluation",
+      "body": "Over 50% of managers report difficulty evaluating employee work after AI adoption. Creates headaches for performance management processes.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Proposes AI Safety Regulation Bill",
+      "body": "Anthropic pitched policy blocking model release if 50+ deaths could result. Requires judicial permission for federal agencies to block releases.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
       "title": "Hugging Face CEO Disputes Netflix AI Documentary",
-      "body": "Hugging Face co-founder Clem Delangue criticized Netflix's 'AI Gone Rogue' for being inaccurate and overly alarmist. He claims the documentary went 'full doomer mode' in its portrayal of AI risks.",
+      "body": "Clem Delangue criticized Netflix's 'AI Gone Rogue' documentary for going 'full doomer mode.' Says featured content lacks accuracy.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Faces Compute Scarcity Before IPO",
-      "body": "Cloud providers view Anthropic as a competitor, complicating its efforts to secure sufficient computing resources. The company's infrastructure spending continues ballooning ahead of its planned November IPO.",
+      "title": "Anthropic's Cloud Partnerships Face Major Strains",
+      "body": "Anthropic struggles securing compute as cloud providers view it as competitor. Infrastructure spending balloons ahead of planned November IPO.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "SpaceX AI Business Drives $4.4B Profit",
-      "body": "SpaceX achieved profitability in Q3 with $4.4 billion in net income, largely driven by its AI operations. The company's AI division has exceeded internal performance expectations.",
+      "title": "SpaceX AI Business Drives Third Quarter Profit",
+      "body": "SpaceX reached profitability in Q3 with $4.4 billion net income. AI operations served as primary growth engine.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
       "title": "OpenAI Acquires Orchestra Bio for Biotech",
-      "body": "OpenAI is integrating Orchestra Bio's team and technology into its Rosalind AI model for life sciences research. The acquisition strengthens OpenAI's Rosalind Workbench tool for experiment planning and analysis.",
+      "body": "OpenAI acquired Orchestra Bio's team and technology to strengthen Rosalind, its life sciences AI model. Addition supports Rosalind Workbench experiment planning tool.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Google Challenges Nvidia with PyTorch Developer Tool",
-      "body": "Google joined Amazon in releasing a developer tool enabling PyTorch users to migrate applications away from Nvidia GPUs. The move challenges Nvidia's dominance in AI hardware infrastructure.",
+      "title": "Google Joins Amazon Attacking Nvidia's Dominance",
+      "body": "Google released developer tool easing PyTorch migration off Nvidia GPUs. Follows Amazon's competitive move challenging Nvidia's stronghold.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "ChatGPT Adds Private Chat Lock Feature",
-      "body": "Users can now lock specific ChatGPT conversations to keep personal or sensitive discussions private. The feature protects conversations when sharing devices with friends or family.",
+      "title": "ChatGPT Adds Chat Lock Privacy Feature",
+      "body": "OpenAI introduced chat locking for personal conversations and surprise planning. Keeps discussions private when sharing devices with others.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Eric Schmidt's Anthropic Stake Significantly Smaller",
-      "body": "Eric Schmidt owns roughly half as much Anthropic equity as CEO Dario Amodei. Schmidt's stake remains substantial despite the disparity.",
+      "title": "Eric Schmidt's Anthropic Stake Grows Significantly",
+      "body": "Eric Schmidt reportedly owns half as much Anthropic as CEO Dario Amodei. Stake positions Schmidt for major wealth increase.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's Muse Reaches 10M US Downloads",
-      "body": "Meta's Muse reached 10 million US downloads in just 40 days, joining only 11 other apps in this achievement. The app also demonstrates higher user retention rates than competing AI applications.",
+      "title": "Meta Muse Hits 10M US Downloads in 40 Days",
+      "body": "Meta Muse reached 10 million US downloads in 40 days, joining elite 12-app club. Shows higher user retention than AI rivals.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Physical AI Entering LEGO Era Says Expert",
-      "body": "Ex-Nvidia VC Amulya Vishwanath describes robotics as currently in its 'LEGO era,' comparable to AI's ChatGPT breakthrough moment. The industry awaits its transformative inflection point.",
+      "title": "Physical AI in LEGO Era, VC Says",
+      "body": "Ex-Nvidia VC Amulya Vishwanath compares robotics AI to early computing stages. Predicts incoming 'ChatGPT moment' for robotics.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Startup Builds AI Translator for Plant Signals",
-      "body": "Electric Plant developed an AI model to decipher electrical communication flowing through plant stems. The technology enables humans to understand what plants are silently signaling.",
+      "title": "Startup Builds AI Model to Decode Plant Language",
+      "body": "Electric Plant developed AI translator deciphering plant electrical signals. Innovation enables humans to understand plant communication.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Figma Co-Founder Questions MCP Protocol",
-      "body": "Figma's Dylan Field expressed concerns about MCP's limitations as an AI protocol standard. Figma plans supporting multiple standards while protecting proprietary data exposure.",
+      "title": "Figma Co-Founder Questions MCP Protocol Perfection",
+      "body": "Dylan Field says MCP isn't a perfect protocol for data sharing. Figma plans supporting multiple standards without full data exposure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "US Orders DeepSeek Removal From Federal Systems",
-      "body": "The U.S. government mandated federal civilian agencies remove DeepSeek AI products immediately. The order cites national security concerns over the Chinese AI technology.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Eka Robotics Valued at $1.45 Billion",
-      "body": "Eka's physical AI robotic arm impresses industry experts with its smooth, human-like object manipulation capabilities. The startup may represent the first truly versatile robotic picking solution.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Yelp Embeds AI Calling Feature for Restaurants",
-      "body": "Yelp now enables AI to call restaurants on users' behalf to check wait times and availability. The app also includes personalized AI recommendations that learn user preferences.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Otter.ai Raises $320M from General Catalyst",
-      "body": "Otter.ai secured $320 million in funding from General Catalyst's growth fund for its meeting transcription tool. Funds will support enterprise growth, international expansion, and product innovation.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "NYC Mayor Urges Resistance to AI Inevitability",
-      "body": "Mayor Zohran Mamdani called on New Yorkers to reject narratives of inevitable AI takeover and demand protective regulations. He advocates for policies that return power to citizens.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic, Nscale Reportedly Negotiate $45B Deal",
-      "body": "Anthropic and Nscale are in talks for another massive $45 billion compute infrastructure agreement. The potential deal continues Anthropic's streak of large-scale compute partnerships.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Embedded AI Evaluators Won't Be Easy Solution",
-      "body": "Hugging Face's policy chief warns that placing independent evaluators inside AI organizations is not a straightforward safety solution. The approach has gained popularity amid recent safety incidents in the industry.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI-Powered Healthcare Startup Reaches $15 Billion Valuation",
-      "body": "An ad-powered AI startup is already being integrated into doctor's offices across the country. The platform demonstrates how AI systems are rapidly entering healthcare decision-making workflows.",
+      "title": "OpenAI's Latest AI Models Come to Google Cloud",
+      "body": "OpenAI is expanding its AI model availability through Google Cloud and Antigravity partnerships. This move makes cutting-edge AI capabilities more accessible to enterprise customers.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-21",
       "topic": "AI"
     },
     {
-      "title": "Meta Removes 'Train' from AI Commercial Terms",
-      "body": "Meta revised its commercial terms of service following backlash over AI training practices. The change reflects growing concerns about how companies use user data for AI model development.",
+      "title": "$15 Billion Ad-Powered AI Startup Used by Doctors",
+      "body": "A major AI startup valued at $15 billion is already integrated into healthcare systems across the country. The platform uses ad-supported models to power medical applications.",
       "source": "Ars Technica",
-      "publishedAt": "2026-10-20",
+      "publishedAt": "2026-10-21",
       "topic": "AI"
     },
     {
-      "title": "Google's Gemini AI Comes to Vehicle Systems",
-      "body": "Gemini's Personal Intelligence feature is expanding into automotive applications. The integration brings conversational AI capabilities directly into cars for enhanced user interaction.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-10-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta Muse AI Exposes Users' Secrets in Shared Conversations",
-      "body": "Meta's AI assistant Muse has a significant privacy flaw that exposes personal and business information when conversations are shared. The vulnerability highlights security risks in generative AI applications.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-10-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Quantum Error Correction Achieves Major Breakthrough",
-      "body": "Quantum error correction has surpassed the critical breakeven point in performance. This advancement brings practical quantum computing closer to reality.",
+      "title": "Meta Removes 'Train' From AI Commercial Terms",
+      "body": "Meta updated its commercial terms of service, dropping language about 'training' AI models following backlash. The change reflects growing concerns about AI data usage practices.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-20",
       "topic": "AI"
