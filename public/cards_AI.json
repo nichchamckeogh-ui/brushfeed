@@ -1,168 +1,175 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-22T06:43:14.030Z",
-  "cardCount": 23,
+  "generatedAt": "2026-10-22T18:17:02.126Z",
+  "cardCount": 24,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Blackstone's AI Head Downplays Buildout Debt Fears",
-      "body": "Blackstone's Jas Khaira says concerns about AI infrastructure debt are overblown. The PE giant remains confident in its AI investment strategy despite market jitters.",
+      "title": "Chinese Hackers Breach ConnectWise Using AI Agents",
+      "body": "Microsoft identified China-aligned hackers who breached IT giant ConnectWise and used AI agents to rapidly infiltrate thousands of customer systems. The incident highlights emerging threats from AI-powered attack automation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Uber Deploys ChatGPT Work Company-Wide",
+      "body": "Uber expanded its ChatGPT Work deployment from a limited pilot to all 30,000 employees globally. The ride-share giant is betting on enterprise AI agents for workforce productivity.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Spotify Positions Itself for AI Agents",
+      "body": "Co-CEO Gustav Söderström outlined Spotify's strategy to become the music service AI agents choose. The company sees opportunity in the emerging AI agent economy.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Claude Duet: Anthropic's Agent Bet",
+      "body": "Anthropic launched Claude Duet, available via waitlist for Pro and Max plan users. The app represents the company's entry into AI agent products.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nirva Raises $33M for AI Pendant",
+      "body": "Nirva secured funding for its $249 ambient AI pendant that only listens to the user. The device ships by year-end.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "DeepSeek Raises $15B After US Ban",
+      "body": "DeepSeek raised $15 billion days after the U.S. ordered federal agencies to remove its technology over national security concerns. The funding round is among China's largest.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Blackstone: AI Debt Fears Overblown",
+      "body": "Blackstone's AI head Jas Khaira dismissed concerns about AI infrastructure buildout debt. The PE giant remains confident despite market jitters.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-21",
       "topic": "AI Update"
     },
     {
-      "title": "TechCrunch Founder Summit 2026 Coming November 4",
-      "body": "Full-day event in Boston bringing together founders across all stages with top VCs and entrepreneurs. Focus on tactical insights for building and scaling companies.",
+      "title": "Meta Plans New Stock Class for AI",
+      "body": "Meta announced plans for a new stock structure to fund its expanding AI model and infrastructure investments. The strategy aims to finance the company's broad AI buildout.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-21",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's Muse Hits 10M Users, Shopping Leads",
-      "body": "Meta Muse surpassed 10 million users with shopping and personal productivity as top activities. Growth announced during Q3 earnings call.",
+      "title": "TechCrunch Founder Summit 2026",
+      "body": "TechCrunch Founder Summit returns November 4 in Boston with founders, VCs, and entrepreneurs sharing scaling insights. The full-day event connects early-stage to mature companies.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-21",
       "topic": "AI Update"
     },
     {
-      "title": "Recursive Launches Flint, AI-Built Coding Model",
-      "body": "Startup Recursive released Flint, a free laptop-sized coding model built largely by its own AI system. Represents early test of self-improving AI.",
+      "title": "Meta Muse Exceeds 10M Users",
+      "body": "Meta's Muse AI app surpassed 10 million users with shopping emerging as a top activity. The platform is also driving personal productivity adoption.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-21",
       "topic": "AI Update"
     },
     {
-      "title": "Walmart Welcomes AI Agents While Amazon Blocks",
-      "body": "Walmart launches new technology enabling AI agents to make purchases on customers' behalf with spending controls. Amazon takes opposite approach by blocking AI agents.",
+      "title": "Recursive Launches Flint Coding Model",
+      "body": "Recursive released Flint, a free laptop-sized coding model built largely by its own AI research system. The release tests AI's ability to improve itself.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-21",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI and Google's Wiz Discover Ancient Security Holes",
-      "body": "Major security vulnerabilities discovered in PHP by AI research teams. Critical risk due to widespread internet impact.",
+      "title": "Walmart Welcomes AI Shopping Agents",
+      "body": "While Amazon blocks AI agents, Walmart introduced technology enabling AI agents to make purchases with spending controls and transaction approvals. The move positions Walmart competitively in agent commerce.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-21",
       "topic": "AI Update"
     },
     {
-      "title": "Blacksmith Reaches $1B Valuation After Series C",
-      "body": "Blacksmith raised $66 million Series C led by Sequoia, hitting unicorn status. Platform helps companies build and test AI code more effectively.",
+      "title": "Critical PHP Vulnerabilities Found by AI",
+      "body": "OpenAI and Google's Wiz discovered ancient PHP security holes that AI could both prevent and exploit. The findings highlight dual-use risks in AI-powered security.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-21",
       "topic": "AI Update"
     },
     {
-      "title": "Managers Struggle With AI Adoption Work Evaluation",
-      "body": "Over 50% of managers report difficulty evaluating employee work after AI adoption. Creates headaches for performance management processes.",
+      "title": "Blacksmith Hits Unicorn Valuation",
+      "body": "Blacksmith secured a $66 million Series C led by Sequoia, reaching $1 billion valuation. The platform helps companies build and test AI code more effectively.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-21",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Proposes AI Safety Regulation Bill",
-      "body": "Anthropic pitched policy blocking model release if 50+ deaths could result. Requires judicial permission for federal agencies to block releases.",
+      "title": "Managers Struggle with AI Adoption",
+      "body": "Over 50% of managers report difficulty evaluating employee work after AI adoption, according to a new survey. AI-driven productivity gains are creating management challenges.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-21",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Proposes AI Safety Bill",
+      "body": "Anthropic pitched an AI safety policy requiring 50+ potential deaths to block model release without judicial approval. The proposal aims to balance safety with innovation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Hugging Face CEO Disputes Netflix AI Documentary",
-      "body": "Clem Delangue criticized Netflix's 'AI Gone Rogue' documentary for going 'full doomer mode.' Says featured content lacks accuracy.",
+      "title": "Hugging Face CEO Questions Netflix Doc",
+      "body": "Hugging Face co-founder Clem Delangue criticized Netflix's 'AI Gone Rogue' documentary for going \"full doomer mode\" and inaccuracy. He appeared in the film and questioned its portrayal.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic's Cloud Partnerships Face Major Strains",
-      "body": "Anthropic struggles securing compute as cloud providers view it as competitor. Infrastructure spending balloons ahead of planned November IPO.",
+      "title": "Anthropic's Cloud Compute Struggles",
+      "body": "Anthropic reportedly faces challenges securing compute from cloud providers who view it as competition. The infrastructure crunch comes ahead of the planned November IPO.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "SpaceX AI Business Drives Third Quarter Profit",
-      "body": "SpaceX reached profitability in Q3 with $4.4 billion net income. AI operations served as primary growth engine.",
+      "title": "SpaceX AI Business Drives Profitability",
+      "body": "SpaceX hit profitability in Q3 with $4.4 billion net income, powered by AI growth. The business segment exceeded company expectations.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Acquires Orchestra Bio for Biotech",
-      "body": "OpenAI acquired Orchestra Bio's team and technology to strengthen Rosalind, its life sciences AI model. Addition supports Rosalind Workbench experiment planning tool.",
+      "title": "OpenAI Acquires Orchestra Bio",
+      "body": "OpenAI acquired Orchestra Bio's team and technology to advance Rosalind, its life sciences AI model. The acquisition strengthens OpenAI's biotech capabilities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20",
       "topic": "AI Update"
     },
     {
-      "title": "Google Joins Amazon Attacking Nvidia's Dominance",
-      "body": "Google released developer tool easing PyTorch migration off Nvidia GPUs. Follows Amazon's competitive move challenging Nvidia's stronghold.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20",
-      "topic": "AI Update"
+      "title": "Making the case for context-aware AI",
+      "body": "Enterprise AI can generate recommendations and automate tasks, but without understanding how a business actually operates, even powerful models miss critical constraints. Context-aware systems that grasp organizational relationships are essential for making decisions that truly work.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-22",
+      "topic": "AI"
     },
     {
-      "title": "ChatGPT Adds Chat Lock Privacy Feature",
-      "body": "OpenAI introduced chat locking for personal conversations and surprise planning. Keeps discussions private when sharing devices with others.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20",
-      "topic": "AI Update"
+      "title": "AI's hidden storage bill: What inference leaves behind",
+      "body": "While GPU costs dominate AI spending conversations, data storage expenses for inference operations are often overlooked. The backend data generated after model responses creates significant hidden costs that executives need to account for.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-22",
+      "topic": "AI"
     },
     {
-      "title": "Eric Schmidt's Anthropic Stake Grows Significantly",
-      "body": "Eric Schmidt reportedly owns half as much Anthropic as CEO Dario Amodei. Stake positions Schmidt for major wealth increase.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta Muse Hits 10M US Downloads in 40 Days",
-      "body": "Meta Muse reached 10 million US downloads in 40 days, joining elite 12-app club. Shows higher user retention than AI rivals.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Physical AI in LEGO Era, VC Says",
-      "body": "Ex-Nvidia VC Amulya Vishwanath compares robotics AI to early computing stages. Predicts incoming 'ChatGPT moment' for robotics.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Startup Builds AI Model to Decode Plant Language",
-      "body": "Electric Plant developed AI translator deciphering plant electrical signals. Innovation enables humans to understand plant communication.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Figma Co-Founder Questions MCP Protocol Perfection",
-      "body": "Dylan Field says MCP isn't a perfect protocol for data sharing. Figma plans supporting multiple standards without full data exposure.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI's Latest AI Models Come to Google Cloud",
-      "body": "OpenAI is expanding its AI model availability through Google Cloud and Antigravity partnerships. This move makes cutting-edge AI capabilities more accessible to enterprise customers.",
+      "title": "OpenAI's latest AI models coming to Google Cloud",
+      "body": "OpenAI's newest AI models are being integrated into Google Cloud and Antigravity platforms. This expansion increases enterprise access to advanced AI capabilities across multiple cloud providers.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-21",
       "topic": "AI"
     },
     {
-      "title": "$15 Billion Ad-Powered AI Startup Used by Doctors",
-      "body": "A major AI startup valued at $15 billion is already integrated into healthcare systems across the country. The platform uses ad-supported models to power medical applications.",
+      "title": "The $15 billion ad-powered AI startup your doctor uses",
+      "body": "A major ad-powered AI startup valued at $15 billion is already embedded in healthcare systems. The company is quietly powering AI tools that doctors rely on daily.",
       "source": "Ars Technica",
       "publishedAt": "2026-10-21",
-      "topic": "AI"
-    },
-    {
-      "title": "Meta Removes 'Train' From AI Commercial Terms",
-      "body": "Meta updated its commercial terms of service, dropping language about 'training' AI models following backlash. The change reflects growing concerns about AI data usage practices.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-10-20",
       "topic": "AI"
     }
   ]
