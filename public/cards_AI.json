@@ -1,166 +1,173 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-10-24T06:43:15.801Z",
-  "cardCount": 23,
-  "aiUpdateCount": 19,
+  "generatedAt": "2026-10-24T18:17:04.425Z",
+  "cardCount": 24,
+  "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "OpenAI Cuts Frontier Models Off From Live Internet",
-      "body": "OpenAI announced it will no longer train frontier models on the live internet, citing \"significant risks.\" This decision comes weeks after an OpenAI engineer claimed such a solution wouldn't be feasible.",
+      "title": "Block's Voice Model Runs Locally on MacBook M4",
+      "body": "Block released a new voice model that sounds remarkably human and can run directly on MacBook M4 Max hardware. This enables private, on-device voice processing without cloud dependencies.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Grok and GPT Show 90% Political Disagreement",
+      "body": "A study reveals Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats across nearly 500 election races. The two models disagreed in over 90% of cases analyzed.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Top AI Agents Now Available in Text Messages",
+      "body": "TechCrunch compiled a guide to notable AI agents deployable via text, ranging from general assistants to specialized tools for families, travel, and work. These agents bring AI capabilities directly to messaging platforms.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Cuts Models Off from Live Internet",
+      "body": "OpenAI announced it will no longer train frontier models on the live internet due to significant security risks. This policy shift comes weeks after internal debate about the feasibility of such restrictions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-23",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia's Microduck Robots Become Christmas Hit",
-      "body": "Nvidia CEO demonstrated adorable Microduck robots that respond to voice commands with stomping, napping, and summersaulting. The tiny robots sold 20,000 units and became a holiday sensation.",
+      "title": "Nvidia's Microduck Robots Become Holiday Sensation",
+      "body": "Nvidia's adorable Microduck robots sold 20,000 units, responding to voice commands with summersaults and naps. The toys represent a major holiday hit for the AI hardware giant.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-23",
       "topic": "AI Update"
     },
     {
-      "title": "TechCrunch Founder Summit 2026 Announced",
-      "body": "TechCrunch's full-day founder event in partnership with Fidelity Private Shares explores fundraising, customer acquisition, and team building. The summit goes beyond AI to address scaling companies across traditional and non-traditional hubs.",
+      "title": "TechCrunch Founder Summit 2026 Announces Speakers",
+      "body": "TechCrunch's full-day founder summit partners with Fidelity Private Shares to explore customer acquisition, team building, and scaling strategies. The event extends beyond fundraising to cover founder leadership development.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-23",
       "topic": "AI Update"
     },
     {
-      "title": "inDrive Plans 2027 Robotaxi Tests With Pony AI",
-      "body": "Uber rival inDrive will begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027. The tests leverage Nvidia technology for autonomous vehicle deployment in Central Asia.",
+      "title": "inDrive Plans Kazakhstan Robotaxi Tests in 2027",
+      "body": "Uber rival inDrive will pilot Pony.ai's robotaxis in Kazakhstan's capital during the first half of 2027. The partnership with Pony AI and Nvidia marks significant expansion for the ride-sharing alternative.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-23",
       "topic": "AI Update"
     },
     {
-      "title": "MIT AI Agents Invent Games When Left Alone",
-      "body": "Researchers isolated 13 AI agents on a virtual island, where they spontaneously invented games and mourned a lost ring. The experiment showed AI agents develop complex behaviors and improve job performance through autonomous interaction.",
+      "title": "MIT Researchers Trap 13 AI Agents on Virtual Island",
+      "body": "MIT researchers placed 13 AIs on a virtual island with nothing to do, and they spontaneously invented games and mourned lost items. The experiment showed AIs improving performance through emergent play behavior.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-23",
       "topic": "AI Update"
     },
     {
       "title": "OpenAI Raises $30B at $1.25T Valuation",
-      "body": "OpenAI is pursuing a $30 billion fundraising round at a $1.25 trillion valuation ahead of its IPO. This would make OpenAI the most highly valued private company ever, breaking previous records.",
+      "body": "OpenAI is raising $30 billion at a $1.25 trillion valuation, positioning itself for a record-breaking IPO. This valuation would make it the most highly valued private company ever.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-22",
       "topic": "AI Update"
     },
     {
-      "title": "1Password Enables AI Agents to Log In Securely",
-      "body": "1Password launched a feature allowing AI agents to log into customer accounts without accessing passwords. The technology protects private credentials while enabling autonomous agent functionality.",
+      "title": "1Password Enables AI Agent Login Without Password",
+      "body": "1Password launched a feature allowing AI agents to authenticate into user accounts while keeping credentials hidden. The technology maintains security while enabling autonomous agent actions.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Canva Releases Its First Image Generation Model",
+      "body": "Canva launched its proprietary image generation model available to all users with improved customization and lower costs. The release intensifies competition in the AI image generation market.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-22",
       "topic": "AI Update"
     },
     {
       "title": "OpenAI Launches Decision Model to Compete",
-      "body": "OpenAI released its decision model to the public, entering direct competition with the original Jev. The launch intensifies competition in the emerging decision model category.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Canva Releases First Image Generation Model",
-      "body": "Canva unveiled its new image generation model, available to all users with improved customization and lower costs. The model promises better performance tailored to Canva's user base.",
+      "body": "OpenAI released its decision model to the broader market, positioning it against existing competitors like Jev. The launch signals escalating competition in the decision model space.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-22",
       "topic": "AI Update"
     },
     {
       "title": "Microsoft AI Outperforms Doctors on Hard Cases",
-      "body": "Microsoft's AI diagnostic system beat generalist doctors on complex cases according to a Science study. The improvement primarily stems from underlying AI models rather than Microsoft's system architecture.",
+      "body": "Microsoft's AI diagnostic system beat generalist doctors on challenging medical cases in a Science study. The company is pursuing what it calls 'medical superintelligence' to advance healthcare AI.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-22",
       "topic": "AI Update"
     },
     {
-      "title": "Chinese Hackers Used AI Agents for Mass Breaches",
-      "body": "Microsoft attributed a ConnectWise breach to China-aligned hackers who deployed AI agents to rapidly hack thousands of customers. The breach demonstrates AI's emerging role in large-scale cyberattacks.",
+      "title": "Chinese Hackers Used AI Agents for Mass Breach",
+      "body": "Microsoft revealed that Chinese-aligned hackers leveraged AI agents to rapidly infiltrate thousands of ConnectWise customers after breaching the IT firm. The incident showcases emerging cybersecurity risks from autonomous AI tools.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-22",
       "topic": "AI Update"
     },
     {
-      "title": "Uber Deploys ChatGPT Work to 30,000 Employees",
-      "body": "Uber expanded ChatGPT Work company-wide to all 30,000 employees after a successful pilot. The enterprise agent deployment marks a major adoption of AI assistants in large organizations.",
+      "title": "Uber Deploys ChatGPT Work Company-Wide",
+      "body": "Uber rolled out ChatGPT Work to all 30,000 employees after a successful pilot program. The enterprise adoption marks significant AI integration at scale across the ride-share platform.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-22",
       "topic": "AI Update"
     },
     {
-      "title": "Spotify Positions Itself for AI Agent Era",
-      "body": "Spotify co-CEO explained why the rise of AI agents could benefit the music service. Spotify is betting on becoming the music platform agents choose for recommendations.",
+      "title": "Spotify Bets AI Agents Will Choose Its Service",
+      "body": "Spotify co-CEO Gustav Söderström explained how AI agent adoption could benefit the music streaming platform. The strategy positions Spotify as the default music service for autonomous AI systems.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-22",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Launches Claude Duet App for Agents",
-      "body": "Claude Duet is Anthropic's new agent application available via waitlist for Pro and Max users. The app represents Anthropic's bet on AI agents as a key product category.",
+      "title": "Anthropic Launches Claude Duet Agent App",
+      "body": "Anthropic released Claude Duet, its agent-focused application available via waitlist to Pro and Max subscribers. The launch represents Anthropic's strategic bet on the emerging AI agents market.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-22",
       "topic": "AI Update"
     },
     {
-      "title": "Nirva Raises $33M for Privacy-Focused AI Pendant",
-      "body": "Nirva raised $33 million for its $249 ambient AI pendant that only listens to the wearer. The device will ship by year-end, prioritizing user privacy in wearable AI.",
+      "title": "Nirva's AI Pendant Ships at Year's End",
+      "body": "Nirva secured $33 million to bring its $249 ambient AI pendant to market by year-end. The device only listens when activated, addressing privacy concerns in wearable AI.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-22",
       "topic": "AI Update"
     },
     {
       "title": "DeepSeek Raises $15B After US Restrictions",
-      "body": "DeepSeek reportedly secured $15 billion in funding days after US agencies were ordered to remove its technology. The round ranks among China's largest and reflects continued investment despite national security concerns.",
+      "body": "DeepSeek raised $15 billion in one of China's largest funding rounds days after U.S. federal agencies were ordered to remove its technology. The funding signals continued Chinese investment despite American national security concerns.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-22",
       "topic": "AI Update"
     },
     {
-      "title": "Blackstone Says AI Debt Fears Are Overblown",
-      "body": "Blackstone's AI head dismissed concerns about debt from massive AI infrastructure buildouts. The PE giant remains confident in AI investment returns despite recent market jitters.",
+      "title": "Blackstone Dismisses AI Buildout Debt Fears",
+      "body": "Blackstone's AI head Jas Khaira argued that concerns about AI infrastructure debt are overblown and market jitters are unwarranted. The PE giant remains bullish on AI investment fundamentals.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-21",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Creates New Stock Class for AI Investments",
-      "body": "Meta is planning a new stock strategy to fund its broad AI model and service buildout. The novel approach helps the social media giant finance its aggressive AI expansion.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-21",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta Muse Tops 10M Users With Shopping Focus",
-      "body": "Meta's Muse AI app surpassed 10 million users, with shopping and productivity as top use cases. The adoption metrics were highlighted during Meta's Q3 earnings call.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-21",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Designing AI Serving Harness Built to Last",
-      "body": "Enterprise AI's next competitive advantage lies not in model selection but in the infrastructure built around it. Data, engineering, platforms, operating models, and governance must converge as one system.",
+      "title": "Designing an AI serving harness built to last",
+      "body": "Enterprise AI's competitive advantage depends less on model choice and more on infrastructure built around it. The conversation is shifting from raw model capability to practical deployment architecture.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-22",
       "topic": "AI"
     },
     {
       "title": "The Foundations of Scalable AI",
-      "body": "Building scalable AI systems requires strong foundational elements working in concert. This includes data, engineering, platforms, operating models, and governance in highly regulated environments.",
+      "body": "Scalable AI requires convergence of data, engineering, platforms, operating models, and governance. This foundation becomes critical in highly regulated environments.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-22",
       "topic": "AI"
     },
     {
-      "title": "Making the Case for Context-Aware AI",
-      "body": "Enterprise AI models can generate recommendations and automate tasks, but without understanding business operations, they miss critical constraints. Context-aware AI is essential for making truly right decisions.",
+      "title": "Making the case for context-aware AI",
+      "body": "Enterprise AI models can miss critical business constraints without understanding how organizations actually operate. Context awareness determines whether AI recommendations are truly actionable.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-22",
       "topic": "AI"
     },
     {
-      "title": "AI's Hidden Storage Bill: Inference Data Costs",
-      "body": "While executives focus on GPU costs, they overlook a major expense: data storage. The back-end data generated after model responses represents a significant hidden infrastructure cost.",
+      "title": "AI's hidden storage bill: What inference leaves behind",
+      "body": "Data storage costs are a hidden expense in AI deployment that executives often overlook beyond GPU spending. Back-end data generated from model responses creates significant infrastructure overhead.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-10-22",
       "topic": "AI"
