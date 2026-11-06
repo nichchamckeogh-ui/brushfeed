@@ -1,180 +1,194 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-11-06T06:43:16.229Z",
-  "cardCount": 25,
-  "aiUpdateCount": 20,
+  "generatedAt": "2026-11-06T18:17:04.519Z",
+  "cardCount": 27,
+  "aiUpdateCount": 19,
   "cards": [
     {
-      "title": "Palo Alto Networks Acquires AI Security Startup Clutch",
-      "body": "Palo Alto Networks is in talks to acquire Clutch, an AI agent security startup backed by Lightspeed and SignalFire, for $500M. The deal values Clutch significantly above its last $85M valuation.",
+      "title": "Midterm Elections Could Reshape AI Industry",
+      "body": "Democrats' historic midterm victories may transform the tech industry as voters overwhelmingly restricted data center development. The public voted on 41 data center-related ballot measures, with all but one imposing stricter regulations.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "AI Spending Stalls Despite Rising Usage",
+      "body": "AI usage continues climbing but spending has plateaued as major enterprises implement smarter cost controls. Price cuts from providers could challenge investor assumptions about AI hypergrowth.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Amazon Launches Text-to-Shop Alexa Feature",
+      "body": "Amazon has enabled users to text Alexa for shopping assistance. The feature rolls out to millions of users in coming weeks.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Underdog Demos Tiny 32MB Speech Model",
+      "body": "Despite its minimal size, Underdog's new model can generate both speech and music. The breakthrough challenges assumptions about model efficiency requirements.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Physicl Raises $10M for Robot Sim-to-Real",
+      "body": "Physicl secured $10 million to solve the sim-to-real gap for robotics. The startup uses a pipeline originally built for e-commerce product marketing.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Palo Alto Networks Eyes Clutch Acquisition",
+      "body": "Palo Alto Networks is in talks to acquire AI agent security startup Clutch for $500 million. Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
       "title": "Airbnb Launching AI Travel Agent in 2027",
-      "body": "Airbnb will debut an AI agent in the first half of 2027 to help travelers plan trips and manage bookings. The agent will provide assistance throughout the entire travel experience.",
+      "body": "Airbnb will launch an AI travel agent in H1 2027 to help users plan trips and manage bookings. The agent will provide assistance throughout travelers' stays.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's Muse AI Avatar Now Supports Video Calls",
-      "body": "US Airbnb users can now video chat with Meta's customizable Muse AI avatar. The feature precedes the launch of a Tamagotchi-like wearable device.",
+      "title": "Meta's Muse AI Avatar Now Video Calls",
+      "body": "Meta's AI agent can now accept video calls as a customizable animated avatar. The feature precedes the launch of a Tamagotchi-like wearable for Muse.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Warns Data Center Opposition Threatens AI Growth",
-      "body": "Meta cautioned that political backlash against data centers could hinder future AI infrastructure expansion. Communities are increasingly pushing back against massive data center projects.",
+      "title": "Meta Warns Data Center Opposition Threatens AI",
+      "body": "Meta warns that political backlash against data centers could impede future AI expansion. Communities are increasingly pushing back against massive infrastructure projects.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Releases New Cybersecurity AI Model",
-      "body": "OpenAI launched a new cybersecurity model amid industry scrutiny over AI's role in protecting digital infrastructure. The release comes as AI labs face pressure to demonstrate security capabilities.",
+      "title": "OpenAI Releases New Cybersecurity Model",
+      "body": "OpenAI launched a new cybersecurity model amid industry scrutiny over AI lab contributions to digital infrastructure protection. The release underscores growing security concerns.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Could Be IPO Ready by 2027",
-      "body": "OpenAI President Greg Brockman said the company could pursue an IPO in 2027, highlighting enterprise market gains. The announcement was made at a Wall Street Journal tech conference.",
+      "title": "OpenAI Could Be IPO Ready in 2027",
+      "body": "OpenAI President Greg Brockman stated the company could be IPO-ready in 2027. The executive highlighted gains in the enterprise market, where Anthropic has also expanded.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Claude Gets Personal Finance Analysis Tool",
-      "body": "Anthropic's Claude now offers a Personal Finance tool allowing users to analyze spending habits. Users can connect bank and card accounts through Plaid integration.",
+      "title": "Claude Adds Personal Finance Analysis Tool",
+      "body": "Anthropic launched Personal Finance in Claude, allowing users to connect bank accounts via Plaid for financial analysis. Users can now ask questions about their spending and accounts.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Axiom Math Tackles AI Verification in Mathematics",
-      "body": "Axiom Math aims to combat AI-generated mathematical errors through formal verification. The startup's AI agents formally verified the Stacks Project, a major mathematics library.",
+      "title": "Axiom Math Battles AI Slop in Mathematics",
+      "body": "Axiom Math is tackling unverified AI math proofs by using AI agents for formal verification. The startup formally verified the Stacks Project, one of mathematics' largest libraries.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
       "title": "Dropbox Acquires Tigris Data for $350M",
-      "body": "Dropbox acquired Tigris Data for $350M to strengthen AI infrastructure capabilities. The deal supports development of DBX Agent Cloud, a new storage platform for AI builders.",
+      "body": "Dropbox acquired Tigris Data for $350 million to strengthen its AI infrastructure capabilities. The deal supports development of DBX Agent Cloud, a new storage platform for AI developers.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Aina Smart Ring Enables AI Agent Interaction",
-      "body": "Aina launched a smart ring featuring a screen, joystick, and microphone for AI agent conversations. The device also supports calls and note dictation on Mac.",
+      "title": "Aina Smart Ring Offers Screen and Joystick",
+      "body": "Aina released a smart ring with a screen, joystick, and mic for AI agent interaction. The device also enables calls and Mac note dictation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Box Integrates Nvidia's Nemotron for Content Retrieval",
-      "body": "Box implemented Nvidia's Nemotron model for an agent-first content retrieval system. The system delivers four times faster queries with 20% fewer errors.",
+      "title": "Box Partners With Nvidia for Content Retrieval",
+      "body": "Box integrated Nvidia's Nemotron for a new agent-first content retrieval system. The system delivers four times faster queries with 20% fewer errors and 90% token reduction.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "YC Startup Funds $1M Materials Science AI Challenge",
-      "body": "A Y Combinator startup is investing $1M to solve five unsolved materials science problems using AI. Frontier AI models have shown progress in mathematics but lag in advanced materials physics.",
+      "title": "YC Startup Funds AI Materials Science Research",
+      "body": "A Y Combinator startup is committing $1 million to solve five unsolved materials science problems using AI. Frontier AI models have excelled at math and life sciences but lag in materials physics.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Agility Becomes First Public Humanoid Robotics Company",
-      "body": "Agility launched on Nasdaq as the first publicly traded pure-play humanoid robotics company. The milestone marks growing investor interest in robotics commercialization.",
+      "title": "Agility Becomes First Public Humanoid Robot",
+      "body": "Agility became the first pure-play humanoid robotics company to go public, listing on Nasdaq today. The milestone marks significant growth for the humanoid robotics sector.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Cutting Internal AI Usage Budgets",
-      "body": "Apple is reducing budgets for internal AI token usage as costs accumulated. The shift reflects industry-wide token rationalization after initial spending surges.",
+      "title": "Apple Cuts Internal AI Usage Budgets",
+      "body": "Apple is reducing budgets for internal AI use as token costs accumulate. The move reflects broader industry trends toward token rationing over unlimited spending.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Data Center Opposition Crossed Party Lines in Midterms",
-      "body": "Post-midterm analysis shows data center opposition gained bipartisan support. Larger clashes over infrastructure may emerge as communities organize against mega-projects.",
-      "source": "TechCrunch AI",
+      "title": "Humanoid Robot Cleaning Service Launches in SF",
+      "body": "A new humanoid robot cleaning service is operating in San Francisco, offering a glimpse into robotics' practical future. The technology demonstrates AI-powered automation moving beyond labs into everyday household tasks.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-06",
+      "topic": "AI"
+    },
+    {
+      "title": "Texas AI Data Center Boom at Risk",
+      "body": "Texas has been ground zero for major AI data center buildouts, but recent political shifts may jeopardize its position as the fastest-growing data center market. Energy policy changes could impact the state's AI infrastructure expansion.",
+      "source": "MIT Technology Review",
       "publishedAt": "2026-11-05",
-      "topic": "AI Update"
+      "topic": "AI"
     },
     {
-      "title": "AI PACs Spent Millions Shaping 2026 Elections",
-      "body": "AI industry PACs invested millions in the 2026 midterms with mixed electoral results. Political groups are already strategizing for the next election cycle.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nothing CEO Teases AI-First Device Launching Next Month",
-      "body": "Nothing's CEO announced an upcoming AI-first device designed to boost productivity. Details remain scarce, but the smartphone startup promises an AI-focused approach.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Uber's AI Agent Adoption Remains Minimal Among Users",
-      "body": "Uber reported only four AI agent bookings during its busiest week last quarter. The finding suggests limited user adoption of AI-powered ride booking.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Positioning AI to Shape 2028 Election",
-      "body": "OpenAI's Chris Lehane proposed a new social contract positioning AI at the center of 2028 politics. The approach aims to benefit Americans while advancing OpenAI's business interests.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta Acquires AI Coding Startup Conductor",
-      "body": "Meta acquired Conductor, a startup enabling software engineers to deploy teams of AI agents. The agents work simultaneously on various project components.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-04",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Reverse Game Theory Could Control AI Agents",
-      "body": "A new approach called \"reverse game theory\" aims to control powerful AI models by designing systems that incentivize them to follow rules. As AI models become more capable, safety researchers are working to ensure they remain aligned with human desires.",
+      "title": "Reverse Game Theory Controls Powerful AI Agents",
+      "body": "A new approach using reverse game theory aims to keep AI agents in check by designing constraints into their behavior. The method addresses growing challenges in managing autonomous AI systems.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-03",
       "topic": "AI"
     },
     {
-      "title": "Securing Enterprise AI with Data Lineage",
-      "body": "Data lineage is critical for AI agents operating in enterprise settings, preventing errors when agents pull from multiple sources. Without proper oversight, downstream AI agents can amplify inaccuracies in proposals and decisions.",
+      "title": "AI Agents in Enterprise Need Data Lineage Security",
+      "body": "Enterprise AI agents pulling data from multiple sources create security risks when outputs are used by other agents. Proper data lineage protocols are essential for preventing compromised AI-generated proposals.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-04",
       "topic": "AI"
     },
     {
       "title": "Google Makes AI Search Non-Negotiable for Schools",
-      "body": "Google is allowing schools to maintain search access without Gemini, but AI-powered search integration is mandatory. The move signals Google's commitment to embedding AI across its education products.",
+      "body": "Google is requiring schools to adopt its AI search capabilities even if they skip other Gemini features. The move signals Google's commitment to integrating AI into educational search infrastructure.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-05",
       "topic": "AI"
     },
     {
       "title": "ChatGPT Used to Plan Murder in Lawsuit",
-      "body": "A lawsuit alleges a woman used ChatGPT to plan her husband's murder after he introduced her to the AI tool. The case highlights emerging legal and safety concerns around AI assistant misuse.",
+      "body": "A lawsuit alleges a woman used ChatGPT to plan her husband's murder after he introduced her to the AI tool. The case highlights emerging legal and safety concerns around AI chatbot misuse.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-05",
       "topic": "AI"
     },
     {
-      "title": "NASA Demonstrates AI-Generated Image for X-70 Aircraft",
-      "body": "NASA unveiled its experimental X-70 aircraft using an AI-generated image, showcasing AI's role in aerospace visualization. The approach accelerates concept communication for cutting-edge aviation projects.",
+      "title": "Nvidia CEO Summoned by Congress Over China",
+      "body": "Nvidia CEO Jensen Huang faces Congressional scrutiny regarding Chinese espionage concerns related to AI chip technology. The hearing reflects ongoing government focus on AI semiconductor security.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-06",
+      "topic": "AI"
+    },
+    {
+      "title": "NASA Uses AI-Generated Image for X-70 Aircraft",
+      "body": "NASA unveiled its mysterious experimental X-70 aircraft using an AI-generated image in promotional materials. The move demonstrates government adoption of generative AI for aerospace visualization.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-05",
       "topic": "AI"
