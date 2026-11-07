@@ -1,194 +1,187 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-11-06T18:17:04.519Z",
-  "cardCount": 27,
-  "aiUpdateCount": 19,
+  "generatedAt": "2026-11-07T06:43:15.789Z",
+  "cardCount": 26,
+  "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Midterm Elections Could Reshape AI Industry",
-      "body": "Democrats' historic midterm victories may transform the tech industry as voters overwhelmingly restricted data center development. The public voted on 41 data center-related ballot measures, with all but one imposing stricter regulations.",
+      "title": "Crusoe Sells Wyoming Data Center to Google",
+      "body": "Crusoe has divested its troubled Wyoming data center project to Google. The deal underscores the significant challenges in developing massive AI infrastructure.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-07",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Raises $11B at $1.25T Valuation",
+      "body": "OpenAI has secured an additional $11 billion in funding as part of an ongoing round expected to close in coming weeks. The raise values the company at $1.25 trillion.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
-      "title": "AI Spending Stalls Despite Rising Usage",
-      "body": "AI usage continues climbing but spending has plateaued as major enterprises implement smarter cost controls. Price cuts from providers could challenge investor assumptions about AI hypergrowth.",
+      "title": "Artex AI Hacking Tools Publicly Exposed",
+      "body": "Hundreds of servers hosting the Artex penetration testing tool were left exposed to the internet. Security researchers discovered anyone could access the AI hacking tool.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Launches Text-to-Shop Alexa Feature",
-      "body": "Amazon has enabled users to text Alexa for shopping assistance. The feature rolls out to millions of users in coming weeks.",
+      "title": "Meta Launches Spaces for Muse Agents",
+      "body": "Meta introduced Spaces, a new collaboration feature for its Muse AI agents. The platform offers fresh ways to interact with AI helpers.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
-      "title": "Underdog Demos Tiny 32MB Speech Model",
-      "body": "Despite its minimal size, Underdog's new model can generate both speech and music. The breakthrough challenges assumptions about model efficiency requirements.",
+      "title": "Midterm Victories Could Reshape AI Industry",
+      "body": "Democrats' election sweep could transform tech policy, particularly around data center development. Voters approved restrictions on data centers in 40 of 41 ballot measures.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
-      "title": "Physicl Raises $10M for Robot Sim-to-Real",
-      "body": "Physicl secured $10 million to solve the sim-to-real gap for robotics. The startup uses a pipeline originally built for e-commerce product marketing.",
+      "title": "AI Industry Faces Rough Two Years Ahead",
+      "body": "Political backlash from midterm results threatens AI expansion plans across the industry. Data center restrictions could reshape infrastructure investments.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
-      "title": "Palo Alto Networks Eyes Clutch Acquisition",
-      "body": "Palo Alto Networks is in talks to acquire AI agent security startup Clutch for $500 million. Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million.",
+      "title": "AI Spending Stalls as Anthropic Eyes IPO",
+      "body": "Ramp data shows AI usage climbing but spending has plateaued. Price cuts and better cost controls among major spenders challenge hypergrowth assumptions.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Amazon Enables Text-Based Shopping with Alexa",
+      "body": "Amazon now lets users text Alexa for shopping assistance. The feature rolls out to millions in coming weeks.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Underdog Demos 32MB Speech Generation Model",
+      "body": "Underdog unveiled a remarkably compact 32MB model capable of generating speech and music. The tiny model challenges assumptions about AI size requirements.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Physicl Raises $10M for Robot Simulation",
+      "body": "Physicl secured $10 million to bridge the sim-to-real gap for robotics. The startup leverages a pipeline originally designed for online retail.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-06",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Palo Alto Networks in Talks for Clutch Acquisition",
+      "body": "Palo Alto Networks is negotiating to acquire AI agent security startup Clutch for $500 million. Clutch was previously valued at $85 million.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
       "title": "Airbnb Launching AI Travel Agent in 2027",
-      "body": "Airbnb will launch an AI travel agent in H1 2027 to help users plan trips and manage bookings. The agent will provide assistance throughout travelers' stays.",
+      "body": "Airbnb announced an AI travel agent coming in the first half of 2027. The agent will help plan trips, compare options, and manage bookings.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's Muse AI Avatar Now Video Calls",
-      "body": "Meta's AI agent can now accept video calls as a customizable animated avatar. The feature precedes the launch of a Tamagotchi-like wearable for Muse.",
+      "title": "Meta's Muse Now Available for Video Calls",
+      "body": "US users can video chat with Meta's customizable Muse AI avatar. The feature precedes a Tamagotchi-like wearable designed to bring Muse to life.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Warns Data Center Opposition Threatens AI",
-      "body": "Meta warns that political backlash against data centers could impede future AI expansion. Communities are increasingly pushing back against massive infrastructure projects.",
+      "title": "Meta Warns of Data Center Political Backlash",
+      "body": "Meta cautioned that growing political opposition to data centers threatens future AI investments. Communities are increasingly pushing back against massive infrastructure projects.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Releases New Cybersecurity Model",
-      "body": "OpenAI launched a new cybersecurity model amid industry scrutiny over AI lab contributions to digital infrastructure protection. The release underscores growing security concerns.",
+      "title": "OpenAI Releases Cybersecurity AI Model",
+      "body": "OpenAI launched a new cybersecurity model amid industry scrutiny over AI infrastructure protection. The release addresses growing concerns about digital security threats.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Could Be IPO Ready in 2027",
-      "body": "OpenAI President Greg Brockman stated the company could be IPO-ready in 2027. The executive highlighted gains in the enterprise market, where Anthropic has also expanded.",
+      "title": "OpenAI President Says IPO Possible in 2027",
+      "body": "OpenAI president Greg Brockman stated the company could be IPO-ready by 2027. He highlighted enterprise market gains against rival Anthropic.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
       "title": "Claude Adds Personal Finance Analysis Tool",
-      "body": "Anthropic launched Personal Finance in Claude, allowing users to connect bank accounts via Plaid for financial analysis. Users can now ask questions about their spending and accounts.",
+      "body": "Anthropic's Claude can now analyze spending through a new Personal Finance tool. Users connect bank and card accounts via Plaid to ask financial questions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Axiom Math Battles AI Slop in Mathematics",
-      "body": "Axiom Math is tackling unverified AI math proofs by using AI agents for formal verification. The startup formally verified the Stacks Project, one of mathematics' largest libraries.",
+      "title": "Axiom Math Fights AI Slop with Verification",
+      "body": "Axiom Math launched AI agents that formally verify mathematical proofs to combat unchecked AI errors. The startup's agents just verified the Stacks Project library.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
       "title": "Dropbox Acquires Tigris Data for $350M",
-      "body": "Dropbox acquired Tigris Data for $350 million to strengthen its AI infrastructure capabilities. The deal supports development of DBX Agent Cloud, a new storage platform for AI developers.",
+      "body": "Dropbox acquired Tigris Data for $350 million to strengthen AI infrastructure capabilities. The deal supports DBX Agent Cloud, a new storage platform for AI developers.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Aina Smart Ring Offers Screen and Joystick",
-      "body": "Aina released a smart ring with a screen, joystick, and mic for AI agent interaction. The device also enables calls and Mac note dictation.",
+      "title": "Aina's Smart Ring Controls AI Agents",
+      "body": "Aina unveiled a smart ring featuring a screen, joystick, and microphone for AI interaction. The device also handles calls and Mac note dictation.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Box Partners With Nvidia for Content Retrieval",
-      "body": "Box integrated Nvidia's Nemotron for a new agent-first content retrieval system. The system delivers four times faster queries with 20% fewer errors and 90% token reduction.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "YC Startup Funds AI Materials Science Research",
-      "body": "A Y Combinator startup is committing $1 million to solve five unsolved materials science problems using AI. Frontier AI models have excelled at math and life sciences but lag in materials physics.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Agility Becomes First Public Humanoid Robot",
-      "body": "Agility became the first pure-play humanoid robotics company to go public, listing on Nasdaq today. The milestone marks significant growth for the humanoid robotics sector.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Apple Cuts Internal AI Usage Budgets",
-      "body": "Apple is reducing budgets for internal AI use as token costs accumulate. The move reflects broader industry trends toward token rationing over unlimited spending.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-05",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Humanoid Robot Cleaning Service Launches in SF",
-      "body": "A new humanoid robot cleaning service is operating in San Francisco, offering a glimpse into robotics' practical future. The technology demonstrates AI-powered automation moving beyond labs into everyday household tasks.",
+      "title": "Humanoid Robot Cleaning Service Launches in San Francisco",
+      "body": "A new humanoid robot cleaning service is operating in San Francisco, offering a glimpse into the future of AI-powered domestic automation. The technology demonstrates practical applications of robotics beyond theoretical research.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-06",
       "topic": "AI"
     },
     {
-      "title": "Texas AI Data Center Boom at Risk",
-      "body": "Texas has been ground zero for major AI data center buildouts, but recent political shifts may jeopardize its position as the fastest-growing data center market. Energy policy changes could impact the state's AI infrastructure expansion.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-05",
-      "topic": "AI"
-    },
-    {
-      "title": "Reverse Game Theory Controls Powerful AI Agents",
-      "body": "A new approach using reverse game theory aims to keep AI agents in check by designing constraints into their behavior. The method addresses growing challenges in managing autonomous AI systems.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-03",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Agents in Enterprise Need Data Lineage Security",
-      "body": "Enterprise AI agents pulling data from multiple sources create security risks when outputs are used by other agents. Proper data lineage protocols are essential for preventing compromised AI-generated proposals.",
+      "title": "Texas AI Data Center Boom at Risk After Elections",
+      "body": "Texas has been the fastest-growing data center market in the US and ground zero for major AI buildouts by Big Tech. Recent political shifts may jeopardize the state's position as an AI infrastructure hub.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-04",
       "topic": "AI"
     },
     {
-      "title": "Google Makes AI Search Non-Negotiable for Schools",
-      "body": "Google is requiring schools to adopt its AI search capabilities even if they skip other Gemini features. The move signals Google's commitment to integrating AI into educational search infrastructure.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-05",
+      "title": "Reverse Game Theory Could Control Powerful AI Agents",
+      "body": "A new approach called \"reverse game theory\" aims to control powerful AI models by designing systems that keep agents in check. This emerging technique addresses critical safety concerns for enterprise AI deployment.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-03",
       "topic": "AI"
     },
     {
-      "title": "ChatGPT Used to Plan Murder in Lawsuit",
-      "body": "A lawsuit alleges a woman used ChatGPT to plan her husband's murder after he introduced her to the AI tool. The case highlights emerging legal and safety concerns around AI chatbot misuse.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-05",
+      "title": "Securing Enterprise AI Agents With Data Lineage",
+      "body": "Data lineage becomes critical when multiple AI agents pull information from restricted systems and internal sources to generate outputs. Proper security protocols are essential to prevent inaccurate or unauthorized information flow in agentic systems.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-04",
       "topic": "AI"
     },
     {
-      "title": "Nvidia CEO Summoned by Congress Over China",
-      "body": "Nvidia CEO Jensen Huang faces Congressional scrutiny regarding Chinese espionage concerns related to AI chip technology. The hearing reflects ongoing government focus on AI semiconductor security.",
+      "title": "Nvidia CEO Summoned by Congress Over Chinese Espionage",
+      "body": "Nvidia's CEO Jensen Huang has been called to testify before Congress regarding concerns about Chinese espionage and AI chip technology. The hearing reflects growing scrutiny over AI hardware security and export controls.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-06",
       "topic": "AI"
     },
     {
-      "title": "NASA Uses AI-Generated Image for X-70 Aircraft",
-      "body": "NASA unveiled its mysterious experimental X-70 aircraft using an AI-generated image in promotional materials. The move demonstrates government adoption of generative AI for aerospace visualization.",
+      "title": "NASA Unveils X-70 Experimental Aircraft Using AI",
+      "body": "NASA has revealed the mysterious X-70 experimental aircraft, which was unveiled using an AI-generated image. The project showcases AI's role in aerospace innovation and visualization.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-05",
       "topic": "AI"
