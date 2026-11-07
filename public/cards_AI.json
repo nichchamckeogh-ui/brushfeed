@@ -1,189 +1,182 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-11-07T06:43:15.789Z",
-  "cardCount": 26,
+  "generatedAt": "2026-11-07T18:17:03.402Z",
+  "cardCount": 25,
   "aiUpdateCount": 20,
   "cards": [
     {
       "title": "Crusoe Sells Wyoming Data Center to Google",
-      "body": "Crusoe has divested its troubled Wyoming data center project to Google. The deal underscores the significant challenges in developing massive AI infrastructure.",
+      "body": "Crusoe has divested its troubled Wyoming data center project to Google, highlighting the challenges of developing massive AI infrastructure. The deal underscores mounting pressures in the data center development landscape.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-07",
       "topic": "AI Update"
     },
     {
       "title": "OpenAI Raises $11B at $1.25T Valuation",
-      "body": "OpenAI has secured an additional $11 billion in funding as part of an ongoing round expected to close in coming weeks. The raise values the company at $1.25 trillion.",
+      "body": "OpenAI has reportedly secured an additional $11 billion in funding as part of an ongoing round expected to close in coming weeks. The raise values the company at $1.25 trillion.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
-      "title": "Artex AI Hacking Tools Publicly Exposed",
-      "body": "Hundreds of servers hosting the Artex penetration testing tool were left exposed to the internet. Security researchers discovered anyone could access the AI hacking tool.",
+      "title": "Artex AI Hacking Tools Exposed Online",
+      "body": "Security researchers discovered hundreds of servers hosting Artex penetration testing tools publicly exposed to the internet. The breach allowed unrestricted access to the hacking platform.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
       "title": "Meta Launches Spaces for Muse Agents",
-      "body": "Meta introduced Spaces, a new collaboration feature for its Muse AI agents. The platform offers fresh ways to interact with AI helpers.",
+      "body": "Meta introduced Spaces, a new collaboration feature for its Muse AI agents. The tool enables users to interact with AI helpers in fresh ways.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
-      "title": "Midterm Victories Could Reshape AI Industry",
-      "body": "Democrats' election sweep could transform tech policy, particularly around data center development. Voters approved restrictions on data centers in 40 of 41 ballot measures.",
+      "title": "Midterm Elections May Reshape AI Industry",
+      "body": "Democrats' midterm victories could transform tech policy, with 40 of 41 data center ballot measures voting for restrictions. Growing voter opposition threatens future AI infrastructure expansion.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
       "title": "AI Industry Faces Rough Two Years Ahead",
-      "body": "Political backlash from midterm results threatens AI expansion plans across the industry. Data center restrictions could reshape infrastructure investments.",
+      "body": "Midterm results show strong public opposition to data center development across the U.S. Policy shifts could challenge AI industry growth projections.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
-      "title": "AI Spending Stalls as Anthropic Eyes IPO",
-      "body": "Ramp data shows AI usage climbing but spending has plateaued. Price cuts and better cost controls among major spenders challenge hypergrowth assumptions.",
+      "title": "AI Spending Stalls Despite Rising Usage",
+      "body": "Ramp data reveals AI usage is climbing while spending has plateaued, driven by price cuts and smarter cost controls. The slowdown could challenge investor hypergrowth assumptions as Anthropic nears IPO.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Enables Text-Based Shopping with Alexa",
-      "body": "Amazon now lets users text Alexa for shopping assistance. The feature rolls out to millions in coming weeks.",
+      "title": "Amazon Enables Text Commands for Alexa",
+      "body": "Amazon now allows users to text Alexa for shopping assistance, rolling out to millions in coming weeks. The feature expands Alexa's capabilities beyond voice interaction.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
       "title": "Underdog Demos 32MB Speech Generation Model",
-      "body": "Underdog unveiled a remarkably compact 32MB model capable of generating speech and music. The tiny model challenges assumptions about AI size requirements.",
+      "body": "Underdog unveiled a remarkably compact 32MB model capable of generating both speech and music. The achievement shows progress in efficient AI model design.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
       "title": "Physicl Raises $10M for Robot Simulation",
-      "body": "Physicl secured $10 million to bridge the sim-to-real gap for robotics. The startup leverages a pipeline originally designed for online retail.",
+      "body": "Physicl secured $10 million to bridge the sim-to-real gap for robotics using a digital goods pipeline. The approach aims to make digital environments realistic enough for robotic training.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
-      "title": "Palo Alto Networks in Talks for Clutch Acquisition",
-      "body": "Palo Alto Networks is negotiating to acquire AI agent security startup Clutch for $500 million. Clutch was previously valued at $85 million.",
+      "title": "Palo Alto Networks Eyes Clutch Acquisition",
+      "body": "Palo Alto Networks is in talks to acquire AI agent security startup Clutch for $500 million. Clutch was previously valued at $85 million by investors Lightspeed and SignalFire.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-06",
       "topic": "AI Update"
     },
     {
       "title": "Airbnb Launching AI Travel Agent in 2027",
-      "body": "Airbnb announced an AI travel agent coming in the first half of 2027. The agent will help plan trips, compare options, and manage bookings.",
+      "body": "Airbnb announced its AI travel agent will launch in H1 2027 to help plan trips and manage bookings. The agent will assist users throughout their entire travel experience.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's Muse Now Available for Video Calls",
-      "body": "US users can video chat with Meta's customizable Muse AI avatar. The feature precedes a Tamagotchi-like wearable designed to bring Muse to life.",
+      "title": "Meta's Muse Avatar Now Accepts Video Calls",
+      "body": "Meta's Muse AI agent can now receive video calls as a customizable animated avatar. The feature previews Meta's upcoming Tamagotchi-like wearable device for Muse.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Warns of Data Center Political Backlash",
-      "body": "Meta cautioned that growing political opposition to data centers threatens future AI investments. Communities are increasingly pushing back against massive infrastructure projects.",
+      "title": "Meta Warns Data Center Backlash Threatens AI",
+      "body": "Meta cautioned that growing political opposition to data centers could impede future AI infrastructure investments. Communities are increasingly resisting massive data center projects.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Releases Cybersecurity AI Model",
-      "body": "OpenAI launched a new cybersecurity model amid industry scrutiny over AI infrastructure protection. The release addresses growing concerns about digital security threats.",
+      "title": "OpenAI Releases Cybersecurity Model",
+      "body": "OpenAI launched a new cybersecurity model amid scrutiny over AI labs' digital infrastructure protection efforts. The release addresses growing concerns about AI's role in security.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
       "title": "OpenAI President Says IPO Possible in 2027",
-      "body": "OpenAI president Greg Brockman stated the company could be IPO-ready by 2027. He highlighted enterprise market gains against rival Anthropic.",
+      "body": "OpenAI president Greg Brockman stated the company could be IPO-ready in 2027 at a Wall Street Journal conference. Brockman highlighted gains in the enterprise market where rival Anthropic has already succeeded.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Claude Adds Personal Finance Analysis Tool",
-      "body": "Anthropic's Claude can now analyze spending through a new Personal Finance tool. Users connect bank and card accounts via Plaid to ask financial questions.",
+      "title": "Claude Gains Personal Finance Analysis Tool",
+      "body": "Anthropic's Claude now offers Personal Finance, allowing users to connect bank and card accounts via Plaid. Users can ask AI-powered questions about their spending habits.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Axiom Math Fights AI Slop with Verification",
-      "body": "Axiom Math launched AI agents that formally verify mathematical proofs to combat unchecked AI errors. The startup's agents just verified the Stacks Project library.",
+      "title": "Axiom Math Formally Verifies Stacks Project",
+      "body": "Axiom Math's AI agents formally verified the Stacks Project, one of mathematics' largest proof libraries. The startup aims to combat AI-generated mathematical misinformation through verification.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
       "title": "Dropbox Acquires Tigris Data for $350M",
-      "body": "Dropbox acquired Tigris Data for $350 million to strengthen AI infrastructure capabilities. The deal supports DBX Agent Cloud, a new storage platform for AI developers.",
+      "body": "Dropbox acquired Tigris Data for $350 million to strengthen AI infrastructure capabilities. The deal supports development of DBX Agent Cloud, a new storage platform for AI developers.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Aina's Smart Ring Controls AI Agents",
-      "body": "Aina unveiled a smart ring featuring a screen, joystick, and microphone for AI interaction. The device also handles calls and Mac note dictation.",
+      "title": "Aina Smart Ring Features Screen and Joystick",
+      "body": "Aina unveiled a smart ring equipped with a display, joystick, and microphone for AI agent interaction. The ring also enables calls and voice note dictation on Mac.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-05",
       "topic": "AI Update"
     },
     {
-      "title": "Humanoid Robot Cleaning Service Launches in San Francisco",
-      "body": "A new humanoid robot cleaning service is operating in San Francisco, offering a glimpse into the future of AI-powered domestic automation. The technology demonstrates practical applications of robotics beyond theoretical research.",
+      "title": "Humanoid Robot Cleaning Service Arrives in SF",
+      "body": "A new humanoid robot cleaning service is operating in San Francisco, offering a glimpse into AI-powered domestic automation. The technology demonstrates practical applications of robotics in everyday household tasks.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-06",
       "topic": "AI"
     },
     {
-      "title": "Texas AI Data Center Boom at Risk After Elections",
-      "body": "Texas has been the fastest-growing data center market in the US and ground zero for major AI buildouts by Big Tech. Recent political shifts may jeopardize the state's position as an AI infrastructure hub.",
+      "title": "Texas AI Data Center Boom Faces Political Uncertainty",
+      "body": "Texas, the fastest-growing US data center market, hosts major AI infrastructure buildouts but faces challenges from recent political shifts. Democratic victories in state elections could reshape energy policy affecting AI expansion.",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-11-04",
+      "publishedAt": "2026-11-05",
       "topic": "AI"
     },
     {
-      "title": "Reverse Game Theory Could Control Powerful AI Agents",
-      "body": "A new approach called \"reverse game theory\" aims to control powerful AI models by designing systems that keep agents in check. This emerging technique addresses critical safety concerns for enterprise AI deployment.",
+      "title": "Reverse Game Theory Controls Powerful AI Agents",
+      "body": "A new approach using reverse game theory aims to keep advanced AI agents in check through strategic design principles. The method addresses control challenges as AI systems become increasingly autonomous.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-03",
       "topic": "AI"
     },
     {
-      "title": "Securing Enterprise AI Agents With Data Lineage",
-      "body": "Data lineage becomes critical when multiple AI agents pull information from restricted systems and internal sources to generate outputs. Proper security protocols are essential to prevent inaccurate or unauthorized information flow in agentic systems.",
+      "title": "Securing Enterprise AI with Data Lineage",
+      "body": "Data lineage techniques help enterprises track and verify information used by AI agents across multiple systems. This approach prevents errors when AI agents pull data from restricted or archived sources.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-04",
       "topic": "AI"
     },
     {
-      "title": "Nvidia CEO Summoned by Congress Over Chinese Espionage",
-      "body": "Nvidia's CEO Jensen Huang has been called to testify before Congress regarding concerns about Chinese espionage and AI chip technology. The hearing reflects growing scrutiny over AI hardware security and export controls.",
+      "title": "Nvidia CEO Summoned by Congress Over Espionage",
+      "body": "Nvidia's Jensen Huang faces Congressional scrutiny over concerns regarding Chinese espionage and AI chip export controls. The hearing reflects heightened US government focus on AI hardware security and geopolitical tensions.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-06",
-      "topic": "AI"
-    },
-    {
-      "title": "NASA Unveils X-70 Experimental Aircraft Using AI",
-      "body": "NASA has revealed the mysterious X-70 experimental aircraft, which was unveiled using an AI-generated image. The project showcases AI's role in aerospace innovation and visualization.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-05",
       "topic": "AI"
     }
   ]
