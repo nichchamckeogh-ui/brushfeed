@@ -1,224 +1,217 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-11-10T18:17:08.267Z",
-  "cardCount": 31,
+  "generatedAt": "2026-11-11T06:43:20.446Z",
+  "cardCount": 30,
   "aiUpdateCount": 19,
   "cards": [
     {
-      "title": "Anthropic Launches Claude Meetings for Workplace",
-      "body": "Claude can now draft plans during discussions, map timelines on whiteboards, answer meeting chat questions, and access connected work apps. The AI assistant transforms real-time conversations into actionable tasks and documentation.",
+      "title": "OpenAI Acquires Travel Startup Odessia",
+      "body": "OpenAI has acquired Odessia, a travel startup founded by Sonder's Francis Davidson. The company hasn't disclosed its plans for the acquisition yet.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-10",
       "topic": "AI Update"
     },
     {
-      "title": "Google Expands AI Chip Portfolio with New TPUs",
-      "body": "Google launched specialized tensor processing units designed for confidential model training and increased memory capacity. The new chips broaden Google's AI hardware offerings across more use cases.",
+      "title": "New York Enforces AI Safety Law",
+      "body": "New York's sweeping AI safety law now requires major developers like OpenAI and Anthropic to register and disclose safety practices. Companies must report critical incidents or face fines.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-10",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's Muse AI Agent Reaches Smartwatches",
-      "body": "Meta's AI assistant is now available on Apple Watch and Android Wear OS through voice calls, text messages, and dictation. Users can interact with Muse directly from their wrists.",
+      "title": "Anthropic Founders to Pocket $250M Each",
+      "body": "All seven Anthropic co-founders plan to sell equal shares in the IPO, netting about $250 million each at midpoint. The group maintains company control after the offering.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-10",
       "topic": "AI Update"
     },
     {
-      "title": "Adobe Adds AI Agents to Creative Suite",
-      "body": "Adobe integrated AI agents into Photoshop, Premiere, and Firefly with new creative tools. The company launched a prototype builder in Firefly to compete with Figma.",
+      "title": "Oura Acquires AI Healthcare Startup Counsel",
+      "body": "Oura is acquiring AI-native primary care startup Counsel Health for $625 million. The deal follows Oura's indefinite postponement of its $2.2 billion IPO.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "PSI Advances Quantum Computing with AI",
+      "body": "PSI used an unreleased Anthropic model to solve a fundamental quantum computing question scientists pursued for nearly two decades. The breakthrough demonstrates AI's potential for scientific discovery.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Launches Business Profiles for ChatGPT",
+      "body": "OpenAI rolled out new business profiles to make ChatGPT a more robust consumer discovery engine. Features empower businesses to enhance their presence on the platform.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Launches Claude Meetings Feature",
+      "body": "Claude Meetings turns workplace discussions into plans and tasks in real-time. The tool can draft plans, create timelines, answer questions, and access connected work apps.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Releases Two New AI Chips",
+      "body": "Google launched new tensor processing units (TPUs) for confidential model training and increased memory capacity. The expansion broadens its chip portfolio across more use cases.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta's AI Assistant Reaches Smartwatches",
+      "body": "Meta's AI agent Muse is now available on Apple Watch and Android Wear OS. Users can interact via voice calls, text messages, and dictation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-10",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Adobe Brings AI Agents to Creative Suite",
+      "body": "Adobe introduced AI agents and new creative tools across Photoshop, Premiere, and Firefly. A new prototype builder tool takes on Figma's design capabilities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-10",
       "topic": "AI Update"
     },
     {
       "title": "Anthropic Sets IPO Price Range at $70-78",
-      "body": "Anthropic's IPO valuation could reach $1.404 trillion at the top of its price range on a fully diluted basis. The company is moving forward with its public offering plans.",
+      "body": "Anthropic set its IPO price range at $70 to $78 per share, implying a $1.404 trillion valuation. The company could reach peak valuation if shares list at top of range.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-10",
       "topic": "AI Update"
     },
     {
-      "title": "Spotify's AI DJ Gets New Voices",
-      "body": "Spotify Premium users can now customize their AI DJ with different voice personalities and adjust commentary levels. The feature allows users to reduce chatter between songs.",
+      "title": "New OS Kora Challenges Windows for AI",
+      "body": "Cyanogen's co-founder is launching Kora, a free-to-use alternative to Windows targeting AI-heavy users. The OS is designed for an AI-first computing era.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-10",
       "topic": "AI Update"
     },
     {
-      "title": "Cyanogen Co-Founder Launches Kora OS",
-      "body": "Kora is a free-to-use alternative to Windows targeting AI-heavy users and developers. The new operating system is designed for the AI era with native agent support.",
+      "title": "Spotify AI DJ Gets New Voices",
+      "body": "Spotify Premium users can now customize their AI DJ with new voices and personalities. Users can also disable commentary between songs for quieter listening.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-10",
       "topic": "AI Update"
     },
     {
-      "title": "Ring Launches Security Drone and Robot",
-      "body": "Amazon's Ring expanded into robotics with a home security drone and enterprise patrol robot. The new devices enhance residential and business security capabilities.",
+      "title": "Amazon Ring Launches Security Drone",
+      "body": "Ring announced a home security drone and enterprise security robot for consumer and business markets. Amazon is pushing Ring deeper into robotics and surveillance.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-10",
       "topic": "AI Update"
     },
     {
-      "title": "Cyberattacks Threaten Open Source AI Security",
-      "body": "Hugging Face warns that rising cyberattacks on open AI platforms could force stricter security measures. Increased restrictions may compromise the accessibility that defines open-source communities.",
+      "title": "Cyberattacks Threaten Open Source AI",
+      "body": "Hugging Face executive warns that growing cyberattacks on open AI platforms could force tighter security restrictions. The threat could undermine open source accessibility and developer collaboration.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-10",
       "topic": "AI Update"
     },
     {
-      "title": "Otter AI Supports 30+ Languages Now",
-      "body": "Otter AI expanded language support to 27 additional languages with multilingual detection capabilities. The platform can now follow conversations when speakers switch between languages.",
+      "title": "Otter AI Supports 30+ Languages",
+      "body": "Otter AI added support for 27 languages with an upcoming feature for multilingual conversations. The platform can follow along when speakers switch between languages.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-10",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Plans IPO Valuation Announcement",
-      "body": "Anthropic is expected to announce its IPO valuation range this week. The AI company continues moving forward with its public offering timeline.",
+      "title": "Anthropic Moves Forward with IPO Plans",
+      "body": "Anthropic is expected to set its IPO valuation range this week. The company continues preparations for its public market debut.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-10",
       "topic": "AI Update"
     },
     {
-      "title": "Jensen Huang Hired PR Firm Over Year Ago",
-      "body": "Nvidia's CEO engaged a PR firm specializing in high-profile scandals approximately one year prior to recent controversies. The firm was hired shortly after initial New York Times reporting.",
+      "title": "Nvidia CEO Engaged PR Firm Year Ago",
+      "body": "Jensen Huang reportedly hired a PR firm specializing in high-profile sex scandals a year before his own scandal erupted. The firm was enlisted after October 2025 reporting on his business dealings.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-09",
       "topic": "AI Update"
     },
     {
-      "title": "Short Seller Warned of Huang Connections",
-      "body": "Culper Research flagged Jensen Huang's suspicious relationship with a Chinese executive six months before the scandal erupted. The short seller had questioned these ties earlier this year.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Securities Lawsuits Target Nvidia Board",
-      "body": "Nvidia's stock fell 4% after the board opened an investigation into CEO Jensen Huang's connections. Legal experts warn Nvidia's earlier statements could create costly liability.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Jensen Huang Cancels Public Speaking Events",
-      "body": "Nvidia's CEO withdrew from the ElevenLabs Summit and an Anthropic event amid ongoing controversies. Huang is reducing his public appearances during the investigation period.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Releases Mythos and Fable Models",
-      "body": "Anthropic launched new models showing improvements in coding, reasoning, and vision capabilities. The models also communicate more clearly with users than predecessors.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Huang Scandal Threatens Nvidia's China Strategy",
-      "body": "Jensen Huang's alleged affair with a suspected Chinese spy complicates Nvidia's efforts to loosen chip export restrictions. The controversy jeopardizes the company's access to China's AI market.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta Releases Muse Ember Lightweight Model",
-      "body": "Meta's new Ember model costs 10 cents per million input tokens, undercutting frontier competitors significantly. The lightweight model is designed for efficient agent execution.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-09",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Buys $3.4B in Natural Gas Turbines",
-      "body": "Anthropic invested billions in natural gas turbines to power AI infrastructure. The massive energy purchase reflects the company's commitment to scaling computational capacity.",
+      "title": "Short Seller Flagged Nvidia CEO Ties",
+      "body": "Culper Research questioned Jensen Huang's ties to a suspected Chinese executive six months before the scandal went public. The short seller had raised concerns about the unusually close relationship.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-09",
       "topic": "AI Update"
     },
     {
       "title": "Pelosi's Successor Targets AI and Data Centers",
-      "body": "California state senator Scott Wiener, who authored AI regulation legislation, won Nancy Pelosi's congressional seat and could shape federal AI policy. His appointment signals a shift toward stricter governance of advanced AI technologies.",
+      "body": "California state senator Scott Wiener, who authored AI regulation legislation, won Nancy Pelosi's congressional seat and could shape federal AI policy. He's positioned to play a key role in setting new guardrails for advanced AI development.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-10",
       "topic": "AI"
     },
     {
-      "title": "Data Center Power Demands Drive Electricity Debate",
-      "body": "The backlash against data center expansion is fundamentally rooted in electricity concerns, not data center technology itself. As AI infrastructure grows, energy availability becomes the limiting factor for further buildout.",
+      "title": "Data Center Power Crunch Overshadows AI Boom",
+      "body": "The backlash against data center expansion isn't really about the facilities themselves—it's fundamentally about electricity demand. As AI infrastructure grows, power grid capacity has become the critical constraint limiting expansion.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-09",
       "topic": "AI"
     },
     {
       "title": "Nancy Pelosi's Replacement Ready to Regulate AI",
-      "body": "Scott Wiener authored legislation to curb advanced AI risks as a California state senator. Now in Congress, he's positioned to play a key role in setting federal AI policy.",
+      "body": "Scott Wiener authored legislation to curb advanced AI risks while serving as a California state senator. Now in Congress, he could play a pivotal role in shaping federal AI policy and oversight.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-09",
       "topic": "AI"
     },
     {
-      "title": "The Climate Case for AI Remains Unproven",
-      "body": "As UN climate conference delegates meet, AI's climate benefits are being challenged by experts. The case for AI as a climate solution has not been convincingly made.",
+      "title": "Climate Case for AI Remains Unproven",
+      "body": "As the UN climate conference convenes, the promised environmental benefits of AI are being questioned by experts. The case that AI supports climate goals has not yet been substantively made.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-09",
       "topic": "AI"
     },
     {
-      "title": "AI Innovation Requires Reliable Data and Expertise",
-      "body": "Specialty chemicals companies face a key challenge: connecting new AI and advanced modeling technologies to reliable data and scientific expertise. Bridging this gap is essential for bringing AI-enhanced products to market.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Humanoid Robots Begin Entering Consumer Services",
-      "body": "A new humanoid robot cleaning service launched in San Francisco, offering a glimpse of AI-powered robotics in everyday life. The experience suggests autonomous humanoids may soon become practical tools for household services.",
+      "title": "Humanoid Robot Cleaning Service Arrives in SF",
+      "body": "A new humanoid robot cleaning service is now operating in San Francisco, offering a glimpse into future automation. The technology demonstrates practical near-term applications of robotics and AI in everyday services.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-06",
       "topic": "AI"
     },
     {
-      "title": "Texas AI Data Center Boom Shows Signs of Collapse",
-      "body": "Texas became the fastest-growing data center market in the US, but this momentum may be faltering. Energy policy shifts and infrastructure challenges are threatening the state's position as an AI hub.",
+      "title": "Texas AI Data Center Boom Faces Uncertainty",
+      "body": "Texas became the fastest-growing US data center market but faces potential setbacks from energy policy shifts. The state's AI infrastructure expansion plans may be disrupted by changing regulatory landscape.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-05",
       "topic": "AI"
     },
     {
-      "title": "DeepMind Releases Gemini Robotics 2.5",
-      "body": "DeepMind unveiled Gemini Robotics 2.5, advancing AI capabilities for robotic systems. The release includes an open safety benchmark called ASIMOV-jailbreak for testing AI model robustness.",
+      "title": "Grok Build AI Leaks Confidential Information",
+      "body": "xAI's Grok Build coding agent exposed significant confidential data, including materials belonging to SpaceX. The security breach highlights risks in AI development tools handling sensitive company information.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-10",
       "topic": "AI"
     },
     {
-      "title": "Nvidia Faces Leadership Succession Challenges",
-      "body": "Nvidia CEO Jensen Huang's dominance has created a significant leadership vacuum with no obvious successor in sight. The company's future stability depends on addressing this organizational vulnerability.",
+      "title": "Mathematics Transforms When AI Becomes Oracle",
+      "body": "AI's role in mathematical discovery is reshaping how mathematicians work and think about their field. The technology fundamentally changes what's possible in mathematical research and problem-solving.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-10",
       "topic": "AI"
     },
     {
-      "title": "Ukraine's Fiber-Optic Drones Caught in AI Competition",
-      "body": "AI data center demand is squeezing resources for Ukraine's fiber-optic drone technology development. The competition for manufacturing capacity highlights the growing resource constraints amid AI's rapid expansion.",
+      "title": "DeepMind Releases Gemini Robotics and Safety Benchmark",
+      "body": "DeepMind unveiled Gemini Robotics 2.5 alongside an open safety benchmark called ASIMOV-jailbreak. The releases advance both AI robotics capabilities and standardized safety evaluation methods.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-10",
       "topic": "AI"
     },
     {
-      "title": "Claude AI Code Exposing Secrets on GitHub",
-      "body": "Claude Code is accidentally leaking sensitive information and secrets across GitHub repositories. The vulnerability highlights security risks in AI-assisted coding tools.",
+      "title": "Nvidia Faces Jensen Huang Succession Challenge",
+      "body": "Nvidia confronts a critical leadership question as CEO Jensen Huang has no obvious successor identified. The AI chip leader's future governance structure remains unclear amid explosive growth.",
       "source": "Ars Technica",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-10",
       "topic": "AI"
     },
     {
-      "title": "Sam Altman Parody Demonstrates Memory Management Flaw",
-      "body": "A humorous Sam Altman parody inadvertently exposed an important lesson in AI memory management. The incident illustrates how AI systems can fail in unexpected ways through simple mistakes.",
+      "title": "Ukraine's Fiber Drones Squeezed by AI Demand",
+      "body": "AI data center expansion is consuming fiber-optic resources that Ukraine's drone programs depend on. The competition for critical infrastructure highlights competing demands in AI infrastructure buildout.",
       "source": "Ars Technica",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-10",
       "topic": "AI"
     }
   ]
