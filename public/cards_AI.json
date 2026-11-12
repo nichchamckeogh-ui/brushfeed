@@ -1,210 +1,210 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-11-12T06:43:18.557Z",
+  "generatedAt": "2026-11-12T18:17:05.652Z",
   "cardCount": 29,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "OpenAI Revenue Crosses $10B Milestone",
-      "body": "OpenAI's quarterly revenue hit $10 billion for the first time, representing a nearly 50% jump from $6.7 billion in Q2. The milestone underscores the company's rapid commercial scaling in the AI market.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Founders Cash Out $250M Each in IPO",
-      "body": "All seven Anthropic co-founders plan to sell equal shares in the IPO, netting approximately $250 million each at the midpoint price. The founders maintain control despite the significant cash-out.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Acquires Odessia Travel Startup",
-      "body": "OpenAI has acquired Odessia, a travel startup founded by Sonder's Francis Davidson. The company has not yet disclosed its plans for the acquisition.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "New York AI Safety Law Takes Effect",
-      "body": "New York's sweeping AI safety law now requires major developers like OpenAI and Anthropic to register and disclose safety practices. Companies must report critical incidents or face penalties.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Oura Acquires Counsel Health for $625M",
-      "body": "Oura has agreed to acquire AI-native primary care startup Counsel Health in a $625 million deal. The acquisition follows Oura's decision to postpone its IPO indefinitely.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "PSI Uses AI for Scientific Discovery Breakthroughs",
-      "body": "PSI leveraged an unreleased Anthropic model to solve a fundamental quantum computing question scientists pursued for nearly two decades. The achievement demonstrates AI's potential in scientific research.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Britain's Fractile Raises $720M for AI Chips",
-      "body": "Fractile has secured $720 million in funding, establishing itself as a top-funded player in purpose-built AI chip development. The round accelerates Britain's competitive position in AI infrastructure.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "CoreWeave Shifts to Customer Prepayments",
-      "body": "CoreWeave is increasingly requesting upfront customer payments and shorter contracts to fund AI growth, according to Q3 earnings. The company is also borrowing against specific contracts amid funding pressures.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta's Infrastructure Head Steps Down",
-      "body": "Santosh Janardhan, Meta's longtime head of infrastructure who joined in 2009, is stepping down from his role. The departure marks a significant change in the company's infrastructure leadership.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Databricks' AI Agent Tells Unvarnished Truth",
-      "body": "Databricks released a revised Genie agent that CEO Ali Ghodsi uses to learn unfiltered feedback across 12,000 employees. The AI provides insights the CEO couldn't otherwise access directly.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Plurai Advances AI Agents Using End-to-End Training",
-      "body": "Plurai is improving AI agent performance by applying the same end-to-end learning approach that advanced self-driving cars. The methodology addresses challenges in probabilistic systems operating in unpredictable environments.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Data Center Boom Faces Permitting and Opposition",
-      "body": "AI data center projects are encountering significant real-world obstacles including local opposition, permitting delays, and electricity scrambles. Many announced projects may never actually be built.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Jensen Huang Faces Congressional Briefing Demand",
-      "body": "House Republicans have called for Nvidia CEO Jensen Huang to attend a closed-door briefing on his alleged affair with a Chinese spy. Huang must respond by end of day Wednesday.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Jensen Huang Accused of Second Affair",
-      "body": "Jensen Huang faces new accusations of an affair with an Nvidia executive, following earlier admissions about an affair with an alleged Chinese intelligence agent. The scandal continues to escalate.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nvidia Board Prepares to Oust CEO Huang",
-      "body": "Nvidia's board reportedly is preparing to remove founder and 33-year CEO Jensen Huang as soon as Wednesday evening. The decision comes amid multiple scandal allegations.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Jensen Huang Scandal Timeline Unfolds",
-      "body": "Jensen Huang's alleged affair with a Chinese intelligence operative could have ramifications for U.S. national security in AI development. The scandal is impacting the U.S.-China AI competition.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Who Could Replace Jensen Huang at Nvidia?",
-      "body": "With Nvidia having no succession plan and its CEO in crisis, TechCrunch drafted a list of potential successor candidates. The company faces urgent leadership challenges.",
+      "title": "Hugging Face Commits to Open-Source AI Fight",
+      "body": "Hugging Face CEO pledged continued commitment to open-source AI following Jensen Huang's exit from Nvidia. The move raises questions about Nvidia's strategic direction and industry influence.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia Crisis Tests Corporate Governance Standards",
-      "body": "Governance experts say the unfolding Nvidia situation is unprecedented in scope and severity. The crisis is reshaping discussions around corporate accountability at major tech firms.",
+      "title": "SoftBank's $3B Natural Gas Loss Caps AI Ambitions",
+      "body": "SoftBank suffered over $3 billion in losses from pre-ordering natural gas turbines for AI data centers. The setback signals challenges in scaling AI infrastructure power requirements.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Phota Labs Automates Professional Photo Editing",
+      "body": "Phota Labs leverages AI to automate photo editing, making professional-quality results accessible to everyday users. The platform simplifies complex editing workflows through artificial intelligence.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Jensen Huang Agrees to Congressional Testimony",
+      "body": "Nvidia's ousted CEO Jensen Huang agreed to testify before Congress following his resignation over alleged security violations. Senior lawmakers threatened subpoenas, prompting his agreement to appear.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Huang's Ouster May Damage AI Industry",
+      "body": "Jensen Huang's removal as Nvidia CEO extends beyond scandal to impact AI industry direction and influence. His departure could reshape how the industry approaches critical technological priorities.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Trump Suggests Tim Cook for Nvidia CEO",
+      "body": "President Trump posted on Truth Social that Apple chairman Tim Cook could replace Jensen Huang as Nvidia's next leader. The suggestion reflects ongoing leadership uncertainty at the chip giant.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Colette Kress Takes Over as Interim CEO",
+      "body": "Nvidia CFO Colette Kress assumed interim leadership following Jensen Huang's resignation. Kress steps into the role amid ongoing scandal and industry uncertainty.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Norwest Launches $4B AI Investment Fund",
+      "body": "Norwest unveiled its largest fund to date, dedicated to AI investments and deep tech. The $4 billion fund represents significant capital commitment to emerging AI technologies.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Fireworks AI Breach Exposes Notion Transcripts",
+      "body": "A cyberattack on Fireworks AI compromised Notion customers' chat transcripts. This marks the company's second significant data breach within two months.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Jensen Huang Scandal Timeline and Implications",
+      "body": "Jensen Huang resigned from Nvidia following an alleged affair with a woman suspected of Chinese espionage. The scandal raises critical national security concerns amid the U.S.-China AI race.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Korean Startups Compete in Disrupt 2027",
+      "body": "Nine Korean deep-tech startups are vying for spots in TechCrunch Disrupt 2027's Startup Battlefield 200. The competitors span healthcare, fintech, energy, semiconductors, and AI sectors.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Possible Successors to Jensen Huang Listed",
+      "body": "With no succession plan in place, potential candidates to replace Jensen Huang as Nvidia CEO are being evaluated. The leadership vacuum adds urgency to the board's decision-making process.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nvidia Stock Drops Amid Board Ouster Plans",
+      "body": "Nvidia's stock declined as the board reportedly prepared to remove founder and 33-year CEO Jensen Huang. The potential ouster came as the company faced leadership crisis.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-11",
       "topic": "AI Update"
     },
     {
-      "title": "Is Bad Behavior Condoned Across Tech Industry?",
-      "body": "Investment consultants suggest senior tech leaders are aware of misconduct but effectively condone it. The Huang scandal raises broader questions about industry culture and accountability.",
+      "title": "Huang Faces Additional Affair Allegations",
+      "body": "Jensen Huang was accused of a separate affair with an Nvidia executive, compounding earlier allegations. The accusations intensified scrutiny of his leadership and judgment.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-11",
       "topic": "AI Update"
     },
     {
-      "title": "Data Centers Face Red Tape Post-Election",
-      "body": "AI data center projects continue facing local opposition and permitting delays following the Blue Wave results. Real-world infrastructure challenges are slowing the AI buildout significantly.",
+      "title": "Data Center Boom Faces Real-World Obstacles",
+      "body": "Ambitious data center projects are encountering local opposition, permitting delays, and electricity scrambles. Many announced projects may never reach construction due to practical challenges.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-11",
       "topic": "AI Update"
     },
     {
-      "title": "Nancy Pelosi's Replacement Ready to Regulate AI",
-      "body": "California state senator Scott Wiener, who authored AI risk-curbing legislation, won Nancy Pelosi's San Francisco congressional seat. He's now positioned to shape federal AI policy at a critical moment for the industry.",
+      "title": "Meta Loses Longtime Infrastructure Head",
+      "body": "Santosh Janardhan, who joined Meta in 2009, is stepping down from his infrastructure leadership role. His departure marks significant change in the company's technical leadership.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Data Centers Face Backlash and Red Tape",
+      "body": "Post-election backlash and regulatory red tape continue to slow data center expansion nationwide. Local opposition and permitting challenges create significant barriers to infrastructure growth.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "CoreWeave Seeks Customer Prepayments for Growth",
+      "body": "CoreWeave is increasingly requiring customer prepayments and shorter contracts to fund AI infrastructure expansion. The strategy reflects financing challenges in scaling compute capacity.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Fractile Raises $720M for AI Chip Race",
+      "body": "Britain's Fractile secured $720 million in funding, establishing itself as a top contender in AI chip development. The capital positions Fractile to compete with major semiconductor players.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Congress Demands Huang Brief on Spy Affair",
+      "body": "House Republicans called for Jensen Huang to provide a closed-door briefing on his alleged affair with a Chinese intelligence operative. The deadline was set for end of business Wednesday.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-11",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nancy Pelosi's replacement is ready to regulate AI",
+      "body": "Scott Wiener, California state senator, authored legislation to curb advanced AI risks and now holds Nancy Pelosi's congressional seat. He could play a key role in shaping federal AI policy.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-09",
       "topic": "AI"
     },
     {
-      "title": "The Climate Case for AI Has Not Been Made",
-      "body": "At the UN climate conference in Turkey, AI is expected to dominate discussions as countries consider its role in climate solutions. However, evidence supporting AI's climate benefits remains unproven and contested.",
+      "title": "The climate case for AI has not been made",
+      "body": "At the UN climate conference in Antalya, Turkey, AI dominance discussions overlook unproven climate benefits. The case for AI's environmental impact requires stronger evidence.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-09",
       "topic": "AI"
     },
     {
-      "title": "Innovating with AI in Special Chemicals Industry",
-      "body": "Companies are leveraging AI, cloud computing, and advanced modeling to accelerate innovation in specialty chemicals. The key challenge is connecting these technologies to reliable data and practical manufacturing expertise.",
+      "title": "Innovating with AI in the special chemicals industry",
+      "body": "Companies accelerating innovation with AI and cloud computing face challenges connecting new technologies to reliable data and scientific expertise. The key is integrating AI with practical market realities.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-09",
       "topic": "AI"
     },
     {
-      "title": "TSMC to Invest $1B in Anthropic and OpenAI",
-      "body": "Taiwan's chipmaking giant TSMC is backing major AI companies with significant investment. This move signals strong industry confidence in the AI sector's growth trajectory.",
+      "title": "Taiwan's chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "body": "TSMC commits $1 billion to major AI companies Anthropic and OpenAI. The investment signals major backing for leading AI model developers.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-11",
       "topic": "AI"
     },
     {
-      "title": "IBM Offers Dual-Processor Quantum System in 2027",
-      "body": "IBM will provide access to an advanced quantum computing system featuring dual processors next year. This represents a major step forward in making quantum technology accessible to broader users.",
+      "title": "Big Walk used AI to fix a bug",
+      "body": "The indie gaming world confronts ethics after Big Walk used AI to resolve a coding issue. The debate raises questions about AI's role in game development.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-11",
       "topic": "AI"
     },
     {
-      "title": "Google DeepMind Mathematically Verifies Signal's Security",
-      "body": "Google DeepMind has provided mathematical verification of key components of the Signal messaging protocol. This validates the cryptographic security of one of the most trusted messaging platforms.",
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "body": "Google DeepMind achieved mathematical verification of Signal's encryption protocols. The validation strengthens confidence in the messaging app's security architecture.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-11",
       "topic": "AI"
     },
     {
-      "title": "What Happens When AI Becomes an Oracle?",
-      "body": "As AI systems grow more sophisticated, mathematics itself faces fundamental questions about how knowledge is validated and applied. The intersection of AI and mathematics is reshaping how we understand computational truth.",
+      "title": "IBM to offer access to dual-processor quantum system in 2027",
+      "body": "IBM plans to release a dual-processor quantum system next year. The advancement represents progress in quantum computing accessibility.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-11",
+      "topic": "AI"
+    },
+    {
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut",
+      "body": "Google launches Gemini-powered smartglasses starting at $395, emphasizing privacy protections. The new wearables integrate advanced AI with privacy-first design.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-12",
+      "topic": "AI"
+    },
+    {
+      "title": "Grok Build coding agent leaks confidential information",
+      "body": "Grok Build's AI coding agent leaked sensitive confidential data, including SpaceX materials. The breach raises security concerns for enterprise AI tools.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Grok Build Coding Agent Leaks Confidential Information",
-      "body": "xAI's Grok Build coding agent exposed sensitive data including information belonging to SpaceX. The incident raises serious concerns about information security in AI-powered development tools.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Big Walk Indie Game Uses AI to Fix Bug",
-      "body": "An indie gaming studio used AI to resolve a technical bug, sparking broader ethical debates in the gaming community. The incident highlights tensions between AI adoption and traditional development practices.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-11",
       "topic": "AI"
     }
   ]
