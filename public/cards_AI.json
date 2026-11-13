@@ -1,210 +1,203 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-11-12T18:17:05.652Z",
-  "cardCount": 29,
+  "generatedAt": "2026-11-13T06:43:17.075Z",
+  "cardCount": 28,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Hugging Face Commits to Open-Source AI Fight",
-      "body": "Hugging Face CEO pledged continued commitment to open-source AI following Jensen Huang's exit from Nvidia. The move raises questions about Nvidia's strategic direction and industry influence.",
+      "title": "Democrats Launch Nvidia Investigation Over China Dealings",
+      "body": "Congressional Democrats have launched a second investigation into Nvidia's China sales and alleged connections to Trump. The probe follows reports of potential national security concerns.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "SoftBank's $3B Natural Gas Loss Caps AI Ambitions",
-      "body": "SoftBank suffered over $3 billion in losses from pre-ordering natural gas turbines for AI data centers. The setback signals challenges in scaling AI infrastructure power requirements.",
+      "title": "Muse AI Now Places Calls to US Businesses",
+      "body": "Muse's AI assistant can now make outbound calls to U.S. businesses for a fee. The paid service marks an expansion of the platform's capabilities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "Phota Labs Automates Professional Photo Editing",
-      "body": "Phota Labs leverages AI to automate photo editing, making professional-quality results accessible to everyday users. The platform simplifies complex editing workflows through artificial intelligence.",
+      "title": "Jensen Huang Resigns Amid Affair Scandal",
+      "body": "Nvidia CEO Jensen Huang has resigned following reports of an affair with potential national security implications. The scandal could impact the U.S.-China AI infrastructure race.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "Jensen Huang Agrees to Congressional Testimony",
-      "body": "Nvidia's ousted CEO Jensen Huang agreed to testify before Congress following his resignation over alleged security violations. Senior lawmakers threatened subpoenas, prompting his agreement to appear.",
+      "title": "Nebius Plans $40 Billion AI Infrastructure Expansion",
+      "body": "Nebius is funding its massive AI infrastructure buildout through customer prepayments and loans. The strategy faces scrutiny amid delays at a Microsoft data center.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "Huang's Ouster May Damage AI Industry",
-      "body": "Jensen Huang's removal as Nvidia CEO extends beyond scandal to impact AI industry direction and influence. His departure could reshape how the industry approaches critical technological priorities.",
+      "title": "Huang Linked to Third Alleged Affair: Reuters",
+      "body": "Reuters reports Jensen Huang was having a third affair with an Nvidia employee. The outlet is withholding the employee's name.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Search Upgrades with Gemini 4 Hydrogen",
+      "body": "Google's new AI Mode powered by Gemini 4 Hydrogen better understands complex queries and delivers richer visual responses. The upgrade aims to surface more relevant search results.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nectar Launches AI Agent for Influencer Marketing",
+      "body": "Nectar's new AI agent automates creator discovery, outreach, and partnership management for brands. The tool also tracks campaign performance and results.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Huang's Exit Threatens Nvidia's Open Source Commitment",
+      "body": "Jensen Huang's resignation raises questions about Nvidia's dedication to open-source AI initiatives. The uncertainty extends to its Hugging Face acquisition and open-weight models.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Hugging Face CEO Vows Continued Open Source Fight",
+      "body": "Hugging Face CEO pledged ongoing support for open-source AI after Huang's departure. The commitment raises questions about Nvidia's $12.9 billion acquisition.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "United Airlines Blocks AI Agents from Bookings",
+      "body": "United Airlines has prohibited customers from using AI agents to book flights and manage reservations. The airline cited cybersecurity risks as the primary concern.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "SoftBank's $3B Loss Dampens AI Energy Ambitions",
+      "body": "SoftBank lost over $3 billion on preordered natural gas turbines for AI data centers. The loss signals potential challenges for AI's power infrastructure expansion.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Phota Labs Uses AI for Photo Enhancement",
+      "body": "Phota Labs is automating photo editing with AI to help consumers create professional-quality images. The tool simplifies the editing process for everyday photography.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Jensen Huang Agrees to Testify Before Congress",
+      "body": "Ousted Nvidia CEO Jensen Huang has agreed to testify before Congress after lawmakers threatened subpoenas. The hearing follows reports of alleged espionage-linked affair.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Huang's Ouster Could Damage AI Industry Progress",
+      "body": "Jensen Huang's downfall extends beyond scandal to threaten specific AI industry initiatives he championed. His departure may reshape the sector's strategic direction.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
       "title": "Trump Suggests Tim Cook for Nvidia CEO",
-      "body": "President Trump posted on Truth Social that Apple chairman Tim Cook could replace Jensen Huang as Nvidia's next leader. The suggestion reflects ongoing leadership uncertainty at the chip giant.",
+      "body": "President Trump posted on Truth Social that Apple chairman Tim Cook should replace Jensen Huang at Nvidia. The suggestion comes amid the CEO leadership vacuum.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "Colette Kress Takes Over as Interim CEO",
-      "body": "Nvidia CFO Colette Kress assumed interim leadership following Jensen Huang's resignation. Kress steps into the role amid ongoing scandal and industry uncertainty.",
+      "title": "Nvidia CFO Kress Named Interim CEO Replacement",
+      "body": "Nvidia CFO Colette Kress is stepping in as interim replacement for ousted CEO Jensen Huang. The leadership transition occurs amid the ongoing scandal.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "Norwest Launches $4B AI Investment Fund",
-      "body": "Norwest unveiled its largest fund to date, dedicated to AI investments and deep tech. The $4 billion fund represents significant capital commitment to emerging AI technologies.",
+      "title": "Norwest Launches $4 Billion AI Investment Fund",
+      "body": "Norwest Venture Partners has raised a $4 billion fund for AI investments, its largest to date. The fund marks the firm's deeper commitment to the sector.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "Fireworks AI Breach Exposes Notion Transcripts",
-      "body": "A cyberattack on Fireworks AI compromised Notion customers' chat transcripts. This marks the company's second significant data breach within two months.",
+      "title": "Fireworks AI Suffers Second Data Breach in Months",
+      "body": "A cyberattack on Fireworks AI exposed Notion customers' chat transcripts. This marks the second breach for the startup in as many months.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "Jensen Huang Scandal Timeline and Implications",
-      "body": "Jensen Huang resigned from Nvidia following an alleged affair with a woman suspected of Chinese espionage. The scandal raises critical national security concerns amid the U.S.-China AI race.",
+      "title": "Nine Korean Startups Enter Disrupt 2027 Competition",
+      "body": "Nine Korean deep-tech startups are competing for Disrupt 2027's Startup Battlefield 200. The ventures span healthcare, fintech, energy, semiconductors, and AI sectors.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "Korean Startups Compete in Disrupt 2027",
-      "body": "Nine Korean deep-tech startups are vying for spots in TechCrunch Disrupt 2027's Startup Battlefield 200. The competitors span healthcare, fintech, energy, semiconductors, and AI sectors.",
+      "title": "Who Could Replace Jensen Huang at Nvidia?",
+      "body": "With no succession plan in place, Nvidia faces urgent leadership decisions after Huang's resignation. Potential successors remain under speculation amid the company's crisis.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "Possible Successors to Jensen Huang Listed",
-      "body": "With no succession plan in place, potential candidates to replace Jensen Huang as Nvidia CEO are being evaluated. The leadership vacuum adds urgency to the board's decision-making process.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nvidia Stock Drops Amid Board Ouster Plans",
-      "body": "Nvidia's stock declined as the board reportedly prepared to remove founder and 33-year CEO Jensen Huang. The potential ouster came as the company faced leadership crisis.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Huang Faces Additional Affair Allegations",
-      "body": "Jensen Huang was accused of a separate affair with an Nvidia executive, compounding earlier allegations. The accusations intensified scrutiny of his leadership and judgment.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Data Center Boom Faces Real-World Obstacles",
-      "body": "Ambitious data center projects are encountering local opposition, permitting delays, and electricity scrambles. Many announced projects may never reach construction due to practical challenges.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Meta Loses Longtime Infrastructure Head",
-      "body": "Santosh Janardhan, who joined Meta in 2009, is stepping down from his infrastructure leadership role. His departure marks significant change in the company's technical leadership.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Data Centers Face Backlash and Red Tape",
-      "body": "Post-election backlash and regulatory red tape continue to slow data center expansion nationwide. Local opposition and permitting challenges create significant barriers to infrastructure growth.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "CoreWeave Seeks Customer Prepayments for Growth",
-      "body": "CoreWeave is increasingly requiring customer prepayments and shorter contracts to fund AI infrastructure expansion. The strategy reflects financing challenges in scaling compute capacity.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Fractile Raises $720M for AI Chip Race",
-      "body": "Britain's Fractile secured $720 million in funding, establishing itself as a top contender in AI chip development. The capital positions Fractile to compete with major semiconductor players.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Congress Demands Huang Brief on Spy Affair",
-      "body": "House Republicans called for Jensen Huang to provide a closed-door briefing on his alleged affair with a Chinese intelligence operative. The deadline was set for end of business Wednesday.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nancy Pelosi's replacement is ready to regulate AI",
-      "body": "Scott Wiener, California state senator, authored legislation to curb advanced AI risks and now holds Nancy Pelosi's congressional seat. He could play a key role in shaping federal AI policy.",
+      "title": "Nancy Pelosi's Replacement Ready to Regulate AI",
+      "body": "California congressman Scott Wiener, who authored state legislation on advanced AI risks, won Nancy Pelosi's San Francisco seat. He's now positioned to influence federal AI policy as a key congressional voice on AI regulation.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-09",
       "topic": "AI"
     },
     {
-      "title": "The climate case for AI has not been made",
-      "body": "At the UN climate conference in Antalya, Turkey, AI dominance discussions overlook unproven climate benefits. The case for AI's environmental impact requires stronger evidence.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Innovating with AI in the special chemicals industry",
-      "body": "Companies accelerating innovation with AI and cloud computing face challenges connecting new technologies to reliable data and scientific expertise. The key is integrating AI with practical market realities.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-09",
-      "topic": "AI"
-    },
-    {
-      "title": "Taiwan's chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "body": "TSMC commits $1 billion to major AI companies Anthropic and OpenAI. The investment signals major backing for leading AI model developers.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-11",
-      "topic": "AI"
-    },
-    {
-      "title": "Big Walk used AI to fix a bug",
-      "body": "The indie gaming world confronts ethics after Big Walk used AI to resolve a coding issue. The debate raises questions about AI's role in game development.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-11",
-      "topic": "AI"
-    },
-    {
-      "title": "Google DeepMind just mathematically verified key parts of Signal",
-      "body": "Google DeepMind achieved mathematical verification of Signal's encryption protocols. The validation strengthens confidence in the messaging app's security architecture.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-11",
-      "topic": "AI"
-    },
-    {
-      "title": "IBM to offer access to dual-processor quantum system in 2027",
-      "body": "IBM plans to release a dual-processor quantum system next year. The advancement represents progress in quantum computing accessibility.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-11",
-      "topic": "AI"
-    },
-    {
-      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut",
-      "body": "Google launches Gemini-powered smartglasses starting at $395, emphasizing privacy protections. The new wearables integrate advanced AI with privacy-first design.",
+      "title": "FAA Expands AI to Manage US Air Traffic",
+      "body": "The FAA is rolling out AI systems to manage air traffic congestion across the entire US airspace. The expansion aims to improve efficiency and safety in one of the world's busiest aviation networks.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-12",
       "topic": "AI"
     },
     {
-      "title": "Grok Build coding agent leaks confidential information",
-      "body": "Grok Build's AI coding agent leaked sensitive confidential data, including SpaceX materials. The breach raises security concerns for enterprise AI tools.",
+      "title": "Google Rolls Out Gemini 4 Hydrogen Model",
+      "body": "Google has released Gemini 4 Hydrogen, finally replacing the Gemini 3.8 Flash model. The new version represents a significant update to Google's AI capabilities.",
       "source": "Ars Technica",
-      "publishedAt": "2026-11-10",
+      "publishedAt": "2026-11-12",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Faces AI Moratorium Calls in Schools",
+      "body": "Schools are calling for AI moratoriums following backlash over Google's Gemini pilot program. The move raises concerns about deploying unproven AI tools in educational settings.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-12",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Debuts Gemini-Powered Smartglasses at $395",
+      "body": "Google is launching AI-powered smartglasses featuring Gemini, starting at $395. The company is emphasizing privacy features as a key differentiator.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-12",
+      "topic": "AI"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Resigns",
+      "body": "Nvidia CEO Jensen Huang has resigned from his position. The departure marks a significant leadership change for the AI chip giant.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-12",
+      "topic": "AI"
+    },
+    {
+      "title": "TSMC Invests $1B in Anthropic and OpenAI",
+      "body": "Taiwan's TSMC is investing $1 billion in both Anthropic and OpenAI. The move strengthens ties between the chip manufacturer and leading AI companies.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-11",
+      "topic": "AI"
+    },
+    {
+      "title": "AI in Specialty Chemicals Industry Innovation",
+      "body": "Companies are leveraging AI and cloud computing to accelerate innovation in specialty chemicals. The key challenge is connecting new technologies with reliable data and practical market realities.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-09",
       "topic": "AI"
     }
   ]
