@@ -1,126 +1,189 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-11-14T06:43:06.743Z",
-  "cardCount": 17,
-  "aiUpdateCount": 10,
+  "generatedAt": "2026-11-14T18:17:01.983Z",
+  "cardCount": 26,
+  "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "ChatGPT Wallet Enables AI Agent Shopping",
-      "body": "OpenAI's ChatGPT Wallet now allows AI agents to shop and checkout on users' behalf. Limited rollout began with U.S. Pro subscribers.",
+      "title": "AI Graveyard: Failed Projects and Missed Expectations",
+      "body": "From Apple's delayed Siri AI to OpenAI's messy super app launch, major AI initiatives have shuttered or underperformed. The graveyard reveals significant gaps between AI ambitions and execution.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-14",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Asian Governments React to Jensen Huang Exit",
+      "body": "Governments are confirming chip supply commitments and monitoring impacts on local AI projects following Nvidia's leadership transition. Some are addressing ongoing investigations related to the departure.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-14",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Huang Exit Threatens AI Startup Funding Pipeline",
+      "body": "Nvidia poured tens of billions into AI startups under Huang's leadership. Founders and VCs now expect smaller funding rounds and lower valuations ahead.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-13",
       "topic": "AI Update"
     },
     {
-      "title": "LangChain Reaches $3B Valuation Milestone",
-      "body": "AI agent startup LangChain achieved unicorn status with its model-agnostic LangSmith platform. The company now serves 7,000 customers across enterprises.",
+      "title": "LangChain Hits $3B Valuation Milestone",
+      "body": "The AI agent startup now serves 7,000 customers using its model-agnostic LangSmith tool. The valuation reflects strong demand for enterprise agent management platforms.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-13",
       "topic": "AI Update"
     },
     {
-      "title": "ElevenLabs Launches AI Meeting Notetaker",
-      "body": "ElevenAI combines meeting note-taking and dictation for teams and enterprises. The new app targets collaborative workplace AI adoption.",
+      "title": "Banned Nvidia Chips Power China's Advanced AI",
+      "body": "Research reveals China's most powerful AI models were trained on export-banned Nvidia hardware. The discovery raises national security concerns in the US-China AI race.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-13",
       "topic": "AI Update"
     },
     {
-      "title": "Google Search Upgraded With Gemini 4",
-      "body": "Google's AI Mode now understands complex queries better with Gemini 4 Hydrogen powering improved search results. The update delivers richer visual responses and relevant link surfacing.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nectar AI Automates Influencer Marketing",
-      "body": "Nectar's new AI agent automates creator discovery and brand partnerships. The platform streamlines outreach management and campaign tracking for marketers.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Muse AI Places Outbound Calls",
-      "body": "Muse's AI can now place outbound calls to U.S. businesses with a paid subscription. The feature expands AI agent capabilities for business outreach.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "United Airlines Blocks AI Agent Bookings",
-      "body": "United Airlines prohibits AI agents from booking flights citing cybersecurity risks. The decision restricts customer use of AI for reservation management.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Phota Labs Automates Professional Photo Editing",
-      "body": "Phota Labs uses AI to transform everyday photos into professional-quality shots automatically. The tool simplifies editing for non-experts without manual adjustment.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nebius Secures $40B AI Infrastructure Funding",
-      "body": "Nebius plans $40 billion in AI infrastructure expansion via customer prepayments and loans. The neocloud model faces scrutiny amid Microsoft data center delays.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "China Trained Advanced AI on Banned Chips",
-      "body": "Research reveals China's most powerful AI models were trained using export-banned Nvidia chips. The discovery raises national security concerns in the U.S.-China AI race.",
+      "title": "ChatGPT Wallet Enables AI Shopping Agents",
+      "body": "OpenAI's new ChatGPT Wallet allows AI agents to shop and checkout on users' behalf. The feature is rolling out to US Pro subscribers in limited release.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-13",
       "topic": "AI Update"
     },
     {
-      "title": "Silicon Valley's AI Leaders Miss Midterm Predictions",
-      "body": "Tech visionaries like OpenAI's Sam Altman and Elon Musk claim to predict the future, yet failed to anticipate midterm election outcomes. Their long-term vision strategies don't always translate to accurate forecasting.",
+      "title": "Jensen Huang Resigns Amid Scandal Timeline",
+      "body": "Huang has resigned from Nvidia following an affair, with potential national security implications. The departure occurs during a critical US-China AI infrastructure race.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "ElevenLabs Launches New Meeting AI App",
+      "body": "ElevenAI combines meeting note-taking and dictation features for teams and enterprises. The platform targets the growing market for AI-powered meeting assistance.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Israeli VCs See Nvidia Opportunity Amid Turmoil",
+      "body": "Israel's startup ecosystem views Huang's departure as a potential opening for Nvidia competitors. The transition raises concerns about Nvidia's continued dominance in AI hardware.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Huang Doubted Successor's Readiness Reports",
+      "body": "Huang reportedly described his successor Kress as a 'deer in the headlights' during a summer meeting. The comment raises questions about leadership stability at Nvidia.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Democrats Launch Second Nvidia Investigation",
+      "body": "Congressional Democrats are investigating Nvidia's China sales and alleged dealings with Trump related to Huang's departure. The probe follows revelations of Huang's alleged spy affair.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Muse AI Now Places US Business Calls",
+      "body": "Muse's AI can now make outbound calls to US businesses with a paid subscription model. The capability expands AI agent applications in customer outreach.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nebius Plans $40B AI Infrastructure Expansion",
+      "body": "The neocloud company aims to fund massive AI infrastructure growth through customer prepayments and loans. Microsoft data center delays are raising questions about its financing viability.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Reuters Reports Third Huang Affair Allegation",
+      "body": "A second unnamed Nvidia employee was allegedly involved in a third affair with Huang. Reuters is withholding the employee's identity pending further investigation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Search Upgrade Powered by Gemini",
+      "body": "Google's new AI Mode, powered by Gemini 4 Hydrogen, better understands complex queries and delivers richer visual responses. The upgrade promises improved search relevance and comprehension.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nectar Automates Influencer Discovery and Outreach",
+      "body": "Nectar's new AI agent automates creator discovery, partnership management, and campaign tracking for brands. The platform streamlines influencer marketing workflows at scale.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Huang Exit Threatens Nvidia Open Source Commitment",
+      "body": "Questions arise about Nvidia's continued support for open source AI following Huang's resignation. The company's Hugging Face acquisition and open-weight model advocacy are now uncertain.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Hugging Face Pledges Continued Open Source Fight",
+      "body": "Hugging Face CEO vowed ongoing commitment to open source AI despite Huang's departure. The pledge addresses concerns about Nvidia's $12.9 billion acquisition intentions.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "United Airlines Blocks AI Agents from Booking",
+      "body": "United Airlines has prohibited customers from using AI agents to book flights and manage reservations. The airline cited cybersecurity risks as the primary concern.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "SoftBank's $3B AI Power Loss Signals Market Reality",
+      "body": "SoftBank lost over $3 billion preordering natural gas turbines for AI data centers. The loss may cap ambitious AI infrastructure power expansion plans.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Silicon Valley's AI Leaders Miss Election Predictions",
+      "body": "Tech visionaries like OpenAI's Sam Altman and Elon Musk claim to predict the future, yet dramatically miscalled the midterms. The gap between their long-term vision and actual foresight raises questions about AI's predictive capabilities.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-13",
       "topic": "AI"
     },
     {
       "title": "Nvidia Confirms Chip-Tracking Technology Feasibility",
-      "body": "Nvidia privately told Congress it could technically implement anti-smuggling measures in the Chip Security Act. The company's confirmation contradicts public industry claims that such tracking is infeasible.",
+      "body": "Nvidia privately told lawmakers it could technically implement anti-smuggling measures for chip tracking, contradicting public industry skepticism. The confirmation suggests AI-assisted chip security is more viable than previously claimed.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-12",
       "topic": "AI"
     },
     {
-      "title": "FAA Expands AI for US Air Traffic Management",
-      "body": "The FAA is rolling out AI-powered systems to manage congestion across the entire US airspace. This expansion aims to improve efficiency and reduce delays nationwide.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-13",
-      "topic": "AI"
-    },
-    {
-      "title": "OpenAI Board Member Warns of AI Takeover Risk",
-      "body": "An OpenAI board member raised concerns that an AI \"takeover\" of society could occur within months. The warning highlights growing anxieties about rapid AI advancement and control.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-13",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Launches Gemini 4 Hydrogen Model",
-      "body": "Google released Gemini 4 Hydrogen, finally replacing the older 3.8 Flash model. The new AI model represents the company's continued iteration on large language models.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Faces School AI Moratorium Calls",
-      "body": "Schools are demanding AI moratoriums after backlash against Google's Gemini pilot program. Educators express concerns about AI integration in educational settings.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Data Centers Face Power Supply Crisis",
-      "body": "Data center expansion across the US is creating electricity bottlenecks, particularly in regions like Ashburn, Virginia. The backlash against data centers centers on rising power demands and grid strain.",
+      "title": "Brain Implants Decode Activity for Computer Control",
+      "body": "Scientists have developed brain implants that decode neural activity to control robotic limbs and enable communication. Volunteers in these trials are crucial to advancing AI-assisted brain-computer interfaces.",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-13",
+      "topic": "AI"
+    },
+    {
+      "title": "FAA Deploys AI for Air Traffic Management",
+      "body": "The FAA is expanding AI-powered systems nationwide to manage air traffic congestion across entire U.S. airspace. This marks a significant shift toward automated aviation coordination.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-13",
+      "topic": "AI"
+    },
+    {
+      "title": "OpenAI Board Member Warns of AI Takeover",
+      "body": "An OpenAI board member expressed concern that an AI \"takeover\" of society could occur within months. The warning reflects growing internal anxiety about rapid AI advancement and deployment.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-13",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Releases Gemini 4 Hydrogen Model",
+      "body": "Google has launched Gemini 4 Hydrogen, finally replacing the 3.8 Flash version in its AI lineup. The upgrade represents the next generation in Google's language model evolution.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-12",
       "topic": "AI"
     }
   ]
