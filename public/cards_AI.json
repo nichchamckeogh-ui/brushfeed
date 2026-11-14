@@ -1,196 +1,126 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-11-13T18:16:59.200Z",
-  "cardCount": 27,
-  "aiUpdateCount": 19,
+  "generatedAt": "2026-11-14T06:43:06.743Z",
+  "cardCount": 17,
+  "aiUpdateCount": 10,
   "cards": [
     {
-      "title": "ChatGPT Wallet Lets AI Agents Shop",
-      "body": "ChatGPT's new Wallet feature enables AI agents to shop and checkout on users' behalf. The feature is rolling out to U.S. Pro subscribers in a limited capacity.",
+      "title": "ChatGPT Wallet Enables AI Agent Shopping",
+      "body": "OpenAI's ChatGPT Wallet now allows AI agents to shop and checkout on users' behalf. Limited rollout began with U.S. Pro subscribers.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-13",
       "topic": "AI Update"
     },
     {
-      "title": "ElevenLabs Launches ElevenAI Meeting App",
-      "body": "ElevenLabs released ElevenAI, a new meeting notetaker and dictation app for teams and enterprises. The app combines note-taking and voice transcription capabilities.",
+      "title": "LangChain Reaches $3B Valuation Milestone",
+      "body": "AI agent startup LangChain achieved unicorn status with its model-agnostic LangSmith platform. The company now serves 7,000 customers across enterprises.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-13",
       "topic": "AI Update"
     },
     {
-      "title": "Google Search Gets Gemini 4 Hydrogen",
-      "body": "Google's latest Search upgrade uses Gemini 4 Hydrogen to better understand complex queries. The update delivers richer visual responses and more relevant search results.",
+      "title": "ElevenLabs Launches AI Meeting Notetaker",
+      "body": "ElevenAI combines meeting note-taking and dictation for teams and enterprises. The new app targets collaborative workplace AI adoption.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Google Search Upgraded With Gemini 4",
+      "body": "Google's AI Mode now understands complex queries better with Gemini 4 Hydrogen powering improved search results. The update delivers richer visual responses and relevant link surfacing.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "Nectar AI Agent Automates Influencer Marketing",
-      "body": "Nectar launched an AI agent that automates creator discovery and brand outreach. The tool helps manage partnerships and track campaign performance.",
+      "title": "Nectar AI Automates Influencer Marketing",
+      "body": "Nectar's new AI agent automates creator discovery and brand partnerships. The platform streamlines outreach management and campaign tracking for marketers.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "Muse AI Can Now Call Businesses",
-      "body": "Muse's AI now places outbound calls to U.S. businesses with a paid service model. The capability expands the platform's business automation features.",
+      "title": "Muse AI Places Outbound Calls",
+      "body": "Muse's AI can now place outbound calls to U.S. businesses with a paid subscription. The feature expands AI agent capabilities for business outreach.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "Nebius Plans $40 Billion AI Expansion",
-      "body": "Nebius announced $40 billion in planned spending for AI infrastructure expansion. The company plans to fund growth through customer prepayments and loans.",
+      "title": "United Airlines Blocks AI Agent Bookings",
+      "body": "United Airlines prohibits AI agents from booking flights citing cybersecurity risks. The decision restricts customer use of AI for reservation management.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
       "title": "Phota Labs Automates Professional Photo Editing",
-      "body": "Phota Labs uses AI to automatically enhance everyday photos to professional quality. The tool simplifies the editing process for non-technical users.",
+      "body": "Phota Labs uses AI to transform everyday photos into professional-quality shots automatically. The tool simplifies editing for non-experts without manual adjustment.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "United Airlines Blocks AI Booking Agents",
-      "body": "United Airlines will not allow customers to use AI agents for flight bookings. The airline cited cybersecurity risks as the reason for the restriction.",
+      "title": "Nebius Secures $40B AI Infrastructure Funding",
+      "body": "Nebius plans $40 billion in AI infrastructure expansion via customer prepayments and loans. The neocloud model faces scrutiny amid Microsoft data center delays.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "Jensen Huang Resigns From Nvidia",
-      "body": "Jensen Huang has resigned as Nvidia CEO following scandal reports. CFO Colette Kress is taking over as interim replacement.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Huang's Exit Raises Open Source Questions",
-      "body": "Huang's resignation puts Nvidia's open-source AI commitments in question. The departure raises concerns about the company's $12.9 billion Hugging Face acquisition.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Hugging Face Pledges Open Source Commitment",
-      "body": "Hugging Face CEO vowed to continue fighting for open-source AI after Huang's departure. The commitment reflects concerns about Nvidia's future direction.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Congressional Democrats Investigate Nvidia",
-      "body": "Democrats launched a second investigation into Nvidia over China sales and Trump dealings. The inquiry follows reports of Huang's alleged spy affair.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Huang Agrees To Testify Before Congress",
-      "body": "Jensen Huang agreed to testify before Congress after lawmakers threatened subpoenas. The hearing follows his ouster as Nvidia CEO.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Trump Suggests Tim Cook For Nvidia",
-      "body": "President Trump floated Apple chairman Tim Cook as Huang's successor at Nvidia. Trump posted the suggestion on Truth Social.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Huang's Exit Could Damage AI Industry",
-      "body": "Huang's departure threatens to undermine specific industry directions he championed. His influence shaped key AI development trajectories.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "SoftBank Loses $3B on Power Infrastructure",
-      "body": "SoftBank lost over $3 billion preordering natural gas turbines for AI data centers. The loss signals potential limits to AI's energy expansion plans.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Israel VCs See Nvidia Opportunity Emerging",
-      "body": "Israeli startup investors see opportunities amid Nvidia's leadership turmoil. The country's tech ecosystem is concerned about the company's strategic direction.",
+      "title": "China Trained Advanced AI on Banned Chips",
+      "body": "Research reveals China's most powerful AI models were trained using export-banned Nvidia chips. The discovery raises national security concerns in the U.S.-China AI race.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-13",
       "topic": "AI Update"
     },
     {
-      "title": "Huang Showed Doubt In New Leadership",
-      "body": "Huang described his successor Colette Kress as a 'deer in the headlights' during a meeting. The comment suggests limited confidence in the transition.",
-      "source": "TechCrunch AI",
+      "title": "Silicon Valley's AI Leaders Miss Midterm Predictions",
+      "body": "Tech visionaries like OpenAI's Sam Altman and Elon Musk claim to predict the future, yet failed to anticipate midterm election outcomes. Their long-term vision strategies don't always translate to accurate forecasting.",
+      "source": "MIT Technology Review",
       "publishedAt": "2026-11-13",
-      "topic": "AI Update"
+      "topic": "AI"
     },
     {
-      "title": "Reports Link Huang To Multiple Affairs",
-      "body": "Reuters reported Jensen Huang was having a third affair with an Nvidia employee. The report withheld the employee's identity.",
-      "source": "TechCrunch AI",
+      "title": "Nvidia Confirms Chip-Tracking Technology Feasibility",
+      "body": "Nvidia privately told Congress it could technically implement anti-smuggling measures in the Chip Security Act. The company's confirmation contradicts public industry claims that such tracking is infeasible.",
+      "source": "MIT Technology Review",
       "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Board Member Warns of AI Takeover Risk",
-      "body": "An OpenAI board member expressed concern that an AI \"takeover\" of society could occur within months. The warning highlights escalating fears about rapid AI advancement and its societal implications.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-13",
       "topic": "AI"
     },
     {
       "title": "FAA Expands AI for US Air Traffic Management",
-      "body": "The FAA is rolling out AI solutions to manage air traffic congestion across the entire US airspace. This marks a significant step in automating critical aviation infrastructure.",
+      "body": "The FAA is rolling out AI-powered systems to manage congestion across the entire US airspace. This expansion aims to improve efficiency and reduce delays nationwide.",
       "source": "Ars Technica",
-      "publishedAt": "2026-11-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Releases Gemini 4 Hydrogen Model",
-      "body": "Google has launched Gemini 4 Hydrogen, finally replacing the 3.8 Flash version. The upgrade represents progress in the company's AI model evolution.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Schools Call for AI Moratorium After Gemini Backlash",
-      "body": "Google faces mounting calls for AI moratoriums in schools following backlash from its Gemini pilot program. Educators are raising concerns about classroom deployment of AI tools.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Google Launches Gemini Smartglasses at $395",
-      "body": "Google is debuting new Gemini-powered smartglasses starting at $395, emphasizing privacy features. The device integrates AI directly into wearable technology.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Elder Scrolls Game Gets AI-Coded Glow-Up",
-      "body": "Shadowkey, The Elder Scrolls' most obscure adventure, receives a 4K PC makeover with AI-coded enhancements. The project adds new features leveraging artificial intelligence.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-12",
-      "topic": "AI"
-    },
-    {
-      "title": "Sam Altman's Vision Failed on 2024 Midterms",
-      "body": "Silicon Valley leaders like OpenAI's Sam Altman claimed to foresee the future but got the midterms wrong. The misstep reveals cracks in tech visionaries' predictive capabilities.",
-      "source": "MIT Technology Review",
       "publishedAt": "2026-11-13",
       "topic": "AI"
     },
     {
-      "title": "Nvidia Confirms Chip-Tracking Tech Feasibility",
-      "body": "Nvidia privately confirmed it could technically implement anti-smuggling measures under the Chip Security Act. The capability contradicts industry claims that tracking was infeasible.",
-      "source": "MIT Technology Review",
+      "title": "OpenAI Board Member Warns of AI Takeover Risk",
+      "body": "An OpenAI board member raised concerns that an AI \"takeover\" of society could occur within months. The warning highlights growing anxieties about rapid AI advancement and control.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-13",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Launches Gemini 4 Hydrogen Model",
+      "body": "Google released Gemini 4 Hydrogen, finally replacing the older 3.8 Flash model. The new AI model represents the company's continued iteration on large language models.",
+      "source": "Ars Technica",
       "publishedAt": "2026-11-12",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Faces School AI Moratorium Calls",
+      "body": "Schools are demanding AI moratoriums after backlash against Google's Gemini pilot program. Educators express concerns about AI integration in educational settings.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-12",
+      "topic": "AI"
+    },
+    {
+      "title": "Data Centers Face Power Supply Crisis",
+      "body": "Data center expansion across the US is creating electricity bottlenecks, particularly in regions like Ashburn, Virginia. The backlash against data centers centers on rising power demands and grid strain.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-09",
       "topic": "AI"
     }
   ]
