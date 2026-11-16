@@ -1,187 +1,124 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-11-15T18:17:03.817Z",
-  "cardCount": 26,
-  "aiUpdateCount": 20,
+  "generatedAt": "2026-11-16T06:43:07.047Z",
+  "cardCount": 17,
+  "aiUpdateCount": 12,
   "cards": [
     {
-      "title": "Nvidia Security Chief Departure Raises Questions",
-      "body": "Nvidia's security chief quietly left in August amid CEO Jensen Huang's resignation over relationship scandals. A former intelligence officer warns such leaks can compromise national security during the U.S.-China AI race.",
+      "title": "Apple Launches Health Study App with AI",
+      "body": "Apple released a new app designed to study how people use AI for everyday medical questions. The app will gather real-world usage data on AI's role in health decision-making.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-16",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Bharat Semi Raises $24M for AI Sensors",
+      "body": "Indian chip startup Bharat Semi secured $24M in seed funding to scale AI-enabled sensor technology. The company has already locked design wins with General Atomics and others.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-15",
       "topic": "AI Update"
     },
     {
-      "title": "Tech Execs Petition to Reinstate Jensen Huang",
-      "body": "Elon Musk and other tech leaders have signed a petition calling for Nvidia to reinstate CEO Jensen Huang. The petition had attracted over 115,000 signatures by Saturday.",
+      "title": "ChatGPT Wallet Enables AI Shopping Agent",
+      "body": "OpenAI introduced ChatGPT Wallet, allowing AI agents to shop and checkout on users' behalf. The limited rollout started with U.S. Pro subscribers.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-14",
+      "publishedAt": "2026-11-13",
       "topic": "AI Update"
     },
     {
-      "title": "The AI Graveyard: Failed Projects Listed",
-      "body": "From Apple's repeatedly delayed Siri AI to OpenAI's messy super app launch, numerous AI projects have shut down or missed expectations. The list highlights growing challenges in AI product execution.",
+      "title": "LangChain Reaches $3B Valuation",
+      "body": "AI agent startup LangChain hit a $3B valuation with 7,000 customers using its LangSmith platform. The tool provides model and platform-agnostic agent management.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-14",
+      "publishedAt": "2026-11-13",
       "topic": "AI Update"
     },
     {
-      "title": "Asian Governments React to Huang's Exit",
-      "body": "Several Asian governments are confirming chip supply commitments and monitoring impacts on local AI projects following Huang's departure. Some are addressing ongoing investigations related to the scandal.",
+      "title": "ElevenLabs Launches AI Meeting Notetaker",
+      "body": "ElevenLabs released ElevenAI, a new meeting notetaker and dictation app for teams. The product targets enterprises seeking automated meeting documentation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Muse AI Places Business Calls for Fee",
+      "body": "Muse's AI can now place outbound calls to U.S. businesses through a paid service. The feature expands Muse's commercial automation capabilities.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nebius Plans $40B AI Infrastructure Expansion",
+      "body": "Nebius announced plans to spend $40 billion on AI infrastructure, funded through customer prepayments and loans. The neocloud model aims to scale compute capacity globally.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12",
+      "topic": "AI Update"
+    },
+    {
+      "title": "China's Advanced AI Models Use Banned Chips",
+      "body": "New research reveals China's most powerful AI models were trained on export-banned Nvidia chips. The finding raises U.S. national security concerns in the AI race.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Jensen Huang Resigns as Nvidia CEO",
+      "body": "Nvidia CEO Jensen Huang resigned following a personal scandal involving affairs with company executives. The departure creates uncertainty for Nvidia's leadership and AI industry funding.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-13",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Tech Execs Petition to Reinstate Huang",
+      "body": "Elon Musk and other tech executives launched a petition calling for Jensen Huang's reinstatement. The petition surpassed 115,000 signatures by Saturday.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-14",
       "topic": "AI Update"
     },
     {
       "title": "Huang's Exit Threatens AI Startup Funding",
-      "body": "Nvidia poured tens of billions into AI startups under Huang's leadership. VCs and founders now expect smaller checks and lower valuations without him at the helm.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "LangChain Reaches $3 Billion Valuation",
-      "body": "AI agent startup LangChain has hit a $3B valuation with 7,000 customers using its LangSmith tool. The platform offers model and vendor-agnostic agent management capabilities.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "China's AI Models Built on Banned Chips",
-      "body": "New research reveals that China's most advanced AI models were trained using export-banned Nvidia chips. The finding intensifies scrutiny on how restricted technology reached Chinese developers.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "ChatGPT Wallet Enables AI Shopping",
-      "body": "ChatGPT's new Wallet feature allows AI agents to shop and checkout on users' behalf. The capability is rolling out to U.S. Pro subscribers in limited fashion.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Jensen Huang Scandal Timeline Explained",
-      "body": "Nvidia CEO Jensen Huang resigned following an affair with national security implications. The scandal could impact the U.S.-China race for advanced AI infrastructure development.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "ElevenLabs Launches Meeting AI App",
-      "body": "ElevenAI is a new meeting notetaker and dictation app designed for teams and enterprises. The tool combines note-taking with voice dictation capabilities.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Israel's VCs See Nvidia Opportunity",
-      "body": "Israeli startup ecosystem players view Huang's departure as an opportunity for competing AI hardware developers. The country's VCs are concerned about Nvidia's dominance and its impact.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-13",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Huang Lacked Confidence in Successor",
-      "body": "Jensen Huang reportedly described his successor Kress as a 'deer in the headlights' during a summer meeting. The comment raises questions about leadership continuity at Nvidia.",
+      "body": "VCs and founders warn that Nvidia's funding for AI startups may shrink without Jensen Huang. Smaller checks and lower valuations are expected.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-13",
       "topic": "AI Update"
     },
     {
       "title": "Democrats Launch Nvidia Investigation",
-      "body": "Congressional Democrats have launched a second investigation into Nvidia, focusing on China sales and alleged dealings with Trump. The probe follows news of Huang's alleged spy affair.",
+      "body": "Congressional Democrats opened a second investigation into Nvidia, focusing on China sales and Trump dealings. The probe follows allegations of Huang's espionage-related affair.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-12",
       "topic": "AI Update"
     },
     {
-      "title": "Muse AI Now Places Paid Business Calls",
-      "body": "Muse's AI can now place outbound calls to U.S. businesses through a paid service. The capability expands the platform's commercial use cases.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nebius Plans $40 Billion Infrastructure Spend",
-      "body": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans. Delays at a Microsoft data center raise questions about its financing model.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Huang Had Third Affair, Reuters Reports",
-      "body": "Reuters reports that Jensen Huang was having a third affair with an Nvidia employee. The outlet is withholding the employee's name.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Google Search Powered by Gemini 4",
-      "body": "Google's latest Search upgrade, powered by Gemini 4 Hydrogen, better understands complex queries and delivers richer visual responses. The AI Mode aims to provide more relevant links and answers.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nectar AI Automates Influencer Discovery",
-      "body": "Nectar's new AI agent automates influencer marketing by discovering creators and managing outreach and partnerships. The tool also tracks campaign results for brands.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Huang's Exit Threatens Open Source AI",
-      "body": "Jensen Huang's resignation raises concerns about Nvidia's commitment to open source AI initiatives including Hugging Face acquisition and open-weight models. His advocacy against AI restrictions may also be affected.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Hugging Face CEO Commits to Open Source",
-      "body": "Hugging Face's CEO pledged continued support for open source AI after Huang's exit. The commitment raises questions about Nvidia's $12.9 billion acquisition's future direction.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Silicon Valley's AI leaders missed the midterms",
-      "body": "Tech visionaries like Sam Altman and Elon Musk claim to predict the future, yet Silicon Valley got the midterm elections spectacularly wrong. Long-term vision is currency in tech, but recent track records suggest overconfidence.",
+      "title": "Silicon Valley's Failed Midterm Predictions",
+      "body": "Tech leaders like Sam Altman and Elon Musk claim to predict the future, yet Silicon Valley spectacularly miscalculated the midterm elections. This blind spot raises questions about whether AI visionaries truly understand society's trajectory.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-13",
       "topic": "AI"
     },
     {
-      "title": "Nvidia confirms chip-tracking tech is feasible",
-      "body": "Nvidia privately told Congress it could implement anti-smuggling measures via chip tracking, contradicting industry claims of infeasibility. The confirmation suggests technical solutions exist for semiconductor security concerns.",
+      "title": "Brain Implants Give Volunteers More Autonomy",
+      "body": "Brain implant trials have enabled people to control robotic limbs and computers through decoded neural activity. Volunteers now demand greater autonomy and fewer NDAs in exchange for their crucial participation in AI research.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-13",
+      "topic": "AI"
+    },
+    {
+      "title": "Nvidia Confirms Chip Tracking Technology Feasible",
+      "body": "Nvidia privately told lawmakers it can technically implement anti-smuggling chip-tracking measures, contradicting public industry claims of infeasibility. The revelation exposes a gap between what's technically possible and what the industry claims publicly.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-12",
       "topic": "AI"
     },
     {
-      "title": "California's next leader targets AI regulation",
-      "body": "State Senator Scott Wiener, Nancy Pelosi's successor, has authored legislation to regulate AI and curb its potential harms. He's positioned to bring AI regulation to the forefront of California politics.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-10",
-      "topic": "AI"
-    },
-    {
-      "title": "Data centers' power crisis heats up debate",
-      "body": "The backlash against data centers masks a deeper issue: electricity supply and grid capacity. AI infrastructure demands are colliding with energy constraints across major tech hubs.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-09",
-      "topic": "AI"
-    },
-    {
-      "title": "FAA deploys AI to manage US air traffic",
-      "body": "The FAA is expanding AI-powered systems to address air traffic congestion across the entire US airspace. This marks a significant shift toward algorithmic management of national aviation systems.",
+      "title": "FAA Expands AI for Air Traffic Management",
+      "body": "The FAA is rolling out AI-powered advice across US airspace to manage congestion more efficiently. This marks a significant step in automating air traffic control decisions nationwide.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-13",
       "topic": "AI"
     },
     {
-      "title": "OpenAI board member warns of AI takeover",
-      "body": "An OpenAI board member expressed concerns that an AI \"takeover\" of society could occur within months. The warning signals growing anxiety within AI leadership about rapid capability escalation.",
+      "title": "OpenAI Board Warns of Imminent AI Takeover",
+      "body": "An OpenAI board member expressed concern that an AI \"takeover\" of society could occur within months. The warning underscores growing anxiety about rapid AI advancement outpacing safety measures.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-13",
       "topic": "AI"
