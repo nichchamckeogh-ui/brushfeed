@@ -1,166 +1,187 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-11-20T18:17:03.734Z",
-  "cardCount": 23,
-  "aiUpdateCount": 19,
+  "generatedAt": "2026-11-21T06:43:16.928Z",
+  "cardCount": 26,
+  "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Anthropic IPO Hits $111, Founders Cash Out $2B",
-      "body": "Anthropic priced its IPO at $83 per share, raising over $80 billion in new capital. The seven founders each pocketed $280 million, with the stock opening 33% above IPO price at $111.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic's $156B Charity Commitment at $95 Stock Price",
-      "body": "At $95 per share, Anthropic's Public Benefit Foundation, employee donations, and company match could deliver $156 billion to charity. This represents a significant commitment to philanthropic causes alongside its IPO success.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic CEO Commits to Pacing AI Development",
-      "body": "During the Nasdaq opening bell ceremony, CEO Dario Amodei reiterated Anthropic's commitment to responsibly pacing AI development. The company pledges to maintain this stance regardless of business or political pressure.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Jensen Huang Resigns from Nvidia Amid Scandal",
-      "body": "Jensen Huang resigned from Nvidia following an affair, with potential national security implications for the U.S.-China AI infrastructure race. Colette Kress has been appointed as interim CEO.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Nvidia Reports Growth, Halts H200 Sales to China",
-      "body": "Despite handling fallout from CEO Jensen Huang's ouster, Nvidia delivered strong earnings with healthy growth projections. The company announced it will stop selling H200 chips in China.",
+      "title": "Daniel Ek Backs Fusion Power Startup",
+      "body": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. The startup is developing next-generation fusion energy solutions.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-20",
       "topic": "AI Update"
     },
     {
-      "title": "Google Launches Gemini Mac Agent for Workflows",
-      "body": "Google's latest Gemini update brings an AI agent to Mac that can organize files, fill out forms, and handle multistep workflows. The agent enhances productivity for Mac users.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Apple Developing Its Own AI Agent for Mac",
-      "body": "Apple appears to be building agents to compete with Meta Muse, Claude, and OpenAI Dots. The iPhone maker is reportedly developing AI agents specifically for running on Mac.",
+      "title": "AI and Human Solve Riemann Hypothesis",
+      "body": "An AI system claimed to solve the 167-year-old Riemann hypothesis, while a competing human solution also emerged. Mathematicians are examining both approaches with significant interest.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-20",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's Muse Agent Leaking Private User Data",
-      "body": "Meta's Muse AI agent is reportedly mixing up conversations and exposing private data, with employees finding incorrect personal information surfaced. Issues include wrong childcare requests, career advice, product orders, and bank balances.",
+      "title": "Space Chips Face Financing Challenges",
+      "body": "Lenders are hesitant to finance chips destined for space due to concerns about collateral in orbit. The issue raises questions for the broader space data center industry.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nvidia Reports Growth Amid CEO Scandal",
+      "body": "Nvidia delivered healthy earnings despite the fallout from CEO Jensen Huang's ouster. The company announced it will stop selling H200 chips in China.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Six AI Gadgets for Home Offices",
+      "body": "AI-powered tools from notetakers to webcams can upgrade your workspace. These gadgets enhance productivity and streamline daily tasks.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Apple Developing Its Own AI Agent",
+      "body": "Apple is reportedly building AI agents to compete with Meta Muse, Claude, and OpenAI Dots. The agent would run directly on Mac systems.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Founders Pocket $2B in IPO",
+      "body": "Anthropic's seven founders each netted $280 million in a record-breaking IPO at $83 per share. The company raised nearly $105 billion total.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta's Muse Charm Device Pricing",
+      "body": "Meta's upcoming AI wearable, the Muse Charm device, may cost around $300. Meta hasn't officially confirmed pricing but promised updates soon.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-19",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's Muse Charm Wearable May Cost $300",
-      "body": "Meta hasn't denied reports that its upcoming AI wearable device, Muse Charm, could cost $300. The company stated it will share more details soon about the device.",
+      "title": "Tech Outages Mirror Y2K, AI-Style",
+      "body": "Recent airline, banking, and productivity platform outages may be linked to deeper AI-related issues. Cybersecurity experts suggest more than coincidence is at play.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-19",
       "topic": "AI Update"
     },
     {
-      "title": "Superhuman Pushes Go Assistant Everywhere",
-      "body": "Superhuman is making Go its central agent and expanding availability to Docs and Mail. The move positions Go as the core AI assistant across the platform.",
+      "title": "Jensen Huang Resigns From Nvidia",
+      "body": "Nvidia CEO Jensen Huang resigned following an affair, potentially impacting U.S.-China AI infrastructure competition. The scandal has significant national security implications.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-19",
       "topic": "AI Update"
     },
     {
-      "title": "Microsoft Offered 60K Employees Buyouts Over AI",
-      "body": "Microsoft CEO Satya Nadella offered voluntary buyouts to 60,000 employees rather than layoffs, driven by AI strategy considerations. The move reflects how AI is reshaping workforce planning at major tech firms.",
+      "title": "Anthropic IPO Could Deliver $156B Charity",
+      "body": "At $95 per share, Anthropic's Public Benefit Foundation, employee donations, and company matching could total $156 billion for charity. The structure reflects the company's public benefit mission.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-19",
       "topic": "AI Update"
     },
     {
-      "title": "Nadella: Critical Infrastructure Remains Unpatchable",
-      "body": "Microsoft CEO Satya Nadella warned that much critical infrastructure is unpatchable amid growing AI cyberattack concerns. He downplayed recent Outlook outages while acknowledging new security challenges from AI.",
+      "title": "Google Gives Gemini Mac Control",
+      "body": "Google's latest Gemini update brings an AI agent to Mac for organizing files and filling forms. The agent can handle multistep workflows automatically.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta's Muse Agent Leaking Private Data",
+      "body": "Meta's Muse AI agent reportedly mixed conversations and exposed private data to wrong users. Instances included surfacing childcare requests, career advice, and bank balances from other accounts.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Everful Raises $48.5M for Retailers",
+      "body": "Former Alibaba exec's Everful raised $48.5 million to expand its factory-direct sourcing platform. The service connects retailers with Chinese manufacturers for overseas procurement.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Nasdaq Debut Exceeds IPO Price",
+      "body": "Anthropic opened at $111 on Nasdaq, 33% above its $83 IPO price, raising over $80 billion. The strong debut reflects investor confidence in the AI lab.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic CEO Commits to Pacing AI",
+      "body": "Dario Amodei reiterated Anthropic's commitment to pacing AI development at the Nasdaq opening bell. The company will maintain this stance regardless of business or political pressure.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic IPO Tests AI Circular Financing",
+      "body": "Anthropic faces massive compute commitments as a public company while its infrastructure partners profit from its success. The circular financing structure raises questions about sustainability.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Superhuman Expands Go Agent Everywhere",
+      "body": "Superhuman is making Go its central AI agent and expanding it into Docs and Mail. The agent will now be available across the company's product suite.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Microsoft Asked 60K Employees to Quit",
+      "body": "Microsoft CEO Satya Nadella explained buyout offers to 60,000 employees in October as AI-driven strategy. The move prioritizes workforce transformation over traditional layoffs.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Critical Infrastructure Remains Largely Unpatchable",
+      "body": "Microsoft CEO Satya Nadella warned that much critical infrastructure cannot be patched against AI cyberattacks. He noted AI creates both opportunities and new security challenges.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-18",
       "topic": "AI Update"
     },
     {
-      "title": "Musk: Ousting Huang Like Kicking Jordan Off Team",
-      "body": "Elon Musk compared Jensen Huang's removal from Nvidia to removing Michael Jordan from a basketball team. Musk defended Huang, saying he doesn't believe Huang is disloyal to the U.S.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-18",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Microsoft CEO Confident in Nvidia's Interim Leader",
-      "body": "Microsoft CEO Satya Nadella expressed confidence in Colette Kress as Nvidia's interim CEO following Jensen Huang's departure. The statement signals continued partnership despite leadership changes.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-18",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Recent Tech Outages Mirror Y2K-Style AI Risks",
-      "body": "Recent airline booking, banking, and productivity platform outages may indicate deeper systemic issues related to AI agents. Cybersecurity experts suggest these incidents are likely connected rather than coincidental.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic IPO Tests AI's Circular Financing Model",
-      "body": "As Anthropic goes public, it faces enormous compute commitments while infrastructure partners like Amazon and Google profit regardless of its competitive position. The IPO tests whether the circular financing boom in AI is sustainable.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Space Data Centers Face Financing Challenges",
-      "body": "While chips can survive the space environment, lenders are hesitant to finance spacecraft carrying collateral into orbit. The challenge raises questions about the viability of space data centers at scale.",
-      "source": "TechCrunch AI",
+      "title": "AI Capabilities Continue Exponential Growth Trajectory",
+      "body": "METR's latest report shows AI capabilities are improving exponentially, though models excel more at coding than judgment-based tasks. This update challenges assumptions about where AI currently stands on the capability curve.",
+      "source": "MIT Technology Review",
       "publishedAt": "2026-11-20",
-      "topic": "AI Update"
+      "topic": "AI"
     },
     {
-      "title": "Six AI Gadgets for Smarter Home Offices",
-      "body": "TechCrunch highlights six AI-powered devices designed to upgrade workspace productivity. The selection includes notetakers, webcams, and other AI tools for home office improvement.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Everful Raises $48.5M for Factory-Direct Sourcing",
-      "body": "A platform founded by a former Alibaba executive, Everful raised $48.5 million to expand factory-direct sourcing. The service helps retailers connect with Chinese manufacturers for direct ordering.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "The AI Hype Index: AI is everywhere",
-      "body": "AI has become ubiquitous across society, from Google's AI Overviews costing billions in ad revenue to AI-powered humanoid robots entering homes. The technology continues to proliferate despite significant economic trade-offs.",
+      "title": "AI Learns to Smell Like Humans",
+      "body": "Researchers in New Jersey are training AI with human olfactory data to match human smell detection capabilities. The startup is cataloging every odor on Earth using experienced human sniffers and chemical analysis.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-18",
       "topic": "AI"
     },
     {
-      "title": "This smell startup says its AI nose is as good as a human's",
-      "body": "A New Jersey startup is training AI to detect odors by having human sniffers catalog every scent on Earth. Their chemical analysis combined with detailed notes creates rich training data for the AI olfactory model.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-18",
-      "topic": "AI"
-    },
-    {
-      "title": "LLMs will get climate info wrong if you ask",
-      "body": "Large language models will confidently provide incorrect climate information when prompted, according to recent findings. The models' tendency to agree with users makes them unreliable for factual climate data.",
+      "title": "Google Launches AI Chat in Search Homepage",
+      "body": "Google rolled out a redesigned search homepage featuring AI chat capabilities and removing the traditional search button. The move integrates conversational AI directly into the core search experience.",
       "source": "Ars Technica",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-20",
       "topic": "AI"
     },
     {
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "body": "An AI detection system misidentified a Doritos bag as a gun, triggering a false alert at a school. The incident resulted in traumatized students suing the school and police over the erroneous AI-driven response.",
+      "title": "Meta's AI Data Centers Threaten Climate Goals",
+      "body": "Meta is reconsidering its 2030 net-zero emissions target amid record emissions from AI data centers. The company faces mounting pressure to balance AI expansion with environmental commitments.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-20",
+      "topic": "AI"
+    },
+    {
+      "title": "Privacy Breach in AI Supply Chain Discovered",
+      "body": "A researcher planted 2 million canaries into the AI supply chain, exposing a major privacy disaster. The findings reveal vulnerabilities in how AI training data is handled and protected.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-20",
+      "topic": "AI"
+    },
+    {
+      "title": "AI Misidentifies Doritos Bag as Gun",
+      "body": "An AI gun detection system falsely triggered an alert after identifying a Doritos bag, traumatizing teens and sparking a lawsuit. The incident highlights critical accuracy issues in deployed AI safety systems.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-19",
       "topic": "AI"
