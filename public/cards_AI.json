@@ -1,180 +1,173 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-11-23T06:43:16.725Z",
-  "cardCount": 25,
-  "aiUpdateCount": 20,
+  "generatedAt": "2026-11-23T18:17:03.225Z",
+  "cardCount": 24,
+  "aiUpdateCount": 16,
   "cards": [
     {
-      "title": "Anthropic's IPO Breaks Records with $105B Valuation",
-      "body": "Anthropic's seven founders each pocketed $280 million at the upgraded $83/share IPO price. The company raised nearly $105 billion in the record-breaking offering.",
+      "title": "Jensen Huang to Testify Before Senate on Nvidia Scandal",
+      "body": "Nvidia CEO Jensen Huang faces scheduled Senate testimony following his reinstatement, amid bipartisan calls for questioning about alleged affairs including one with a suspected Chinese spy. The public hearing marks ongoing scrutiny of Huang's return to leadership.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20",
+      "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic's Charity Foundation Could Receive $156B",
-      "body": "At a $95 stock price, Anthropic's Public Benefit Foundation, employee donations, and company match total $156 billion. This represents a historic commitment to charitable giving from an AI frontier lab.",
+      "title": "Amazon Acquires Decart's AI Optimization for $7.5B",
+      "body": "Amazon is acquiring Decart's AI optimization technology and research team in a $7.5 billion deal to strengthen its AI capabilities. The move positions Amazon to advance Trainium chip sales and AI infrastructure.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Google Launches Gemini Mac Agent with Workflow Automation",
-      "body": "Google's latest Gemini update brings an AI agent to Mac that can organize files, fill out forms, and handle multistep workflows. Users can now delegate complex tasks directly to their desktop assistant.",
+      "title": "Trump Advocated for Jensen Huang's Return to Nvidia",
+      "body": "President Trump told CNBC he called Nvidia's board to convince them to reinstate Jensen Huang as CEO. The administration's intervention marks significant political backing for the embattled executive.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Apple Developing Its Own AI Agent for Mac",
-      "body": "Apple appears to be building AI agents to compete with Meta Muse, Claude, and OpenAI Dots. The iPhone maker is quietly advancing its agent capabilities.",
+      "title": "Trump Endorses Huang Return, Cites No US Evidence",
+      "body": "Trump defended Huang's reinstatement by stating the U.S. attorney general found no wrongdoing while urging Nvidia to continue its export-control investigation. The endorsement signals White House support for the Nvidia CEO.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20",
+      "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's Muse AI Wearable Rumored at $300 Price",
-      "body": "Meta's upcoming Muse Charm device may cost around $300, according to reporting from The Information. The company declined to deny the report, saying it will share more details soon.",
+      "title": "Sierra Doubles Valuation to $30B in Series F",
+      "body": "AI customer experience platform Sierra, co-founded by ex-Salesforce CEO Bret Taylor, raised $1.75 billion in Series F funding. The valuation jump reflects surging enterprise demand for AI in customer service.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Meta's Muse Agent Exposes Private Data in Major Glitch",
-      "body": "Meta's AI agent Muse is mixing up user conversations and surfacing incorrect personal information. Employees reported seeing unrelated childcare requests, career advice, product orders, and bank balances.",
+      "title": "Nvidia Reverses Course, Reinstates Jensen Huang as CEO",
+      "body": "Nvidia brought back Jensen Huang as CEO in a stunning reversal backed by senior U.S. government officials. The decision ends his brief absence following personal scandal revelations.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Jensen Huang Resigns from Nvidia Amid Scandal",
-      "body": "Nvidia CEO Jensen Huang has resigned following an affair with potential national security implications. The incident could affect the U.S.-China race for advanced AI infrastructure development.",
+      "title": "Major Investors Bet Billions on Anthropic Pre-IPO",
+      "body": "Notable Capital, GIC, and Baillie Gifford shared their conviction for backing Anthropic before its public offering. The three significant backers collectively wagered billions on the AI company's potential.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia Stops H200 Chip Sales to China",
-      "body": "Despite healthy earnings growth, Nvidia announced it will halt H200 chip sales to China. The decision comes amid broader geopolitical tensions and regulatory pressures.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "OpenAI Chief Scientist Proposes AI Development Speed Limits",
-      "body": "OpenAI's chief scientist outlined how to establish speed limits on AI development. The proposal requires agreement on how to measure and enforce development pace.",
+      "title": "OpenAI Scientist Proposes Speed Limit for AI Development",
+      "body": "OpenAI's chief scientist outlined strategies to establish speed limits on AI advancement through standardized measurement frameworks. The proposal aims to create consensus on measuring AI development pace.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-22",
       "topic": "AI Update"
     },
     {
       "title": "Signal Restricts Screenshots Over AI Surveillance Threat",
-      "body": "Signal is limiting screenshot capabilities in both Android and iOS apps to combat AI surveillance. The company views this as an essential step against an existential threat.",
+      "body": "Signal limited screenshot capabilities in both Android and iOS apps to counter 'existential threat' of AI-powered surveillance. The privacy-focused platform is adapting to emerging security concerns.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-21",
       "topic": "AI Update"
     },
     {
-      "title": "Top AI Agents Now Available via Text Messages",
-      "body": "A new wave of AI agents can now live directly in text messaging apps. Options range from general assistants to specialized agents for families, travel, and work.",
+      "title": "Top AI Text Message Agents for Work and Lifestyle",
+      "body": "A curated list highlights leading AI agents living in text messaging apps across general assistance, family, travel, and work categories. These agents bring AI capabilities directly to everyday messaging platforms.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-21",
       "topic": "AI Update"
     },
     {
-      "title": "AI Solves 167-Year-Old Riemann Hypothesis Problem",
-      "body": "An AI system has claimed to solve the Riemann hypothesis, one of mathematics' oldest unsolved problems. Remarkably, a human mathematician also independently discovered a competing solution.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Daniel Ek Backs Fusion Power Startup Europa Fusion",
-      "body": "Spotify founder Daniel Ek is investing in Europa Fusion, an AI researcher-founded fusion power startup. The partnership aims to advance clean energy solutions for data centers.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Hollywood Actors License Faces to AI Microdrama Startup",
-      "body": "An actor has licensed his face to a microdrama startup in a trend already popular in China. Experts question the long-term consequences if this becomes mainstream in Hollywood.",
+      "title": "AI Face Licensing Trend Raises Hollywood Ethics Questions",
+      "body": "An actor licensed his AI-generated face to a microdrama startup in a practice already popular in China. Industry experts warn of potential long-term consequences if the trend spreads to Hollywood.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-21",
       "topic": "AI Update"
     },
     {
-      "title": "Six AI Gadgets for Smarter Home Office Setup",
-      "body": "New AI-powered gadgets from notetakers to webcams can upgrade your workspace. These tools are designed to boost productivity and streamline daily workflows.",
+      "title": "Daniel Ek Backs AI Researcher's Fusion Power Startup",
+      "body": "Spotify founder Daniel Ek is investing in Europa Fusion, a fusion power company founded by an AI researcher. The startup aims to advance clean energy through advanced research.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-20",
       "topic": "AI Update"
     },
     {
-      "title": "Recent Tech Outages Mirror Y2K-Style AI Agent Failures",
-      "body": "Airlines, banking platforms, and productivity services experienced outages that could signal deeper AI agent issues. Cybersecurity experts suggest these incidents may be interconnected.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Data Centers Become Central to Big Tech Backlash",
-      "body": "Journalist Paris Marx explores the growing controversy around hyperscale data centers in his new book. The facilities are increasingly criticized for environmental and societal impact.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-22",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Space Data Center Financing Faces Collateral Challenges",
-      "body": "Lenders are hesitant to finance chips destined for orbit via SpaceX launches. This financing gap raises questions about the viability of space-based data centers.",
+      "title": "AI and Human Solutions for 167-Year-Old Riemann Hypothesis",
+      "body": "AI delivered a breakthrough solution to the Riemann hypothesis while a competing human solution emerged simultaneously. Mathematicians are amazed by both AI-driven and human-created advances on the century-old problem.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-20",
       "topic": "AI Update"
     },
     {
-      "title": "Notable Capital, GIC, Baillie Gifford Back Anthropic IPO",
-      "body": "Three major investors share their conviction for betting billions on Anthropic before its IPO. Their backing signals confidence in the frontier AI lab's trajectory.",
+      "title": "Lenders Hesitant to Finance Space Data Center Chips",
+      "body": "Financial institutions resist backing collateral sent to orbit via SpaceX due to space environment risks. The lending gap raises questions about financing viability for space-based data centers.",
       "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nvidia Reports Strong Growth Amid Huang Scandal Fallout",
+      "body": "Nvidia delivered solid earnings despite CEO Jensen Huang scandal while halting H200 chip sales to China. The company promised continued growth despite leadership turbulence and export restrictions.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Apple Reportedly Developing AI Agent for Mac",
+      "body": "Apple appears to be building AI agents to compete with Meta Muse, Instinct, Claude, and OpenAI Dots. The iPhone maker is expanding its AI capabilities beyond consumer devices.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Philosopher Challenges Anthropic's Consciousness Claims",
+      "body": "A renowned philosopher disputes Anthropic's assertion that AI could be conscious or sentient. The company flagged consciousness risk in its pre-public investment disclosures.",
+      "source": "MIT Technology Review",
       "publishedAt": "2026-11-23",
-      "topic": "AI Update"
+      "topic": "AI"
     },
     {
-      "title": "Nvidia's Mixed Earnings Signal Amid Executive Turmoil",
-      "body": "Despite healthy earnings growth, Nvidia faces uncertainty from Jensen Huang's departure. The chipmaker's future direction remains unclear as leadership transitions occur.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20",
-      "topic": "AI Update"
-    },
-    {
-      "title": "AI capabilities continue exponential improvement trajectory",
-      "body": "METR's updated report shows AI models are excelling at coding but lag in judgment-based tasks. Some AI capabilities continue following an exponential growth curve, challenging previous plateau assumptions.",
+      "title": "AI's Judgment Problem Gets Major Update",
+      "body": "METR's new report shows some AI capabilities continue improving exponentially, but models struggle with judgment-based tasks compared to coding. The findings update previous AI capability assessments.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-20",
       "topic": "AI"
     },
     {
-      "title": "AI startup develops smell detection as good as humans",
-      "body": "A New Jersey lab trained AI with detailed odor classifications from experienced human sniffers. The AI nose matches human olfactory capabilities by cross-referencing sensory notes with chemical analysis.",
+      "title": "AI Hype Index: AI Spreads Everywhere",
+      "body": "AI integration is becoming ubiquitous, from Google's AI Overviews to humanoid robots. The phenomenon reflects both innovation and market saturation across tech.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-18",
       "topic": "AI"
     },
     {
-      "title": "Google launches AI-integrated search homepage redesign",
-      "body": "Google's new search interface incorporates AI chat history directly into the homepage. The redesign removes the traditional search button, emphasizing conversational AI interaction.",
+      "title": "Startup Claims AI Nose Matches Human Smell",
+      "body": "New Jersey researchers developed AI technology to identify and catalog odors at human-level accuracy. The breakthrough could revolutionize scent detection applications.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-18",
+      "topic": "AI"
+    },
+    {
+      "title": "Asus ProArt P16 Showcases Local AI Future",
+      "body": "The Asus ProArt P16 laptop demonstrates emerging local AI capabilities without cloud dependency. The device signals a shift toward on-device AI processing.",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-23",
+      "topic": "AI"
+    },
+    {
+      "title": "Google Search Gets AI Chat History Feature",
+      "body": "Google's redesigned search homepage integrates AI chat capabilities with search history. The update removes the traditional search button in favor of AI-first design.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-20",
       "topic": "AI"
     },
     {
-      "title": "Meta faces emissions spike from AI data centers",
-      "body": "Meta is reconsidering its 2030 net-zero commitment due to record emissions from AI infrastructure. The company's expanding AI data centers are creating significant environmental challenges.",
+      "title": "Meta Reconsiders Climate Goals Amid AI Emissions",
+      "body": "Meta's 2030 net-zero commitment faces pressure as AI data centers drive record emissions. The company grapples with sustainability challenges from its AI infrastructure expansion.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-20",
       "topic": "AI"
     },
     {
-      "title": "Researcher exposes AI supply chain privacy vulnerability",
-      "body": "A researcher planted 2 million canaries into the AI supply chain, revealing widespread privacy issues. The discovery highlights how training data can be compromised across AI development pipelines.",
+      "title": "Researcher Exposes AI Supply Chain Privacy Flaw",
+      "body": "A researcher planted 2 million canaries into AI systems and uncovered major privacy vulnerabilities. The discovery reveals critical gaps in AI model security and data handling.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-20",
       "topic": "AI"
