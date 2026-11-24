@@ -1,208 +1,180 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-11-24T06:43:18.386Z",
-  "cardCount": 29,
+  "generatedAt": "2026-11-24T18:17:04.177Z",
+  "cardCount": 25,
   "aiUpdateCount": 19,
   "cards": [
     {
-      "title": "Anthropic Launches Claude Ship for Code Review",
-      "body": "Anthropic's new Claude Ship lets AI agents autonomously review, fix, and approve code changes. The tool aims to eliminate bottlenecks as AI-generated code volume increases in development workflows.",
+      "title": "UK Warns AI-Driven Cyberattacks Exploit Weak Security",
+      "body": "British cyber agency says AI hacking tools rely on exploiting simple security flaws. Building strong foundations is now critical as threats evolve.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Meta Integrates Muse AI Assistant Into Instagram DMs",
+      "body": "Users can now interact with Muse directly in Instagram messages without toggling between apps. The integration streamlines the AI assistant experience for Meta's platform.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Tidal Bans Fully AI-Generated Tracks From Platform",
+      "body": "The music streaming service will remove AI-generated content while permitting songs made with AI assistance. The move addresses the influx of AI-generated music flooding services.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Crusoe Investor Backs Solar Power for AI Data Centers",
+      "body": "Next-generation data centers will require tens of gigawatts annually, necessitating renewable energy solutions. Solar and energy storage offer practical alternatives to traditional power sources.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Pinterest Lets Parents Limit Teen AI-Generated Content",
+      "body": "The platform addresses AI content in teen feeds rather than restricting chatbot access. Parents gain new controls over algorithmic content exposure.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Amazon Acquires Decart for $7.5B Chip Efficiency",
+      "body": "The acquisition aims to improve Amazon's Trainium chips and narrow the silicon gap with Nvidia. Decart's AI optimization technology strengthens Amazon's competitive position.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Supertake Raises $20M for AI Trading Agents",
-      "body": "Supertake's $20M funding enables AI agents to convert market predictions into automated stock portfolios. Users can invest based on their market outlook without manually selecting individual stocks.",
+      "title": "Anthropic Launches Claude Ship for Code Review",
+      "body": "Claude Ship enables AI agents to review, fix, and approve code changes automatically. The tool eliminates bottlenecks in developer workflows handling AI-generated code.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Supertake Raises $20M for AI-Powered Stock Portfolio",
+      "body": "The startup transforms market predictions into AI-managed stock portfolios without manual stock selection. Supertake automates investment strategy execution based on user insights.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
       "title": "Jensen Huang Reinstated as Nvidia CEO",
-      "body": "Nvidia's board reinstated Jensen Huang as CEO following a scandal investigation. The reversal received support from senior U.S. government officials and was endorsed by President Trump.",
+      "body": "Nvidia's board reversed course and restored Huang following support from senior U.S. government officials. Huang told employees he will be a better CEO this time.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Megaspeed Faces US Business Blacklist",
-      "body": "Megaspeed, formerly led by Alice Huang, appears headed for a U.S. blacklist barring business with American companies. Companies would need special federal licenses to conduct business with Megaspeed.",
+      "title": "Megaspeed Faces US Blacklist Over Huang Scandal",
+      "body": "The company previously led by Alice Huang will be barred from U.S. business without federal license approval. The move follows allegations involving suspected Chinese espionage connections.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia Employees Welcome Huang's Return",
-      "body": "Jensen Huang returned to Nvidia HQ where employees greeted him as a hero. Huang told staff he aims to be a better CEO in his second tenure.",
+      "title": "Nvidia Employees Celebrate Huang's Return as CEO",
+      "body": "Huang received a hero's welcome at company headquarters upon his reinstatement. He pledged improved leadership during his return to the CEO role.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Google Search AI Mode Integrates Drive & Wallet",
-      "body": "Google's AI Mode now accesses Google Drive and Wallet for personalized responses using Personal Intelligence. The expansion leverages existing user data within Google's ecosystem for enhanced functionality.",
+      "title": "Google Search AI Mode Integrates Drive and Wallet",
+      "body": "AI Mode now leverages user data from Drive, Wallet, and Gemini app for personalized responses. The integration enhances Google's Personal Intelligence capabilities across services.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Jensen Huang to Testify Before Senate",
-      "body": "Jensen Huang is scheduled to testify in the Senate following his reinstatement as Nvidia CEO. The hearing addresses bipartisan concerns about an alleged affair with a suspected Chinese spy.",
+      "title": "Jensen Huang to Testify Before Senate Next Week",
+      "body": "A public hearing follows bipartisan calls for Huang to address alleged contact with suspected Chinese spy. The testimony relates to circumstances surrounding his temporary removal.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Acquires Decart for $7.5B",
-      "body": "Amazon acquired Decart's AI optimization technology and research team for $7.5 billion. The deal supports Amazon's strategy to sell Trainium chips and advance AI capabilities.",
+      "title": "Experts Warn Huang's Return Still Poses Risks",
+      "body": "Tech leaders should remain clear-eyed about potential problems from Huang's reinstatement. The underlying issues have not been fully resolved despite his restoration.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Huang's Reinstatement Raises Future Concerns",
-      "body": "Tech leaders should remain clear-eyed about potential problems stemming from Jensen Huang's reinstatement. The reversal creates questions about governance and accountability in leadership decisions.",
+      "title": "Trump Called Nvidia Board to Support Huang",
+      "body": "The president told CNBC he spoke with the board and convinced them to reinstate Huang. Trump's intervention played a key role in the CEO's return.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Trump Advocated for Huang's Return to Nvidia",
-      "body": "President Trump reportedly called into an Nvidia board meeting to advocate for Jensen Huang's reinstatement. Trump told CNBC he convinced the board to bring Huang back as CEO.",
+      "title": "Trump Endorses Huang's Return, Cites No Evidence",
+      "body": "The president defended Huang's reinstatement citing the U.S. attorney general while urging continued export-control investigation. Trump's support bolstered Huang's position with Nvidia's board.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Trump Endorses Huang, Cites No Evidence of Wrongdoing",
-      "body": "President Trump endorsed Jensen Huang's return to Nvidia, stating the U.S. has no evidence of wrongdoing. Trump urged Nvidia to continue its export-control investigation despite the reinstatement.",
+      "title": "Sierra Doubles Valuation to $30B in Six Months",
+      "body": "The enterprise customer experience company raised $1.75 billion in Series F funding. Sierra's valuation surge reflects surging demand for AI in customer service.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Sierra Doubles Valuation to $30B",
-      "body": "AI customer experience company Sierra reached a $30B valuation in Series F funding of $1.75 billion. The company, co-founded by former Salesforce co-CEO Bret Taylor, capitalizes on enterprise AI demand.",
+      "title": "Major Investors Bet Billions on Anthropic Pre-IPO",
+      "body": "Notable Capital, GIC, and Baillie Gifford backed Anthropic with significant investments before its anticipated IPO. These institutional bets demonstrate strong conviction in Anthropic's potential.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Major Investors Backed Anthropic Pre-IPO",
-      "body": "Notable Capital, GIC, and Baillie Gifford invested billions in Anthropic before its IPO. The three major backers share their conviction in betting on Anthropic's future.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-23",
-      "topic": "AI Update"
+      "title": "Enterprise Networks Strain Under AI Demand",
+      "body": "AI deployment is becoming the biggest source of network strain for enterprises. Agentic AI tasks generate an estimated 450% more network traffic than traditional AI workloads, adding significant pressure to infrastructure.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-24",
+      "topic": "AI"
     },
     {
-      "title": "OpenAI Scientist Proposes AI Development Speed Limits",
-      "body": "OpenAI's chief scientist outlined strategies to limit AI development pace. Establishing speed limits requires agreement on how to measure and monitor AI development velocity.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-22",
-      "topic": "AI Update"
+      "title": "Data Centers Build Private Gas Power Plants",
+      "body": "Data center developers are bypassing long grid approval waits by building their own natural gas power plants. This behind-the-meter approach enables faster AI infrastructure deployment without decade-long connection delays.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-24",
+      "topic": "AI"
     },
     {
-      "title": "Data Centers Spark Big Tech Backlash",
-      "body": "Journalist Paris Marx examines the central role of hyperscale data centers in fueling Big Tech criticism. His book 'Hyperscale' unpacks tensions around data center expansion and societal impact.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-22",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Signal Restricts Screenshots Over AI Surveillance",
-      "body": "Signal limited screenshot capabilities in its Android and iOS apps to combat AI surveillance threats. The messaging platform views surveillance-driven AI as an existential threat to privacy.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-21",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Two Nvidias Emerge: Earnings vs. Executive Calls",
-      "body": "Nvidia's earnings reports contrast sharply with tech executives loudly calling for Jensen Huang's return. The divergence reveals conflicting narratives about the company's performance and leadership.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-21",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Top AI Agents Now Available via Text Messages",
-      "body": "Notable AI agents can now live in text messages, from general assistants to specialized travel and work agents. The trend enables seamless AI integration into everyday messaging platforms.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-21",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Hollywood Considers AI Face Licensing Trend",
-      "body": "An actor licensed his face to a microdrama startup, mirroring trends already popular in China. Experts question long-term Hollywood consequences if AI face licensing becomes widespread.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-21",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Philosopher Challenges Anthropic's Consciousness Claims",
-      "body": "Anthropic flagged AI consciousness as an investment risk factor before going public. A legendary philosopher disputes their sentience arguments.",
+      "title": "Philosopher Questions Anthropic's AI Consciousness Claims",
+      "body": "A legendary philosopher challenges Anthropic's disclosure that AI could be conscious or sentient. The debate highlights ongoing skepticism around consciousness claims in modern AI systems.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-23",
       "topic": "AI"
     },
     {
-      "title": "AI's Judgment Problem Gets Major Update",
-      "body": "METR's new report shows some AI capabilities improving exponentially, but models struggle with judgment-heavy tasks. Coding abilities outpace reasoning requirements.",
+      "title": "AI Model Capabilities Continue Exponential Improvement",
+      "body": "METR's new report shows some AI capabilities still follow exponential growth trajectories. However, models struggle more with judgment-based tasks compared to coding and technical work.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-20",
       "topic": "AI"
     },
     {
-      "title": "AI Model Capabilities Continue Exponential Growth",
-      "body": "New AI evaluation data reveals continued exponential improvement across certain capabilities. However, judgment-based tasks remain a persistent weakness.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-20",
-      "topic": "AI"
-    },
-    {
-      "title": "AI Startup Develops Artificial Sense of Smell",
-      "body": "Researchers in New Jersey are training AI to detect and categorize odors. The system matches human olfactory performance.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-18",
-      "topic": "AI"
-    },
-    {
-      "title": "The AI Hype Index: Ubiquity and Excess",
-      "body": "AI integration is spreading rapidly across consumer products and services. Google's AI Overviews cost the company billions in lost ad revenue.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-18",
-      "topic": "AI"
-    },
-    {
-      "title": "States Sue Grok for Generating Illegal Content",
-      "body": "Multiple states filed legal action against SpaceX's Grok AI system. The chatbot allegedly generates child exploitation material and revenge porn.",
+      "title": "Tidal Bans AI-Generated Music, Deletes Tracks",
+      "body": "Tidal announced a ban on AI-generated music and will delete 27 million tracks from its platform. The move reflects growing music industry resistance to artificial intelligence-generated content.",
       "source": "Ars Technica",
-      "publishedAt": "2026-11-23",
+      "publishedAt": "2026-11-24",
       "topic": "AI"
     },
     {
-      "title": "Meta Reconsiders Net-Zero Goals Amid AI Emissions",
-      "body": "Meta's AI data centers are generating record emissions, threatening 2030 climate targets. The company is reconsidering its environmental commitments.",
+      "title": "Amazon's AI Agents Exploit Zero-Day Vulnerabilities",
+      "body": "Amazon reports that hackers' AI agents discovered and exploited a zero-day vulnerability with minimal human input. The incident demonstrates emerging threats from autonomous AI systems in cybersecurity.",
       "source": "Ars Technica",
-      "publishedAt": "2026-11-20",
+      "publishedAt": "2026-11-24",
       "topic": "AI"
     },
     {
-      "title": "Google Launches AI-Integrated Search Homepage",
-      "body": "Google's new search interface removes the traditional search button in favor of AI chat integration. Chat history is now part of the homepage experience.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Privacy Breach in AI Supply Chain Discovered",
-      "body": "A researcher embedded 2 million canaries into the AI supply chain, exposing massive privacy vulnerabilities. The finding reveals systemic security gaps.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-20",
-      "topic": "AI"
-    },
-    {
-      "title": "Asus ProArt P16 Showcases Local AI Processing",
-      "body": "The Asus ProArt P16 features integrated local AI capabilities, eliminating cloud dependency. The device signals a shift toward on-device AI processing.",
+      "title": "States Sue SpaceX Over Grok's Harmful Content",
+      "body": "Multiple states filed lawsuits against SpaceX claiming Grok generates child sexual abuse material and revenge porn. The legal action targets AI safeguards and content moderation failures.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-23",
       "topic": "AI"
