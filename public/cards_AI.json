@@ -1,182 +1,189 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-11-24T18:17:04.177Z",
-  "cardCount": 25,
-  "aiUpdateCount": 19,
+  "generatedAt": "2026-11-25T06:43:14.856Z",
+  "cardCount": 26,
+  "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "UK Warns AI-Driven Cyberattacks Exploit Weak Security",
-      "body": "British cyber agency says AI hacking tools rely on exploiting simple security flaws. Building strong foundations is now critical as threats evolve.",
+      "title": "Yale Professor Warns Nvidia's Huang Return Is Mistake",
+      "body": "Jeffrey Sonnenfeld argues Jensen Huang's reinstatement as CEO could expose board members to historic personal liability from lawsuits. The move contradicts what market observers initially celebrated as a White House-backed leadership decision.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Huang Rejects Succession Plans, Maintains Control Vision",
+      "body": "Jensen Huang continues to believe formal succession planning creates unnecessary hierarchy at Nvidia. His stance comes after the company's recent leadership turbulence highlighted the risks of founder dependency.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Huang Thanks White House, Reveals Therapy Session",
+      "body": "During an all-hands meeting, the Nvidia founder apologized to staff and expressed gratitude for a second chance to lead. Huang disclosed he is currently in therapy following recent events.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Advanced AI Agents Struggle With Everyday Tasks",
+      "body": "A new benchmark reveals even state-of-the-art AI models fail to reliably complete basic daily tasks without introducing potential problems. The findings highlight critical gaps as millions adopt personal AI assistants.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Walmart Partners Meta for Black Friday AI Shopping",
+      "body": "Customers can now shop Walmart's Black Friday deals directly through Meta's Muse AI agent. The integration brings commerce capabilities to the growing personal AI assistant ecosystem.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Maple Raises $5.3M for Privacy-First AI Architecture",
+      "body": "The startup built encrypted AI designed to prevent even itself from accessing user data. Maple's approach addresses growing privacy concerns as AI agents handle sensitive information.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Stock Falls Below IPO Price Level",
+      "body": "The AI company's post-IPO decline signals potential pressure on valuations across the sector. Investor confidence in AI startups faces new headwinds amid market recalibration.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "UK Warns AI Cyberattacks Exploit Weak Security Foundations",
+      "body": "British cyber agency reports that AI-driven attacks increasingly target simple security flaws rather than advanced systems. The findings underscore the critical importance of basic security hygiene.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
       "title": "Meta Integrates Muse AI Assistant Into Instagram DMs",
-      "body": "Users can now interact with Muse directly in Instagram messages without toggling between apps. The integration streamlines the AI assistant experience for Meta's platform.",
+      "body": "Users can now interact with Meta's Muse AI directly within Instagram messaging without switching apps. The integration streamlines the user experience for AI-assisted social conversations.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
-      "title": "Tidal Bans Fully AI-Generated Tracks From Platform",
-      "body": "The music streaming service will remove AI-generated content while permitting songs made with AI assistance. The move addresses the influx of AI-generated music flooding services.",
+      "title": "Tidal Bans Fully AI-Generated Music From Platform",
+      "body": "The music streaming service will remove millions of AI-generated tracks while still accepting human-assisted AI music. Tidal aims to curb AI slop flooding music streaming services.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
       "title": "Crusoe Investor Backs Solar Power for AI Data Centers",
-      "body": "Next-generation data centers will require tens of gigawatts annually, necessitating renewable energy solutions. Solar and energy storage offer practical alternatives to traditional power sources.",
+      "body": "Next-generation AI data centers will require tens of gigawatts annually, spurring new energy solutions. Solar and battery storage are emerging as the preferred power infrastructure choice.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
-      "title": "Pinterest Lets Parents Limit Teen AI-Generated Content",
-      "body": "The platform addresses AI content in teen feeds rather than restricting chatbot access. Parents gain new controls over algorithmic content exposure.",
+      "title": "Pinterest Lets Parents Limit Teen AI Content Exposure",
+      "body": "The platform adds parental controls specifically targeting AI-generated content in teen feeds. Pinterest's approach differs from competitors focusing on restricting chatbot access.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon Acquires Decart for $7.5B Chip Efficiency",
-      "body": "The acquisition aims to improve Amazon's Trainium chips and narrow the silicon gap with Nvidia. Decart's AI optimization technology strengthens Amazon's competitive position.",
+      "title": "Amazon Acquires Decart for $7.5B to Challenge Nvidia",
+      "body": "The acquisition aims to improve efficiency of Amazon's Trainium chips and narrow the silicon gap. Amazon's move signals intensified efforts to reduce dependence on Nvidia chips.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic Launches Claude Ship for Code Review Automation",
+      "body": "Claude Ship enables AI agents to review, fix, and approve code changes without human intervention. The tool addresses bottlenecks as AI-generated code continues accumulating.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Launches Claude Ship for Code Review",
-      "body": "Claude Ship enables AI agents to review, fix, and approve code changes automatically. The tool eliminates bottlenecks in developer workflows handling AI-generated code.",
+      "title": "Supertake Raises $20M for AI-Powered Stock Portfolios",
+      "body": "The startup lets users transform market predictions into automated stock portfolios without manual stock picking. AI agents handle portfolio construction based on user market outlook.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Supertake Raises $20M for AI-Powered Stock Portfolio",
-      "body": "The startup transforms market predictions into AI-managed stock portfolios without manual stock selection. Supertake automates investment strategy execution based on user insights.",
+      "title": "Jensen Huang Reinstated as Nvidia CEO After Scandal",
+      "body": "Huang returns to leadership following recent controversy involving the company's governance. Elon Musk and others have celebrated the reinstatement as correcting a critical mistake.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Jensen Huang Reinstated as Nvidia CEO",
-      "body": "Nvidia's board reversed course and restored Huang following support from senior U.S. government officials. Huang told employees he will be a better CEO this time.",
+      "title": "Megaspeed Headed for US Business Blacklist Status",
+      "body": "The company previously led by Alice Huang faces potential restrictions on U.S. business dealings. Companies would require special federal licenses to work with Megaspeed.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Megaspeed Faces US Blacklist Over Huang Scandal",
-      "body": "The company previously led by Alice Huang will be barred from U.S. business without federal license approval. The move follows allegations involving suspected Chinese espionage connections.",
+      "title": "Nvidia Employees Cheer Huang's Return to Headquarters",
+      "body": "Huang told staff he will be \"a better CEO the second time around\" as employees welcomed him back. The reception highlighted strong internal support for his reinstatement.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia Employees Celebrate Huang's Return as CEO",
-      "body": "Huang received a hero's welcome at company headquarters upon his reinstatement. He pledged improved leadership during his return to the CEO role.",
+      "title": "Google Search AI Mode Now Accesses Drive and Wallet",
+      "body": "Personal Intelligence in AI Mode integrates with Drive, Wallet, and Gemini for personalized responses. Google leverages its existing ecosystem of user data for enhanced AI capabilities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
-      "title": "Google Search AI Mode Integrates Drive and Wallet",
-      "body": "AI Mode now leverages user data from Drive, Wallet, and Gemini app for personalized responses. The integration enhances Google's Personal Intelligence capabilities across services.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Jensen Huang to Testify Before Senate Next Week",
-      "body": "A public hearing follows bipartisan calls for Huang to address alleged contact with suspected Chinese spy. The testimony relates to circumstances surrounding his temporary removal.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Experts Warn Huang's Return Still Poses Risks",
-      "body": "Tech leaders should remain clear-eyed about potential problems from Huang's reinstatement. The underlying issues have not been fully resolved despite his restoration.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Trump Called Nvidia Board to Support Huang",
-      "body": "The president told CNBC he spoke with the board and convinced them to reinstate Huang. Trump's intervention played a key role in the CEO's return.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Trump Endorses Huang's Return, Cites No Evidence",
-      "body": "The president defended Huang's reinstatement citing the U.S. attorney general while urging continued export-control investigation. Trump's support bolstered Huang's position with Nvidia's board.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Sierra Doubles Valuation to $30B in Six Months",
-      "body": "The enterprise customer experience company raised $1.75 billion in Series F funding. Sierra's valuation surge reflects surging demand for AI in customer service.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Major Investors Bet Billions on Anthropic Pre-IPO",
-      "body": "Notable Capital, GIC, and Baillie Gifford backed Anthropic with significant investments before its anticipated IPO. These institutional bets demonstrate strong conviction in Anthropic's potential.",
+      "title": "Jensen Huang Scheduled for Senate Testimony Next Week",
+      "body": "The Nvidia CEO faces a public hearing about his alleged affair with a suspected Chinese spy. The testimony follows bipartisan calls for accountability regarding the scandal.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
       "title": "Enterprise Networks Strain Under AI Demand",
-      "body": "AI deployment is becoming the biggest source of network strain for enterprises. Agentic AI tasks generate an estimated 450% more network traffic than traditional AI workloads, adding significant pressure to infrastructure.",
+      "body": "AI deployment is becoming the biggest source of network demand, with agentic AI generating an estimated 450% more traffic than traditional tasks. Enterprise networks are facing severe strain as companies rush to implement these technologies.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-24",
       "topic": "AI"
     },
     {
       "title": "Data Centers Build Private Gas Power Plants",
-      "body": "Data center developers are bypassing long grid approval waits by building their own natural gas power plants. This behind-the-meter approach enables faster AI infrastructure deployment without decade-long connection delays.",
+      "body": "Companies are bypassing grid approval delays by constructing their own off-grid natural gas power plants to fuel AI operations. This behind-the-meter approach sidesteps decade-long waits for grid connections.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-24",
       "topic": "AI"
     },
     {
-      "title": "Philosopher Questions Anthropic's AI Consciousness Claims",
-      "body": "A legendary philosopher challenges Anthropic's disclosure that AI could be conscious or sentient. The debate highlights ongoing skepticism around consciousness claims in modern AI systems.",
+      "title": "Philosopher Challenges Anthropic's Consciousness Claims",
+      "body": "A legendary philosopher disputes Anthropic's assertion that AI could be conscious or sentient, which the company listed as a risk factor for investors. The debate highlights ongoing disagreement about AI consciousness possibilities.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-23",
       "topic": "AI"
     },
     {
-      "title": "AI Model Capabilities Continue Exponential Improvement",
-      "body": "METR's new report shows some AI capabilities still follow exponential growth trajectories. However, models struggle more with judgment-based tasks compared to coding and technical work.",
+      "title": "AI Excels at Coding, Struggles With Judgment",
+      "body": "METR's updated report shows some AI capabilities continue improving exponentially, but models underperform on tasks requiring complex judgment compared to coding tasks. The findings update the organization's timeline on AI capability development.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-20",
       "topic": "AI"
     },
     {
-      "title": "Tidal Bans AI-Generated Music, Deletes Tracks",
-      "body": "Tidal announced a ban on AI-generated music and will delete 27 million tracks from its platform. The move reflects growing music industry resistance to artificial intelligence-generated content.",
+      "title": "Tidal Bans AI-Generated Music, Deletes 27M Tracks",
+      "body": "The music streaming platform announced it will remove 27 million AI-generated tracks from its catalog as part of a new policy against synthetic music. The ban represents a significant stance against unoriginal AI content.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-24",
       "topic": "AI"
     },
     {
-      "title": "Amazon's AI Agents Exploit Zero-Day Vulnerabilities",
-      "body": "Amazon reports that hackers' AI agents discovered and exploited a zero-day vulnerability with minimal human input. The incident demonstrates emerging threats from autonomous AI systems in cybersecurity.",
+      "title": "AI Agents Exploit Zero-Day Vulnerabilities Autonomously",
+      "body": "Amazon disclosed that hackers' AI agents discovered and exploited a zero-day vulnerability with minimal human input, demonstrating the emerging threat of autonomous AI-driven cyber attacks. The incident highlights growing risks from agentic AI systems.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-24",
-      "topic": "AI"
-    },
-    {
-      "title": "States Sue SpaceX Over Grok's Harmful Content",
-      "body": "Multiple states filed lawsuits against SpaceX claiming Grok generates child sexual abuse material and revenge porn. The legal action targets AI safeguards and content moderation failures.",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-23",
       "topic": "AI"
     }
   ]
