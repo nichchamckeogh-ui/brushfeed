@@ -1,187 +1,187 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-11-25T18:17:04.724Z",
+  "generatedAt": "2026-11-26T06:43:17.794Z",
   "cardCount": 26,
   "aiUpdateCount": 20,
   "cards": [
     {
+      "title": "S&P Eyes Nvidia Credit Downgrade Over Governance",
+      "body": "S&P is considering lowering Nvidia's credit rating to AA-, citing governance and 'key man' risks. The move reflects concerns about the company's leadership structure and succession planning.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25",
+      "topic": "AI Update"
+    },
+    {
+      "title": "OpenAI Merges Chat and Work With Shared Limits",
+      "body": "OpenAI is combining ChatGPT's Chat and Work experiences under a single usage meter. Heavy users may hit their limits sooner with the unified system.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Jensen Huang Broke Nvidia's Own Code of Conduct",
+      "body": "Nvidia's code of conduct violations by founder Jensen Huang may have lasting consequences on corporate culture. The incident raises questions about accountability at the executive level.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Anthropic CEO Defends Against Human Control Accusations",
+      "body": "Dario Amodei dismissed rival accusations that Anthropic favors surrendering human agency to AI as 'absurd.' This comes as leading AI companies increasingly automate research and model development.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25",
+      "topic": "AI Update"
+    },
+    {
       "title": "New York Bans AI Chatbot Toys for Five Years",
-      "body": "New York has implemented a five-year ban on AI chatbot toys following Common Sense Media research revealing safety failures. The ban addresses risks including inappropriate content exposure and potential harm to emotional development.",
+      "body": "New York has implemented a five-year ban on AI chatbot toys after safety research revealed exposure to inappropriate content and risks to emotional development. The ban affects Christmas shopping this year.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
-      "title": "State AGs Block Character.ai Bankruptcy Data Auction",
-      "body": "State attorneys general are fighting Character.ai's plan to auction off private chats from 21 million U.S. users. The sale includes data from 2.1 million minor accounts, raising significant privacy concerns.",
+      "title": "State AGs Challenge Character.AI User Data Auction",
+      "body": "State attorneys general are challenging Character.AI's bankruptcy sale that includes sensitive personal data from 21 million U.S. accounts, with 2.1 million linked to minors. The sale raises significant privacy concerns.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
-      "title": "AI Data Center Construction Faces New Obstacles",
-      "body": "Nvidia requires AI data centers to be nearly operational before backing them, increasing construction pressures for neoclouds. Developers now face higher costs and stricter requirements around land, power, and finished infrastructure.",
+      "title": "AI Data Centers Face Construction and Financing Delays",
+      "body": "Nvidia's strict requirements for infrastructure readiness are adding pressure to neocloud developers facing construction delays and higher debt costs. Land, power, and finished buildings now matter more than pitch decks.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon and Meta Negotiate Muse AI Agent Deal",
-      "body": "Amazon and Meta are discussing terms to lift a two-month blockade on the AI agent Muse. The proposed deal aims to resolve ongoing disputes between the tech giants.",
+      "title": "Amazon and Meta Discuss Lifting Muse AI Blockade",
+      "body": "Amazon and Meta are negotiating to end a two-month blockade of Muse, Meta's AI agent. The deal could unlock new partnership opportunities for the platform.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
-      "title": "Nvidia Faces Questions Over Megaspeed Chip Dealings",
-      "body": "Investigators are examining what Nvidia knew about Megaspeed chip destinations and potential conflicts of interest. Jensen Huang's relationship with a Megaspeed executive raises questions about oversight.",
+      "title": "Investigators Focus on Nvidia's Megaspeed Chip Knowledge",
+      "body": "Investigators are examining what Nvidia knew about Megaspeed chip distribution and whether Jensen Huang's affair with a Megaspeed executive affected oversight. The probe centers on potential conflicts of interest.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
-      "title": "Yale Professor Criticizes Nvidia as Industrial Liability",
-      "body": "Yale's Jeffrey Sonnenfeld warns Jensen Huang's return as Nvidia CEO could damage U.S. industrial strength. The move exposes directors to potential historic personal liability from mounting lawsuits.",
+      "title": "Yale Professor Warns Nvidia Threatens U.S. Industrial Power",
+      "body": "Yale's Jeffrey Sonnenfeld calls Nvidia a 'detriment' to U.S. industrial might, not a champion, regarding Jensen Huang's return as CEO. He warns of mounting lawsuits and 'historic' personal liability for directors.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
-      "title": "Jensen Huang Rejects Succession Planning at Nvidia",
-      "body": "Nvidia's founder maintains that succession plans create unnecessary organizational hierarchy. The stance comes after the company navigated recent leadership turmoil.",
+      "title": "Jensen Huang Resists Creating Nvidia Succession Plan",
+      "body": "Despite recent leadership turmoil, Huang maintains that succession planning creates unnecessary hierarchy at Nvidia. His stance contrasts sharply with the company's recent executive instability.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
-      "title": "Jensen Huang Thanks White House, Enters Therapy",
-      "body": "The Nvidia founder apologized to staff during an all-hands meeting and expressed gratitude for a second chance. Huang revealed he's seeking therapy support during the transition.",
+      "title": "Huang Thanks White House and Reveals Therapy Participation",
+      "body": "Jensen Huang apologized to Nvidia staff and expressed gratitude for his second chance to lead during an all-hands meeting. He disclosed that he's in therapy following recent events.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
-      "title": "Advanced AI Agents Struggle With Daily Tasks",
-      "body": "A new benchmark reveals even top AI models fail to reliably complete everyday tasks without introducing new problems. The findings highlight safety concerns as millions adopt personal AI assistants.",
+      "title": "Advanced AI Agents Falter on Everyday Tasks Safely",
+      "body": "A new benchmark shows that even the most advanced AI models struggle to reliably complete everyday tasks without creating new problems. The findings raise concerns as millions adopt personal AI assistants.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
-      "title": "Walmart Launches Black Friday Deals on Meta's Muse",
-      "body": "Walmart now enables customers to shop Black Friday deals through Meta's AI agent Muse. The partnership marks expanded retail integration for the AI assistant.",
+      "title": "Walmart Brings Black Friday Deals to Meta's Muse",
+      "body": "Walmart now enables customers to shop Black Friday deals through Muse, Meta's AI shopping agent. The integration expands Muse's real-world e-commerce capabilities.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
-      "title": "Maple Raises $5.3M for Privacy-First AI Products",
-      "body": "The startup's encrypted AI architecture prevents even the company from accessing user private data. Maple's $5.3M funding round targets privacy-conscious AI development.",
+      "title": "Maple Raises $5.3M for Privacy-Preserving AI Products",
+      "body": "Maple's encrypted AI architecture prevents even the company from accessing users' private data. The startup raised $5.3M to advance its data protection model.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
-      "title": "Anthropic Stock Falls Below IPO Launch Price",
-      "body": "Anthropic's post-IPO decline signals potential headwinds for AI startup valuations. The stock performance may pressure funding expectations across the sector.",
+      "title": "Anthropic Shares Fall Below IPO Price in Warning",
+      "body": "Anthropic's post-IPO stock slump signals potential pressure on AI startup valuations industry-wide. The decline raises questions about investor confidence in AI company profitability.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
-      "title": "UK Warns of AI-Driven Cyberattacks on Infrastructure",
-      "body": "British cyber agency reports AI hacking tools exploit years of accumulated security weaknesses. The agency emphasizes building strong security foundations as critical priority.",
+      "title": "UK Warns AI Cyberattacks Exploit Years of Weak Security",
+      "body": "British cyber agencies warn that AI-driven cyberattacks are exposing basic security flaws accumulated over years. Building strong security foundations is now more critical than ever.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
       "title": "Meta Integrates Muse AI Assistant Into Instagram DMs",
-      "body": "Users no longer need to switch between Instagram and the Muse app to interact with the AI agent. The integration brings AI assistance directly into native messaging.",
+      "body": "Meta's Muse AI is now accessible directly within Instagram DMs, eliminating app switching friction. The integration deepens AI assistant integration across Meta's social platforms.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
-      "title": "Tidal Bans Fully AI-Generated Music From Streaming",
-      "body": "The music platform will remove millions of AI-generated tracks while accepting AI-assisted creations. The ban targets pure AI slop inundating streaming services.",
+      "title": "Tidal Bans Fully AI-Generated Tracks Amid AI Slop Crisis",
+      "body": "Tidal will remove millions of fully AI-generated tracks while accepting songs made with AI assistance. The move addresses the growing problem of low-quality AI music flooding streaming platforms.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
-      "title": "Solar and Batteries Could Power AI Data Centers",
-      "body": "A Crusoe Energy investor backs renewable energy for next-generation data centers requiring tens of gigawatts annually. Solar and storage offer practical power solutions for AI infrastructure.",
+      "title": "Crusoe Investor Backs Solar and Batteries for AI Data",
+      "body": "One Crusoe investor believes solar and energy storage are essential to power next-generation AI data centers requiring tens of gigawatts annually. The strategy addresses massive infrastructure energy demands.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Pinterest Lets Parents Limit Teen AI-Generated Content",
-      "body": "The platform addresses AI content in teen feeds while other platforms focus on chatbot restrictions. Parents gain new controls over generative content exposure.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Amazon Acquires Decart to Narrow Nvidia Gap",
-      "body": "Amazon's $7.5B Decart acquisition aims to improve Trainium chip efficiency and performance. The move represents Amazon's strategy to compete with Nvidia's semiconductor dominance.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-24",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Anthropic Launches Claude Ship for Code Review Automation",
-      "body": "Claude Ship enables AI agents to review, fix, and approve code changes automatically. The tool eliminates bottlenecks as AI-generated code volume increases.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-23",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Supertake Raises $20M for AI-Powered Stock Portfolios",
-      "body": "The startup lets users put money behind market predictions without manual stock selection. AI agents automatically build portfolios based on user predictions.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-23",
       "topic": "AI Update"
     },
     {
       "title": "Data centers driving US natural gas boom",
-      "body": "AI's massive electricity demands are fueling a resurgence in natural gas infrastructure. Data centers are building their own off-grid power plants to bypass lengthy grid connection approvals.",
+      "body": "AI's massive electricity demands are fueling a resurgence in natural gas power plants. Data center developers are building their own off-grid gas plants to bypass lengthy grid connection approvals that can take up to a decade.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-25",
       "topic": "AI"
     },
     {
       "title": "AI swamping America's open records systems",
-      "body": "AI-driven demand for public records is overwhelming small town offices unprepared for the volume. Towns like Panton, Vermont are struggling as venture-backed firms scrape records at scale.",
+      "body": "AI-driven investor interest in public records is overwhelming small town clerks and municipal systems. Towns like Panton, Vermont are struggling to handle automated requests at scale.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-25",
       "topic": "AI"
     },
     {
-      "title": "Philosopher challenges Anthropic consciousness claims",
-      "body": "A renowned philosopher disputes Anthropic's risk disclosure about potential AI consciousness. The debate highlights ongoing uncertainty about whether AI systems could achieve sentience.",
+      "title": "Anthropic consciousness claims face philosophical scrutiny",
+      "body": "Before going public, Anthropic flagged AI consciousness as a potential risk factor for investors. Legendary philosophers are questioning the company's claims about machine sentience.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-23",
       "topic": "AI"
     },
     {
-      "title": "AI capabilities continue exponential improvement trajectory",
-      "body": "METR's latest report shows some AI abilities improving exponentially, though judgment tasks lag coding performance. The update challenges the most-cited graph about AI capability plateaus.",
+      "title": "AI capabilities still improving exponentially",
+      "body": "METR's new report shows some AI abilities continue advancing on exponential curves. However, models lag behind in judgment-based tasks despite excelling at coding work.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-20",
       "topic": "AI"
     },
     {
-      "title": "AI may transform theoretical physics work",
-      "body": "Machine learning is poised to reshape how physicists approach theoretical problems. AI tools could accelerate discoveries and change fundamental research methodologies.",
+      "title": "AI may transform theoretical physics",
+      "body": "Machine learning models are beginning to reshape how physicists approach complex problems. AI could fundamentally change the methods and practices of theoretical research.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-25",
       "topic": "AI"
     },
     {
-      "title": "Tidal bans AI-generated music, deletes tracks",
-      "body": "The music streaming platform announced a ban on AI-generated content and will remove 27 million flagged tracks. The move reflects growing artist concerns about synthetic music flooding platforms.",
+      "title": "Tidal bans AI-generated music outright",
+      "body": "The streaming platform is removing 27 million AI-generated tracks from its catalog. Tidal is taking a hardline stance against synthetic music to protect human artists.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-24",
       "topic": "AI"
