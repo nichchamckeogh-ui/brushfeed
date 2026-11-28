@@ -1,180 +1,187 @@
 {
   "topic": "AI",
-  "generatedAt": "2026-11-28T06:43:16.449Z",
-  "cardCount": 25,
+  "generatedAt": "2026-11-28T18:17:04.129Z",
+  "cardCount": 26,
   "aiUpdateCount": 20,
   "cards": [
     {
-      "title": "Nvidia Pauses Chip Shipments to Southeast Asia",
-      "body": "Nvidia has instructed manufacturing partners to halt server shipments to Malaysia, Singapore, Thailand, and Indonesia. The move aligns with U.S. efforts to prevent AI chips from reaching China.",
+      "title": "OpenAI Files Countersuit Against Apple",
+      "body": "OpenAI has responded to Apple's summer lawsuit with its own countersuit, accusing Apple of unlawfully pressuring vendors. The legal battle escalates tensions between the two tech giants.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-28",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Sakana AI Strengthens Japan's AI Independence",
+      "body": "Sakana AI's CEO emphasizes that homegrown models extend beyond national security to boost Japan's industrial competitiveness. The company aims to develop sovereign AI capabilities.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-28",
+      "topic": "AI Update"
+    },
+    {
+      "title": "Nvidia Pauses Southeast Asia Chip Shipments",
+      "body": "Nvidia has instructed manufacturing partners to halt server shipments to Malaysia, Singapore, Thailand, and Indonesia. The move aligns with U.S. efforts to restrict AI chips from reaching China.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-26",
       "topic": "AI Update"
     },
     {
-      "title": "GTA VI Launch Outshines AI Efficiency Push",
-      "body": "Grand Theft Auto VI became one of entertainment's most successful launches on the same day Anthropic went public. The painstakingly human-made game proved that efficiency isn't always the ultimate virtue.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-26",
-      "topic": "AI Update"
-    },
-    {
-      "title": "S&P Eyes Nvidia Credit Downgrade",
-      "body": "Standard & Poor's is considering lowering Nvidia's credit rating to AA-, citing governance and 'key man' risks. The potential downgrade reflects concerns about leadership concentration at the chip giant.",
+      "title": "S&P Considers Downgrading Nvidia's Credit",
+      "body": "S&P may lower Nvidia's credit rating to AA- citing governance and 'key man' risks. The potential downgrade reflects concerns about the company's leadership structure.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
-      "title": "OpenAI Merges Chat and Work Plans",
-      "body": "OpenAI is introducing a unified usage meter across ChatGPT as it combines Chat and Work experiences. Heavy users may hit their limits sooner under the new consolidated system.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-25",
-      "topic": "AI Update"
-    },
-    {
-      "title": "Jensen Huang Violated Nvidia Code of Conduct",
-      "body": "Nvidia's founder broke the company's own code of conduct, potentially signaling deeper cultural issues. Employees may face challenges reconciling the incident with corporate governance standards.",
+      "title": "OpenAI Merges Chat and Work Experiences",
+      "body": "OpenAI will introduce a unified usage meter across ChatGPT as it combines Chat and Work platforms. Heavy users may encounter limits sooner under the new system.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
       "title": "Anthropic CEO Defends Human Control Stance",
-      "body": "Dario Amodei dismissed accusations that Anthropic favors surrendering human agency to AI as 'absurd.' This comes as leading AI companies increasingly automate research and model development.",
+      "body": "Anthropic's Dario Amodei dismissed accusations that he favors surrendering human agency to AI as 'absurd.' He pushed back against rivals as AI companies automate research and development.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
       "title": "New York Bans AI Chatbot Toys",
-      "body": "New York has implemented a five-year ban on AI chatbot toys following safety research revealing troubling failures. Common Sense Media found risks including inappropriate content exposure and emotional development concerns.",
+      "body": "New York has implemented a five-year ban on AI chatbot toys following safety concerns from Common Sense Media research. The ban addresses risks including inappropriate content exposure and emotional development impacts.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
-      "title": "State AGs Challenge Character.AI Data Auction",
-      "body": "State attorneys general are challenging Character.ai's bankruptcy plan to auction private chat data from 21 million U.S. accounts. Over 2.1 million accounts belonged to registered minors.",
+      "title": "Character.AI Faces Data Privacy Challenge",
+      "body": "State attorneys general challenge Character.ai's bankruptcy auction plan that includes private chat data from 21 million U.S. accounts. The proposal raises concerns for over 2.1 million registered minor accounts.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
-      "title": "AI Data Centers Harder to Build",
-      "body": "Nvidia won't back AI data centers until they're nearly operational, raising the bar for neocloudsto complete projects. The shift signals that physical infrastructure now matters more than ambitious pitch decks.",
+      "title": "AI Data Center Construction Slows",
+      "body": "Nvidia's strict financing requirements are creating delays and higher debt costs for neoclouds building AI infrastructure. The company prioritizes completed facilities with land and power over early-stage pitches.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
-      "title": "Amazon and Meta Discuss Muse Blockade",
-      "body": "Amazon and Meta are negotiating a potential deal to end a two-month blockade of AI agent Muse. The resolution could restart integrations with major retailers.",
+      "title": "Amazon and Meta Negotiate Muse Deal",
+      "body": "Amazon and Meta are discussing terms to end a two-month blockade of AI agent Muse. A potential agreement could restore functionality to the platform.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
-      "title": "Investigators Focus on Megaspeed Chip Questions",
-      "body": "Authorities are investigating what Nvidia knew about where Megaspeed chips ultimately ended up. Jensen Huang's relationship with a Megaspeed executive raises questions about oversight and verification.",
+      "title": "Jensen Huang Faces Megaspeed Investigation",
+      "body": "Investigators scrutinize what Nvidia knew about where Megaspeed chips ended up and whether Huang's personal relationship with a Megaspeed executive affected oversight. Questions persist about corporate governance during the period.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
-      "title": "Yale Professor Questions Nvidia's U.S. Role",
-      "body": "Yale's Jeffrey Sonnenfeld warns that Nvidia could become a 'detriment' to U.S. industrial strength, not a champion. He cautions that Huang's return as CEO poses 'historic' liability risks and raises governance concerns.",
+      "title": "Yale Economist Criticizes Nvidia's Leadership",
+      "body": "Yale's Jeffrey Sonnenfeld warns that Jensen Huang's return as CEO and board member could harm U.S. industrial strength rather than strengthen it. He highlights mounting lawsuits and potential director liability.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
-      "title": "Jensen Huang Resists Formal Succession Planning",
-      "body": "Nvidia's founder believes succession plans create unnecessary hierarchy, a stance criticized after recent leadership turmoil. The position reflects broader tensions over governance at the chip maker.",
+      "title": "Jensen Huang Rejects Succession Planning",
+      "body": "Nvidia's founder maintains that succession planning creates unnecessary hierarchy despite recent leadership turmoil. His stance is striking given the company's recent weeks without established succession protocols.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
-      "title": "Huang Apologizes at All-Hands Meeting",
-      "body": "Jensen Huang thanked the White House for his second chance to lead Nvidia and revealed he's in therapy. The founder apologized to employees and expressed gratitude for their support.",
+      "title": "Jensen Huang Addresses Staff in Meeting",
+      "body": "Nvidia's founder apologized to employees and expressed gratitude for a second chance to lead the company. Huang disclosed he's attending therapy to address workplace concerns.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
-      "title": "Advanced AI Agents Struggle With Daily Tasks",
-      "body": "Even top-performing AI models fail to reliably complete everyday tasks without introducing new problems, new research shows. The benchmark reveals significant safety gaps as AI assistants reach mainstream adoption.",
+      "title": "Advanced AI Agents Struggle with Basics",
+      "body": "A new benchmark reveals that even top AI models fail to reliably complete everyday tasks safely. As personal AI assistants gain adoption, limitations raise concerns about real-world reliability.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
-      "title": "Walmart Launches Black Friday Deals on Muse",
-      "body": "Walmart now enables customers to shop Black Friday deals directly through Meta's AI agent Muse. The partnership marks a significant retail use case for AI shopping assistants.",
+      "title": "Walmart Integrates Black Friday with Muse",
+      "body": "Walmart now enables customers to shop Black Friday deals through Meta's AI agent Muse. The partnership expands retail integration with AI-powered shopping experiences.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
       "title": "Maple Raises $5.3M for Data Privacy",
-      "body": "Maple's encrypted AI architecture prevents even the company itself from accessing user data, a key privacy differentiator. The startup has secured $5.3M in funding to build privacy-first AI products.",
+      "body": "Maple's encrypted AI architecture prevents even the company from accessing users' private data. The startup raised $5.3M to build privacy-first AI products.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
       "title": "Anthropic Shares Fall Below IPO Price",
-      "body": "Anthropic's post-IPO stock slump signals potential headwinds for AI startup valuations across the sector. The decline may put pressure on fundraising and investor sentiment for emerging AI companies.",
+      "body": "Anthropic's post-IPO stock slump signals potential headwinds for AI startup valuations. The decline raises concerns about investor confidence in the sector.",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-24",
       "topic": "AI Update"
     },
     {
-      "title": "UK Warns of AI-Driven Cyberattacks",
-      "body": "British cyber agencies report that AI-powered attacks exploit years of weak security foundations and simple flaws. Building robust defenses has become urgent as hacking tools leverage AI capabilities.",
+      "title": "Jensen Huang Violated Nvidia Code",
+      "body": "Jensen Huang broke Nvidia's code of conduct, with potential consequences for company culture. Corporate codes typically reflect leadership values and accountability standards.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-24",
+      "publishedAt": "2026-11-25",
       "topic": "AI Update"
     },
     {
-      "title": "Meta Integrates Muse AI Into Instagram DMs",
-      "body": "Meta's AI assistant Muse is now directly accessible within Instagram direct messages for seamless interaction. Users no longer need to switch between apps to engage with the AI agent.",
+      "title": "GTA VI Success Challenges AI Efficiency",
+      "body": "Grand Theft Auto VI's record-breaking launch on the same day as Anthropic's IPO demonstrates the enduring value of painstaking human creativity. The game's success questions whether pure efficiency drives cultural impact.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-24",
+      "publishedAt": "2026-11-26",
       "topic": "AI Update"
     },
     {
-      "title": "AI Straining America's Open Records Systems",
-      "body": "AI has intensified investor interest in public records, creating unprecedented strain on local government systems. Small towns like Panton, Vermont are struggling to manage AI-driven requests for data access.",
+      "title": "AI Strains America's Open Records Systems",
+      "body": "AI has intensified investor interest in public records, overwhelming small-town clerks managing open records requests. Towns like Panton, Vermont are struggling to keep up with the volume of data requests.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-25",
       "topic": "AI"
     },
     {
-      "title": "Data Centers Building Own Natural Gas Plants",
-      "body": "AI data centers are bypassing grid approval delays by building private gas power plants to fuel operations. This behind-the-meter approach sidesteps decade-long connection waits.",
+      "title": "Data Centers Building Their Own Gas Plants",
+      "body": "AI data centers are bypassing long grid-connection waits by building private natural gas power plants. This behind-the-meter approach sidesteps decade-long approval processes for grid connections.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-24",
       "topic": "AI"
     },
     {
-      "title": "AI Could Keep World Dependent on Natural Gas",
-      "body": "Rising AI electricity demands are driving a natural-gas boom, with data centers fueling the trend. Renewable alternatives struggle to meet the surge in power consumption.",
+      "title": "AI Could Keep Us Dependent on Natural Gas",
+      "body": "Rising electricity demands from AI infrastructure are driving a US natural gas boom. Data centers are becoming major drivers of continued fossil fuel reliance.",
       "source": "MIT Technology Review",
       "publishedAt": "2026-11-25",
+      "topic": "AI"
+    },
+    {
+      "title": "Next-Generation Bionic Hands Feel Again",
+      "body": "New prosthetics wired to nerves enable users to sense pressure and handle delicate objects. This advancement combines AI-driven sensory processing with neural interfaces.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-26",
       "topic": "AI"
     },
     {
       "title": "AI May Transform Theoretical Physics",
-      "body": "Machine learning is poised to fundamentally change how physicists conduct research and develop theories. AI tools could redefine what it means to be a theoretical physicist.",
+      "body": "Machine learning is poised to fundamentally change how theoretical physicists conduct research and modeling. AI tools could accelerate discovery and reshape the discipline.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-25",
       "topic": "AI"
     },
     {
-      "title": "Etsy Clarifies AI Policy After Seller Backlash",
-      "body": "Etsy updated its AI terms following significant pushback from sellers concerned about artificial intelligence use. The platform addressed community concerns about how AI impacts the marketplace.",
+      "title": "Etsy Clarifies AI Policy After Backlash",
+      "body": "The platform updated its AI terms following seller concerns about generative AI usage. Etsy addressed community worries about AI-generated content on the marketplace.",
       "source": "Ars Technica",
       "publishedAt": "2026-11-25",
       "topic": "AI"
